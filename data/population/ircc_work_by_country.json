@@ -1,0 +1,15 @@
+{
+  "dataset_id": "ircc_work_by_country",
+  "source": "Immigration, Refugees and Citizenship Canada (open data)",
+  "source_table": "IRCC ODP-TR-Work-IMP-CITZ + ODP-TR-Work-TFWP-CITZ",
+  "frequency": "annual",
+  "unit": "persons (rounded to nearest 5)",
+  "retrieved_at": "2026-08-10T15:03:29.846922+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "work-permit holders (IMP + TFWP summed), annual by source country"
+  ],
+  "notes": null,
+  "row_count": 1651
+}

@@ -1,0 +1,783 @@
+year,geography,net_migration
+1962,Alberta,7016
+1963,Alberta,4922
+1964,Alberta,-2690
+1965,Alberta,-4821
+1966,Alberta,-9516
+1967,Alberta,654
+1968,Alberta,7173
+1969,Alberta,7986
+1970,Alberta,8428
+1971,Alberta,6206
+1972,Alberta,4190
+1973,Alberta,5498
+1974,Alberta,2911
+1975,Alberta,23155
+1976,Alberta,26579
+1977,Alberta,34710
+1978,Alberta,32543
+1979,Alberta,33426
+1980,Alberta,41435
+1981,Alberta,44250
+1982,Alberta,36562
+1983,Alberta,-11650
+1984,Alberta,-31986
+1985,Alberta,-20771
+1986,Alberta,-3831
+1987,Alberta,-29998
+1988,Alberta,-23223
+1989,Alberta,-1528
+1990,Alberta,5593
+1991,Alberta,8983
+1992,Alberta,2983
+1993,Alberta,-1181
+1994,Alberta,-1630
+1995,Alberta,-556
+1996,Alberta,7656
+1997,Alberta,26282
+1998,Alberta,43089
+1999,Alberta,25191
+2000,Alberta,22674
+2001,Alberta,20457
+2002,Alberta,26235
+2003,Alberta,11903
+2004,Alberta,10606
+2005,Alberta,34423
+2006,Alberta,45795
+2007,Alberta,33809
+2008,Alberta,15317
+2009,Alberta,13184
+2010,Alberta,-3271
+2011,Alberta,8443
+2012,Alberta,27652
+2013,Alberta,38598
+2014,Alberta,35382
+2015,Alberta,21594
+2016,Alberta,-15108
+2017,Alberta,-15559
+2018,Alberta,-3247
+2019,Alberta,-2032
+2020,Alberta,-2377
+2021,Alberta,-9458
+2022,Alberta,5646
+2023,Alberta,39408
+2024,Alberta,48394
+2025,Alberta,28138
+1962,British Columbia,2345
+1963,British Columbia,8791
+1964,British Columbia,15654
+1965,British Columbia,20353
+1966,British Columbia,34778
+1967,British Columbia,28019
+1968,British Columbia,17768
+1969,British Columbia,20867
+1970,British Columbia,29156
+1971,British Columbia,18280
+1972,British Columbia,28088
+1973,British Columbia,27193
+1974,British Columbia,31505
+1975,British Columbia,9615
+1976,British Columbia,-5035
+1977,British Columbia,5016
+1978,British Columbia,17576
+1979,British Columbia,22005
+1980,British Columbia,40164
+1981,British Columbia,37864
+1982,British Columbia,8705
+1983,British Columbia,-1489
+1984,British Columbia,6636
+1985,British Columbia,-1969
+1986,British Columbia,-4501
+1987,British Columbia,7426
+1988,British Columbia,21479
+1989,British Columbia,27821
+1990,British Columbia,41394
+1991,British Columbia,34053
+1992,British Columbia,38004
+1993,British Columbia,40099
+1994,British Columbia,37871
+1995,British Columbia,29291
+1996,British Columbia,22025
+1997,British Columbia,9880
+1998,British Columbia,-10029
+1999,British Columbia,-14484
+2000,British Columbia,-14610
+2001,British Columbia,-8286
+2002,British Columbia,-8556
+2003,British Columbia,-1037
+2004,British Columbia,7865
+2005,British Columbia,8214
+2006,British Columbia,8800
+2007,British Columbia,15005
+2008,British Columbia,14643
+2009,British Columbia,9995
+2010,British Columbia,8728
+2011,British Columbia,3421
+2012,British Columbia,-2711
+2013,British Columbia,-1868
+2014,British Columbia,9475
+2015,British Columbia,20379
+2016,British Columbia,26573
+2017,British Columbia,18834
+2018,British Columbia,13989
+2019,British Columbia,13325
+2020,British Columbia,16999
+2021,British Columbia,25376
+2022,British Columbia,26069
+2023,British Columbia,3388
+2024,British Columbia,-4127
+2025,British Columbia,-2392
+1962,Manitoba,-599
+1963,Manitoba,-1020
+1964,Manitoba,-3541
+1965,Manitoba,-6937
+1966,Manitoba,-12434
+1967,Manitoba,-10603
+1968,Manitoba,-6739
+1969,Manitoba,-6392
+1970,Manitoba,-9928
+1971,Manitoba,-6564
+1972,Manitoba,-8880
+1973,Manitoba,-5489
+1974,Manitoba,-1656
+1975,Manitoba,-6119
+1976,Manitoba,-4982
+1977,Manitoba,-3531
+1978,Manitoba,-4674
+1979,Manitoba,-10746
+1980,Manitoba,-13864
+1981,Manitoba,-9403
+1982,Manitoba,-2625
+1983,Manitoba,2544
+1984,Manitoba,339
+1985,Manitoba,-595
+1986,Manitoba,-2297
+1987,Manitoba,-2759
+1988,Manitoba,-5875
+1989,Manitoba,-9313
+1990,Manitoba,-10361
+1991,Manitoba,-7540
+1992,Manitoba,-7641
+1993,Manitoba,-5544
+1994,Manitoba,-4614
+1995,Manitoba,-3220
+1996,Manitoba,-3566
+1997,Manitoba,-5873
+1998,Manitoba,-5276
+1999,Manitoba,-2113
+2000,Manitoba,-3456
+2001,Manitoba,-4323
+2002,Manitoba,-4344
+2003,Manitoba,-2875
+2004,Manitoba,-2565
+2005,Manitoba,-7227
+2006,Manitoba,-7881
+2007,Manitoba,-5500
+2008,Manitoba,-3703
+2009,Manitoba,-3111
+2010,Manitoba,-2412
+2011,Manitoba,-3517
+2012,Manitoba,-4212
+2013,Manitoba,-5006
+2014,Manitoba,-6851
+2015,Manitoba,-6678
+2016,Manitoba,-4881
+2017,Manitoba,-5124
+2018,Manitoba,-7148
+2019,Manitoba,-7351
+2020,Manitoba,-8297
+2021,Manitoba,-2804
+2022,Manitoba,-7451
+2023,Manitoba,-9928
+2024,Manitoba,-8399
+2025,Manitoba,-4047
+1962,New Brunswick,-3635
+1963,New Brunswick,-6056
+1964,New Brunswick,-6216
+1965,New Brunswick,-4597
+1966,New Brunswick,-6226
+1967,New Brunswick,-4573
+1968,New Brunswick,-1099
+1969,New Brunswick,-4224
+1970,New Brunswick,-7489
+1971,New Brunswick,-421
+1972,New Brunswick,384
+1973,New Brunswick,2102
+1974,New Brunswick,2269
+1975,New Brunswick,6037
+1976,New Brunswick,5907
+1977,New Brunswick,-82
+1978,New Brunswick,-1348
+1979,New Brunswick,-1171
+1980,New Brunswick,-2761
+1981,New Brunswick,-4989
+1982,New Brunswick,-2842
+1983,New Brunswick,3554
+1984,New Brunswick,1792
+1985,New Brunswick,-678
+1986,New Brunswick,-1891
+1987,New Brunswick,-2026
+1988,New Brunswick,-1957
+1989,New Brunswick,-598
+1990,New Brunswick,169
+1991,New Brunswick,923
+1992,New Brunswick,-253
+1993,New Brunswick,-1402
+1994,New Brunswick,-671
+1995,New Brunswick,-813
+1996,New Brunswick,-369
+1997,New Brunswick,-1263
+1998,New Brunswick,-3192
+1999,New Brunswick,-1244
+2000,New Brunswick,-1183
+2001,New Brunswick,-1530
+2002,New Brunswick,-1218
+2003,New Brunswick,-843
+2004,New Brunswick,-760
+2005,New Brunswick,-2074
+2006,New Brunswick,-3487
+2007,New Brunswick,-2632
+2008,New Brunswick,-908
+2009,New Brunswick,-237
+2010,New Brunswick,571
+2011,New Brunswick,-158
+2012,New Brunswick,-1806
+2013,New Brunswick,-3290
+2014,New Brunswick,-3517
+2015,New Brunswick,-2790
+2016,New Brunswick,-1113
+2017,New Brunswick,434
+2018,New Brunswick,481
+2019,New Brunswick,1669
+2020,New Brunswick,1826
+2021,New Brunswick,4590
+2022,New Brunswick,7897
+2023,New Brunswick,5051
+2024,New Brunswick,5419
+2025,New Brunswick,-186
+1962,Newfoundland and Labrador,-544
+1963,Newfoundland and Labrador,-1664
+1964,Newfoundland and Labrador,-3428
+1965,Newfoundland and Labrador,-5154
+1966,Newfoundland and Labrador,-4552
+1967,Newfoundland and Labrador,-4124
+1968,Newfoundland and Labrador,-2368
+1969,Newfoundland and Labrador,-1283
+1970,Newfoundland and Labrador,-7870
+1971,Newfoundland and Labrador,-3474
+1972,Newfoundland and Labrador,864
+1973,Newfoundland and Labrador,-777
+1974,Newfoundland and Labrador,-2719
+1975,Newfoundland and Labrador,543
+1976,Newfoundland and Labrador,132
+1977,Newfoundland and Labrador,-4149
+1978,Newfoundland and Labrador,-4311
+1979,Newfoundland and Labrador,-3374
+1980,Newfoundland and Labrador,-3597
+1981,Newfoundland and Labrador,-3552
+1982,Newfoundland and Labrador,-5693
+1983,Newfoundland and Labrador,1829
+1984,Newfoundland and Labrador,-2026
+1985,Newfoundland and Labrador,-3445
+1986,Newfoundland and Labrador,-5716
+1987,Newfoundland and Labrador,-4423
+1988,Newfoundland and Labrador,-3504
+1989,Newfoundland and Labrador,-1655
+1990,Newfoundland and Labrador,-2889
+1991,Newfoundland and Labrador,-930
+1992,Newfoundland and Labrador,-1669
+1993,Newfoundland and Labrador,-3078
+1994,Newfoundland and Labrador,-4952
+1995,Newfoundland and Labrador,-6974
+1996,Newfoundland and Labrador,-7436
+1997,Newfoundland and Labrador,-8134
+1998,Newfoundland and Labrador,-9490
+1999,Newfoundland and Labrador,-5695
+2000,Newfoundland and Labrador,-4263
+2001,Newfoundland and Labrador,-4493
+2002,Newfoundland and Labrador,-3352
+2003,Newfoundland and Labrador,-1683
+2004,Newfoundland and Labrador,-2027
+2005,Newfoundland and Labrador,-3710
+2006,Newfoundland and Labrador,-4342
+2007,Newfoundland and Labrador,-4067
+2008,Newfoundland and Labrador,-528
+2009,Newfoundland and Labrador,1877
+2010,Newfoundland and Labrador,1558
+2011,Newfoundland and Labrador,30
+2012,Newfoundland and Labrador,545
+2013,Newfoundland and Labrador,495
+2014,Newfoundland and Labrador,234
+2015,Newfoundland and Labrador,161
+2016,Newfoundland and Labrador,232
+2017,Newfoundland and Labrador,-1430
+2018,Newfoundland and Labrador,-2733
+2019,Newfoundland and Labrador,-2597
+2020,Newfoundland and Labrador,-2016
+2021,Newfoundland and Labrador,527
+2022,Newfoundland and Labrador,1802
+2023,Newfoundland and Labrador,1060
+2024,Newfoundland and Labrador,1091
+2025,Newfoundland and Labrador,65
+1992,Northwest Territories,-26
+1993,Northwest Territories,-330
+1994,Northwest Territories,-19
+1995,Northwest Territories,78
+1996,Northwest Territories,-554
+1997,Northwest Territories,-696
+1998,Northwest Territories,-1316
+1999,Northwest Territories,-555
+2000,Northwest Territories,-651
+2001,Northwest Territories,-160
+2002,Northwest Territories,84
+2003,Northwest Territories,242
+2004,Northwest Territories,-105
+2005,Northwest Territories,-668
+2006,Northwest Territories,-954
+2007,Northwest Territories,-221
+2008,Northwest Territories,-420
+2009,Northwest Territories,-577
+2010,Northwest Territories,-351
+2011,Northwest Territories,-179
+2012,Northwest Territories,-496
+2013,Northwest Territories,-482
+2014,Northwest Territories,-488
+2015,Northwest Territories,-223
+2016,Northwest Territories,-250
+2017,Northwest Territories,-375
+2018,Northwest Territories,-429
+2019,Northwest Territories,-469
+2020,Northwest Territories,-169
+2021,Northwest Territories,-176
+2022,Northwest Territories,-439
+2023,Northwest Territories,-584
+2024,Northwest Territories,-221
+2025,Northwest Territories,-10
+1972,Northwest Territories including Nunavut,1075
+1973,Northwest Territories including Nunavut,720
+1974,Northwest Territories including Nunavut,-786
+1975,Northwest Territories including Nunavut,532
+1976,Northwest Territories including Nunavut,179
+1977,Northwest Territories including Nunavut,-1333
+1978,Northwest Territories including Nunavut,-693
+1979,Northwest Territories including Nunavut,-979
+1980,Northwest Territories including Nunavut,-992
+1981,Northwest Territories including Nunavut,-500
+1982,Northwest Territories including Nunavut,382
+1983,Northwest Territories including Nunavut,-49
+1984,Northwest Territories including Nunavut,-37
+1985,Northwest Territories including Nunavut,434
+1986,Northwest Territories including Nunavut,-1096
+1987,Northwest Territories including Nunavut,-1564
+1988,Northwest Territories including Nunavut,-1191
+1989,Northwest Territories including Nunavut,-515
+1990,Northwest Territories including Nunavut,-293
+1991,Northwest Territories including Nunavut,-117
+1962,Nova Scotia,-2157
+1963,Nova Scotia,-5435
+1964,Nova Scotia,-4972
+1965,Nova Scotia,-7997
+1966,Nova Scotia,-6925
+1967,Nova Scotia,-5343
+1968,Nova Scotia,-2179
+1969,Nova Scotia,-1003
+1970,Nova Scotia,-3950
+1971,Nova Scotia,-3844
+1972,Nova Scotia,-586
+1973,Nova Scotia,4851
+1974,Nova Scotia,1014
+1975,Nova Scotia,2422
+1976,Nova Scotia,3639
+1977,Nova Scotia,-799
+1978,Nova Scotia,-416
+1979,Nova Scotia,-357
+1980,Nova Scotia,-2732
+1981,Nova Scotia,-2836
+1982,Nova Scotia,-1936
+1983,Nova Scotia,3791
+1984,Nova Scotia,3804
+1985,Nova Scotia,2557
+1986,Nova Scotia,-1321
+1987,Nova Scotia,-941
+1988,Nova Scotia,-1788
+1989,Nova Scotia,537
+1990,Nova Scotia,595
+1991,Nova Scotia,-162
+1992,Nova Scotia,306
+1993,Nova Scotia,96
+1994,Nova Scotia,-1887
+1995,Nova Scotia,-2741
+1996,Nova Scotia,-1245
+1997,Nova Scotia,-1648
+1998,Nova Scotia,-2569
+1999,Nova Scotia,201
+2000,Nova Scotia,-270
+2001,Nova Scotia,-2077
+2002,Nova Scotia,-898
+2003,Nova Scotia,510
+2004,Nova Scotia,-772
+2005,Nova Scotia,-3041
+2006,Nova Scotia,-3024
+2007,Nova Scotia,-4126
+2008,Nova Scotia,-1794
+2009,Nova Scotia,-751
+2010,Nova Scotia,612
+2011,Nova Scotia,-41
+2012,Nova Scotia,-2866
+2013,Nova Scotia,-3517
+2014,Nova Scotia,-2571
+2015,Nova Scotia,-2311
+2016,Nova Scotia,754
+2017,Nova Scotia,2839
+2018,Nova Scotia,3048
+2019,Nova Scotia,3632
+2020,Nova Scotia,5567
+2021,Nova Scotia,8900
+2022,Nova Scotia,11701
+2023,Nova Scotia,6989
+2024,Nova Scotia,8841
+2025,Nova Scotia,3226
+1992,Nunavut,-34
+1993,Nunavut,-92
+1994,Nunavut,-17
+1995,Nunavut,-243
+1996,Nunavut,-104
+1997,Nunavut,-377
+1998,Nunavut,-110
+1999,Nunavut,-55
+2000,Nunavut,70
+2001,Nunavut,48
+2002,Nunavut,24
+2003,Nunavut,-198
+2004,Nunavut,-135
+2005,Nunavut,-181
+2006,Nunavut,-200
+2007,Nunavut,-157
+2008,Nunavut,-290
+2009,Nunavut,-35
+2010,Nunavut,-53
+2011,Nunavut,73
+2012,Nunavut,-153
+2013,Nunavut,5
+2014,Nunavut,-59
+2015,Nunavut,-172
+2016,Nunavut,-200
+2017,Nunavut,-135
+2018,Nunavut,-148
+2019,Nunavut,-241
+2020,Nunavut,-118
+2021,Nunavut,-169
+2022,Nunavut,-180
+2023,Nunavut,-386
+2024,Nunavut,-163
+2025,Nunavut,-236
+1962,Ontario,4088
+1963,Ontario,15900
+1964,Ontario,17872
+1965,Ontario,23485
+1966,Ontario,26645
+1967,Ontario,21953
+1968,Ontario,13311
+1969,Ontario,15985
+1970,Ontario,53516
+1971,Ontario,45768
+1972,Ontario,14462
+1973,Ontario,940
+1974,Ontario,-9802
+1975,Ontario,-28194
+1976,Ontario,-18932
+1977,Ontario,-6402
+1978,Ontario,8510
+1979,Ontario,-4325
+1980,Ontario,-22362
+1981,Ontario,-33247
+1982,Ontario,-5665
+1983,Ontario,23585
+1984,Ontario,36400
+1985,Ontario,33885
+1986,Ontario,33562
+1987,Ontario,42601
+1988,Ontario,35215
+1989,Ontario,9739
+1990,Ontario,-5961
+1991,Ontario,-11627
+1992,Ontario,-11045
+1993,Ontario,-14189
+1994,Ontario,-9420
+1995,Ontario,-2841
+1996,Ontario,-2822
+1997,Ontario,1977
+1998,Ontario,9231
+1999,Ontario,16706
+2000,Ontario,22369
+2001,Ontario,18623
+2002,Ontario,5354
+2003,Ontario,637
+2004,Ontario,-6935
+2005,Ontario,-11172
+2006,Ontario,-17501
+2007,Ontario,-20047
+2008,Ontario,-14750
+2009,Ontario,-15601
+2010,Ontario,-4662
+2011,Ontario,-4007
+2012,Ontario,-10611
+2013,Ontario,-13901
+2014,Ontario,-14564
+2015,Ontario,-8695
+2016,Ontario,9077
+2017,Ontario,13382
+2018,Ontario,9944
+2019,Ontario,6629
+2020,Ontario,2794
+2021,Ontario,-18405
+2022,Ontario,-31018
+2023,Ontario,-29730
+2024,Ontario,-42689
+2025,Ontario,-17779
+1962,Prince Edward Island,1004
+1963,Prince Edward Island,-680
+1964,Prince Edward Island,-685
+1965,Prince Edward Island,-1659
+1966,Prince Edward Island,-1100
+1967,Prince Edward Island,-789
+1968,Prince Edward Island,-180
+1969,Prince Edward Island,-642
+1970,Prince Edward Island,-1544
+1971,Prince Edward Island,205
+1972,Prince Edward Island,349
+1973,Prince Edward Island,782
+1974,Prince Edward Island,821
+1975,Prince Edward Island,1334
+1976,Prince Edward Island,456
+1977,Prince Edward Island,154
+1978,Prince Edward Island,700
+1979,Prince Edward Island,-74
+1980,Prince Edward Island,-358
+1981,Prince Edward Island,-1251
+1982,Prince Edward Island,-856
+1983,Prince Edward Island,636
+1984,Prince Edward Island,797
+1985,Prince Edward Island,250
+1986,Prince Edward Island,-76
+1987,Prince Edward Island,-205
+1988,Prince Edward Island,295
+1989,Prince Edward Island,381
+1990,Prince Edward Island,-253
+1991,Prince Edward Island,-325
+1992,Prince Edward Island,-237
+1993,Prince Edward Island,654
+1994,Prince Edward Island,622
+1995,Prince Edward Island,349
+1996,Prince Edward Island,638
+1997,Prince Edward Island,136
+1998,Prince Edward Island,-416
+1999,Prince Edward Island,193
+2000,Prince Edward Island,104
+2001,Prince Edward Island,165
+2002,Prince Edward Island,62
+2003,Prince Edward Island,165
+2004,Prince Edward Island,144
+2005,Prince Edward Island,-139
+2006,Prince Edward Island,-639
+2007,Prince Edward Island,-849
+2008,Prince Edward Island,-291
+2009,Prince Edward Island,-536
+2010,Prince Edward Island,60
+2011,Prince Edward Island,-210
+2012,Prince Edward Island,-618
+2013,Prince Edward Island,-901
+2014,Prince Edward Island,-941
+2015,Prince Edward Island,-682
+2016,Prince Edward Island,30
+2017,Prince Edward Island,444
+2018,Prince Edward Island,177
+2019,Prince Edward Island,662
+2020,Prince Edward Island,1150
+2021,Prince Edward Island,1220
+2022,Prince Edward Island,1708
+2023,Prince Edward Island,1471
+2024,Prince Edward Island,985
+2025,Prince Edward Island,1043
+1962,Quebec,2578
+1963,Quebec,-2475
+1964,Quebec,-5826
+1965,Quebec,-5814
+1966,Quebec,-11748
+1967,Quebec,-14385
+1968,Quebec,-18745
+1969,Quebec,-18463
+1970,Quebec,-34983
+1971,Quebec,-36020
+1972,Quebec,-21637
+1973,Quebec,-19754
+1974,Quebec,-12581
+1975,Quebec,-10361
+1976,Quebec,-13354
+1977,Quebec,-26366
+1978,Quebec,-46429
+1979,Quebec,-30884
+1980,Quebec,-29976
+1981,Quebec,-22841
+1982,Quebec,-25790
+1983,Quebec,-24678
+1984,Quebec,-17417
+1985,Quebec,-8020
+1986,Quebec,-5349
+1987,Quebec,-3729
+1988,Quebec,-7693
+1989,Quebec,-7618
+1990,Quebec,-8642
+1991,Quebec,-11325
+1992,Quebec,-12552
+1993,Quebec,-8420
+1994,Quebec,-8758
+1995,Quebec,-8947
+1996,Quebec,-12626
+1997,Quebec,-17436
+1998,Quebec,-16958
+1999,Quebec,-13065
+2000,Quebec,-12146
+2001,Quebec,-9442
+2002,Quebec,-4350
+2003,Quebec,-1829
+2004,Quebec,-822
+2005,Quebec,-4963
+2006,Quebec,-9411
+2007,Quebec,-12865
+2008,Quebec,-11682
+2009,Quebec,-7419
+2010,Quebec,-3258
+2011,Quebec,-4763
+2012,Quebec,-6915
+2013,Quebec,-10431
+2014,Quebec,-14312
+2015,Quebec,-16142
+2016,Quebec,-11118
+2017,Quebec,-8127
+2018,Quebec,-5693
+2019,Quebec,-4128
+2020,Quebec,-4436
+2021,Quebec,-2944
+2022,Quebec,-6529
+2023,Quebec,-10333
+2024,Quebec,-6750
+2025,Quebec,-5095
+1962,Saskatchewan,-10083
+1963,Saskatchewan,-11558
+1964,Saskatchewan,-5334
+1965,Saskatchewan,-5484
+1966,Saskatchewan,-8414
+1967,Saskatchewan,-10542
+1968,Saskatchewan,-7948
+1969,Saskatchewan,-13924
+1970,Saskatchewan,-26610
+1971,Saskatchewan,-23085
+1972,Saskatchewan,-18995
+1973,Saskatchewan,-16524
+1974,Saskatchewan,-10472
+1975,Saskatchewan,697
+1976,Saskatchewan,5296
+1977,Saskatchewan,3182
+1978,Saskatchewan,-1719
+1979,Saskatchewan,-2878
+1980,Saskatchewan,-4493
+1981,Saskatchewan,-3808
+1982,Saskatchewan,-323
+1983,Saskatchewan,3580
+1984,Saskatchewan,2133
+1985,Saskatchewan,-1425
+1986,Saskatchewan,-6939
+1987,Saskatchewan,-4957
+1988,Saskatchewan,-12107
+1989,Saskatchewan,-17071
+1990,Saskatchewan,-19442
+1991,Saskatchewan,-12176
+1992,Saskatchewan,-8481
+1993,Saskatchewan,-6348
+1994,Saskatchewan,-5431
+1995,Saskatchewan,-3652
+1996,Saskatchewan,-2161
+1997,Saskatchewan,-2794
+1998,Saskatchewan,-1940
+1999,Saskatchewan,-4333
+2000,Saskatchewan,-7947
+2001,Saskatchewan,-8410
+2002,Saskatchewan,-8820
+2003,Saskatchewan,-5141
+2004,Saskatchewan,-4521
+2005,Saskatchewan,-9515
+2006,Saskatchewan,-7083
+2007,Saskatchewan,1549
+2008,Saskatchewan,4171
+2009,Saskatchewan,2983
+2010,Saskatchewan,2153
+2011,Saskatchewan,545
+2012,Saskatchewan,1878
+2013,Saskatchewan,392
+2014,Saskatchewan,-1839
+2015,Saskatchewan,-4528
+2016,Saskatchewan,-4272
+2017,Saskatchewan,-5760
+2018,Saskatchewan,-8475
+2019,Saskatchewan,-9441
+2020,Saskatchewan,-11412
+2021,Saskatchewan,-7174
+2022,Saskatchewan,-9493
+2023,Saskatchewan,-6656
+2024,Saskatchewan,-3053
+2025,Saskatchewan,-2506
+1972,Yukon,686
+1973,Yukon,458
+1974,Yukon,-504
+1975,Yukon,339
+1976,Yukon,115
+1977,Yukon,-400
+1978,Yukon,261
+1979,Yukon,-643
+1980,Yukon,-464
+1981,Yukon,313
+1982,Yukon,81
+1983,Yukon,-1653
+1984,Yukon,-435
+1985,Yukon,-223
+1986,Yukon,-545
+1987,Yukon,575
+1988,Yukon,349
+1989,Yukon,-180
+1990,Yukon,90
+1991,Yukon,243
+1992,Yukon,645
+1993,Yukon,-265
+1994,Yukon,-1094
+1995,Yukon,269
+1996,Yukon,564
+1997,Yukon,-54
+1998,Yukon,-1024
+1999,Yukon,-747
+2000,Yukon,-691
+2001,Yukon,-572
+2002,Yukon,-221
+2003,Yukon,149
+2004,Yukon,27
+2005,Yukon,53
+2006,Yukon,-73
+2007,Yukon,101
+2008,Yukon,235
+2009,Yukon,228
+2010,Yukon,325
+2011,Yukon,363
+2012,Yukon,313
+2013,Yukon,-94
+2014,Yukon,51
+2015,Yukon,87
+2016,Yukon,276
+2017,Yukon,577
+2018,Yukon,234
+2019,Yukon,342
+2020,Yukon,489
+2021,Yukon,517
+2022,Yukon,287
+2023,Yukon,250
+2024,Yukon,672
+2025,Yukon,-221

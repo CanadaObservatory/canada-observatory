@@ -1,0 +1,14 @@
+{
+  "dataset_id": "statcan_crime_by_type",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 35-10-0177-01",
+  "frequency": "annual",
+  "unit": "rate per 100,000 population; counts; %",
+  "retrieved_at": "2026-06-10T18:36:37.602361+00:00",
+  "latest_observation_date": "2024",
+  "transformations": [
+    "chunk-read the incident-based crime table; kept curated violations (motor-vehicle theft, break & enter, shoplifting, fraud, robbery, mischief, theft, plus property/violent/all-CC aggregates and homicide/assault references); Canada + provinces/territories + CMAs; pivoted rate / actual incidents / total cleared / %-change into columns; cmauid = last 3 digits of the CMA GEO code (joins cma_2021.geojson)."
+  ],
+  "notes": null,
+  "row_count": 19167
+}

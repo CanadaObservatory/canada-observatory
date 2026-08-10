@@ -1,0 +1,16 @@
+{
+  "dataset_id": "statcan_debt_service_ratio",
+  "source": "Statistics Canada",
+  "source_table": "11-10-0065-01",
+  "frequency": "quarterly",
+  "unit": "% of disposable income (seasonally adjusted)",
+  "retrieved_at": "2026-08-10T15:06:03.383345+00:00",
+  "latest_observation_date": "2026-01-01",
+  "next_release_date": null,
+  "transformations": [
+    "Seasonally adjusted at annual rates",
+    "total / mortgage / non-mortgage debt service ratio"
+  ],
+  "notes": null,
+  "row_count": 145
+}

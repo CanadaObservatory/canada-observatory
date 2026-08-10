@@ -1,0 +1,539 @@
+year,motivation,count
+2023,2SLGBTQI+,89.0
+2024,2SLGBTQI+,156.0
+2014,Adults (25 to 64 years old),2.0
+2015,Adults (25 to 64 years old),2.0
+2016,Adults (25 to 64 years old),2.0
+2017,Adults (25 to 64 years old),2.0
+2018,Adults (25 to 64 years old),5.0
+2019,Adults (25 to 64 years old),2.0
+2020,Adults (25 to 64 years old),3.0
+2021,Adults (25 to 64 years old),0.0
+2022,Adults (25 to 64 years old),0.0
+2023,Adults (25 to 64 years old),1.0
+2024,Adults (25 to 64 years old),1.0
+2014,Age,6.0
+2015,Age,4.0
+2016,Age,5.0
+2017,Age,4.0
+2018,Age,9.0
+2019,Age,8.0
+2020,Age,5.0
+2021,Age,14.0
+2022,Age,5.0
+2023,Age,9.0
+2024,Age,10.0
+2014,"Arab (West Asian, Middle Eastern and North African origins)",69.0
+2015,"Arab (West Asian, Middle Eastern and North African origins)",92.0
+2016,"Arab (West Asian, Middle Eastern and North African origins)",112.0
+2017,"Arab (West Asian, Middle Eastern and North African origins)",142.0
+2018,"Arab (West Asian, Middle Eastern and North African origins)",93.0
+2019,"Arab (West Asian, Middle Eastern and North African origins)",125.0
+2020,"Arab (West Asian, Middle Eastern and North African origins)",126.0
+2021,"Arab (West Asian, Middle Eastern and North African origins)",184.0
+2022,"Arab (West Asian, Middle Eastern and North African origins)",172.0
+2023,"Arab (West Asian, Middle Eastern and North African origins)",268.0
+2024,"Arab (West Asian, Middle Eastern and North African origins)",310.0
+2023,Asexual,0.0
+2024,Asexual,0.0
+2014,Bisexual,2.0
+2015,Bisexual,5.0
+2016,Bisexual,4.0
+2017,Bisexual,2.0
+2018,Bisexual,4.0
+2019,Bisexual,4.0
+2020,Bisexual,5.0
+2021,Bisexual,8.0
+2022,Bisexual,6.0
+2023,Bisexual,13.0
+2024,Bisexual,9.0
+2014,Black,238.0
+2015,Black,224.0
+2016,Black,214.0
+2017,Black,321.0
+2018,Black,295.0
+2019,Black,345.0
+2020,Black,676.0
+2021,Black,647.0
+2022,Black,842.0
+2023,Black,821.0
+2024,Black,873.0
+2023,Both Mental and Physical Disability,1.0
+2024,Both Mental and Physical Disability,6.0
+2023,Buddhist,0.0
+2024,Buddhist,0.0
+2014,Catholic,35.0
+2015,Catholic,55.0
+2016,Catholic,27.0
+2017,Catholic,39.0
+2018,Catholic,44.0
+2019,Catholic,51.0
+2020,Catholic,43.0
+2021,Catholic,155.0
+2022,Catholic,52.0
+2023,Catholic,49.0
+2024,Catholic,61.0
+2023,Children (0 to 11 years old),0.0
+2024,Children (0 to 11 years old),0.0
+2014,Children (0 to 14 years old),0.0
+2015,Children (0 to 14 years old),1.0
+2016,Children (0 to 14 years old),1.0
+2017,Children (0 to 14 years old),0.0
+2018,Children (0 to 14 years old),0.0
+2019,Children (0 to 14 years old),0.0
+2020,Children (0 to 14 years old),0.0
+2021,Children (0 to 14 years old),1.0
+2022,Children (0 to 14 years old),0.0
+2023,Children (0 to 14 years old),1.0
+2024,Children (0 to 14 years old),0.0
+2023,Chinese,32.0
+2024,Chinese,39.0
+2023,Christian Orthodox,0.0
+2024,Christian Orthodox,1.0
+2023,Combination (More than 2 motivations),30.0
+2024,Combination (More than 2 motivations),36.0
+2014,East or Southeast Asian,52.0
+2015,East or Southeast Asian,49.0
+2016,East or Southeast Asian,61.0
+2017,East or Southeast Asian,61.0
+2018,East or Southeast Asian,60.0
+2019,East or Southeast Asian,67.0
+2020,East or Southeast Asian,263.0
+2021,East or Southeast Asian,312.0
+2022,East or Southeast Asian,213.0
+2023,East or Southeast Asian,160.0
+2024,East or Southeast Asian,130.0
+2023,Elderly (80 years old and over),0.0
+2024,Elderly (80 years old and over),1.0
+2014,English,7.0
+2015,English,15.0
+2016,English,8.0
+2017,English,14.0
+2018,English,9.0
+2019,English,24.0
+2020,English,29.0
+2021,English,29.0
+2022,English,45.0
+2023,English,37.0
+2024,English,37.0
+2023,Filipino,1.0
+2024,Filipino,5.0
+2014,French,0.0
+2015,French,2.0
+2016,French,4.0
+2017,French,4.0
+2018,French,1.0
+2019,French,1.0
+2020,French,2.0
+2021,French,2.0
+2022,French,11.0
+2023,French,2.0
+2024,French,0.0
+2023,Gay,34.0
+2024,Gay,47.0
+2014,Heterosexual,2.0
+2015,Heterosexual,1.0
+2016,Heterosexual,1.0
+2017,Heterosexual,2.0
+2018,Heterosexual,0.0
+2019,Heterosexual,0.0
+2020,Heterosexual,0.0
+2021,Heterosexual,2.0
+2022,Heterosexual,7.0
+2023,Heterosexual,5.0
+2024,Heterosexual,5.0
+2023,Hindu,1.0
+2024,Hindu,3.0
+2014,Homosexual (lesbian or gay),139.0
+2015,Homosexual (lesbian or gay),121.0
+2016,Homosexual (lesbian or gay),148.0
+2017,Homosexual (lesbian or gay),173.0
+2018,Homosexual (lesbian or gay),153.0
+2019,Homosexual (lesbian or gay),233.0
+2020,Homosexual (lesbian or gay),210.0
+2021,Homosexual (lesbian or gay),337.0
+2022,Homosexual (lesbian or gay),366.0
+2023,Homosexual (lesbian or gay),428.0
+2024,Homosexual (lesbian or gay),211.0
+2023,Immigrants / Newcomers to Canada,14.0
+2024,Immigrants / Newcomers to Canada,49.0
+2023,"India, Pakistan or South Asian",38.0
+2024,"India, Pakistan or South Asian",88.0
+2014,Indigenous,37.0
+2015,Indigenous,35.0
+2016,Indigenous,30.0
+2017,Indigenous,31.0
+2018,Indigenous,39.0
+2019,Indigenous,29.0
+2020,Indigenous,78.0
+2021,Indigenous,77.0
+2022,Indigenous,66.0
+2023,Indigenous,72.0
+2024,Indigenous,59.0
+2023,Japanese,0.0
+2024,Japanese,2.0
+2014,Jewish,213.0
+2015,Jewish,178.0
+2016,Jewish,221.0
+2017,Jewish,360.0
+2018,Jewish,372.0
+2019,Jewish,306.0
+2020,Jewish,331.0
+2021,Jewish,492.0
+2022,Jewish,527.0
+2023,Jewish,959.0
+2024,Jewish,920.0
+2023,Korean,1.0
+2024,Korean,3.0
+2014,Language,12.0
+2015,Language,18.0
+2016,Language,13.0
+2017,Language,23.0
+2018,Language,14.0
+2019,Language,25.0
+2020,Language,37.0
+2021,Language,33.0
+2022,Language,63.0
+2023,Language,51.0
+2024,Language,48.0
+2023,Latin American,2.0
+2024,Latin American,6.0
+2023,Lesbian,4.0
+2024,Lesbian,6.0
+2014,Man,5.0
+2015,Man,2.0
+2016,Man,1.0
+2017,Man,2.0
+2018,Man,4.0
+2019,Man,6.0
+2020,Man,3.0
+2021,Man,4.0
+2022,Man,3.0
+2023,Man,0.0
+2024,Man,9.0
+2023,Mennonite or Amish,0.0
+2024,Mennonite or Amish,0.0
+2014,Mental disability (Psychological and Cognitive),4.0
+2015,Mental disability (Psychological and Cognitive),2.0
+2016,Mental disability (Psychological and Cognitive),7.0
+2017,Mental disability (Psychological and Cognitive),6.0
+2018,Mental disability (Psychological and Cognitive),5.0
+2019,Mental disability (Psychological and Cognitive),1.0
+2020,Mental disability (Psychological and Cognitive),6.0
+2021,Mental disability (Psychological and Cognitive),4.0
+2022,Mental disability (Psychological and Cognitive),8.0
+2023,Mental disability (Psychological and Cognitive),6.0
+2024,Mental disability (Psychological and Cognitive),9.0
+2014,Mental or Physical Disability,10.0
+2015,Mental or Physical Disability,8.0
+2016,Mental or Physical Disability,11.0
+2017,Mental or Physical Disability,10.0
+2018,Mental or Physical Disability,9.0
+2019,Mental or Physical Disability,3.0
+2020,Mental or Physical Disability,8.0
+2021,Mental or Physical Disability,16.0
+2022,Mental or Physical Disability,15.0
+2023,Mental or Physical Disability,13.0
+2024,Mental or Physical Disability,26.0
+2023,Middle Adults (30 to 49 years old),0.0
+2024,Middle Adults (30 to 49 years old),0.0
+2014,Multiple races or ethnicities,51.0
+2015,Multiple races or ethnicities,55.0
+2016,Multiple races or ethnicities,77.0
+2017,Multiple races or ethnicities,118.0
+2018,Multiple races or ethnicities,73.0
+2019,Multiple races or ethnicities,72.0
+2020,Multiple races or ethnicities,102.0
+2021,Multiple races or ethnicities,109.0
+2022,Multiple races or ethnicities,124.0
+2023,Multiple races or ethnicities,126.0
+2024,Multiple races or ethnicities,78.0
+2014,Muslim (Islam),99.0
+2015,Muslim (Islam),159.0
+2016,Muslim (Islam),139.0
+2017,Muslim (Islam),349.0
+2018,Muslim (Islam),166.0
+2019,Muslim (Islam),182.0
+2020,Muslim (Islam),84.0
+2021,Muslim (Islam),142.0
+2022,Muslim (Islam),109.0
+2023,Muslim (Islam),220.0
+2024,Muslim (Islam),229.0
+2023,Non-binary,4.0
+2024,Non-binary,3.0
+2023,Older Adults (50 to 64 years old),0.0
+2024,Older Adults (50 to 64 years old),0.0
+2023,Other Christian Religion,9.0
+2024,Other Christian Religion,11.0
+2023,"Other East or Southeast Asian not mentioned above (e.g., Thai)",1.0
+2024,"Other East or Southeast Asian not mentioned above (e.g., Thai)",6.0
+2023,"Other South Asian not mentioned (e.g., Sri Lankan)",0.0
+2024,"Other South Asian not mentioned (e.g., Sri Lankan)",4.0
+2014,Other disability,4.0
+2015,Other disability,3.0
+2016,Other disability,0.0
+2017,Other disability,1.0
+2018,Other disability,1.0
+2019,Other disability,1.0
+2020,Other disability,0.0
+2021,Other disability,6.0
+2022,Other disability,0.0
+2023,Other disability,1.0
+2024,Other disability,5.0
+2014,Other language,5.0
+2015,Other language,1.0
+2016,Other language,1.0
+2017,Other language,5.0
+2018,Other language,4.0
+2019,Other language,0.0
+2020,Other language,6.0
+2021,Other language,2.0
+2022,Other language,7.0
+2023,Other language,12.0
+2024,Other language,11.0
+2014,Other race or ethnicity,66.0
+2015,Other race or ethnicity,100.0
+2016,Other race or ethnicity,64.0
+2017,Other race or ethnicity,92.0
+2018,Other race or ethnicity,107.0
+2019,Other race or ethnicity,117.0
+2020,Other race or ethnicity,154.0
+2021,Other race or ethnicity,192.0
+2022,Other race or ethnicity,298.0
+2023,Other race or ethnicity,351.0
+2024,Other race or ethnicity,462.0
+2014,Other religion,82.0
+2015,Other religion,77.0
+2016,Other religion,73.0
+2017,Other religion,94.0
+2018,Other religion,75.0
+2019,Other religion,74.0
+2020,Other religion,72.0
+2021,Other religion,97.0
+2022,Other religion,80.0
+2023,Other religion,105.0
+2024,Other religion,109.0
+2014,Other sex or gender,15.0
+2015,Other sex or gender,6.0
+2016,Other sex or gender,19.0
+2017,Other sex or gender,21.0
+2018,Other sex or gender,28.0
+2019,Other sex or gender,35.0
+2020,Other sex or gender,30.0
+2021,Other sex or gender,33.0
+2022,Other sex or gender,47.0
+2023,Other sex or gender,82.0
+2024,Other sex or gender,72.0
+2014,Other sexual orientation,12.0
+2015,Other sexual orientation,14.0
+2016,Other sexual orientation,23.0
+2017,Other sexual orientation,27.0
+2018,Other sexual orientation,29.0
+2019,Other sexual orientation,28.0
+2020,Other sexual orientation,43.0
+2021,Other sexual orientation,90.0
+2022,Other sexual orientation,130.0
+2023,Other sexual orientation,315.0
+2024,Other sexual orientation,224.0
+2014,Other similar factor,27.0
+2015,Other similar factor,44.0
+2016,Other similar factor,35.0
+2017,Other similar factor,48.0
+2018,Other similar factor,73.0
+2019,Other similar factor,58.0
+2020,Other similar factor,101.0
+2021,Other similar factor,82.0
+2022,Other similar factor,103.0
+2023,Other similar factor,69.0
+2024,Other similar factor,89.0
+2023,Pansexual,1.0
+2024,Pansexual,0.0
+2014,Physical disability,2.0
+2015,Physical disability,3.0
+2016,Physical disability,4.0
+2017,Physical disability,3.0
+2018,Physical disability,3.0
+2019,Physical disability,1.0
+2020,Physical disability,2.0
+2021,Physical disability,5.0
+2022,Physical disability,7.0
+2023,Physical disability,5.0
+2024,Physical disability,6.0
+2023,Polynesian or Pacific Islander,0.0
+2024,Polynesian or Pacific Islander,0.0
+2014,Race or ethnicity,611.0
+2015,Race or ethnicity,641.0
+2016,Race or ethnicity,666.0
+2017,Race or ethnicity,878.0
+2018,Race or ethnicity,793.0
+2019,Race or ethnicity,884.0
+2020,Race or ethnicity,1619.0
+2021,Race or ethnicity,1745.0
+2022,Race or ethnicity,2002.0
+2023,Race or ethnicity,2198.0
+2024,Race or ethnicity,2377.0
+2014,Religion,429.0
+2015,Religion,469.0
+2016,Religion,460.0
+2017,Religion,842.0
+2018,Religion,657.0
+2019,Religion,613.0
+2020,Religion,530.0
+2021,Religion,886.0
+2022,Religion,768.0
+2023,Religion,1345.0
+2024,Religion,1342.0
+2023,Retired / Senior (65 to 79 years old),0.0
+2024,Retired / Senior (65 to 79 years old),1.0
+2023,Roma or Sinti,0.0
+2024,Roma or Sinti,0.0
+2014,Seniors (65 years old and over),1.0
+2015,Seniors (65 years old and over),0.0
+2016,Seniors (65 years old and over),0.0
+2017,Seniors (65 years old and over),0.0
+2018,Seniors (65 years old and over),1.0
+2019,Seniors (65 years old and over),0.0
+2020,Seniors (65 years old and over),0.0
+2021,Seniors (65 years old and over),0.0
+2022,Seniors (65 years old and over),1.0
+2023,Seniors (65 years old and over),0.0
+2024,Seniors (65 years old and over),0.0
+2023,Seventh Day Adventist – Jehovah’s witness,1.0
+2024,Seventh Day Adventist – Jehovah’s witness,0.0
+2014,Sex and gender,22.0
+2015,Sex and gender,12.0
+2016,Sex and gender,24.0
+2017,Sex and gender,32.0
+2018,Sex and gender,54.0
+2019,Sex and gender,56.0
+2020,Sex and gender,49.0
+2021,Sex and gender,60.0
+2022,Sex and gender,90.0
+2023,Sex and gender,129.0
+2024,Sex and gender,139.0
+2014,Sexual orientation,155.0
+2015,Sexual orientation,141.0
+2016,Sexual orientation,176.0
+2017,Sexual orientation,204.0
+2018,Sexual orientation,186.0
+2019,Sexual orientation,265.0
+2020,Sexual orientation,258.0
+2021,Sexual orientation,438.0
+2022,Sexual orientation,509.0
+2023,Sexual orientation,889.0
+2024,Sexual orientation,658.0
+2023,Sikh,1.0
+2024,Sikh,7.0
+2014,South Asian,49.0
+2015,South Asian,48.0
+2016,South Asian,72.0
+2017,South Asian,67.0
+2018,South Asian,84.0
+2019,South Asian,81.0
+2020,South Asian,135.0
+2021,South Asian,166.0
+2022,South Asian,196.0
+2023,South Asian,241.0
+2024,South Asian,229.0
+2014,Total police-reported hate crime,1295.0
+2015,Total police-reported hate crime,1362.0
+2016,Total police-reported hate crime,1409.0
+2017,Total police-reported hate crime,2073.0
+2018,Total police-reported hate crime,1817.0
+2019,Total police-reported hate crime,1951.0
+2020,Total police-reported hate crime,2646.0
+2021,Total police-reported hate crime,3355.0
+2022,Total police-reported hate crime,3612.0
+2023,Total police-reported hate crime,4828.0
+2024,Total police-reported hate crime,4882.0
+2023,Traditional Indigenous Spirituality,0.0
+2024,Traditional Indigenous Spirituality,1.0
+2023,Transgender Man (identifies as man),3.0
+2024,Transgender Man (identifies as man),5.0
+2023,Transgender Target not specified,7.0
+2024,Transgender Target not specified,8.0
+2023,Transgender Woman (identifies as woman),6.0
+2024,Transgender Woman (identifies as woman),9.0
+2014,Unknown age,3.0
+2015,Unknown age,1.0
+2016,Unknown age,2.0
+2017,Unknown age,2.0
+2018,Unknown age,2.0
+2019,Unknown age,6.0
+2020,Unknown age,2.0
+2021,Unknown age,10.0
+2022,Unknown age,3.0
+2023,Unknown age,5.0
+2024,Unknown age,4.0
+2014,Unknown disability,4.0
+2015,Unknown disability,2.0
+2016,Unknown disability,0.0
+2017,Unknown disability,1.0
+2014,Unknown language,4.0
+2015,Unknown language,1.0
+2016,Unknown language,1.0
+2017,Unknown language,0.0
+2014,Unknown motivation,23.0
+2015,Unknown motivation,25.0
+2016,Unknown motivation,19.0
+2017,Unknown motivation,32.0
+2018,Unknown motivation,22.0
+2019,Unknown motivation,39.0
+2020,Unknown motivation,39.0
+2021,Unknown motivation,81.0
+2022,Unknown motivation,57.0
+2023,Unknown motivation,81.0
+2024,Unknown motivation,108.0
+2014,Unknown race or ethnicity,11.0
+2015,Unknown race or ethnicity,25.0
+2016,Unknown race or ethnicity,16.0
+2017,Unknown race or ethnicity,41.0
+2014,Unknown religion,33.0
+2015,Unknown religion,36.0
+2016,Unknown religion,36.0
+2017,Unknown religion,37.0
+2014,Unknown sex or gender,9.0
+2015,Unknown sex or gender,4.0
+2016,Unknown sex or gender,12.0
+2017,Unknown sex or gender,6.0
+2014,Unknown sexual orientation,4.0
+2015,Unknown sexual orientation,4.0
+2016,Unknown sexual orientation,6.0
+2017,Unknown sexual orientation,15.0
+2014,White,49.0
+2015,White,38.0
+2016,White,36.0
+2017,White,46.0
+2018,White,42.0
+2019,White,48.0
+2020,White,85.0
+2021,White,57.0
+2022,White,91.0
+2023,White,84.0
+2024,White,83.0
+2014,Woman,2.0
+2015,Woman,4.0
+2016,Woman,4.0
+2017,Woman,9.0
+2018,Woman,22.0
+2019,Woman,15.0
+2020,Woman,16.0
+2021,Woman,23.0
+2022,Woman,40.0
+2023,Woman,27.0
+2024,Woman,33.0
+2023,Young Adults (18 to 29 years old),0.0
+2024,Young Adults (18 to 29 years old),2.0
+2023,Youth (12 to 17 years old),0.0
+2024,Youth (12 to 17 years old),0.0
+2014,Youth (15 to 24 years old),0.0
+2015,Youth (15 to 24 years old),0.0
+2016,Youth (15 to 24 years old),0.0
+2017,Youth (15 to 24 years old),0.0
+2018,Youth (15 to 24 years old),1.0
+2019,Youth (15 to 24 years old),0.0
+2020,Youth (15 to 24 years old),0.0
+2021,Youth (15 to 24 years old),2.0
+2022,Youth (15 to 24 years old),1.0
+2023,Youth (15 to 24 years old),2.0
+2024,Youth (15 to 24 years old),1.0

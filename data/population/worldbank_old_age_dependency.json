@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_old_age_dependency",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "World Bank WDI (UN World Population Prospects)",
+  "frequency": "annual",
+  "unit": "people 65+ per 100 aged 15\u201364",
+  "retrieved_at": "2026-08-10T15:03:38.183737+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "World Bank indicator SP.POP.DPND.OL, filtered to 17 OECD peers"
+  ],
+  "notes": null,
+  "row_count": 1122
+}

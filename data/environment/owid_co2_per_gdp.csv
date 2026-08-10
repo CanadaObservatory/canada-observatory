@@ -1,0 +1,2879 @@
+country_code,country_name,year,co2_per_gdp
+AUS,Australia,1820,0.022
+AUS,Australia,1821,0.011
+AUS,Australia,1822,0.014
+AUS,Australia,1823,0.016
+AUS,Australia,1824,0.015
+AUS,Australia,1825,0.009
+AUS,Australia,1826,0.019
+AUS,Australia,1827,0.017
+AUS,Australia,1828,0.011
+AUS,Australia,1829,0.017
+AUS,Australia,1830,0.013
+AUS,Australia,1831,0.003
+AUS,Australia,1832,0.023
+AUS,Australia,1833,0.021
+AUS,Australia,1834,0.025
+AUS,Australia,1835,0.03
+AUS,Australia,1836,0.03
+AUS,Australia,1837,0.036
+AUS,Australia,1838,0.038
+AUS,Australia,1839,0.048
+AUS,Australia,1840,0.052
+AUS,Australia,1841,0.066
+AUS,Australia,1842,0.079
+AUS,Australia,1843,0.044
+AUS,Australia,1844,0.034
+AUS,Australia,1845,0.031
+AUS,Australia,1846,0.048
+AUS,Australia,1847,0.042
+AUS,Australia,1848,0.039
+AUS,Australia,1849,0.04
+AUS,Australia,1850,0.059
+AUS,Australia,1851,0.045
+AUS,Australia,1852,0.034
+AUS,Australia,1853,0.04
+AUS,Australia,1854,0.049
+AUS,Australia,1855,0.055
+AUS,Australia,1856,0.058
+AUS,Australia,1857,0.067
+AUS,Australia,1858,0.075
+AUS,Australia,1859,0.08
+AUS,Australia,1860,0.098
+AUS,Australia,1861,0.092
+AUS,Australia,1862,0.13
+AUS,Australia,1863,0.116
+AUS,Australia,1864,0.131
+AUS,Australia,1865,0.142
+AUS,Australia,1866,0.176
+AUS,Australia,1867,0.152
+AUS,Australia,1868,0.179
+AUS,Australia,1869,0.17
+AUS,Australia,1870,0.151
+AUS,Australia,1871,0.164
+AUS,Australia,1872,0.168
+AUS,Australia,1873,0.179
+AUS,Australia,1874,0.191
+AUS,Australia,1875,0.173
+AUS,Australia,1876,0.175
+AUS,Australia,1877,0.185
+AUS,Australia,1878,0.182
+AUS,Australia,1879,0.181
+AUS,Australia,1880,0.161
+AUS,Australia,1881,0.18
+AUS,Australia,1882,0.227
+AUS,Australia,1883,0.238
+AUS,Australia,1884,0.258
+AUS,Australia,1885,0.261
+AUS,Australia,1886,0.255
+AUS,Australia,1887,0.24
+AUS,Australia,1888,0.266
+AUS,Australia,1889,0.273
+AUS,Australia,1890,0.247
+AUS,Australia,1891,0.29
+AUS,Australia,1892,0.31
+AUS,Australia,1893,0.293
+AUS,Australia,1894,0.32
+AUS,Australia,1895,0.351
+AUS,Australia,1896,0.346
+AUS,Australia,1897,0.404
+AUS,Australia,1898,0.377
+AUS,Australia,1899,0.385
+AUS,Australia,1900,0.425
+AUS,Australia,1901,0.493
+AUS,Australia,1902,0.486
+AUS,Australia,1903,0.443
+AUS,Australia,1904,0.427
+AUS,Australia,1905,0.441
+AUS,Australia,1906,0.492
+AUS,Australia,1907,0.51
+AUS,Australia,1908,0.535
+AUS,Australia,1909,0.429
+AUS,Australia,1910,0.487
+AUS,Australia,1911,0.533
+AUS,Australia,1912,0.56
+AUS,Australia,1913,0.575
+AUS,Australia,1914,0.63
+AUS,Australia,1915,0.574
+AUS,Australia,1916,0.515
+AUS,Australia,1917,0.564
+AUS,Australia,1918,0.633
+AUS,Australia,1919,0.568
+AUS,Australia,1920,0.646
+AUS,Australia,1921,0.556
+AUS,Australia,1922,0.554
+AUS,Australia,1923,0.545
+AUS,Australia,1924,0.561
+AUS,Australia,1925,0.563
+AUS,Australia,1926,0.549
+AUS,Australia,1927,0.572
+AUS,Australia,1928,0.53
+AUS,Australia,1929,0.501
+AUS,Australia,1930,0.534
+AUS,Australia,1931,0.498
+AUS,Australia,1932,0.482
+AUS,Australia,1933,0.484
+AUS,Australia,1934,0.486
+AUS,Australia,1935,0.507
+AUS,Australia,1936,0.528
+AUS,Australia,1937,0.539
+AUS,Australia,1938,0.52
+AUS,Australia,1939,0.585
+AUS,Australia,1940,0.511
+AUS,Australia,1941,0.511
+AUS,Australia,1942,0.49
+AUS,Australia,1943,0.464
+AUS,Australia,1944,0.478
+AUS,Australia,1945,0.481
+AUS,Australia,1946,0.544
+AUS,Australia,1947,0.556
+AUS,Australia,1948,0.549
+AUS,Australia,1949,0.526
+AUS,Australia,1950,0.57
+AUS,Australia,1951,0.599
+AUS,Australia,1952,0.607
+AUS,Australia,1953,0.595
+AUS,Australia,1954,0.603
+AUS,Australia,1955,0.606
+AUS,Australia,1956,0.615
+AUS,Australia,1957,0.603
+AUS,Australia,1958,0.594
+AUS,Australia,1959,0.596
+AUS,Australia,1960,0.602
+AUS,Australia,1961,0.595
+AUS,Australia,1962,0.585
+AUS,Australia,1963,0.582
+AUS,Australia,1964,0.588
+AUS,Australia,1965,0.614
+AUS,Australia,1966,0.608
+AUS,Australia,1967,0.602
+AUS,Australia,1968,0.599
+AUS,Australia,1969,0.598
+AUS,Australia,1970,0.609
+AUS,Australia,1971,0.596
+AUS,Australia,1972,0.59
+AUS,Australia,1973,0.619
+AUS,Australia,1974,0.59
+AUS,Australia,1975,0.599
+AUS,Australia,1976,0.565
+AUS,Australia,1977,0.599
+AUS,Australia,1978,0.611
+AUS,Australia,1979,0.584
+AUS,Australia,1980,0.609
+AUS,Australia,1981,0.613
+AUS,Australia,1982,0.626
+AUS,Australia,1983,0.596
+AUS,Australia,1984,0.584
+AUS,Australia,1985,0.574
+AUS,Australia,1986,0.561
+AUS,Australia,1987,0.56
+AUS,Australia,1988,0.55
+AUS,Australia,1989,0.562
+AUS,Australia,1990,0.599
+AUS,Australia,1991,0.606
+AUS,Australia,1992,0.594
+AUS,Australia,1993,0.576
+AUS,Australia,1994,0.556
+AUS,Australia,1995,0.555
+AUS,Australia,1996,0.543
+AUS,Australia,1997,0.532
+AUS,Australia,1998,0.526
+AUS,Australia,1999,0.517
+AUS,Australia,2000,0.506
+AUS,Australia,2001,0.501
+AUS,Australia,2002,0.485
+AUS,Australia,2003,0.479
+AUS,Australia,2004,0.472
+AUS,Australia,2005,0.458
+AUS,Australia,2006,0.452
+AUS,Australia,2007,0.438
+AUS,Australia,2008,0.431
+AUS,Australia,2009,0.423
+AUS,Australia,2010,0.408
+AUS,Australia,2011,0.394
+AUS,Australia,2012,0.381
+AUS,Australia,2013,0.366
+AUS,Australia,2014,0.352
+AUS,Australia,2015,0.352
+AUS,Australia,2016,0.35
+AUS,Australia,2017,0.345
+AUS,Australia,2018,0.337
+AUS,Australia,2019,0.33
+AUS,Australia,2020,0.323
+AUS,Australia,2021,0.3
+AUS,Australia,2022,0.286
+CAN,Canada,1820,0.003
+CAN,Canada,1830,0.002
+CAN,Canada,1840,0.001
+CAN,Canada,1850,0.011
+CAN,Canada,1860,0.049
+CAN,Canada,1870,0.12
+CAN,Canada,1871,0.167
+CAN,Canada,1872,0.176
+CAN,Canada,1873,0.139
+CAN,Canada,1874,0.137
+CAN,Canada,1875,0.162
+CAN,Canada,1876,0.172
+CAN,Canada,1877,0.176
+CAN,Canada,1878,0.175
+CAN,Canada,1879,0.18
+CAN,Canada,1880,0.412
+CAN,Canada,1881,0.386
+CAN,Canada,1882,0.437
+CAN,Canada,1883,0.489
+CAN,Canada,1884,0.524
+CAN,Canada,1885,0.535
+CAN,Canada,1886,0.565
+CAN,Canada,1887,0.631
+CAN,Canada,1888,0.771
+CAN,Canada,1889,0.65
+CAN,Canada,1890,0.666
+CAN,Canada,1891,0.73
+CAN,Canada,1892,0.732
+CAN,Canada,1893,0.787
+CAN,Canada,1894,0.718
+CAN,Canada,1895,0.693
+CAN,Canada,1896,0.77
+CAN,Canada,1897,0.701
+CAN,Canada,1898,0.716
+CAN,Canada,1899,0.799
+CAN,Canada,1900,0.815
+CAN,Canada,1901,0.872
+CAN,Canada,1902,0.855
+CAN,Canada,1903,0.905
+CAN,Canada,1904,1.056
+CAN,Canada,1905,1.011
+CAN,Canada,1906,0.971
+CAN,Canada,1907,1.153
+CAN,Canada,1908,1.222
+CAN,Canada,1909,1.058
+CAN,Canada,1910,1.108
+CAN,Canada,1911,1.211
+CAN,Canada,1912,1.268
+CAN,Canada,1913,1.425
+CAN,Canada,1914,1.317
+CAN,Canada,1915,1.106
+CAN,Canada,1916,1.257
+CAN,Canada,1917,1.346
+CAN,Canada,1918,1.51
+CAN,Canada,1919,1.39
+CAN,Canada,1920,1.558
+CAN,Canada,1921,1.666
+CAN,Canada,1922,1.25
+CAN,Canada,1923,1.585
+CAN,Canada,1924,1.3
+CAN,Canada,1925,1.139
+CAN,Canada,1926,1.217
+CAN,Canada,1927,1.202
+CAN,Canada,1928,1.125
+CAN,Canada,1929,1.19
+CAN,Canada,1930,1.173
+CAN,Canada,1931,1.115
+CAN,Canada,1932,1.111
+CAN,Canada,1933,1.185
+CAN,Canada,1934,1.232
+CAN,Canada,1935,1.123
+CAN,Canada,1936,1.166
+CAN,Canada,1937,1.156
+CAN,Canada,1938,1.031
+CAN,Canada,1939,1.08
+CAN,Canada,1940,1.086
+CAN,Canada,1941,1.054
+CAN,Canada,1942,0.977
+CAN,Canada,1943,0.984
+CAN,Canada,1944,0.965
+CAN,Canada,1945,0.925
+CAN,Canada,1946,0.992
+CAN,Canada,1947,0.985
+CAN,Canada,1948,1.068
+CAN,Canada,1949,0.956
+CAN,Canada,1950,0.947
+CAN,Canada,1951,0.945
+CAN,Canada,1952,0.863
+CAN,Canada,1953,0.831
+CAN,Canada,1954,0.849
+CAN,Canada,1955,0.808
+CAN,Canada,1956,0.837
+CAN,Canada,1957,0.783
+CAN,Canada,1958,0.767
+CAN,Canada,1959,0.746
+CAN,Canada,1960,0.756
+CAN,Canada,1961,0.739
+CAN,Canada,1962,0.737
+CAN,Canada,1963,0.715
+CAN,Canada,1964,0.756
+CAN,Canada,1965,0.752
+CAN,Canada,1966,0.726
+CAN,Canada,1967,0.766
+CAN,Canada,1968,0.784
+CAN,Canada,1969,0.754
+CAN,Canada,1970,0.817
+CAN,Canada,1971,0.799
+CAN,Canada,1972,0.82
+CAN,Canada,1973,0.766
+CAN,Canada,1974,0.752
+CAN,Canada,1975,0.749
+CAN,Canada,1976,0.714
+CAN,Canada,1977,0.706
+CAN,Canada,1978,0.692
+CAN,Canada,1979,0.706
+CAN,Canada,1980,0.698
+CAN,Canada,1981,0.657
+CAN,Canada,1982,0.654
+CAN,Canada,1983,0.626
+CAN,Canada,1984,0.617
+CAN,Canada,1985,0.58
+CAN,Canada,1986,0.542
+CAN,Canada,1987,0.555
+CAN,Canada,1988,0.56
+CAN,Canada,1989,0.555
+CAN,Canada,1990,0.548
+CAN,Canada,1991,0.548
+CAN,Canada,1992,0.558
+CAN,Canada,1993,0.544
+CAN,Canada,1994,0.535
+CAN,Canada,1995,0.533
+CAN,Canada,1996,0.541
+CAN,Canada,1997,0.532
+CAN,Canada,1998,0.518
+CAN,Canada,1999,0.504
+CAN,Canada,2000,0.498
+CAN,Canada,2001,0.481
+CAN,Canada,2002,0.47
+CAN,Canada,2003,0.475
+CAN,Canada,2004,0.455
+CAN,Canada,2005,0.435
+CAN,Canada,2006,0.42
+CAN,Canada,2007,0.428
+CAN,Canada,2008,0.411
+CAN,Canada,2009,0.398
+CAN,Canada,2010,0.394
+CAN,Canada,2011,0.387
+CAN,Canada,2012,0.38
+CAN,Canada,2013,0.375
+CAN,Canada,2014,0.363
+CAN,Canada,2015,0.359
+CAN,Canada,2016,0.35
+CAN,Canada,2017,0.347
+CAN,Canada,2018,0.343
+CAN,Canada,2019,0.339
+CAN,Canada,2020,0.323
+CAN,Canada,2021,0.316
+CAN,Canada,2022,0.311
+CHE,Switzerland,1858,0.021
+CHE,Switzerland,1859,0.028
+CHE,Switzerland,1860,0.041
+CHE,Switzerland,1861,0.057
+CHE,Switzerland,1862,0.065
+CHE,Switzerland,1863,0.064
+CHE,Switzerland,1864,0.079
+CHE,Switzerland,1865,0.097
+CHE,Switzerland,1866,0.094
+CHE,Switzerland,1867,0.094
+CHE,Switzerland,1868,0.096
+CHE,Switzerland,1869,0.093
+CHE,Switzerland,1870,0.114
+CHE,Switzerland,1871,0.135
+CHE,Switzerland,1872,0.151
+CHE,Switzerland,1873,0.137
+CHE,Switzerland,1874,0.129
+CHE,Switzerland,1875,0.129
+CHE,Switzerland,1876,0.14
+CHE,Switzerland,1877,0.14
+CHE,Switzerland,1878,0.139
+CHE,Switzerland,1879,0.146
+CHE,Switzerland,1880,0.152
+CHE,Switzerland,1881,0.139
+CHE,Switzerland,1882,0.151
+CHE,Switzerland,1883,0.159
+CHE,Switzerland,1884,0.15
+CHE,Switzerland,1885,0.148
+CHE,Switzerland,1886,0.142
+CHE,Switzerland,1887,0.15
+CHE,Switzerland,1888,0.154
+CHE,Switzerland,1889,0.168
+CHE,Switzerland,1890,0.184
+CHE,Switzerland,1891,0.241
+CHE,Switzerland,1892,0.219
+CHE,Switzerland,1893,0.177
+CHE,Switzerland,1894,0.218
+CHE,Switzerland,1895,0.219
+CHE,Switzerland,1896,0.224
+CHE,Switzerland,1897,0.223
+CHE,Switzerland,1898,0.229
+CHE,Switzerland,1899,0.248
+CHE,Switzerland,1900,0.26
+CHE,Switzerland,1901,0.243
+CHE,Switzerland,1902,0.234
+CHE,Switzerland,1903,0.256
+CHE,Switzerland,1904,0.25
+CHE,Switzerland,1905,0.251
+CHE,Switzerland,1906,0.255
+CHE,Switzerland,1907,0.297
+CHE,Switzerland,1908,0.292
+CHE,Switzerland,1909,0.278
+CHE,Switzerland,1910,0.259
+CHE,Switzerland,1911,0.283
+CHE,Switzerland,1912,0.276
+CHE,Switzerland,1913,0.293
+CHE,Switzerland,1914,0.285
+CHE,Switzerland,1915,0.308
+CHE,Switzerland,1916,0.27
+CHE,Switzerland,1917,0.2
+CHE,Switzerland,1918,0.208
+CHE,Switzerland,1919,0.176
+CHE,Switzerland,1920,0.253
+CHE,Switzerland,1921,0.192
+CHE,Switzerland,1922,0.221
+CHE,Switzerland,1923,0.257
+CHE,Switzerland,1924,0.227
+CHE,Switzerland,1925,0.23
+CHE,Switzerland,1926,0.219
+CHE,Switzerland,1927,0.235
+CHE,Switzerland,1928,0.233
+CHE,Switzerland,1929,0.257
+CHE,Switzerland,1930,0.237
+CHE,Switzerland,1931,0.246
+CHE,Switzerland,1932,0.256
+CHE,Switzerland,1933,0.232
+CHE,Switzerland,1934,0.231
+CHE,Switzerland,1935,0.241
+CHE,Switzerland,1936,0.256
+CHE,Switzerland,1937,0.249
+CHE,Switzerland,1938,0.26
+CHE,Switzerland,1939,0.287
+CHE,Switzerland,1940,0.201
+CHE,Switzerland,1941,0.169
+CHE,Switzerland,1942,0.156
+CHE,Switzerland,1943,0.165
+CHE,Switzerland,1944,0.115
+CHE,Switzerland,1945,0.042
+CHE,Switzerland,1946,0.119
+CHE,Switzerland,1947,0.189
+CHE,Switzerland,1948,0.199
+CHE,Switzerland,1949,0.168
+CHE,Switzerland,1950,0.189
+CHE,Switzerland,1951,0.218
+CHE,Switzerland,1952,0.194
+CHE,Switzerland,1953,0.17
+CHE,Switzerland,1954,0.194
+CHE,Switzerland,1955,0.196
+CHE,Switzerland,1956,0.233
+CHE,Switzerland,1957,0.236
+CHE,Switzerland,1958,0.214
+CHE,Switzerland,1959,0.204
+CHE,Switzerland,1960,0.222
+CHE,Switzerland,1961,0.214
+CHE,Switzerland,1962,0.239
+CHE,Switzerland,1963,0.272
+CHE,Switzerland,1964,0.249
+CHE,Switzerland,1965,0.258
+CHE,Switzerland,1966,0.26
+CHE,Switzerland,1967,0.259
+CHE,Switzerland,1968,0.274
+CHE,Switzerland,1969,0.275
+CHE,Switzerland,1970,0.274
+CHE,Switzerland,1971,0.27
+CHE,Switzerland,1972,0.264
+CHE,Switzerland,1973,0.276
+CHE,Switzerland,1974,0.249
+CHE,Switzerland,1975,0.249
+CHE,Switzerland,1976,0.258
+CHE,Switzerland,1977,0.255
+CHE,Switzerland,1978,0.255
+CHE,Switzerland,1979,0.236
+CHE,Switzerland,1980,0.231
+CHE,Switzerland,1981,0.218
+CHE,Switzerland,1982,0.204
+CHE,Switzerland,1983,0.22
+CHE,Switzerland,1984,0.212
+CHE,Switzerland,1985,0.206
+CHE,Switzerland,1986,0.207
+CHE,Switzerland,1987,0.19
+CHE,Switzerland,1988,0.187
+CHE,Switzerland,1989,0.175
+CHE,Switzerland,1990,0.189
+CHE,Switzerland,1991,0.195
+CHE,Switzerland,1992,0.192
+CHE,Switzerland,1993,0.179
+CHE,Switzerland,1994,0.17
+CHE,Switzerland,1995,0.169
+CHE,Switzerland,1996,0.167
+CHE,Switzerland,1997,0.157
+CHE,Switzerland,1998,0.155
+CHE,Switzerland,1999,0.149
+CHE,Switzerland,2000,0.138
+CHE,Switzerland,2001,0.139
+CHE,Switzerland,2002,0.131
+CHE,Switzerland,2003,0.132
+CHE,Switzerland,2004,0.128
+CHE,Switzerland,2005,0.123
+CHE,Switzerland,2006,0.115
+CHE,Switzerland,2007,0.104
+CHE,Switzerland,2008,0.103
+CHE,Switzerland,2009,0.101
+CHE,Switzerland,2010,0.1
+CHE,Switzerland,2011,0.088
+CHE,Switzerland,2012,0.089
+CHE,Switzerland,2013,0.09
+CHE,Switzerland,2014,0.08
+CHE,Switzerland,2015,0.077
+CHE,Switzerland,2016,0.077
+CHE,Switzerland,2017,0.074
+CHE,Switzerland,2018,0.069
+CHE,Switzerland,2019,0.068
+CHE,Switzerland,2020,0.065
+CHE,Switzerland,2021,0.066
+CHE,Switzerland,2022,0.059
+DEU,Germany,1820,0.067
+DEU,Germany,1821,0.068
+DEU,Germany,1822,0.069
+DEU,Germany,1823,0.077
+DEU,Germany,1824,0.058
+DEU,Germany,1825,0.076
+DEU,Germany,1826,0.072
+DEU,Germany,1827,0.079
+DEU,Germany,1828,0.081
+DEU,Germany,1829,0.063
+DEU,Germany,1830,0.084
+DEU,Germany,1831,0.08
+DEU,Germany,1832,0.058
+DEU,Germany,1833,0.071
+DEU,Germany,1834,0.07
+DEU,Germany,1835,0.077
+DEU,Germany,1836,0.08
+DEU,Germany,1837,0.091
+DEU,Germany,1838,0.103
+DEU,Germany,1839,0.108
+DEU,Germany,1840,0.136
+DEU,Germany,1841,0.136
+DEU,Germany,1842,0.156
+DEU,Germany,1843,0.153
+DEU,Germany,1844,0.157
+DEU,Germany,1845,0.178
+DEU,Germany,1846,0.191
+DEU,Germany,1847,0.202
+DEU,Germany,1848,0.175
+DEU,Germany,1849,0.178
+DEU,Germany,1850,0.197
+DEU,Germany,1851,0.221
+DEU,Germany,1852,0.246
+DEU,Germany,1853,0.268
+DEU,Germany,1854,0.307
+DEU,Germany,1855,0.366
+DEU,Germany,1856,0.365
+DEU,Germany,1857,0.371
+DEU,Germany,1858,0.402
+DEU,Germany,1859,0.38
+DEU,Germany,1860,0.386
+DEU,Germany,1861,0.45
+DEU,Germany,1862,0.472
+DEU,Germany,1863,0.476
+DEU,Germany,1864,0.531
+DEU,Germany,1865,0.593
+DEU,Germany,1866,0.583
+DEU,Germany,1867,0.639
+DEU,Germany,1868,0.649
+DEU,Germany,1869,0.672
+DEU,Germany,1870,0.667
+DEU,Germany,1871,0.747
+DEU,Germany,1872,0.754
+DEU,Germany,1873,0.772
+DEU,Germany,1874,0.523
+DEU,Germany,1875,0.737
+DEU,Germany,1876,0.755
+DEU,Germany,1877,0.744
+DEU,Germany,1878,0.733
+DEU,Germany,1879,0.796
+DEU,Germany,1880,0.902
+DEU,Germany,1881,0.949
+DEU,Germany,1882,1.0
+DEU,Germany,1883,1.009
+DEU,Germany,1884,1.013
+DEU,Germany,1885,1.012
+DEU,Germany,1886,1.017
+DEU,Germany,1887,1.022
+DEU,Germany,1888,1.073
+DEU,Germany,1889,1.114
+DEU,Germany,1890,1.13
+DEU,Germany,1891,1.201
+DEU,Germany,1892,1.123
+DEU,Germany,1893,1.099
+DEU,Germany,1894,1.115
+DEU,Germany,1895,1.105
+DEU,Germany,1896,1.148
+DEU,Germany,1897,1.191
+DEU,Germany,1898,1.192
+DEU,Germany,1899,1.222
+DEU,Germany,1900,1.263
+DEU,Germany,1901,1.289
+DEU,Germany,1902,1.234
+DEU,Germany,1903,1.258
+DEU,Germany,1904,1.254
+DEU,Germany,1905,1.318
+DEU,Germany,1906,1.211
+DEU,Germany,1907,1.417
+DEU,Germany,1908,1.407
+DEU,Germany,1909,1.376
+DEU,Germany,1910,1.327
+DEU,Germany,1911,1.322
+DEU,Germany,1912,1.379
+DEU,Germany,1913,1.414
+DEU,Germany,1914,1.545
+DEU,Germany,1915,1.513
+DEU,Germany,1916,1.62
+DEU,Germany,1917,1.695
+DEU,Germany,1918,1.623
+DEU,Germany,1919,1.552
+DEU,Germany,1920,1.581
+DEU,Germany,1921,1.566
+DEU,Germany,1922,1.386
+DEU,Germany,1923,1.215
+DEU,Germany,1924,1.413
+DEU,Germany,1925,1.288
+DEU,Germany,1926,1.13
+DEU,Germany,1927,1.196
+DEU,Germany,1928,1.203
+DEU,Germany,1929,1.29
+DEU,Germany,1930,1.121
+DEU,Germany,1931,1.013
+DEU,Germany,1932,0.987
+DEU,Germany,1933,0.975
+DEU,Germany,1934,1.001
+DEU,Germany,1935,1.03
+DEU,Germany,1936,1.046
+DEU,Germany,1937,1.112
+DEU,Germany,1938,1.102
+DEU,Germany,1939,1.086
+DEU,Germany,1940,1.088
+DEU,Germany,1941,1.033
+DEU,Germany,1942,1.031
+DEU,Germany,1943,1.028
+DEU,Germany,1944,0.886
+DEU,Germany,1945,0.241
+DEU,Germany,1946,1.189
+DEU,Germany,1947,1.238
+DEU,Germany,1948,1.243
+DEU,Germany,1949,1.215
+DEU,Germany,1950,1.207
+DEU,Germany,1951,1.249
+DEU,Germany,1952,1.217
+DEU,Germany,1953,1.146
+DEU,Germany,1954,1.129
+DEU,Germany,1955,1.115
+DEU,Germany,1956,1.102
+DEU,Germany,1957,1.058
+DEU,Germany,1958,0.985
+DEU,Germany,1959,0.917
+DEU,Germany,1960,0.914
+DEU,Germany,1961,0.9
+DEU,Germany,1962,0.914
+DEU,Germany,1963,0.951
+DEU,Germany,1964,0.919
+DEU,Germany,1965,0.867
+DEU,Germany,1966,0.834
+DEU,Germany,1967,0.818
+DEU,Germany,1968,0.818
+DEU,Germany,1969,0.819
+DEU,Germany,1970,0.763
+DEU,Germany,1971,0.75
+DEU,Germany,1972,0.723
+DEU,Germany,1973,0.721
+DEU,Germany,1974,0.7
+DEU,Germany,1975,0.664
+DEU,Germany,1976,0.689
+DEU,Germany,1977,0.646
+DEU,Germany,1978,0.644
+DEU,Germany,1979,0.642
+DEU,Germany,1980,0.624
+DEU,Germany,1981,0.593
+DEU,Germany,1982,0.579
+DEU,Germany,1983,0.567
+DEU,Germany,1984,0.563
+DEU,Germany,1985,0.557
+DEU,Germany,1986,0.547
+DEU,Germany,1987,0.531
+DEU,Germany,1988,0.512
+DEU,Germany,1989,0.486
+DEU,Germany,1990,0.523
+DEU,Germany,1991,0.475
+DEU,Germany,1992,0.44
+DEU,Germany,1993,0.435
+DEU,Germany,1994,0.413
+DEU,Germany,1995,0.4
+DEU,Germany,1996,0.401
+DEU,Germany,1997,0.379
+DEU,Germany,1998,0.364
+DEU,Germany,1999,0.343
+DEU,Germany,2000,0.331
+DEU,Germany,2001,0.328
+DEU,Germany,2002,0.318
+DEU,Germany,2003,0.316
+DEU,Germany,2004,0.303
+DEU,Germany,2005,0.295
+DEU,Germany,2006,0.287
+DEU,Germany,2007,0.263
+DEU,Germany,2008,0.26
+DEU,Germany,2009,0.252
+DEU,Germany,2010,0.25
+DEU,Germany,2011,0.232
+DEU,Germany,2012,0.234
+DEU,Germany,2013,0.238
+DEU,Germany,2014,0.222
+DEU,Germany,2015,0.221
+DEU,Germany,2016,0.215
+DEU,Germany,2017,0.206
+DEU,Germany,2018,0.197
+DEU,Germany,2019,0.182
+DEU,Germany,2020,0.173
+DEU,Germany,2021,0.177
+DEU,Germany,2022,0.171
+DNK,Denmark,1843,0.041
+DNK,Denmark,1844,0.046
+DNK,Denmark,1845,0.059
+DNK,Denmark,1846,0.063
+DNK,Denmark,1847,0.048
+DNK,Denmark,1848,0.082
+DNK,Denmark,1849,0.068
+DNK,Denmark,1850,0.081
+DNK,Denmark,1851,0.078
+DNK,Denmark,1852,0.08
+DNK,Denmark,1853,0.086
+DNK,Denmark,1854,0.109
+DNK,Denmark,1855,0.097
+DNK,Denmark,1856,0.147
+DNK,Denmark,1857,0.148
+DNK,Denmark,1858,0.11
+DNK,Denmark,1859,0.132
+DNK,Denmark,1860,0.115
+DNK,Denmark,1861,0.164
+DNK,Denmark,1862,0.137
+DNK,Denmark,1863,0.144
+DNK,Denmark,1864,0.125
+DNK,Denmark,1865,0.189
+DNK,Denmark,1866,0.175
+DNK,Denmark,1867,0.17
+DNK,Denmark,1868,0.198
+DNK,Denmark,1869,0.163
+DNK,Denmark,1870,0.19
+DNK,Denmark,1871,0.196
+DNK,Denmark,1872,0.179
+DNK,Denmark,1873,0.181
+DNK,Denmark,1874,0.19
+DNK,Denmark,1875,0.22
+DNK,Denmark,1876,0.228
+DNK,Denmark,1877,0.232
+DNK,Denmark,1878,0.211
+DNK,Denmark,1879,0.231
+DNK,Denmark,1880,0.257
+DNK,Denmark,1881,0.27
+DNK,Denmark,1882,0.279
+DNK,Denmark,1883,0.31
+DNK,Denmark,1884,0.307
+DNK,Denmark,1885,0.32
+DNK,Denmark,1886,0.295
+DNK,Denmark,1887,0.292
+DNK,Denmark,1888,0.326
+DNK,Denmark,1889,0.344
+DNK,Denmark,1890,0.311
+DNK,Denmark,1891,0.328
+DNK,Denmark,1892,0.329
+DNK,Denmark,1893,0.305
+DNK,Denmark,1894,0.339
+DNK,Denmark,1895,0.333
+DNK,Denmark,1896,0.393
+DNK,Denmark,1897,0.412
+DNK,Denmark,1898,0.42
+DNK,Denmark,1899,0.441
+DNK,Denmark,1900,0.418
+DNK,Denmark,1901,0.418
+DNK,Denmark,1902,0.419
+DNK,Denmark,1903,0.412
+DNK,Denmark,1904,0.435
+DNK,Denmark,1905,0.416
+DNK,Denmark,1906,0.44
+DNK,Denmark,1907,0.378
+DNK,Denmark,1908,0.455
+DNK,Denmark,1909,0.485
+DNK,Denmark,1910,0.432
+DNK,Denmark,1911,0.437
+DNK,Denmark,1912,0.518
+DNK,Denmark,1913,0.512
+DNK,Denmark,1914,0.494
+DNK,Denmark,1915,0.568
+DNK,Denmark,1916,0.533
+DNK,Denmark,1917,0.412
+DNK,Denmark,1918,0.497
+DNK,Denmark,1919,0.418
+DNK,Denmark,1920,0.349
+DNK,Denmark,1921,0.339
+DNK,Denmark,1922,0.437
+DNK,Denmark,1923,0.432
+DNK,Denmark,1924,0.504
+DNK,Denmark,1925,0.449
+DNK,Denmark,1926,0.414
+DNK,Denmark,1927,0.516
+DNK,Denmark,1928,0.471
+DNK,Denmark,1929,0.532
+DNK,Denmark,1930,0.458
+DNK,Denmark,1931,0.47
+DNK,Denmark,1932,0.452
+DNK,Denmark,1933,0.436
+DNK,Denmark,1934,0.464
+DNK,Denmark,1935,0.472
+DNK,Denmark,1936,0.477
+DNK,Denmark,1937,0.481
+DNK,Denmark,1938,0.422
+DNK,Denmark,1939,0.448
+DNK,Denmark,1940,0.474
+DNK,Denmark,1941,0.618
+DNK,Denmark,1942,0.572
+DNK,Denmark,1943,0.645
+DNK,Denmark,1944,0.574
+DNK,Denmark,1945,0.43
+DNK,Denmark,1946,0.467
+DNK,Denmark,1947,0.538
+DNK,Denmark,1948,0.417
+DNK,Denmark,1949,0.386
+DNK,Denmark,1950,0.466
+DNK,Denmark,1951,0.461
+DNK,Denmark,1952,0.477
+DNK,Denmark,1953,0.456
+DNK,Denmark,1954,0.494
+DNK,Denmark,1955,0.518
+DNK,Denmark,1956,0.498
+DNK,Denmark,1957,0.437
+DNK,Denmark,1958,0.46
+DNK,Denmark,1959,0.416
+DNK,Denmark,1960,0.463
+DNK,Denmark,1961,0.463
+DNK,Denmark,1962,0.511
+DNK,Denmark,1963,0.56
+DNK,Denmark,1964,0.543
+DNK,Denmark,1965,0.533
+DNK,Denmark,1966,0.587
+DNK,Denmark,1967,0.556
+DNK,Denmark,1968,0.58
+DNK,Denmark,1969,0.608
+DNK,Denmark,1970,0.623
+DNK,Denmark,1971,0.557
+DNK,Denmark,1972,0.553
+DNK,Denmark,1973,0.53
+DNK,Denmark,1974,0.497
+DNK,Denmark,1975,0.507
+DNK,Denmark,1976,0.513
+DNK,Denmark,1977,0.52
+DNK,Denmark,1978,0.506
+DNK,Denmark,1979,0.504
+DNK,Denmark,1980,0.485
+DNK,Denmark,1981,0.42
+DNK,Denmark,1982,0.422
+DNK,Denmark,1983,0.385
+DNK,Denmark,1984,0.374
+DNK,Denmark,1985,0.423
+DNK,Denmark,1986,0.4
+DNK,Denmark,1987,0.395
+DNK,Denmark,1988,0.369
+DNK,Denmark,1989,0.326
+DNK,Denmark,1990,0.354
+DNK,Denmark,1991,0.416
+DNK,Denmark,1992,0.369
+DNK,Denmark,1993,0.381
+DNK,Denmark,1994,0.384
+DNK,Denmark,1995,0.353
+DNK,Denmark,1996,0.415
+DNK,Denmark,1997,0.349
+DNK,Denmark,1998,0.318
+DNK,Denmark,1999,0.294
+DNK,Denmark,2000,0.261
+DNK,Denmark,2001,0.265
+DNK,Denmark,2002,0.26
+DNK,Denmark,2003,0.281
+DNK,Denmark,2004,0.248
+DNK,Denmark,2005,0.225
+DNK,Denmark,2006,0.249
+DNK,Denmark,2007,0.225
+DNK,Denmark,2008,0.211
+DNK,Denmark,2009,0.21
+DNK,Denmark,2010,0.207
+DNK,Denmark,2011,0.182
+DNK,Denmark,2012,0.164
+DNK,Denmark,2013,0.17
+DNK,Denmark,2014,0.151
+DNK,Denmark,2015,0.137
+DNK,Denmark,2016,0.14
+DNK,Denmark,2017,0.128
+DNK,Denmark,2018,0.125
+DNK,Denmark,2019,0.11
+DNK,Denmark,2020,0.103
+DNK,Denmark,2021,0.103
+DNK,Denmark,2022,0.097
+FIN,Finland,1860,0.014
+FIN,Finland,1861,0.027
+FIN,Finland,1862,0.029
+FIN,Finland,1863,0.028
+FIN,Finland,1864,0.017
+FIN,Finland,1865,0.022
+FIN,Finland,1866,0.025
+FIN,Finland,1867,0.024
+FIN,Finland,1868,0.031
+FIN,Finland,1869,0.023
+FIN,Finland,1870,0.029
+FIN,Finland,1871,0.035
+FIN,Finland,1872,0.028
+FIN,Finland,1873,0.025
+FIN,Finland,1874,0.035
+FIN,Finland,1875,0.023
+FIN,Finland,1876,0.025
+FIN,Finland,1877,0.03
+FIN,Finland,1878,0.035
+FIN,Finland,1879,0.021
+FIN,Finland,1880,0.026
+FIN,Finland,1881,0.027
+FIN,Finland,1882,0.03
+FIN,Finland,1883,0.028
+FIN,Finland,1884,0.034
+FIN,Finland,1885,0.051
+FIN,Finland,1886,0.028
+FIN,Finland,1887,0.028
+FIN,Finland,1888,0.025
+FIN,Finland,1889,0.033
+FIN,Finland,1890,0.04
+FIN,Finland,1891,0.043
+FIN,Finland,1892,0.039
+FIN,Finland,1893,0.037
+FIN,Finland,1894,0.039
+FIN,Finland,1895,0.04
+FIN,Finland,1896,0.047
+FIN,Finland,1897,0.078
+FIN,Finland,1898,0.071
+FIN,Finland,1899,0.11
+FIN,Finland,1900,0.085
+FIN,Finland,1901,0.061
+FIN,Finland,1902,0.059
+FIN,Finland,1903,0.071
+FIN,Finland,1904,0.07
+FIN,Finland,1905,0.076
+FIN,Finland,1906,0.077
+FIN,Finland,1907,0.108
+FIN,Finland,1908,0.169
+FIN,Finland,1909,0.147
+FIN,Finland,1910,0.119
+FIN,Finland,1911,0.144
+FIN,Finland,1912,0.154
+FIN,Finland,1913,0.163
+FIN,Finland,1914,0.071
+FIN,Finland,1915,0.011
+FIN,Finland,1916,0.019
+FIN,Finland,1917,0.015
+FIN,Finland,1918,0.011
+FIN,Finland,1919,0.029
+FIN,Finland,1920,0.03
+FIN,Finland,1921,0.03
+FIN,Finland,1922,0.068
+FIN,Finland,1923,0.131
+FIN,Finland,1924,0.15
+FIN,Finland,1925,0.14
+FIN,Finland,1926,0.125
+FIN,Finland,1927,0.208
+FIN,Finland,1928,0.213
+FIN,Finland,1929,0.226
+FIN,Finland,1930,0.181
+FIN,Finland,1931,0.211
+FIN,Finland,1932,0.212
+FIN,Finland,1933,0.212
+FIN,Finland,1934,0.234
+FIN,Finland,1935,0.199
+FIN,Finland,1936,0.264
+FIN,Finland,1937,0.341
+FIN,Finland,1938,0.272
+FIN,Finland,1939,0.243
+FIN,Finland,1940,0.122
+FIN,Finland,1941,0.166
+FIN,Finland,1942,0.143
+FIN,Finland,1943,0.18
+FIN,Finland,1944,0.124
+FIN,Finland,1945,0.031
+FIN,Finland,1946,0.147
+FIN,Finland,1947,0.238
+FIN,Finland,1948,0.343
+FIN,Finland,1949,0.188
+FIN,Finland,1950,0.241
+FIN,Finland,1951,0.271
+FIN,Finland,1952,0.284
+FIN,Finland,1953,0.247
+FIN,Finland,1954,0.274
+FIN,Finland,1955,0.312
+FIN,Finland,1956,0.337
+FIN,Finland,1957,0.324
+FIN,Finland,1958,0.279
+FIN,Finland,1959,0.336
+FIN,Finland,1960,0.343
+FIN,Finland,1961,0.315
+FIN,Finland,1962,0.344
+FIN,Finland,1963,0.383
+FIN,Finland,1964,0.431
+FIN,Finland,1965,0.453
+FIN,Finland,1966,0.516
+FIN,Finland,1967,0.49
+FIN,Finland,1968,0.558
+FIN,Finland,1969,0.579
+FIN,Finland,1970,0.574
+FIN,Finland,1971,0.565
+FIN,Finland,1972,0.571
+FIN,Finland,1973,0.598
+FIN,Finland,1974,0.549
+FIN,Finland,1975,0.536
+FIN,Finland,1976,0.598
+FIN,Finland,1977,0.585
+FIN,Finland,1978,0.592
+FIN,Finland,1979,0.579
+FIN,Finland,1980,0.589
+FIN,Finland,1981,0.512
+FIN,Finland,1982,0.414
+FIN,Finland,1983,0.389
+FIN,Finland,1984,0.384
+FIN,Finland,1985,0.437
+FIN,Finland,1986,0.458
+FIN,Finland,1987,0.476
+FIN,Finland,1988,0.41
+FIN,Finland,1989,0.391
+FIN,Finland,1990,0.425
+FIN,Finland,1991,0.437
+FIN,Finland,1992,0.444
+FIN,Finland,1993,0.464
+FIN,Finland,1994,0.489
+FIN,Finland,1995,0.442
+FIN,Finland,1996,0.469
+FIN,Finland,1997,0.432
+FIN,Finland,1998,0.388
+FIN,Finland,1999,0.368
+FIN,Finland,2000,0.337
+FIN,Finland,2001,0.36
+FIN,Finland,2002,0.368
+FIN,Finland,2003,0.403
+FIN,Finland,2004,0.367
+FIN,Finland,2005,0.296
+FIN,Finland,2006,0.34
+FIN,Finland,2007,0.316
+FIN,Finland,2008,0.275
+FIN,Finland,2009,0.286
+FIN,Finland,2010,0.318
+FIN,Finland,2011,0.274
+FIN,Finland,2012,0.251
+FIN,Finland,2013,0.256
+FIN,Finland,2014,0.236
+FIN,Finland,2015,0.218
+FIN,Finland,2016,0.227
+FIN,Finland,2017,0.208
+FIN,Finland,2018,0.21
+FIN,Finland,2019,0.193
+FIN,Finland,2020,0.175
+FIN,Finland,2021,0.171
+FIN,Finland,2022,0.161
+FRA,France,1820,0.051
+FRA,France,1821,0.049
+FRA,France,1822,0.053
+FRA,France,1823,0.051
+FRA,France,1824,0.055
+FRA,France,1825,0.064
+FRA,France,1826,0.064
+FRA,France,1827,0.095
+FRA,France,1828,0.1
+FRA,France,1829,0.094
+FRA,France,1830,0.104
+FRA,France,1831,0.094
+FRA,France,1832,0.095
+FRA,France,1833,0.105
+FRA,France,1834,0.128
+FRA,France,1835,0.128
+FRA,France,1836,0.149
+FRA,France,1837,0.156
+FRA,France,1838,0.155
+FRA,France,1839,0.157
+FRA,France,1840,0.149
+FRA,France,1841,0.17
+FRA,France,1842,0.183
+FRA,France,1843,0.174
+FRA,France,1844,0.176
+FRA,France,1845,0.212
+FRA,France,1846,0.219
+FRA,France,1847,0.222
+FRA,France,1848,0.19
+FRA,France,1849,0.192
+FRA,France,1850,0.212
+FRA,France,1851,0.22
+FRA,France,1852,0.222
+FRA,France,1853,0.274
+FRA,France,1854,0.302
+FRA,France,1855,0.347
+FRA,France,1856,0.348
+FRA,France,1857,0.335
+FRA,France,1858,0.307
+FRA,France,1859,0.332
+FRA,France,1860,0.339
+FRA,France,1861,0.391
+FRA,France,1862,0.38
+FRA,France,1863,0.373
+FRA,France,1864,0.39
+FRA,France,1865,0.423
+FRA,France,1866,0.456
+FRA,France,1867,0.491
+FRA,France,1868,0.459
+FRA,France,1869,0.458
+FRA,France,1870,0.44
+FRA,France,1871,0.44
+FRA,France,1872,0.488
+FRA,France,1873,0.567
+FRA,France,1874,0.479
+FRA,France,1875,0.483
+FRA,France,1876,0.526
+FRA,France,1877,0.489
+FRA,France,1878,0.505
+FRA,France,1879,0.557
+FRA,France,1880,0.577
+FRA,France,1881,0.569
+FRA,France,1882,0.574
+FRA,France,1883,0.6
+FRA,France,1884,0.583
+FRA,France,1885,0.57
+FRA,France,1886,0.556
+FRA,France,1887,0.582
+FRA,France,1888,0.6
+FRA,France,1889,0.6
+FRA,France,1890,0.646
+FRA,France,1891,0.632
+FRA,France,1892,0.617
+FRA,France,1893,0.596
+FRA,France,1894,0.608
+FRA,France,1895,0.626
+FRA,France,1896,0.618
+FRA,France,1897,0.655
+FRA,France,1898,0.646
+FRA,France,1899,0.639
+FRA,France,1900,0.695
+FRA,France,1901,0.683
+FRA,France,1902,0.653
+FRA,France,1903,0.703
+FRA,France,1904,0.68
+FRA,France,1905,0.676
+FRA,France,1906,0.711
+FRA,France,1907,0.727
+FRA,France,1908,0.736
+FRA,France,1909,0.723
+FRA,France,1910,0.773
+FRA,France,1911,0.733
+FRA,France,1912,0.685
+FRA,France,1913,0.743
+FRA,France,1914,0.553
+FRA,France,1915,0.493
+FRA,France,1916,0.498
+FRA,France,1917,0.652
+FRA,France,1918,0.737
+FRA,France,1919,0.67
+FRA,France,1920,0.757
+FRA,France,1921,0.717
+FRA,France,1922,0.719
+FRA,France,1923,0.772
+FRA,France,1924,0.77
+FRA,France,1925,0.793
+FRA,France,1926,0.772
+FRA,France,1927,0.786
+FRA,France,1928,0.73
+FRA,France,1929,0.757
+FRA,France,1930,0.791
+FRA,France,1931,0.77
+FRA,France,1932,0.726
+FRA,France,1933,0.704
+FRA,France,1934,0.718
+FRA,France,1935,0.715
+FRA,France,1936,0.699
+FRA,France,1937,0.726
+FRA,France,1938,0.676
+FRA,France,1939,0.608
+FRA,France,1940,0.521
+FRA,France,1941,0.574
+FRA,France,1942,0.654
+FRA,France,1943,0.704
+FRA,France,1944,0.533
+FRA,France,1945,0.658
+FRA,France,1946,0.667
+FRA,France,1947,0.684
+FRA,France,1948,0.683
+FRA,France,1949,0.7
+FRA,France,1950,0.576
+FRA,France,1951,0.614
+FRA,France,1952,0.593
+FRA,France,1953,0.545
+FRA,France,1954,0.548
+FRA,France,1955,0.548
+FRA,France,1956,0.586
+FRA,France,1957,0.571
+FRA,France,1958,0.534
+FRA,France,1959,0.511
+FRA,France,1960,0.543
+FRA,France,1961,0.549
+FRA,France,1962,0.543
+FRA,France,1963,0.523
+FRA,France,1964,0.535
+FRA,France,1965,0.503
+FRA,France,1966,0.501
+FRA,France,1967,0.509
+FRA,France,1968,0.504
+FRA,France,1969,0.5
+FRA,France,1970,0.491
+FRA,France,1971,0.502
+FRA,France,1972,0.501
+FRA,France,1973,0.498
+FRA,France,1974,0.468
+FRA,France,1975,0.436
+FRA,France,1976,0.454
+FRA,France,1977,0.424
+FRA,France,1978,0.43
+FRA,France,1979,0.419
+FRA,France,1980,0.397
+FRA,France,1981,0.353
+FRA,France,1982,0.33
+FRA,France,1983,0.313
+FRA,France,1984,0.301
+FRA,France,1985,0.292
+FRA,France,1986,0.274
+FRA,France,1987,0.266
+FRA,France,1988,0.253
+FRA,France,1989,0.252
+FRA,France,1990,0.241
+FRA,France,1991,0.253
+FRA,France,1992,0.243
+FRA,France,1993,0.233
+FRA,France,1994,0.223
+FRA,France,1995,0.221
+FRA,France,1996,0.227
+FRA,France,1997,0.218
+FRA,France,1998,0.22
+FRA,France,1999,0.212
+FRA,France,2000,0.201
+FRA,France,2001,0.198
+FRA,France,2002,0.193
+FRA,France,2003,0.194
+FRA,France,2004,0.188
+FRA,France,2005,0.186
+FRA,France,2006,0.177
+FRA,France,2007,0.168
+FRA,France,2008,0.165
+FRA,France,2009,0.162
+FRA,France,2010,0.161
+FRA,France,2011,0.148
+FRA,France,2012,0.149
+FRA,France,2013,0.149
+FRA,France,2014,0.134
+FRA,France,2015,0.135
+FRA,France,2016,0.135
+FRA,France,2017,0.133
+FRA,France,2018,0.124
+FRA,France,2019,0.12
+FRA,France,2020,0.115
+FRA,France,2021,0.118
+FRA,France,2022,0.111
+GBR,United Kingdom,1820,0.606
+GBR,United Kingdom,1821,0.61
+GBR,United Kingdom,1822,0.623
+GBR,United Kingdom,1823,0.628
+GBR,United Kingdom,1824,0.615
+GBR,United Kingdom,1825,0.62
+GBR,United Kingdom,1826,0.662
+GBR,United Kingdom,1827,0.639
+GBR,United Kingdom,1828,0.645
+GBR,United Kingdom,1829,0.648
+GBR,United Kingdom,1830,0.79
+GBR,United Kingdom,1831,0.745
+GBR,United Kingdom,1832,0.702
+GBR,United Kingdom,1833,0.69
+GBR,United Kingdom,1834,0.718
+GBR,United Kingdom,1835,0.735
+GBR,United Kingdom,1836,0.776
+GBR,United Kingdom,1837,0.751
+GBR,United Kingdom,1838,0.708
+GBR,United Kingdom,1839,0.737
+GBR,United Kingdom,1840,0.752
+GBR,United Kingdom,1841,0.773
+GBR,United Kingdom,1842,0.82
+GBR,United Kingdom,1843,0.815
+GBR,United Kingdom,1844,0.797
+GBR,United Kingdom,1845,0.811
+GBR,United Kingdom,1846,0.779
+GBR,United Kingdom,1847,0.855
+GBR,United Kingdom,1848,0.903
+GBR,United Kingdom,1849,0.968
+GBR,United Kingdom,1850,1.039
+GBR,United Kingdom,1851,0.965
+GBR,United Kingdom,1852,0.926
+GBR,United Kingdom,1853,0.894
+GBR,United Kingdom,1854,1.032
+GBR,United Kingdom,1855,0.99
+GBR,United Kingdom,1856,0.999
+GBR,United Kingdom,1857,0.972
+GBR,United Kingdom,1858,0.972
+GBR,United Kingdom,1859,1.038
+GBR,United Kingdom,1860,1.143
+GBR,United Kingdom,1861,1.196
+GBR,United Kingdom,1862,1.21
+GBR,United Kingdom,1863,1.178
+GBR,United Kingdom,1864,1.237
+GBR,United Kingdom,1865,1.281
+GBR,United Kingdom,1866,1.281
+GBR,United Kingdom,1867,1.311
+GBR,United Kingdom,1868,1.227
+GBR,United Kingdom,1869,1.275
+GBR,United Kingdom,1870,1.248
+GBR,United Kingdom,1871,1.318
+GBR,United Kingdom,1872,1.387
+GBR,United Kingdom,1873,1.408
+GBR,United Kingdom,1874,1.347
+GBR,United Kingdom,1875,1.389
+GBR,United Kingdom,1876,1.375
+GBR,United Kingdom,1877,1.387
+GBR,United Kingdom,1878,1.358
+GBR,United Kingdom,1879,1.374
+GBR,United Kingdom,1880,1.431
+GBR,United Kingdom,1881,1.455
+GBR,United Kingdom,1882,1.427
+GBR,United Kingdom,1883,1.476
+GBR,United Kingdom,1884,1.436
+GBR,United Kingdom,1885,1.428
+GBR,United Kingdom,1886,1.394
+GBR,United Kingdom,1887,1.377
+GBR,United Kingdom,1888,1.372
+GBR,United Kingdom,1889,1.35
+GBR,United Kingdom,1890,1.376
+GBR,United Kingdom,1891,1.406
+GBR,United Kingdom,1892,1.413
+GBR,United Kingdom,1893,1.267
+GBR,United Kingdom,1894,1.36
+GBR,United Kingdom,1895,1.332
+GBR,United Kingdom,1896,1.317
+GBR,United Kingdom,1897,1.335
+GBR,United Kingdom,1898,1.277
+GBR,United Kingdom,1899,1.315
+GBR,United Kingdom,1900,1.343
+GBR,United Kingdom,1901,1.316
+GBR,United Kingdom,1902,1.334
+GBR,United Kingdom,1903,1.36
+GBR,United Kingdom,1904,1.36
+GBR,United Kingdom,1905,1.339
+GBR,United Kingdom,1906,1.344
+GBR,United Kingdom,1907,1.378
+GBR,United Kingdom,1908,1.403
+GBR,United Kingdom,1909,1.385
+GBR,United Kingdom,1910,1.355
+GBR,United Kingdom,1911,1.35
+GBR,United Kingdom,1912,1.262
+GBR,United Kingdom,1913,1.329
+GBR,United Kingdom,1914,1.29
+GBR,United Kingdom,1915,1.223
+GBR,United Kingdom,1916,1.253
+GBR,United Kingdom,1917,1.241
+GBR,United Kingdom,1918,1.161
+GBR,United Kingdom,1919,1.289
+GBR,United Kingdom,1920,1.462
+GBR,United Kingdom,1921,1.11
+GBR,United Kingdom,1922,1.34
+GBR,United Kingdom,1923,1.377
+GBR,United Kingdom,1924,1.386
+GBR,United Kingdom,1925,1.248
+GBR,United Kingdom,1926,0.734
+GBR,United Kingdom,1927,1.252
+GBR,United Kingdom,1928,1.168
+GBR,United Kingdom,1929,1.194
+GBR,United Kingdom,1930,1.158
+GBR,United Kingdom,1931,1.142
+GBR,United Kingdom,1932,1.09
+GBR,United Kingdom,1933,1.054
+GBR,United Kingdom,1934,1.067
+GBR,United Kingdom,1935,1.041
+GBR,United Kingdom,1936,1.052
+GBR,United Kingdom,1937,1.049
+GBR,United Kingdom,1938,0.997
+GBR,United Kingdom,1939,0.99
+GBR,United Kingdom,1940,0.949
+GBR,United Kingdom,1941,0.869
+GBR,United Kingdom,1942,0.837
+GBR,United Kingdom,1943,0.814
+GBR,United Kingdom,1944,0.846
+GBR,United Kingdom,1945,0.819
+GBR,United Kingdom,1946,0.878
+GBR,United Kingdom,1947,0.931
+GBR,United Kingdom,1948,0.936
+GBR,United Kingdom,1949,0.91
+GBR,United Kingdom,1950,0.9
+GBR,United Kingdom,1951,0.952
+GBR,United Kingdom,1952,0.925
+GBR,United Kingdom,1953,0.91
+GBR,United Kingdom,1954,0.895
+GBR,United Kingdom,1955,0.902
+GBR,United Kingdom,1956,0.887
+GBR,United Kingdom,1957,0.868
+GBR,United Kingdom,1958,0.848
+GBR,United Kingdom,1959,0.801
+GBR,United Kingdom,1960,0.809
+GBR,United Kingdom,1961,0.789
+GBR,United Kingdom,1962,0.787
+GBR,United Kingdom,1963,0.772
+GBR,United Kingdom,1964,0.738
+GBR,United Kingdom,1965,0.736
+GBR,United Kingdom,1966,0.718
+GBR,United Kingdom,1967,0.673
+GBR,United Kingdom,1968,0.662
+GBR,United Kingdom,1969,0.674
+GBR,United Kingdom,1970,0.684
+GBR,United Kingdom,1971,0.677
+GBR,United Kingdom,1972,0.642
+GBR,United Kingdom,1973,0.612
+GBR,United Kingdom,1974,0.581
+GBR,United Kingdom,1975,0.568
+GBR,United Kingdom,1976,0.551
+GBR,United Kingdom,1977,0.545
+GBR,United Kingdom,1978,0.527
+GBR,United Kingdom,1979,0.546
+GBR,United Kingdom,1980,0.499
+GBR,United Kingdom,1981,0.489
+GBR,United Kingdom,1982,0.471
+GBR,United Kingdom,1983,0.453
+GBR,United Kingdom,1984,0.428
+GBR,United Kingdom,1985,0.438
+GBR,United Kingdom,1986,0.426
+GBR,United Kingdom,1987,0.409
+GBR,United Kingdom,1988,0.389
+GBR,United Kingdom,1989,0.388
+GBR,United Kingdom,1990,0.4
+GBR,United Kingdom,1991,0.41
+GBR,United Kingdom,1992,0.398
+GBR,United Kingdom,1993,0.379
+GBR,United Kingdom,1994,0.362
+GBR,United Kingdom,1995,0.349
+GBR,United Kingdom,1996,0.353
+GBR,United Kingdom,1997,0.328
+GBR,United Kingdom,1998,0.322
+GBR,United Kingdom,1999,0.308
+GBR,United Kingdom,2000,0.301
+GBR,United Kingdom,2001,0.298
+GBR,United Kingdom,2002,0.282
+GBR,United Kingdom,2003,0.279
+GBR,United Kingdom,2004,0.273
+GBR,United Kingdom,2005,0.264
+GBR,United Kingdom,2006,0.257
+GBR,United Kingdom,2007,0.247
+GBR,United Kingdom,2008,0.242
+GBR,United Kingdom,2009,0.23
+GBR,United Kingdom,2010,0.234
+GBR,United Kingdom,2011,0.211
+GBR,United Kingdom,2012,0.216
+GBR,United Kingdom,2013,0.208
+GBR,United Kingdom,2014,0.185
+GBR,United Kingdom,2015,0.174
+GBR,United Kingdom,2016,0.161
+GBR,United Kingdom,2017,0.153
+GBR,United Kingdom,2018,0.147
+GBR,United Kingdom,2019,0.139
+GBR,United Kingdom,2020,0.14
+GBR,United Kingdom,2021,0.136
+GBR,United Kingdom,2022,0.119
+ISR,Israel,1950,0.289
+ISR,Israel,1951,0.389
+ISR,Israel,1952,0.467
+ISR,Israel,1953,0.522
+ISR,Israel,1954,0.47
+ISR,Israel,1955,0.461
+ISR,Israel,1956,0.421
+ISR,Israel,1957,0.418
+ISR,Israel,1958,0.418
+ISR,Israel,1959,0.375
+ISR,Israel,1960,0.406
+ISR,Israel,1961,0.4
+ISR,Israel,1962,0.409
+ISR,Israel,1963,0.382
+ISR,Israel,1964,0.388
+ISR,Israel,1965,0.502
+ISR,Israel,1966,0.521
+ISR,Israel,1967,0.506
+ISR,Israel,1968,0.448
+ISR,Israel,1969,0.427
+ISR,Israel,1970,0.442
+ISR,Israel,1971,0.39
+ISR,Israel,1972,0.361
+ISR,Israel,1973,0.392
+ISR,Israel,1974,0.369
+ISR,Israel,1975,0.36
+ISR,Israel,1976,0.355
+ISR,Israel,1977,0.36
+ISR,Israel,1978,0.365
+ISR,Israel,1979,0.341
+ISR,Israel,1980,0.321
+ISR,Israel,1981,0.305
+ISR,Israel,1982,0.341
+ISR,Israel,1983,0.327
+ISR,Israel,1984,0.321
+ISR,Israel,1985,0.325
+ISR,Israel,1986,0.332
+ISR,Israel,1987,0.318
+ISR,Israel,1988,0.342
+ISR,Israel,1989,0.359
+ISR,Israel,1990,0.384
+ISR,Israel,1991,0.372
+ISR,Israel,1992,0.405
+ISR,Israel,1993,0.412
+ISR,Israel,1994,0.414
+ISR,Israel,1995,0.398
+ISR,Israel,1996,0.394
+ISR,Israel,1997,0.402
+ISR,Israel,1998,0.396
+ISR,Israel,1999,0.375
+ISR,Israel,2000,0.375
+ISR,Israel,2001,0.397
+ISR,Israel,2002,0.375
+ISR,Israel,2003,0.392
+ISR,Israel,2004,0.352
+ISR,Israel,2005,0.327
+ISR,Israel,2006,0.342
+ISR,Israel,2007,0.326
+ISR,Israel,2008,0.344
+ISR,Israel,2009,0.32
+ISR,Israel,2010,0.325
+ISR,Israel,2011,0.311
+ISR,Israel,2012,0.331
+ISR,Israel,2013,0.267
+ISR,Israel,2014,0.246
+ISR,Israel,2015,0.251
+ISR,Israel,2016,0.233
+ISR,Israel,2017,0.215
+ISR,Israel,2018,0.211
+ISR,Israel,2019,0.199
+ISR,Israel,2020,0.204
+ISR,Israel,2021,0.186
+ISR,Israel,2022,0.185
+ITA,Italy,1860,0.0
+ITA,Italy,1861,0.01
+ITA,Italy,1862,0.018
+ITA,Italy,1863,0.015
+ITA,Italy,1864,0.023
+ITA,Italy,1865,0.017
+ITA,Italy,1866,0.021
+ITA,Italy,1867,0.021
+ITA,Italy,1868,0.023
+ITA,Italy,1869,0.025
+ITA,Italy,1870,0.034
+ITA,Italy,1871,0.029
+ITA,Italy,1872,0.041
+ITA,Italy,1873,0.038
+ITA,Italy,1874,0.039
+ITA,Italy,1875,0.039
+ITA,Italy,1876,0.054
+ITA,Italy,1877,0.049
+ITA,Italy,1878,0.047
+ITA,Italy,1879,0.054
+ITA,Italy,1880,0.061
+ITA,Italy,1881,0.07
+ITA,Italy,1882,0.072
+ITA,Italy,1883,0.075
+ITA,Italy,1884,0.084
+ITA,Italy,1885,0.093
+ITA,Italy,1886,0.09
+ITA,Italy,1887,0.106
+ITA,Italy,1888,0.114
+ITA,Italy,1889,0.12
+ITA,Italy,1890,0.129
+ITA,Italy,1891,0.114
+ITA,Italy,1892,0.112
+ITA,Italy,1893,0.106
+ITA,Italy,1894,0.13
+ITA,Italy,1895,0.118
+ITA,Italy,1896,0.11
+ITA,Italy,1897,0.114
+ITA,Italy,1898,0.118
+ITA,Italy,1899,0.128
+ITA,Italy,1900,0.127
+ITA,Italy,1901,0.12
+ITA,Italy,1902,0.13
+ITA,Italy,1903,0.131
+ITA,Italy,1904,0.135
+ITA,Italy,1905,0.144
+ITA,Italy,1906,0.164
+ITA,Italy,1907,0.172
+ITA,Italy,1908,0.171
+ITA,Italy,1909,0.186
+ITA,Italy,1910,0.184
+ITA,Italy,1911,0.186
+ITA,Italy,1912,0.193
+ITA,Italy,1913,0.198
+ITA,Italy,1914,0.189
+ITA,Italy,1915,0.172
+ITA,Italy,1916,0.156
+ITA,Italy,1917,0.107
+ITA,Italy,1918,0.131
+ITA,Italy,1919,0.135
+ITA,Italy,1920,0.126
+ITA,Italy,1921,0.159
+ITA,Italy,1922,0.172
+ITA,Italy,1923,0.164
+ITA,Italy,1924,0.192
+ITA,Italy,1925,0.173
+ITA,Italy,1926,0.198
+ITA,Italy,1927,0.228
+ITA,Italy,1928,0.202
+ITA,Italy,1929,0.223
+ITA,Italy,1930,0.209
+ITA,Italy,1931,0.183
+ITA,Italy,1932,0.147
+ITA,Italy,1933,0.162
+ITA,Italy,1934,0.211
+ITA,Italy,1935,0.229
+ITA,Italy,1936,0.167
+ITA,Italy,1937,0.215
+ITA,Italy,1938,0.208
+ITA,Italy,1939,0.2
+ITA,Italy,1940,0.217
+ITA,Italy,1941,0.193
+ITA,Italy,1942,0.2
+ITA,Italy,1943,0.04
+ITA,Italy,1944,0.025
+ITA,Italy,1945,0.034
+ITA,Italy,1946,0.127
+ITA,Italy,1947,0.178
+ITA,Italy,1948,0.159
+ITA,Italy,1949,0.164
+ITA,Italy,1950,0.158
+ITA,Italy,1951,0.173
+ITA,Italy,1952,0.167
+ITA,Italy,1953,0.172
+ITA,Italy,1954,0.19
+ITA,Italy,1955,0.202
+ITA,Italy,1956,0.22
+ITA,Italy,1957,0.217
+ITA,Italy,1958,0.207
+ITA,Italy,1959,0.21
+ITA,Italy,1960,0.231
+ITA,Italy,1961,0.242
+ITA,Italy,1962,0.264
+ITA,Italy,1963,0.278
+ITA,Italy,1964,0.285
+ITA,Italy,1965,0.301
+ITA,Italy,1966,0.323
+ITA,Italy,1967,0.33
+ITA,Italy,1968,0.324
+ITA,Italy,1969,0.332
+ITA,Italy,1970,0.357
+ITA,Italy,1971,0.367
+ITA,Italy,1972,0.377
+ITA,Italy,1973,0.38
+ITA,Italy,1974,0.368
+ITA,Italy,1975,0.358
+ITA,Italy,1976,0.361
+ITA,Italy,1977,0.34
+ITA,Italy,1978,0.343
+ITA,Italy,1979,0.337
+ITA,Italy,1980,0.327
+ITA,Italy,1981,0.316
+ITA,Italy,1982,0.307
+ITA,Italy,1983,0.297
+ITA,Italy,1984,0.294
+ITA,Italy,1985,0.289
+ITA,Italy,1986,0.277
+ITA,Italy,1987,0.281
+ITA,Italy,1988,0.275
+ITA,Italy,1989,0.28
+ITA,Italy,1990,0.297
+ITA,Italy,1991,0.29
+ITA,Italy,1992,0.286
+ITA,Italy,1993,0.281
+ITA,Italy,1994,0.27
+ITA,Italy,1995,0.275
+ITA,Italy,1996,0.266
+ITA,Italy,1997,0.263
+ITA,Italy,1998,0.264
+ITA,Italy,1999,0.261
+ITA,Italy,2000,0.252
+ITA,Italy,2001,0.246
+ITA,Italy,2002,0.247
+ITA,Italy,2003,0.254
+ITA,Italy,2004,0.251
+ITA,Italy,2005,0.247
+ITA,Italy,2006,0.238
+ITA,Italy,2007,0.229
+ITA,Italy,2008,0.225
+ITA,Italy,2009,0.209
+ITA,Italy,2010,0.209
+ITA,Italy,2011,0.201
+ITA,Italy,2012,0.197
+ITA,Italy,2013,0.184
+ITA,Italy,2014,0.174
+ITA,Italy,2015,0.178
+ITA,Italy,2016,0.175
+ITA,Italy,2017,0.169
+ITA,Italy,2018,0.166
+ITA,Italy,2019,0.161
+ITA,Italy,2020,0.157
+ITA,Italy,2021,0.163
+ITA,Italy,2022,0.159
+JPN,Japan,1870,0.0
+JPN,Japan,1874,0.01
+JPN,Japan,1885,0.05
+JPN,Japan,1886,0.051
+JPN,Japan,1887,0.062
+JPN,Japan,1888,0.076
+JPN,Japan,1889,0.09
+JPN,Japan,1890,0.091
+JPN,Japan,1891,0.115
+JPN,Japan,1892,0.108
+JPN,Japan,1893,0.114
+JPN,Japan,1894,0.132
+JPN,Japan,1895,0.145
+JPN,Japan,1896,0.161
+JPN,Japan,1897,0.167
+JPN,Japan,1898,0.179
+JPN,Japan,1899,0.188
+JPN,Japan,1900,0.207
+JPN,Japan,1901,0.241
+JPN,Japan,1902,0.274
+JPN,Japan,1903,0.255
+JPN,Japan,1904,0.287
+JPN,Japan,1905,0.303
+JPN,Japan,1906,0.299
+JPN,Japan,1907,0.312
+JPN,Japan,1908,0.331
+JPN,Japan,1909,0.336
+JPN,Japan,1910,0.343
+JPN,Japan,1911,0.367
+JPN,Japan,1912,0.4
+JPN,Japan,1913,0.432
+JPN,Japan,1914,0.47
+JPN,Japan,1915,0.396
+JPN,Japan,1916,0.385
+JPN,Japan,1917,0.422
+JPN,Japan,1918,0.438
+JPN,Japan,1919,0.445
+JPN,Japan,1920,0.447
+JPN,Japan,1921,0.365
+JPN,Japan,1922,0.385
+JPN,Japan,1923,0.404
+JPN,Japan,1924,0.408
+JPN,Japan,1925,0.404
+JPN,Japan,1926,0.407
+JPN,Japan,1927,0.435
+JPN,Japan,1928,0.417
+JPN,Japan,1929,0.409
+JPN,Japan,1930,0.403
+JPN,Japan,1931,0.36
+JPN,Japan,1932,0.334
+JPN,Japan,1933,0.359
+JPN,Japan,1934,0.396
+JPN,Japan,1935,0.402
+JPN,Japan,1936,0.418
+JPN,Japan,1937,0.432
+JPN,Japan,1938,0.431
+JPN,Japan,1939,0.367
+JPN,Japan,1940,0.43
+JPN,Japan,1941,0.419
+JPN,Japan,1942,0.399
+JPN,Japan,1943,0.411
+JPN,Japan,1944,0.373
+JPN,Japan,1945,0.273
+JPN,Japan,1946,0.246
+JPN,Japan,1947,0.331
+JPN,Japan,1948,0.385
+JPN,Japan,1949,0.419
+JPN,Japan,1950,0.4
+JPN,Japan,1951,0.427
+JPN,Japan,1952,0.405
+JPN,Japan,1953,0.422
+JPN,Japan,1954,0.391
+JPN,Japan,1955,0.358
+JPN,Japan,1956,0.377
+JPN,Japan,1957,0.411
+JPN,Japan,1958,0.375
+JPN,Japan,1959,0.365
+JPN,Japan,1960,0.389
+JPN,Japan,1961,0.423
+JPN,Japan,1962,0.402
+JPN,Japan,1963,0.411
+JPN,Japan,1964,0.407
+JPN,Japan,1965,0.414
+JPN,Japan,1966,0.406
+JPN,Japan,1967,0.426
+JPN,Japan,1968,0.434
+JPN,Japan,1969,0.448
+JPN,Japan,1970,0.476
+JPN,Japan,1971,0.473
+JPN,Japan,1972,0.469
+JPN,Japan,1973,0.461
+JPN,Japan,1974,0.467
+JPN,Japan,1975,0.431
+JPN,Japan,1976,0.434
+JPN,Japan,1977,0.427
+JPN,Japan,1978,0.393
+JPN,Japan,1979,0.394
+JPN,Japan,1980,0.379
+JPN,Japan,1981,0.361
+JPN,Japan,1982,0.339
+JPN,Japan,1983,0.325
+JPN,Japan,1984,0.333
+JPN,Japan,1985,0.31
+JPN,Japan,1986,0.301
+JPN,Japan,1987,0.285
+JPN,Japan,1988,0.293
+JPN,Japan,1989,0.29
+JPN,Japan,1990,0.312
+JPN,Japan,1991,0.305
+JPN,Japan,1992,0.305
+JPN,Japan,1993,0.303
+JPN,Japan,1994,0.314
+JPN,Japan,1995,0.309
+JPN,Japan,1996,0.303
+JPN,Japan,1997,0.298
+JPN,Japan,1998,0.292
+JPN,Japan,1999,0.302
+JPN,Japan,2000,0.299
+JPN,Japan,2001,0.295
+JPN,Japan,2002,0.302
+JPN,Japan,2003,0.299
+JPN,Japan,2004,0.292
+JPN,Japan,2005,0.289
+JPN,Japan,2006,0.28
+JPN,Japan,2007,0.283
+JPN,Japan,2008,0.27
+JPN,Japan,2009,0.27
+JPN,Japan,2010,0.27
+JPN,Japan,2011,0.282
+JPN,Japan,2012,0.287
+JPN,Japan,2013,0.284
+JPN,Japan,2014,0.272
+JPN,Japan,2015,0.259
+JPN,Japan,2016,0.253
+JPN,Japan,2017,0.246
+JPN,Japan,2018,0.235
+JPN,Japan,2019,0.228
+JPN,Japan,2020,0.224
+JPN,Japan,2021,0.224
+JPN,Japan,2022,0.216
+KOR,South Korea,1911,0.001
+KOR,South Korea,1912,0.001
+KOR,South Korea,1913,0.001
+KOR,South Korea,1914,0.002
+KOR,South Korea,1915,0.002
+KOR,South Korea,1916,0.002
+KOR,South Korea,1918,0.002
+KOR,South Korea,1919,0.002
+KOR,South Korea,1920,0.002
+KOR,South Korea,1921,0.002
+KOR,South Korea,1922,0.002
+KOR,South Korea,1923,0.003
+KOR,South Korea,1924,0.003
+KOR,South Korea,1925,0.005
+KOR,South Korea,1926,0.005
+KOR,South Korea,1927,0.005
+KOR,South Korea,1928,0.006
+KOR,South Korea,1929,0.006
+KOR,South Korea,1930,0.005
+KOR,South Korea,1931,0.006
+KOR,South Korea,1932,0.007
+KOR,South Korea,1933,0.008
+KOR,South Korea,1934,0.01
+KOR,South Korea,1935,0.011
+KOR,South Korea,1936,0.013
+KOR,South Korea,1937,0.012
+KOR,South Korea,1938,0.016
+KOR,South Korea,1939,0.025
+KOR,South Korea,1940,0.026
+KOR,South Korea,1941,0.027
+KOR,South Korea,1942,0.037
+KOR,South Korea,1943,0.035
+KOR,South Korea,1946,0.027
+KOR,South Korea,1947,0.048
+KOR,South Korea,1948,0.076
+KOR,South Korea,1949,0.091
+KOR,South Korea,1950,0.105
+KOR,South Korea,1951,0.141
+KOR,South Korea,1952,0.159
+KOR,South Korea,1953,0.169
+KOR,South Korea,1954,0.177
+KOR,South Korea,1955,0.212
+KOR,South Korea,1956,0.248
+KOR,South Korea,1957,0.248
+KOR,South Korea,1958,0.255
+KOR,South Korea,1959,0.301
+KOR,South Korea,1960,0.327
+KOR,South Korea,1961,0.351
+KOR,South Korea,1962,0.403
+KOR,South Korea,1963,0.45
+KOR,South Korea,1964,0.432
+KOR,South Korea,1965,0.454
+KOR,South Korea,1966,0.486
+KOR,South Korea,1967,0.522
+KOR,South Korea,1968,0.489
+KOR,South Korea,1969,0.487
+KOR,South Korea,1970,0.56
+KOR,South Korea,1971,0.553
+KOR,South Korea,1972,0.531
+KOR,South Korea,1973,0.56
+KOR,South Korea,1974,0.53
+KOR,South Korea,1975,0.531
+KOR,South Korea,1976,0.535
+KOR,South Korea,1977,0.539
+KOR,South Korea,1978,0.522
+KOR,South Korea,1979,0.565
+KOR,South Korea,1980,0.582
+KOR,South Korea,1981,0.563
+KOR,South Korea,1982,0.525
+KOR,South Korea,1983,0.491
+KOR,South Korea,1984,0.479
+KOR,South Korea,1985,0.467
+KOR,South Korea,1986,0.438
+KOR,South Korea,1987,0.41
+KOR,South Korea,1988,0.417
+KOR,South Korea,1989,0.413
+KOR,South Korea,1990,0.421
+KOR,South Korea,1991,0.423
+KOR,South Korea,1992,0.436
+KOR,South Korea,1993,0.453
+KOR,South Korea,1994,0.45
+KOR,South Korea,1995,0.446
+KOR,South Korea,1996,0.458
+KOR,South Korea,1997,0.46
+KOR,South Korea,1998,0.416
+KOR,South Korea,1999,0.409
+KOR,South Korea,2000,0.405
+KOR,South Korea,2001,0.404
+KOR,South Korea,2002,0.396
+KOR,South Korea,2003,0.395
+KOR,South Korea,2004,0.384
+KOR,South Korea,2005,0.377
+KOR,South Korea,2006,0.365
+KOR,South Korea,2007,0.361
+KOR,South Korea,2008,0.361
+KOR,South Korea,2009,0.364
+KOR,South Korea,2010,0.38
+KOR,South Korea,2011,0.387
+KOR,South Korea,2012,0.381
+KOR,South Korea,2013,0.373
+KOR,South Korea,2014,0.359
+KOR,South Korea,2015,0.352
+KOR,South Korea,2016,0.344
+KOR,South Korea,2017,0.342
+KOR,South Korea,2018,0.34
+KOR,South Korea,2019,0.321
+KOR,South Korea,2020,0.299
+KOR,South Korea,2021,0.296
+KOR,South Korea,2022,0.284
+NLD,Netherlands,1846,0.265
+NLD,Netherlands,1847,0.355
+NLD,Netherlands,1848,0.33
+NLD,Netherlands,1849,0.292
+NLD,Netherlands,1850,0.268
+NLD,Netherlands,1851,0.26
+NLD,Netherlands,1852,0.314
+NLD,Netherlands,1853,0.352
+NLD,Netherlands,1854,0.47
+NLD,Netherlands,1855,0.376
+NLD,Netherlands,1856,0.365
+NLD,Netherlands,1857,0.329
+NLD,Netherlands,1858,0.296
+NLD,Netherlands,1859,0.291
+NLD,Netherlands,1860,0.376
+NLD,Netherlands,1861,0.353
+NLD,Netherlands,1862,0.434
+NLD,Netherlands,1863,0.304
+NLD,Netherlands,1864,0.241
+NLD,Netherlands,1865,0.27
+NLD,Netherlands,1866,0.283
+NLD,Netherlands,1867,0.279
+NLD,Netherlands,1868,0.288
+NLD,Netherlands,1869,0.285
+NLD,Netherlands,1870,0.31
+NLD,Netherlands,1871,0.314
+NLD,Netherlands,1872,0.33
+NLD,Netherlands,1873,0.311
+NLD,Netherlands,1874,0.292
+NLD,Netherlands,1875,0.312
+NLD,Netherlands,1876,0.353
+NLD,Netherlands,1877,0.349
+NLD,Netherlands,1878,0.376
+NLD,Netherlands,1879,0.41
+NLD,Netherlands,1880,0.423
+NLD,Netherlands,1881,0.419
+NLD,Netherlands,1882,0.414
+NLD,Netherlands,1883,0.427
+NLD,Netherlands,1884,0.42
+NLD,Netherlands,1885,0.429
+NLD,Netherlands,1886,0.431
+NLD,Netherlands,1887,0.428
+NLD,Netherlands,1888,0.468
+NLD,Netherlands,1889,0.442
+NLD,Netherlands,1890,0.447
+NLD,Netherlands,1891,0.516
+NLD,Netherlands,1892,0.476
+NLD,Netherlands,1893,0.488
+NLD,Netherlands,1894,0.467
+NLD,Netherlands,1895,0.464
+NLD,Netherlands,1896,0.479
+NLD,Netherlands,1897,0.49
+NLD,Netherlands,1898,0.476
+NLD,Netherlands,1899,0.482
+NLD,Netherlands,1900,0.536
+NLD,Netherlands,1901,0.5
+NLD,Netherlands,1902,0.479
+NLD,Netherlands,1903,0.512
+NLD,Netherlands,1904,0.533
+NLD,Netherlands,1905,0.521
+NLD,Netherlands,1906,0.556
+NLD,Netherlands,1907,0.582
+NLD,Netherlands,1908,0.581
+NLD,Netherlands,1909,0.581
+NLD,Netherlands,1910,0.583
+NLD,Netherlands,1911,0.599
+NLD,Netherlands,1912,0.658
+NLD,Netherlands,1913,0.693
+NLD,Netherlands,1914,0.667
+NLD,Netherlands,1915,0.613
+NLD,Netherlands,1916,0.545
+NLD,Netherlands,1917,0.225
+NLD,Netherlands,1918,0.403
+NLD,Netherlands,1919,0.492
+NLD,Netherlands,1920,0.481
+NLD,Netherlands,1921,0.475
+NLD,Netherlands,1922,0.529
+NLD,Netherlands,1923,0.515
+NLD,Netherlands,1924,0.54
+NLD,Netherlands,1925,0.569
+NLD,Netherlands,1926,0.538
+NLD,Netherlands,1927,0.571
+NLD,Netherlands,1928,0.543
+NLD,Netherlands,1929,0.585
+NLD,Netherlands,1930,0.579
+NLD,Netherlands,1931,0.68
+NLD,Netherlands,1932,0.635
+NLD,Netherlands,1933,0.593
+NLD,Netherlands,1934,0.605
+NLD,Netherlands,1935,0.562
+NLD,Netherlands,1936,0.566
+NLD,Netherlands,1937,0.591
+NLD,Netherlands,1938,0.596
+NLD,Netherlands,1939,0.524
+NLD,Netherlands,1940,0.489
+NLD,Netherlands,1941,0.573
+NLD,Netherlands,1942,0.584
+NLD,Netherlands,1943,0.605
+NLD,Netherlands,1944,0.602
+NLD,Netherlands,1945,0.37
+NLD,Netherlands,1946,0.465
+NLD,Netherlands,1947,0.576
+NLD,Netherlands,1948,0.551
+NLD,Netherlands,1949,0.541
+NLD,Netherlands,1950,0.531
+NLD,Netherlands,1951,0.557
+NLD,Netherlands,1952,0.544
+NLD,Netherlands,1953,0.505
+NLD,Netherlands,1954,0.5
+NLD,Netherlands,1955,0.486
+NLD,Netherlands,1956,0.5
+NLD,Netherlands,1957,0.481
+NLD,Netherlands,1958,0.5
+NLD,Netherlands,1959,0.48
+NLD,Netherlands,1960,0.484
+NLD,Netherlands,1961,0.498
+NLD,Netherlands,1962,0.512
+NLD,Netherlands,1963,0.541
+NLD,Netherlands,1964,0.531
+NLD,Netherlands,1965,0.523
+NLD,Netherlands,1966,0.525
+NLD,Netherlands,1967,0.514
+NLD,Netherlands,1968,0.513
+NLD,Netherlands,1969,0.492
+NLD,Netherlands,1970,0.57
+NLD,Netherlands,1971,0.543
+NLD,Netherlands,1972,0.588
+NLD,Netherlands,1973,0.59
+NLD,Netherlands,1974,0.549
+NLD,Netherlands,1975,0.524
+NLD,Netherlands,1976,0.555
+NLD,Netherlands,1977,0.523
+NLD,Netherlands,1978,0.53
+NLD,Netherlands,1979,0.571
+NLD,Netherlands,1980,0.533
+NLD,Netherlands,1981,0.498
+NLD,Netherlands,1982,0.409
+NLD,Netherlands,1983,0.414
+NLD,Netherlands,1984,0.421
+NLD,Netherlands,1985,0.416
+NLD,Netherlands,1986,0.397
+NLD,Netherlands,1987,0.412
+NLD,Netherlands,1988,0.386
+NLD,Netherlands,1989,0.409
+NLD,Netherlands,1990,0.396
+NLD,Netherlands,1991,0.404
+NLD,Netherlands,1992,0.395
+NLD,Netherlands,1993,0.388
+NLD,Netherlands,1994,0.376
+NLD,Netherlands,1995,0.366
+NLD,Netherlands,1996,0.369
+NLD,Netherlands,1997,0.338
+NLD,Netherlands,1998,0.324
+NLD,Netherlands,1999,0.297
+NLD,Netherlands,2000,0.285
+NLD,Netherlands,2001,0.286
+NLD,Netherlands,2002,0.283
+NLD,Netherlands,2003,0.286
+NLD,Netherlands,2004,0.282
+NLD,Netherlands,2005,0.268
+NLD,Netherlands,2006,0.251
+NLD,Netherlands,2007,0.24
+NLD,Netherlands,2008,0.238
+NLD,Netherlands,2009,0.239
+NLD,Netherlands,2010,0.251
+NLD,Netherlands,2011,0.227
+NLD,Netherlands,2012,0.225
+NLD,Netherlands,2013,0.224
+NLD,Netherlands,2014,0.211
+NLD,Netherlands,2015,0.215
+NLD,Netherlands,2016,0.212
+NLD,Netherlands,2017,0.203
+NLD,Netherlands,2018,0.193
+NLD,Netherlands,2019,0.183
+NLD,Netherlands,2020,0.171
+NLD,Netherlands,2021,0.166
+NLD,Netherlands,2022,0.145
+NOR,Norway,1820,0.0
+NOR,Norway,1830,0.005
+NOR,Norway,1831,0.002
+NOR,Norway,1832,0.0
+NOR,Norway,1833,0.0
+NOR,Norway,1834,0.0
+NOR,Norway,1835,0.008
+NOR,Norway,1836,0.01
+NOR,Norway,1837,0.014
+NOR,Norway,1838,0.028
+NOR,Norway,1839,0.022
+NOR,Norway,1840,0.022
+NOR,Norway,1841,0.029
+NOR,Norway,1842,0.036
+NOR,Norway,1843,0.032
+NOR,Norway,1844,0.032
+NOR,Norway,1845,0.046
+NOR,Norway,1846,0.046
+NOR,Norway,1847,0.045
+NOR,Norway,1848,0.063
+NOR,Norway,1849,0.049
+NOR,Norway,1850,0.062
+NOR,Norway,1851,0.064
+NOR,Norway,1852,0.063
+NOR,Norway,1853,0.064
+NOR,Norway,1854,0.087
+NOR,Norway,1855,0.091
+NOR,Norway,1856,0.109
+NOR,Norway,1857,0.113
+NOR,Norway,1858,0.093
+NOR,Norway,1859,0.114
+NOR,Norway,1860,0.111
+NOR,Norway,1861,0.141
+NOR,Norway,1862,0.113
+NOR,Norway,1863,0.112
+NOR,Norway,1864,0.145
+NOR,Norway,1865,0.135
+NOR,Norway,1866,0.154
+NOR,Norway,1867,0.181
+NOR,Norway,1868,0.186
+NOR,Norway,1869,0.154
+NOR,Norway,1870,0.167
+NOR,Norway,1871,0.154
+NOR,Norway,1872,0.16
+NOR,Norway,1873,0.154
+NOR,Norway,1874,0.195
+NOR,Norway,1875,0.236
+NOR,Norway,1876,0.2
+NOR,Norway,1877,0.269
+NOR,Norway,1878,0.248
+NOR,Norway,1879,0.247
+NOR,Norway,1880,0.26
+NOR,Norway,1881,0.276
+NOR,Norway,1882,0.291
+NOR,Norway,1883,0.308
+NOR,Norway,1884,0.321
+NOR,Norway,1885,0.367
+NOR,Norway,1886,0.352
+NOR,Norway,1887,0.332
+NOR,Norway,1888,0.366
+NOR,Norway,1889,0.403
+NOR,Norway,1890,0.376
+NOR,Norway,1891,0.434
+NOR,Norway,1892,0.443
+NOR,Norway,1893,0.428
+NOR,Norway,1894,0.481
+NOR,Norway,1895,0.481
+NOR,Norway,1896,0.477
+NOR,Norway,1897,0.491
+NOR,Norway,1898,0.477
+NOR,Norway,1899,0.566
+NOR,Norway,1900,0.573
+NOR,Norway,1901,0.528
+NOR,Norway,1902,0.571
+NOR,Norway,1903,0.563
+NOR,Norway,1904,0.551
+NOR,Norway,1905,0.541
+NOR,Norway,1906,0.521
+NOR,Norway,1907,0.58
+NOR,Norway,1908,0.675
+NOR,Norway,1909,0.669
+NOR,Norway,1910,0.651
+NOR,Norway,1911,0.641
+NOR,Norway,1912,0.701
+NOR,Norway,1913,0.64
+NOR,Norway,1914,0.719
+NOR,Norway,1915,0.768
+NOR,Norway,1916,0.652
+NOR,Norway,1917,0.32
+NOR,Norway,1918,0.429
+NOR,Norway,1919,0.441
+NOR,Norway,1920,0.425
+NOR,Norway,1921,0.3
+NOR,Norway,1922,0.526
+NOR,Norway,1923,0.514
+NOR,Norway,1924,0.592
+NOR,Norway,1925,0.584
+NOR,Norway,1926,0.485
+NOR,Norway,1927,0.626
+NOR,Norway,1928,0.579
+NOR,Norway,1929,0.61
+NOR,Norway,1930,0.538
+NOR,Norway,1931,0.541
+NOR,Norway,1932,0.55
+NOR,Norway,1933,0.57
+NOR,Norway,1934,0.569
+NOR,Norway,1935,0.559
+NOR,Norway,1936,0.559
+NOR,Norway,1937,0.603
+NOR,Norway,1938,0.525
+NOR,Norway,1939,0.598
+NOR,Norway,1940,0.34
+NOR,Norway,1941,0.246
+NOR,Norway,1942,0.246
+NOR,Norway,1943,0.295
+NOR,Norway,1944,0.279
+NOR,Norway,1945,0.205
+NOR,Norway,1946,0.327
+NOR,Norway,1947,0.433
+NOR,Norway,1948,0.418
+NOR,Norway,1949,0.386
+NOR,Norway,1950,0.298
+NOR,Norway,1951,0.318
+NOR,Norway,1952,0.314
+NOR,Norway,1953,0.305
+NOR,Norway,1954,0.293
+NOR,Norway,1955,0.332
+NOR,Norway,1956,0.33
+NOR,Norway,1957,0.304
+NOR,Norway,1958,0.299
+NOR,Norway,1959,0.303
+NOR,Norway,1960,0.318
+NOR,Norway,1961,0.305
+NOR,Norway,1962,0.313
+NOR,Norway,1963,0.321
+NOR,Norway,1964,0.33
+NOR,Norway,1965,0.318
+NOR,Norway,1966,0.365
+NOR,Norway,1967,0.339
+NOR,Norway,1968,0.363
+NOR,Norway,1969,0.365
+NOR,Norway,1970,0.451
+NOR,Norway,1971,0.417
+NOR,Norway,1972,0.429
+NOR,Norway,1973,0.427
+NOR,Norway,1974,0.372
+NOR,Norway,1975,0.39
+NOR,Norway,1976,0.402
+NOR,Norway,1977,0.385
+NOR,Norway,1978,0.364
+NOR,Norway,1979,0.37
+NOR,Norway,1980,0.324
+NOR,Norway,1981,0.321
+NOR,Norway,1982,0.311
+NOR,Norway,1983,0.31
+NOR,Norway,1984,0.31
+NOR,Norway,1985,0.282
+NOR,Norway,1986,0.293
+NOR,Norway,1987,0.274
+NOR,Norway,1988,0.294
+NOR,Norway,1989,0.279
+NOR,Norway,1990,0.28
+NOR,Norway,1991,0.252
+NOR,Norway,1992,0.243
+NOR,Norway,1993,0.239
+NOR,Norway,1994,0.233
+NOR,Norway,1995,0.22
+NOR,Norway,1996,0.22
+NOR,Norway,1997,0.203
+NOR,Norway,1998,0.193
+NOR,Norway,1999,0.187
+NOR,Norway,2000,0.174
+NOR,Norway,2001,0.17
+NOR,Norway,2002,0.159
+NOR,Norway,2003,0.158
+NOR,Norway,2004,0.149
+NOR,Norway,2005,0.137
+NOR,Norway,2006,0.132
+NOR,Norway,2007,0.129
+NOR,Norway,2008,0.122
+NOR,Norway,2009,0.116
+NOR,Norway,2010,0.119
+NOR,Norway,2011,0.112
+NOR,Norway,2012,0.108
+NOR,Norway,2013,0.107
+NOR,Norway,2014,0.106
+NOR,Norway,2015,0.106
+NOR,Norway,2016,0.103
+NOR,Norway,2017,0.099
+NOR,Norway,2018,0.099
+NOR,Norway,2019,0.094
+NOR,Norway,2020,0.092
+NOR,Norway,2021,0.088
+NOR,Norway,2022,0.085
+NZL,New Zealand,1820,0.0
+NZL,New Zealand,1850,0.0
+NZL,New Zealand,1860,0.0
+NZL,New Zealand,1870,0.0
+NZL,New Zealand,1871,0.0
+NZL,New Zealand,1872,0.0
+NZL,New Zealand,1873,0.0
+NZL,New Zealand,1874,0.0
+NZL,New Zealand,1875,0.0
+NZL,New Zealand,1876,0.0
+NZL,New Zealand,1877,0.0
+NZL,New Zealand,1878,0.112
+NZL,New Zealand,1879,0.18
+NZL,New Zealand,1880,0.211
+NZL,New Zealand,1881,0.228
+NZL,New Zealand,1882,0.257
+NZL,New Zealand,1883,0.29
+NZL,New Zealand,1884,0.3
+NZL,New Zealand,1885,0.321
+NZL,New Zealand,1886,0.328
+NZL,New Zealand,1887,0.337
+NZL,New Zealand,1888,0.371
+NZL,New Zealand,1889,0.339
+NZL,New Zealand,1890,0.357
+NZL,New Zealand,1891,0.372
+NZL,New Zealand,1892,0.361
+NZL,New Zealand,1893,0.362
+NZL,New Zealand,1894,0.391
+NZL,New Zealand,1895,0.38
+NZL,New Zealand,1896,0.372
+NZL,New Zealand,1897,0.39
+NZL,New Zealand,1898,0.409
+NZL,New Zealand,1899,0.426
+NZL,New Zealand,1900,0.441
+NZL,New Zealand,1901,0.494
+NZL,New Zealand,1902,0.509
+NZL,New Zealand,1903,0.485
+NZL,New Zealand,1904,0.528
+NZL,New Zealand,1905,0.498
+NZL,New Zealand,1906,0.497
+NZL,New Zealand,1907,0.495
+NZL,New Zealand,1908,0.541
+NZL,New Zealand,1909,0.548
+NZL,New Zealand,1910,0.554
+NZL,New Zealand,1911,0.493
+NZL,New Zealand,1912,0.536
+NZL,New Zealand,1913,0.457
+NZL,New Zealand,1914,0.538
+NZL,New Zealand,1915,0.519
+NZL,New Zealand,1916,0.534
+NZL,New Zealand,1917,0.502
+NZL,New Zealand,1918,0.502
+NZL,New Zealand,1919,0.41
+NZL,New Zealand,1920,0.319
+NZL,New Zealand,1921,0.336
+NZL,New Zealand,1922,0.354
+NZL,New Zealand,1923,0.353
+NZL,New Zealand,1924,0.361
+NZL,New Zealand,1925,0.351
+NZL,New Zealand,1926,0.387
+NZL,New Zealand,1927,0.419
+NZL,New Zealand,1928,0.396
+NZL,New Zealand,1929,0.397
+NZL,New Zealand,1930,0.412
+NZL,New Zealand,1931,0.392
+NZL,New Zealand,1932,0.336
+NZL,New Zealand,1933,0.316
+NZL,New Zealand,1934,0.338
+NZL,New Zealand,1935,0.336
+NZL,New Zealand,1936,0.285
+NZL,New Zealand,1937,0.284
+NZL,New Zealand,1938,0.257
+NZL,New Zealand,1939,0.266
+NZL,New Zealand,1940,0.29
+NZL,New Zealand,1941,0.314
+NZL,New Zealand,1942,0.288
+NZL,New Zealand,1943,0.298
+NZL,New Zealand,1944,0.302
+NZL,New Zealand,1945,0.301
+NZL,New Zealand,1946,0.275
+NZL,New Zealand,1947,0.243
+NZL,New Zealand,1948,0.272
+NZL,New Zealand,1949,0.25
+NZL,New Zealand,1950,0.333
+NZL,New Zealand,1951,0.344
+NZL,New Zealand,1952,0.376
+NZL,New Zealand,1953,0.334
+NZL,New Zealand,1954,0.311
+NZL,New Zealand,1955,0.316
+NZL,New Zealand,1956,0.31
+NZL,New Zealand,1957,0.321
+NZL,New Zealand,1958,0.305
+NZL,New Zealand,1959,0.288
+NZL,New Zealand,1960,0.322
+NZL,New Zealand,1961,0.311
+NZL,New Zealand,1962,0.29
+NZL,New Zealand,1963,0.298
+NZL,New Zealand,1964,0.304
+NZL,New Zealand,1965,0.299
+NZL,New Zealand,1966,0.288
+NZL,New Zealand,1967,0.293
+NZL,New Zealand,1968,0.291
+NZL,New Zealand,1969,0.279
+NZL,New Zealand,1970,0.281
+NZL,New Zealand,1971,0.284
+NZL,New Zealand,1972,0.293
+NZL,New Zealand,1973,0.307
+NZL,New Zealand,1974,0.299
+NZL,New Zealand,1975,0.294
+NZL,New Zealand,1976,0.303
+NZL,New Zealand,1977,0.336
+NZL,New Zealand,1978,0.297
+NZL,New Zealand,1979,0.266
+NZL,New Zealand,1980,0.28
+NZL,New Zealand,1981,0.253
+NZL,New Zealand,1982,0.274
+NZL,New Zealand,1983,0.263
+NZL,New Zealand,1984,0.269
+NZL,New Zealand,1985,0.302
+NZL,New Zealand,1986,0.31
+NZL,New Zealand,1987,0.326
+NZL,New Zealand,1988,0.344
+NZL,New Zealand,1989,0.341
+NZL,New Zealand,1990,0.342
+NZL,New Zealand,1991,0.349
+NZL,New Zealand,1992,0.372
+NZL,New Zealand,1993,0.349
+NZL,New Zealand,1994,0.328
+NZL,New Zealand,1995,0.315
+NZL,New Zealand,1996,0.317
+NZL,New Zealand,1997,0.328
+NZL,New Zealand,1998,0.31
+NZL,New Zealand,1999,0.312
+NZL,New Zealand,2000,0.307
+NZL,New Zealand,2001,0.32
+NZL,New Zealand,2002,0.306
+NZL,New Zealand,2003,0.306
+NZL,New Zealand,2004,0.289
+NZL,New Zealand,2005,0.294
+NZL,New Zealand,2006,0.285
+NZL,New Zealand,2007,0.267
+NZL,New Zealand,2008,0.276
+NZL,New Zealand,2009,0.253
+NZL,New Zealand,2010,0.249
+NZL,New Zealand,2011,0.24
+NZL,New Zealand,2012,0.246
+NZL,New Zealand,2013,0.236
+NZL,New Zealand,2014,0.229
+NZL,New Zealand,2015,0.223
+NZL,New Zealand,2016,0.204
+NZL,New Zealand,2017,0.205
+NZL,New Zealand,2018,0.197
+NZL,New Zealand,2019,0.196
+NZL,New Zealand,2020,0.184
+NZL,New Zealand,2021,0.176
+NZL,New Zealand,2022,0.159
+SWE,Sweden,1834,0.007
+SWE,Sweden,1839,0.009
+SWE,Sweden,1840,0.008
+SWE,Sweden,1841,0.008
+SWE,Sweden,1842,0.017
+SWE,Sweden,1843,0.012
+SWE,Sweden,1844,0.019
+SWE,Sweden,1845,0.017
+SWE,Sweden,1846,0.016
+SWE,Sweden,1847,0.015
+SWE,Sweden,1848,0.026
+SWE,Sweden,1849,0.034
+SWE,Sweden,1850,0.034
+SWE,Sweden,1851,0.037
+SWE,Sweden,1852,0.037
+SWE,Sweden,1853,0.038
+SWE,Sweden,1854,0.056
+SWE,Sweden,1855,0.049
+SWE,Sweden,1856,0.074
+SWE,Sweden,1857,0.091
+SWE,Sweden,1858,0.075
+SWE,Sweden,1859,0.105
+SWE,Sweden,1860,0.101
+SWE,Sweden,1861,0.133
+SWE,Sweden,1862,0.138
+SWE,Sweden,1863,0.131
+SWE,Sweden,1864,0.134
+SWE,Sweden,1865,0.135
+SWE,Sweden,1866,0.14
+SWE,Sweden,1867,0.127
+SWE,Sweden,1868,0.166
+SWE,Sweden,1869,0.137
+SWE,Sweden,1870,0.15
+SWE,Sweden,1871,0.154
+SWE,Sweden,1872,0.179
+SWE,Sweden,1873,0.178
+SWE,Sweden,1874,0.183
+SWE,Sweden,1875,0.228
+SWE,Sweden,1876,0.227
+SWE,Sweden,1877,0.243
+SWE,Sweden,1878,0.211
+SWE,Sweden,1879,0.201
+SWE,Sweden,1880,0.262
+SWE,Sweden,1881,0.246
+SWE,Sweden,1882,0.292
+SWE,Sweden,1883,0.277
+SWE,Sweden,1884,0.31
+SWE,Sweden,1885,0.326
+SWE,Sweden,1886,0.313
+SWE,Sweden,1887,0.326
+SWE,Sweden,1888,0.357
+SWE,Sweden,1889,0.408
+SWE,Sweden,1890,0.397
+SWE,Sweden,1891,0.401
+SWE,Sweden,1892,0.403
+SWE,Sweden,1893,0.395
+SWE,Sweden,1894,0.435
+SWE,Sweden,1895,0.415
+SWE,Sweden,1896,0.415
+SWE,Sweden,1897,0.441
+SWE,Sweden,1898,0.449
+SWE,Sweden,1899,0.544
+SWE,Sweden,1900,0.54
+SWE,Sweden,1901,0.485
+SWE,Sweden,1902,0.512
+SWE,Sweden,1903,0.532
+SWE,Sweden,1904,0.547
+SWE,Sweden,1905,0.543
+SWE,Sweden,1906,0.555
+SWE,Sweden,1907,0.584
+SWE,Sweden,1908,0.643
+SWE,Sweden,1909,0.584
+SWE,Sweden,1910,0.589
+SWE,Sweden,1911,0.556
+SWE,Sweden,1912,0.589
+SWE,Sweden,1913,0.62
+SWE,Sweden,1914,0.566
+SWE,Sweden,1915,0.548
+SWE,Sweden,1916,0.544
+SWE,Sweden,1917,0.249
+SWE,Sweden,1918,0.315
+SWE,Sweden,1919,0.297
+SWE,Sweden,1920,0.375
+SWE,Sweden,1921,0.228
+SWE,Sweden,1922,0.348
+SWE,Sweden,1923,0.408
+SWE,Sweden,1924,0.453
+SWE,Sweden,1925,0.395
+SWE,Sweden,1926,0.366
+SWE,Sweden,1927,0.495
+SWE,Sweden,1928,0.436
+SWE,Sweden,1929,0.489
+SWE,Sweden,1930,0.457
+SWE,Sweden,1931,0.468
+SWE,Sweden,1932,0.48
+SWE,Sweden,1933,0.49
+SWE,Sweden,1934,0.51
+SWE,Sweden,1935,0.512
+SWE,Sweden,1936,0.541
+SWE,Sweden,1937,0.608
+SWE,Sweden,1938,0.531
+SWE,Sweden,1939,0.553
+SWE,Sweden,1940,0.376
+SWE,Sweden,1941,0.313
+SWE,Sweden,1942,0.268
+SWE,Sweden,1943,0.314
+SWE,Sweden,1944,0.237
+SWE,Sweden,1945,0.084
+SWE,Sweden,1946,0.287
+SWE,Sweden,1947,0.38
+SWE,Sweden,1948,0.456
+SWE,Sweden,1949,0.381
+SWE,Sweden,1950,0.38
+SWE,Sweden,1951,0.428
+SWE,Sweden,1952,0.435
+SWE,Sweden,1953,0.399
+SWE,Sweden,1954,0.405
+SWE,Sweden,1955,0.447
+SWE,Sweden,1956,0.477
+SWE,Sweden,1957,0.409
+SWE,Sweden,1958,0.441
+SWE,Sweden,1959,0.431
+SWE,Sweden,1960,0.475
+SWE,Sweden,1961,0.446
+SWE,Sweden,1962,0.449
+SWE,Sweden,1963,0.46
+SWE,Sweden,1964,0.47
+SWE,Sweden,1965,0.469
+SWE,Sweden,1966,0.533
+SWE,Sweden,1967,0.49
+SWE,Sweden,1968,0.532
+SWE,Sweden,1969,0.564
+SWE,Sweden,1970,0.566
+SWE,Sweden,1971,0.514
+SWE,Sweden,1972,0.503
+SWE,Sweden,1973,0.499
+SWE,Sweden,1974,0.442
+SWE,Sweden,1975,0.436
+SWE,Sweden,1976,0.471
+SWE,Sweden,1977,0.465
+SWE,Sweden,1978,0.424
+SWE,Sweden,1979,0.436
+SWE,Sweden,1980,0.362
+SWE,Sweden,1981,0.351
+SWE,Sweden,1982,0.312
+SWE,Sweden,1983,0.287
+SWE,Sweden,1984,0.271
+SWE,Sweden,1985,0.289
+SWE,Sweden,1986,0.282
+SWE,Sweden,1987,0.263
+SWE,Sweden,1988,0.248
+SWE,Sweden,1989,0.234
+SWE,Sweden,1990,0.239
+SWE,Sweden,1991,0.242
+SWE,Sweden,1992,0.244
+SWE,Sweden,1993,0.248
+SWE,Sweden,1994,0.248
+SWE,Sweden,1995,0.236
+SWE,Sweden,1996,0.247
+SWE,Sweden,1997,0.221
+SWE,Sweden,1998,0.213
+SWE,Sweden,1999,0.193
+SWE,Sweden,2000,0.181
+SWE,Sweden,2001,0.181
+SWE,Sweden,2002,0.178
+SWE,Sweden,2003,0.175
+SWE,Sweden,2004,0.165
+SWE,Sweden,2005,0.152
+SWE,Sweden,2006,0.144
+SWE,Sweden,2007,0.136
+SWE,Sweden,2008,0.131
+SWE,Sweden,2009,0.126
+SWE,Sweden,2010,0.133
+SWE,Sweden,2011,0.124
+SWE,Sweden,2012,0.118
+SWE,Sweden,2013,0.113
+SWE,Sweden,2014,0.106
+SWE,Sweden,2015,0.101
+SWE,Sweden,2016,0.099
+SWE,Sweden,2017,0.094
+SWE,Sweden,2018,0.091
+SWE,Sweden,2019,0.087
+SWE,Sweden,2020,0.08
+SWE,Sweden,2021,0.08
+SWE,Sweden,2022,0.074
+USA,United States,1820,0.03
+USA,United States,1821,0.03
+USA,United States,1822,0.029
+USA,United States,1823,0.03
+USA,United States,1824,0.032
+USA,United States,1825,0.034
+USA,United States,1826,0.038
+USA,United States,1827,0.04
+USA,United States,1828,0.043
+USA,United States,1829,0.049
+USA,United States,1830,0.052
+USA,United States,1831,0.051
+USA,United States,1832,0.064
+USA,United States,1833,0.07
+USA,United States,1834,0.069
+USA,United States,1835,0.082
+USA,United States,1836,0.087
+USA,United States,1837,0.098
+USA,United States,1838,0.091
+USA,United States,1839,0.093
+USA,United States,1840,0.101
+USA,United States,1841,0.106
+USA,United States,1842,0.115
+USA,United States,1843,0.123
+USA,United States,1844,0.136
+USA,United States,1845,0.156
+USA,United States,1846,0.171
+USA,United States,1847,0.192
+USA,United States,1848,0.202
+USA,United States,1849,0.22
+USA,United States,1850,0.231
+USA,United States,1851,0.267
+USA,United States,1852,0.267
+USA,United States,1853,0.272
+USA,United States,1854,0.29
+USA,United States,1855,0.331
+USA,United States,1856,0.33
+USA,United States,1857,0.336
+USA,United States,1858,0.33
+USA,United States,1859,0.341
+USA,United States,1860,0.338
+USA,United States,1861,0.324
+USA,United States,1862,0.318
+USA,United States,1863,0.337
+USA,United States,1864,0.341
+USA,United States,1865,0.352
+USA,United States,1866,0.349
+USA,United States,1867,0.407
+USA,United States,1868,0.444
+USA,United States,1869,0.481
+USA,United States,1870,0.51
+USA,United States,1871,0.51
+USA,United States,1872,0.6
+USA,United States,1873,0.632
+USA,United States,1874,0.612
+USA,United States,1875,0.588
+USA,United States,1876,0.568
+USA,United States,1877,0.61
+USA,United States,1878,0.572
+USA,United States,1879,0.621
+USA,United States,1880,0.63
+USA,United States,1881,0.644
+USA,United States,1882,0.678
+USA,United States,1883,0.714
+USA,United States,1884,0.739
+USA,United States,1885,0.746
+USA,United States,1886,0.765
+USA,United States,1887,0.783
+USA,United States,1888,0.956
+USA,United States,1889,0.808
+USA,United States,1890,0.954
+USA,United States,1891,0.973
+USA,United States,1892,0.934
+USA,United States,1893,0.99
+USA,United States,1894,0.954
+USA,United States,1895,0.961
+USA,United States,1896,0.983
+USA,United States,1897,0.934
+USA,United States,1898,0.997
+USA,United States,1899,1.049
+USA,United States,1900,1.082
+USA,United States,1901,1.059
+USA,United States,1902,1.111
+USA,United States,1903,1.239
+USA,United States,1904,1.238
+USA,United States,1905,1.29
+USA,United States,1906,1.215
+USA,United States,1907,1.391
+USA,United States,1908,1.323
+USA,United States,1909,1.316
+USA,United States,1910,1.43
+USA,United States,1911,1.38
+USA,United States,1912,1.415
+USA,United States,1913,1.471
+USA,United States,1914,1.465
+USA,United States,1915,1.487
+USA,United States,1916,1.46
+USA,United States,1917,1.656
+USA,United States,1918,1.596
+USA,United States,1919,1.349
+USA,United States,1920,1.61
+USA,United States,1921,1.359
+USA,United States,1922,1.308
+USA,United States,1923,1.534
+USA,United States,1924,1.343
+USA,United States,1925,1.356
+USA,United States,1926,1.388
+USA,United States,1927,1.352
+USA,United States,1928,1.322
+USA,United States,1929,1.344
+USA,United States,1930,1.319
+USA,United States,1931,1.2
+USA,United States,1932,1.197
+USA,United States,1933,1.328
+USA,United States,1934,1.305
+USA,United States,1935,1.206
+USA,United States,1936,1.26
+USA,United States,1937,1.226
+USA,United States,1938,1.104
+USA,United States,1939,1.137
+USA,United States,1940,1.178
+USA,United States,1941,1.126
+USA,United States,1942,1.092
+USA,United States,1943,1.031
+USA,United States,1944,1.035
+USA,United States,1945,1.019
+USA,United States,1946,1.073
+USA,United States,1947,1.2
+USA,United States,1948,1.191
+USA,United States,1949,1.018
+USA,United States,1950,1.095
+USA,United States,1951,1.049
+USA,United States,1952,0.985
+USA,United States,1953,0.964
+USA,United States,1954,0.925
+USA,United States,1955,0.947
+USA,United States,1956,0.973
+USA,United States,1957,0.947
+USA,United States,1958,0.927
+USA,United States,1959,0.89
+USA,United States,1960,0.888
+USA,United States,1961,0.865
+USA,United States,1962,0.846
+USA,United States,1963,0.847
+USA,United States,1964,0.836
+USA,United States,1965,0.818
+USA,United States,1966,0.806
+USA,United States,1967,0.816
+USA,United States,1968,0.808
+USA,United States,1969,0.823
+USA,United States,1970,0.883
+USA,United States,1971,0.862
+USA,United States,1972,0.857
+USA,United States,1973,0.848
+USA,United States,1974,0.82
+USA,United States,1975,0.787
+USA,United States,1976,0.783
+USA,United States,1977,0.77
+USA,United States,1978,0.751
+USA,United States,1979,0.728
+USA,United States,1980,0.701
+USA,United States,1981,0.657
+USA,United States,1982,0.636
+USA,United States,1983,0.615
+USA,United States,1984,0.591
+USA,United States,1985,0.571
+USA,United States,1986,0.552
+USA,United States,1987,0.556
+USA,United States,1988,0.557
+USA,United States,1989,0.546
+USA,United States,1990,0.555
+USA,United States,1991,0.55
+USA,United States,1992,0.542
+USA,United States,1993,0.538
+USA,United States,1994,0.525
+USA,United States,1995,0.517
+USA,United States,1996,0.514
+USA,United States,1997,0.499
+USA,United States,1998,0.483
+USA,United States,1999,0.466
+USA,United States,2000,0.465
+USA,United States,2001,0.452
+USA,United States,2002,0.447
+USA,United States,2003,0.439
+USA,United States,2004,0.43
+USA,United States,2005,0.418
+USA,United States,2006,0.401
+USA,United States,2007,0.399
+USA,United States,2008,0.387
+USA,United States,2009,0.369
+USA,United States,2010,0.372
+USA,United States,2011,0.358
+USA,United States,2012,0.337
+USA,United States,2013,0.339
+USA,United States,2014,0.335
+USA,United States,2015,0.317
+USA,United States,2016,0.305
+USA,United States,2017,0.295
+USA,United States,2018,0.296
+USA,United States,2019,0.282
+USA,United States,2020,0.26
+USA,United States,2021,0.263
+USA,United States,2022,0.259

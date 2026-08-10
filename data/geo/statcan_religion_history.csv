@@ -1,0 +1,595 @@
+geography,geo_level,year,group,count,share
+Calgary,cma,2001,Buddhist,16635.0,1.76
+Calgary,cma,2011,Buddhist,23260.0,1.94
+Calgary,cma,2021,Buddhist,22125.0,1.51
+Calgary,cma,2001,Christian,632285.0,67.03
+Calgary,cma,2011,Christian,667110.0,55.63
+Calgary,cma,2021,Christian,656310.0,44.79
+Calgary,cma,2001,Hindu,7260.0,0.77
+Calgary,cma,2011,Hindu,17835.0,1.49
+Calgary,cma,2021,Hindu,34920.0,2.38
+Calgary,cma,2001,Jewish,6535.0,0.69
+Calgary,cma,2011,Jewish,6170.0,0.51
+Calgary,cma,2021,Jewish,6705.0,0.46
+Calgary,cma,2001,Muslim,25915.0,2.75
+Calgary,cma,2011,Muslim,58310.0,4.86
+Calgary,cma,2021,Muslim,100825.0,6.88
+Calgary,cma,2001,No religion / secular,237575.0,25.19
+Calgary,cma,2011,No religion / secular,388365.0,32.39
+Calgary,cma,2021,No religion / secular,576025.0,39.31
+Calgary,cma,2001,Other religions,3040.0,0.32
+Calgary,cma,2011,Other religions,6465.0,0.54
+Calgary,cma,2021,Other religions,10725.0,0.73
+Calgary,cma,2001,Sikh,13325.0,1.41
+Calgary,cma,2011,Sikh,30420.0,2.54
+Calgary,cma,2021,Sikh,56060.0,3.83
+Calgary,cma,2001,Indigenous,735.0,0.08
+Calgary,cma,2011,Indigenous,1195.0,0.1
+Calgary,cma,2021,Indigenous,1480.0,0.1
+Edmonton,cma,2001,Buddhist,14040.0,1.51
+Edmonton,cma,2011,Buddhist,17570.0,1.54
+Edmonton,cma,2021,Buddhist,16465.0,1.18
+Edmonton,cma,2001,Christian,649205.0,70.03
+Edmonton,cma,2011,Christian,673165.0,59.07
+Edmonton,cma,2021,Christian,655715.0,46.91
+Edmonton,cma,2001,Hindu,7825.0,0.84
+Edmonton,cma,2011,Hindu,15615.0,1.37
+Edmonton,cma,2021,Hindu,35830.0,2.56
+Edmonton,cma,2001,Jewish,3980.0,0.43
+Edmonton,cma,2011,Jewish,3790.0,0.33
+Edmonton,cma,2021,Jewish,3820.0,0.27
+Edmonton,cma,2001,Muslim,19580.0,2.11
+Edmonton,cma,2011,Muslim,46125.0,4.05
+Edmonton,cma,2021,Muslim,86120.0,6.16
+Edmonton,cma,2001,No religion / secular,218905.0,23.61
+Edmonton,cma,2011,No religion / secular,354935.0,31.15
+Edmonton,cma,2021,No religion / secular,539075.0,38.57
+Edmonton,cma,2001,Other religions,2970.0,0.32
+Edmonton,cma,2011,Other religions,5585.0,0.49
+Edmonton,cma,2021,Other religions,12785.0,0.91
+Edmonton,cma,2001,Sikh,9400.0,1.01
+Edmonton,cma,2011,Sikh,20425.0,1.79
+Edmonton,cma,2021,Sikh,44440.0,3.18
+Edmonton,cma,2001,Indigenous,1100.0,0.12
+Edmonton,cma,2011,Indigenous,2375.0,0.21
+Edmonton,cma,2021,Indigenous,3495.0,0.25
+Halifax,cma,2001,Buddhist,1480.0,0.42
+Halifax,cma,2011,Buddhist,1590.0,0.41
+Halifax,cma,2021,Buddhist,2205.0,0.48
+Halifax,cma,2001,Christian,301830.0,84.8
+Halifax,cma,2011,Christian,274965.0,71.5
+Halifax,cma,2021,Christian,245770.0,53.3
+Halifax,cma,2001,Hindu,960.0,0.27
+Halifax,cma,2011,Hindu,1540.0,0.4
+Halifax,cma,2021,Hindu,6855.0,1.49
+Halifax,cma,2001,Jewish,1575.0,0.44
+Halifax,cma,2011,Jewish,1345.0,0.35
+Halifax,cma,2021,Jewish,1775.0,0.38
+Halifax,cma,2001,Muslim,3070.0,0.86
+Halifax,cma,2011,Muslim,7540.0,1.96
+Halifax,cma,2021,Muslim,13265.0,2.88
+Halifax,cma,2001,No religion / secular,45905.0,12.9
+Halifax,cma,2011,No religion / secular,95660.0,24.88
+Halifax,cma,2021,No religion / secular,183885.0,39.88
+Halifax,cma,2001,Other religions,910.0,0.26
+Halifax,cma,2011,Other religions,1515.0,0.39
+Halifax,cma,2021,Other religions,3455.0,0.75
+Halifax,cma,2001,Sikh,175.0,0.05
+Halifax,cma,2011,Sikh,350.0,0.09
+Halifax,cma,2021,Sikh,3540.0,0.77
+Halifax,cma,2001,Indigenous,40.0,0.01
+Halifax,cma,2011,Indigenous,45.0,0.01
+Halifax,cma,2021,Indigenous,380.0,0.08
+Montréal,cma,2001,Buddhist,37835.0,1.12
+Montréal,cma,2011,Buddhist,47350.0,1.26
+Montréal,cma,2021,Buddhist,42540.0,1.01
+Montréal,cma,2001,Christian,2859005.0,84.57
+Montréal,cma,2011,Christian,2790920.0,74.38
+Montréal,cma,2021,Christian,2431435.0,57.8
+Montréal,cma,2001,Hindu,24075.0,0.71
+Montréal,cma,2011,Hindu,32280.0,0.86
+Montréal,cma,2021,Hindu,45565.0,1.08
+Montréal,cma,2001,Jewish,88765.0,2.63
+Montréal,cma,2011,Jewish,83200.0,2.22
+Montréal,cma,2021,Jewish,82080.0,1.95
+Montréal,cma,2001,Muslim,100185.0,2.96
+Montréal,cma,2011,Muslim,221040.0,5.89
+Montréal,cma,2021,Muslim,365670.0,8.69
+Montréal,cma,2001,No religion / secular,258290.0,7.64
+Montréal,cma,2011,No religion / secular,560650.0,14.94
+Montréal,cma,2021,No religion / secular,1200085.0,28.53
+Montréal,cma,2001,Other religions,4350.0,0.13
+Montréal,cma,2011,Other religions,7620.0,0.2
+Montréal,cma,2021,Other religions,15785.0,0.38
+Montréal,cma,2001,Sikh,7935.0,0.23
+Montréal,cma,2011,Sikh,9205.0,0.25
+Montréal,cma,2021,Sikh,22990.0,0.55
+Montréal,cma,2001,Indigenous,200.0,0.01
+Montréal,cma,2011,Indigenous,200.0,0.01
+Montréal,cma,2021,Indigenous,295.0,0.01
+Ottawa–Gatineau,cma,2001,Buddhist,9980.0,0.95
+Ottawa–Gatineau,cma,2011,Buddhist,12860.0,1.06
+Ottawa–Gatineau,cma,2021,Buddhist,12185.0,0.83
+Ottawa–Gatineau,cma,2001,Christian,833785.0,79.35
+Ottawa–Gatineau,cma,2011,Christian,850925.0,69.99
+Ottawa–Gatineau,cma,2021,Christian,824655.0,56.31
+Ottawa–Gatineau,cma,2001,Hindu,8155.0,0.78
+Ottawa–Gatineau,cma,2011,Hindu,12295.0,1.01
+Ottawa–Gatineau,cma,2021,Hindu,21205.0,1.45
+Ottawa–Gatineau,cma,2001,Jewish,11325.0,1.08
+Ottawa–Gatineau,cma,2011,Jewish,10980.0,0.9
+Ottawa–Gatineau,cma,2021,Jewish,11395.0,0.78
+Ottawa–Gatineau,cma,2001,Muslim,41725.0,3.97
+Ottawa–Gatineau,cma,2011,Muslim,65880.0,5.42
+Ottawa–Gatineau,cma,2021,Muslim,114780.0,7.84
+Ottawa–Gatineau,cma,2001,No religion / secular,139705.0,13.3
+Ottawa–Gatineau,cma,2011,No religion / secular,252795.0,20.79
+Ottawa–Gatineau,cma,2021,No religion / secular,462555.0,31.58
+Ottawa–Gatineau,cma,2001,Other religions,3095.0,0.29
+Ottawa–Gatineau,cma,2011,Other religions,6185.0,0.51
+Ottawa–Gatineau,cma,2021,Other religions,10250.0,0.7
+Ottawa–Gatineau,cma,2001,Sikh,2645.0,0.25
+Ottawa–Gatineau,cma,2011,Sikh,3445.0,0.28
+Ottawa–Gatineau,cma,2021,Sikh,6735.0,0.46
+Ottawa–Gatineau,cma,2001,Indigenous,340.0,0.03
+Ottawa–Gatineau,cma,2011,Indigenous,375.0,0.03
+Ottawa–Gatineau,cma,2021,Indigenous,745.0,0.05
+Toronto,cma,2001,Buddhist,97165.0,2.09
+Toronto,cma,2011,Buddhist,124215.0,2.25
+Toronto,cma,2021,Buddhist,120865.0,1.97
+Toronto,cma,2001,Christian,3049055.0,65.6
+Toronto,cma,2011,Christian,3128565.0,56.66
+Toronto,cma,2021,Christian,2851285.0,46.42
+Toronto,cma,2001,Hindu,191305.0,4.12
+Toronto,cma,2011,Hindu,325420.0,5.89
+Toronto,cma,2021,Hindu,457825.0,7.45
+Toronto,cma,2001,Jewish,164510.0,3.54
+Toronto,cma,2011,Jewish,167765.0,3.04
+Toronto,cma,2021,Jewish,165765.0,2.7
+Toronto,cma,2001,Muslim,254115.0,5.47
+Toronto,cma,2011,Muslim,424935.0,7.7
+Toronto,cma,2021,Muslim,626010.0,10.19
+Toronto,cma,2001,No religion / secular,784700.0,16.88
+Toronto,cma,2011,No religion / secular,1165010.0,21.1
+Toronto,cma,2021,No religion / secular,1636865.0,26.65
+Toronto,cma,2001,Other religions,15430.0,0.33
+Toronto,cma,2011,Other religions,24305.0,0.44
+Toronto,cma,2021,Other religions,38745.0,0.63
+Toronto,cma,2001,Sikh,90590.0,1.95
+Toronto,cma,2011,Sikh,159905.0,2.9
+Toronto,cma,2021,Sikh,244240.0,3.98
+Toronto,cma,2001,Indigenous,1090.0,0.02
+Toronto,cma,2011,Indigenous,1110.0,0.02
+Toronto,cma,2021,Indigenous,1285.0,0.02
+Vancouver,cma,2001,Buddhist,74545.0,3.79
+Vancouver,cma,2011,Buddhist,78465.0,3.44
+Vancouver,cma,2021,Buddhist,70670.0,2.71
+Vancouver,cma,2001,Christian,992120.0,50.43
+Vancouver,cma,2011,Christian,950170.0,41.66
+Vancouver,cma,2021,Christian,863055.0,33.11
+Vancouver,cma,2001,Hindu,27405.0,1.39
+Vancouver,cma,2011,Hindu,40030.0,1.76
+Vancouver,cma,2021,Hindu,66535.0,2.55
+Vancouver,cma,2001,Jewish,17275.0,0.88
+Vancouver,cma,2011,Jewish,18730.0,0.82
+Vancouver,cma,2021,Jewish,20125.0,0.77
+Vancouver,cma,2001,Muslim,52590.0,2.67
+Vancouver,cma,2011,Muslim,73215.0,3.21
+Vancouver,cma,2021,Muslim,110645.0,4.24
+Vancouver,cma,2001,No religion / secular,692765.0,35.21
+Vancouver,cma,2011,No religion / secular,945405.0,41.45
+Vancouver,cma,2021,No religion / secular,1227755.0,47.09
+Vancouver,cma,2001,Other religions,10215.0,0.52
+Vancouver,cma,2011,Other religions,17185.0,0.75
+Vancouver,cma,2021,Other religions,24205.0,0.93
+Vancouver,cma,2001,Sikh,99005.0,5.03
+Vancouver,cma,2011,Sikh,155945.0,6.84
+Vancouver,cma,2021,Sikh,222165.0,8.52
+Vancouver,cma,2001,Indigenous,1560.0,0.08
+Vancouver,cma,2011,Indigenous,1550.0,0.07
+Vancouver,cma,2021,Indigenous,1865.0,0.07
+Winnipeg,cma,2001,Buddhist,5365.0,0.81
+Winnipeg,cma,2011,Buddhist,6315.0,0.88
+Winnipeg,cma,2021,Buddhist,7010.0,0.86
+Winnipeg,cma,2001,Christian,487170.0,73.62
+Winnipeg,cma,2011,Christian,460755.0,64.47
+Winnipeg,cma,2021,Christian,419665.0,51.2
+Winnipeg,cma,2001,Hindu,3610.0,0.55
+Winnipeg,cma,2011,Hindu,6840.0,0.96
+Winnipeg,cma,2021,Hindu,14925.0,1.82
+Winnipeg,cma,2001,Jewish,12765.0,1.93
+Winnipeg,cma,2011,Jewish,10740.0,1.5
+Winnipeg,cma,2021,Jewish,11165.0,1.36
+Winnipeg,cma,2001,Muslim,4805.0,0.73
+Winnipeg,cma,2011,Muslim,11265.0,1.58
+Winnipeg,cma,2021,Muslim,24560.0,3.0
+Winnipeg,cma,2001,No religion / secular,139535.0,21.09
+Winnipeg,cma,2011,No religion / secular,203985.0,28.54
+Winnipeg,cma,2021,No religion / secular,300195.0,36.62
+Winnipeg,cma,2001,Other religions,1715.0,0.26
+Winnipeg,cma,2011,Other religions,3010.0,0.42
+Winnipeg,cma,2021,Other religions,5755.0,0.7
+Winnipeg,cma,2001,Sikh,5315.0,0.8
+Winnipeg,cma,2011,Sikh,9885.0,1.38
+Winnipeg,cma,2021,Sikh,33435.0,4.08
+Winnipeg,cma,2001,Indigenous,1440.0,0.22
+Winnipeg,cma,2011,Indigenous,1850.0,0.26
+Winnipeg,cma,2021,Indigenous,3010.0,0.37
+Canada,national,2001,Buddhist,300345.0,1.01
+Canada,national,2011,Buddhist,366830.0,1.12
+Canada,national,2021,Buddhist,356975.0,0.98
+Canada,national,2001,Christian,22851830.0,77.1
+Canada,national,2011,Christian,22102745.0,67.28
+Canada,national,2021,Christian,19373330.0,53.33
+Canada,national,2001,Hindu,297200.0,1.0
+Canada,national,2011,Hindu,497965.0,1.52
+Canada,national,2021,Hindu,828195.0,2.28
+Canada,national,2001,Jewish,329995.0,1.11
+Canada,national,2011,Jewish,329495.0,1.0
+Canada,national,2021,Jewish,335295.0,0.92
+Canada,national,2001,Muslim,579640.0,1.96
+Canada,national,2011,Muslim,1053945.0,3.21
+Canada,national,2021,Muslim,1775715.0,4.89
+Canada,national,2001,No religion / secular,4900095.0,16.53
+Canada,national,2011,No religion / secular,7850605.0,23.9
+Canada,national,2021,No religion / secular,12577475.0,34.62
+Canada,national,2001,Other religions,71700.0,0.24
+Canada,national,2011,Other religions,130835.0,0.4
+Canada,national,2021,Other religions,229015.0,0.63
+Canada,national,2001,Sikh,278410.0,0.94
+Canada,national,2011,Sikh,454965.0,1.38
+Canada,national,2021,Sikh,771790.0,2.12
+Canada,national,2001,Indigenous,29820.0,0.1
+Canada,national,2011,Indigenous,64935.0,0.2
+Canada,national,2021,Indigenous,80690.0,0.22
+Alberta,province,2001,Buddhist,33415.0,1.14
+Alberta,province,2011,Buddhist,44410.0,1.24
+Alberta,province,2021,Buddhist,42830.0,1.03
+Alberta,province,2001,Christian,2099435.0,71.38
+Alberta,province,2011,Christian,2152200.0,60.32
+Alberta,province,2021,Christian,2009820.0,48.11
+Alberta,province,2001,Hindu,15965.0,0.54
+Alberta,province,2011,Hindu,36845.0,1.03
+Alberta,province,2021,Hindu,78520.0,1.88
+Alberta,province,2001,Jewish,11085.0,0.38
+Alberta,province,2011,Jewish,10900.0,0.31
+Alberta,province,2021,Jewish,11390.0,0.27
+Alberta,province,2001,Muslim,49040.0,1.67
+Alberta,province,2011,Muslim,113445.0,3.18
+Alberta,province,2021,Muslim,202535.0,4.85
+Alberta,province,2001,No religion / secular,694840.0,23.62
+Alberta,province,2011,No religion / secular,1126130.0,31.56
+Alberta,province,2021,No religion / secular,1676045.0,40.12
+Alberta,province,2001,Other religions,8030.0,0.27
+Alberta,province,2011,Other religions,16605.0,0.47
+Alberta,province,2021,Other religions,33225.0,0.8
+Alberta,province,2001,Sikh,23465.0,0.8
+Alberta,province,2011,Sikh,52335.0,1.47
+Alberta,province,2021,Sikh,103600.0,2.48
+Alberta,province,2001,Indigenous,5860.0,0.2
+Alberta,province,2011,Indigenous,15100.0,0.42
+Alberta,province,2021,Indigenous,19755.0,0.47
+British Columbia,province,2001,Buddhist,85535.0,2.21
+British Columbia,province,2011,Buddhist,90620.0,2.1
+British Columbia,province,2021,Buddhist,83860.0,1.71
+British Columbia,province,2001,Christian,2124605.0,54.92
+British Columbia,province,2011,Christian,1930415.0,44.64
+British Columbia,province,2021,Christian,1684870.0,34.27
+British Columbia,province,2001,Hindu,31500.0,0.81
+British Columbia,province,2011,Hindu,45795.0,1.06
+British Columbia,province,2021,Hindu,81320.0,1.65
+British Columbia,province,2001,Jewish,21230.0,0.55
+British Columbia,province,2011,Jewish,23130.0,0.53
+British Columbia,province,2021,Jewish,26845.0,0.55
+British Columbia,province,2001,Muslim,56220.0,1.45
+British Columbia,province,2011,Muslim,79310.0,1.83
+British Columbia,province,2021,Muslim,125910.0,2.56
+British Columbia,province,2001,No religion / secular,1388300.0,35.88
+British Columbia,province,2011,No religion / secular,1908285.0,44.13
+British Columbia,province,2021,No religion / secular,2559250.0,52.06
+British Columbia,province,2001,Other religions,20700.0,0.54
+British Columbia,province,2011,Other religions,35500.0,0.82
+British Columbia,province,2021,Other religions,51440.0,1.05
+British Columbia,province,2001,Sikh,135310.0,3.5
+British Columbia,province,2011,Sikh,201110.0,4.65
+British Columbia,province,2021,Sikh,290870.0,5.92
+British Columbia,province,2001,Indigenous,5470.0,0.14
+British Columbia,province,2011,Indigenous,10295.0,0.24
+British Columbia,province,2021,Indigenous,11570.0,0.24
+Manitoba,province,2001,Buddhist,5745.0,0.52
+Manitoba,province,2011,Buddhist,6770.0,0.58
+Manitoba,province,2021,Buddhist,7440.0,0.57
+Manitoba,province,2001,Christian,859060.0,77.83
+Manitoba,province,2011,Christian,803640.0,68.43
+Manitoba,province,2021,Christian,708850.0,54.23
+Manitoba,province,2001,Hindu,3835.0,0.35
+Manitoba,province,2011,Hindu,7720.0,0.66
+Manitoba,province,2021,Hindu,18355.0,1.4
+Manitoba,province,2001,Jewish,13040.0,1.18
+Manitoba,province,2011,Jewish,11110.0,0.95
+Manitoba,province,2021,Jewish,11565.0,0.88
+Manitoba,province,2001,Muslim,5095.0,0.46
+Manitoba,province,2011,Muslim,12405.0,1.06
+Manitoba,province,2021,Muslim,26430.0,2.02
+Manitoba,province,2001,No religion / secular,205865.0,18.65
+Manitoba,province,2011,No religion / secular,311105.0,26.49
+Manitoba,province,2021,No religion / secular,480320.0,36.74
+Manitoba,province,2001,Other religions,2170.0,0.2
+Manitoba,province,2011,Other religions,4245.0,0.36
+Manitoba,province,2021,Other religions,8575.0,0.66
+Manitoba,province,2001,Sikh,5485.0,0.5
+Manitoba,province,2011,Sikh,10200.0,0.87
+Manitoba,province,2021,Sikh,35470.0,2.71
+Manitoba,province,2001,Indigenous,3415.0,0.31
+Manitoba,province,2011,Indigenous,7155.0,0.61
+Manitoba,province,2021,Indigenous,10185.0,0.78
+New Brunswick,province,2001,Buddhist,550.0,0.08
+New Brunswick,province,2011,Buddhist,975.0,0.13
+New Brunswick,province,2021,Buddhist,1115.0,0.15
+New Brunswick,province,2001,Christian,657875.0,91.41
+New Brunswick,province,2011,Christian,616910.0,83.84
+New Brunswick,province,2021,Christian,512645.0,67.52
+New Brunswick,province,2001,Hindu,475.0,0.07
+New Brunswick,province,2011,Hindu,820.0,0.11
+New Brunswick,province,2021,Hindu,3340.0,0.44
+New Brunswick,province,2001,Jewish,670.0,0.09
+New Brunswick,province,2011,Jewish,620.0,0.08
+New Brunswick,province,2021,Jewish,1005.0,0.13
+New Brunswick,province,2001,Muslim,1275.0,0.18
+New Brunswick,province,2011,Muslim,2640.0,0.36
+New Brunswick,province,2021,Muslim,9190.0,1.21
+New Brunswick,province,2001,No religion / secular,57665.0,8.01
+New Brunswick,province,2011,No religion / secular,111435.0,15.14
+New Brunswick,province,2021,No religion / secular,225125.0,29.65
+New Brunswick,province,2001,Other religions,755.0,0.1
+New Brunswick,province,2011,Other religions,1895.0,0.26
+New Brunswick,province,2021,Other religions,3985.0,0.52
+New Brunswick,province,2001,Sikh,95.0,0.01
+New Brunswick,province,2011,Sikh,20.0,0.0
+New Brunswick,province,2021,Sikh,1780.0,0.23
+New Brunswick,province,2001,Indigenous,360.0,0.05
+New Brunswick,province,2011,Indigenous,525.0,0.07
+New Brunswick,province,2021,Indigenous,1005.0,0.13
+Newfoundland and Labrador,province,2001,Buddhist,185.0,0.04
+Newfoundland and Labrador,province,2011,Buddhist,400.0,0.08
+Newfoundland and Labrador,province,2021,Buddhist,490.0,0.1
+Newfoundland and Labrador,province,2001,Christian,493485.0,97.13
+Newfoundland and Labrador,province,2011,Christian,472720.0,93.19
+Newfoundland and Labrador,province,2021,Christian,413915.0,82.44
+Newfoundland and Labrador,province,2001,Hindu,405.0,0.08
+Newfoundland and Labrador,province,2011,Hindu,635.0,0.13
+Newfoundland and Labrador,province,2021,Hindu,1205.0,0.24
+Newfoundland and Labrador,province,2001,Jewish,140.0,0.03
+Newfoundland and Labrador,province,2011,Jewish,175.0,0.03
+Newfoundland and Labrador,province,2021,Jewish,240.0,0.05
+Newfoundland and Labrador,province,2001,Muslim,625.0,0.12
+Newfoundland and Labrador,province,2011,Muslim,1200.0,0.24
+Newfoundland and Labrador,province,2021,Muslim,4000.0,0.8
+Newfoundland and Labrador,province,2001,No religion / secular,12865.0,2.53
+Newfoundland and Labrador,province,2011,No religion / secular,31330.0,6.18
+Newfoundland and Labrador,province,2021,No religion / secular,80335.0,16.0
+Newfoundland and Labrador,province,2001,Other religions,190.0,0.04
+Newfoundland and Labrador,province,2011,Other religions,685.0,0.14
+Newfoundland and Labrador,province,2021,Other religions,965.0,0.19
+Newfoundland and Labrador,province,2001,Sikh,135.0,0.03
+Newfoundland and Labrador,province,2011,Sikh,100.0,0.02
+Newfoundland and Labrador,province,2021,Sikh,850.0,0.17
+Newfoundland and Labrador,province,2001,Indigenous,50.0,0.01
+Newfoundland and Labrador,province,2011,Indigenous,30.0,0.01
+Newfoundland and Labrador,province,2021,Indigenous,105.0,0.02
+Northwest Territories,province,2001,Buddhist,155.0,0.42
+Northwest Territories,province,2011,Buddhist,170.0,0.42
+Northwest Territories,province,2021,Buddhist,250.0,0.62
+Northwest Territories,province,2001,Christian,29665.0,79.96
+Northwest Territories,province,2011,Christian,27050.0,66.3
+Northwest Territories,province,2021,Christian,22275.0,55.16
+Northwest Territories,province,2001,Hindu,65.0,0.18
+Northwest Territories,province,2011,Hindu,70.0,0.17
+Northwest Territories,province,2021,Hindu,200.0,0.5
+Northwest Territories,province,2001,Jewish,30.0,0.08
+Northwest Territories,province,2011,Jewish,40.0,0.1
+Northwest Territories,province,2021,Jewish,50.0,0.12
+Northwest Territories,province,2001,Muslim,175.0,0.47
+Northwest Territories,province,2011,Muslim,275.0,0.67
+Northwest Territories,province,2021,Muslim,725.0,1.8
+Northwest Territories,province,2001,No religion / secular,6605.0,17.8
+Northwest Territories,province,2011,No religion / secular,12450.0,30.51
+Northwest Territories,province,2021,No religion / secular,16065.0,39.78
+Northwest Territories,province,2001,Other religions,125.0,0.34
+Northwest Territories,province,2011,Other religions,220.0,0.54
+Northwest Territories,province,2021,Other religions,370.0,0.92
+Northwest Territories,province,2001,Sikh,40.0,0.11
+Northwest Territories,province,2011,Sikh,20.0,0.05
+Northwest Territories,province,2021,Sikh,110.0,0.27
+Northwest Territories,province,2001,Indigenous,240.0,0.65
+Northwest Territories,province,2011,Indigenous,500.0,1.23
+Northwest Territories,province,2021,Indigenous,325.0,0.8
+Nova Scotia,province,2001,Buddhist,1735.0,0.19
+Nova Scotia,province,2011,Buddhist,2205.0,0.24
+Nova Scotia,province,2021,Buddhist,2955.0,0.31
+Nova Scotia,province,2001,Christian,780540.0,86.96
+Nova Scotia,province,2011,Christian,690460.0,76.19
+Nova Scotia,province,2021,Christian,556115.0,58.18
+Nova Scotia,province,2001,Hindu,1235.0,0.14
+Nova Scotia,province,2011,Hindu,1850.0,0.2
+Nova Scotia,province,2021,Hindu,8460.0,0.89
+Nova Scotia,province,2001,Jewish,2120.0,0.24
+Nova Scotia,province,2011,Jewish,1805.0,0.2
+Nova Scotia,province,2021,Jewish,2200.0,0.23
+Nova Scotia,province,2001,Muslim,3545.0,0.39
+Nova Scotia,province,2011,Muslim,8505.0,0.94
+Nova Scotia,province,2021,Muslim,14715.0,1.54
+Nova Scotia,province,2001,No religion / secular,106405.0,11.85
+Nova Scotia,province,2011,No religion / secular,197665.0,21.81
+Nova Scotia,province,2021,No religion / secular,359395.0,37.6
+Nova Scotia,province,2001,Other religions,1450.0,0.16
+Nova Scotia,province,2011,Other religions,2720.0,0.3
+Nova Scotia,province,2021,Other religions,6195.0,0.65
+Nova Scotia,province,2001,Sikh,270.0,0.03
+Nova Scotia,province,2011,Sikh,390.0,0.04
+Nova Scotia,province,2021,Sikh,4730.0,0.49
+Nova Scotia,province,2001,Indigenous,270.0,0.03
+Nova Scotia,province,2011,Indigenous,570.0,0.06
+Nova Scotia,province,2021,Indigenous,1090.0,0.11
+Nunavut,province,2001,Buddhist,15.0,0.06
+Nunavut,province,2011,Buddhist,20.0,0.06
+Nunavut,province,2021,Buddhist,20.0,0.05
+Nunavut,province,2001,Christian,24840.0,93.16
+Nunavut,province,2011,Christian,27255.0,85.99
+Nunavut,province,2021,Christian,26915.0,73.54
+Nunavut,province,2001,Hindu,10.0,0.04
+Nunavut,province,2011,Hindu,30.0,0.09
+Nunavut,province,2021,Hindu,55.0,0.15
+Nunavut,province,2001,Jewish,10.0,0.04
+Nunavut,province,2011,Jewish,10.0,0.03
+Nunavut,province,2021,Jewish,35.0,0.1
+Nunavut,province,2001,Muslim,30.0,0.11
+Nunavut,province,2011,Muslim,50.0,0.16
+Nunavut,province,2021,Muslim,140.0,0.38
+Nunavut,province,2001,No religion / secular,1655.0,6.21
+Nunavut,province,2011,No religion / secular,4100.0,12.94
+Nunavut,province,2021,No religion / secular,9115.0,24.9
+Nunavut,province,2001,Other religions,75.0,0.28
+Nunavut,province,2011,Other religions,85.0,0.27
+Nunavut,province,2021,Other religions,135.0,0.37
+Nunavut,province,2001,Sikh,0.0,0.0
+Nunavut,province,2011,Sikh,10.0,0.03
+Nunavut,province,2021,Sikh,10.0,0.03
+Nunavut,province,2001,Indigenous,30.0,0.11
+Nunavut,province,2011,Indigenous,135.0,0.43
+Nunavut,province,2021,Indigenous,180.0,0.49
+Ontario,province,2001,Buddhist,128325.0,1.14
+Ontario,province,2011,Buddhist,163750.0,1.29
+Ontario,province,2021,Buddhist,164210.0,1.17
+Ontario,province,2001,Christian,8413500.0,74.55
+Ontario,province,2011,Christian,8167295.0,64.55
+Ontario,province,2021,Christian,7315815.0,52.14
+Ontario,province,2001,Hindu,217560.0,1.93
+Ontario,province,2011,Hindu,366720.0,2.9
+Ontario,province,2021,Hindu,573700.0,4.09
+Ontario,province,2001,Jewish,190800.0,1.69
+Ontario,province,2011,Jewish,195540.0,1.55
+Ontario,province,2021,Jewish,196100.0,1.4
+Ontario,province,2001,Muslim,352530.0,3.12
+Ontario,province,2011,Muslim,581950.0,4.6
+Ontario,province,2021,Muslim,942990.0,6.72
+Ontario,province,2001,No religion / secular,1841290.0,16.32
+Ontario,province,2011,No religion / secular,2927790.0,23.14
+Ontario,province,2021,No religion / secular,4433675.0,31.6
+Ontario,province,2001,Other religions,29495.0,0.26
+Ontario,province,2011,Other religions,53080.0,0.42
+Ontario,province,2021,Other religions,88840.0,0.63
+Ontario,province,2001,Sikh,104785.0,0.93
+Ontario,province,2011,Sikh,179765.0,1.42
+Ontario,province,2021,Sikh,300435.0,2.14
+Ontario,province,2001,Indigenous,7265.0,0.06
+Ontario,province,2011,Indigenous,15905.0,0.13
+Ontario,province,2021,Indigenous,15985.0,0.11
+Prince Edward Island,province,2001,Buddhist,140.0,0.1
+Prince Edward Island,province,2011,Buddhist,560.0,0.41
+Prince Edward Island,province,2021,Buddhist,755.0,0.5
+Prince Edward Island,province,2001,Christian,123810.0,92.82
+Prince Edward Island,province,2011,Christian,115620.0,84.16
+Prince Edward Island,province,2021,Christian,101755.0,67.62
+Prince Edward Island,province,2001,Hindu,35.0,0.03
+Prince Edward Island,province,2011,Hindu,205.0,0.15
+Prince Edward Island,province,2021,Hindu,1245.0,0.83
+Prince Edward Island,province,2001,Jewish,55.0,0.04
+Prince Edward Island,province,2011,Jewish,100.0,0.07
+Prince Edward Island,province,2021,Jewish,165.0,0.11
+Prince Edward Island,province,2001,Muslim,195.0,0.15
+Prince Edward Island,province,2011,Muslim,660.0,0.48
+Prince Edward Island,province,2021,Muslim,1720.0,1.14
+Prince Edward Island,province,2001,No religion / secular,8945.0,6.71
+Prince Edward Island,province,2011,No religion / secular,19820.0,14.43
+Prince Edward Island,province,2021,No religion / secular,42830.0,28.46
+Prince Edward Island,province,2001,Other religions,160.0,0.12
+Prince Edward Island,province,2011,Other religions,350.0,0.25
+Prince Edward Island,province,2021,Other religions,765.0,0.51
+Prince Edward Island,province,2001,Sikh,0.0,0.0
+Prince Edward Island,province,2011,Sikh,10.0,0.01
+Prince Edward Island,province,2021,Sikh,1165.0,0.77
+Prince Edward Island,province,2001,Indigenous,55.0,0.04
+Prince Edward Island,province,2011,Indigenous,55.0,0.04
+Prince Edward Island,province,2021,Indigenous,75.0,0.05
+Quebec,province,2001,Buddhist,41375.0,0.58
+Quebec,province,2011,Buddhist,52390.0,0.68
+Quebec,province,2021,Buddhist,48370.0,0.58
+Quebec,province,2001,Christian,6432440.0,90.27
+Quebec,province,2011,Christian,6356880.0,82.21
+Quebec,province,2021,Christian,5385235.0,64.82
+Quebec,province,2001,Hindu,24525.0,0.34
+Quebec,province,2011,Hindu,33540.0,0.43
+Quebec,province,2021,Hindu,47390.0,0.57
+Quebec,province,2001,Jewish,89915.0,1.26
+Quebec,province,2011,Jewish,85100.0,1.1
+Quebec,province,2021,Jewish,84535.0,1.02
+Quebec,province,2001,Muslim,108620.0,1.52
+Quebec,province,2011,Muslim,243430.0,3.15
+Quebec,province,2021,Muslim,421710.0,5.08
+Quebec,province,2001,No religion / secular,413185.0,5.8
+Quebec,province,2011,No religion / secular,937545.0,12.12
+Quebec,province,2021,No religion / secular,2267715.0,27.29
+Quebec,province,2001,Other religions,6560.0,0.09
+Quebec,province,2011,Other religions,12340.0,0.16
+Quebec,province,2021,Other religions,26380.0,0.32
+Quebec,province,2001,Sikh,8220.0,0.12
+Quebec,province,2011,Sikh,9275.0,0.12
+Quebec,province,2021,Sikh,23345.0,0.28
+Quebec,province,2001,Indigenous,740.0,0.01
+Quebec,province,2011,Indigenous,2025.0,0.03
+Quebec,province,2021,Indigenous,3790.0,0.05
+Saskatchewan,province,2001,Buddhist,3050.0,0.32
+Saskatchewan,province,2011,Buddhist,4265.0,0.42
+Saskatchewan,province,2021,Buddhist,4415.0,0.4
+Saskatchewan,province,2001,Christian,795935.0,82.64
+Saskatchewan,province,2011,Christian,726920.0,72.06
+Saskatchewan,province,2021,Christian,621250.0,56.31
+Saskatchewan,province,2001,Hindu,1585.0,0.16
+Saskatchewan,province,2011,Hindu,3570.0,0.35
+Saskatchewan,province,2021,Hindu,14150.0,1.28
+Saskatchewan,province,2001,Jewish,865.0,0.09
+Saskatchewan,province,2011,Jewish,940.0,0.09
+Saskatchewan,province,2021,Jewish,1105.0,0.1
+Saskatchewan,province,2001,Muslim,2230.0,0.23
+Saskatchewan,province,2011,Muslim,10040.0,1.0
+Saskatchewan,province,2021,Muslim,25455.0,2.31
+Saskatchewan,province,2001,No religion / secular,151455.0,15.72
+Saskatchewan,province,2011,No religion / secular,246305.0,24.42
+Saskatchewan,province,2021,No religion / secular,403955.0,36.62
+Saskatchewan,province,2001,Other religions,1645.0,0.17
+Saskatchewan,province,2011,Other religions,2810.0,0.28
+Saskatchewan,province,2021,Other religions,7540.0,0.68
+Saskatchewan,province,2001,Sikh,500.0,0.05
+Saskatchewan,province,2011,Sikh,1650.0,0.16
+Saskatchewan,province,2021,Sikh,9035.0,0.82
+Saskatchewan,province,2001,Indigenous,5885.0,0.61
+Saskatchewan,province,2011,Indigenous,12240.0,1.21
+Saskatchewan,province,2021,Indigenous,16295.0,1.48
+Yukon,province,2001,Buddhist,130.0,0.46
+Yukon,province,2011,Buddhist,290.0,0.87
+Yukon,province,2021,Buddhist,260.0,0.66
+Yukon,province,2001,Christian,16650.0,58.38
+Yukon,province,2011,Christian,15375.0,46.14
+Yukon,province,2021,Christian,13860.0,35.01
+Yukon,province,2001,Hindu,10.0,0.04
+Yukon,province,2011,Hindu,165.0,0.5
+Yukon,province,2021,Hindu,260.0,0.66
+Yukon,province,2001,Jewish,35.0,0.12
+Yukon,province,2011,Jewish,20.0,0.06
+Yukon,province,2021,Jewish,65.0,0.16
+Yukon,province,2001,Muslim,60.0,0.21
+Yukon,province,2011,Muslim,40.0,0.12
+Yukon,province,2021,Muslim,185.0,0.47
+Yukon,province,2001,No religion / secular,11015.0,38.62
+Yukon,province,2011,No religion / secular,16635.0,49.92
+Yukon,province,2021,No religion / secular,23645.0,59.73
+Yukon,province,2001,Other religions,330.0,1.16
+Yukon,province,2011,Other religions,300.0,0.9
+Yukon,province,2021,Other religions,600.0,1.52
+Yukon,province,2001,Sikh,100.0,0.35
+Yukon,province,2011,Sikh,90.0,0.27
+Yukon,province,2021,Sikh,385.0,0.97
+Yukon,province,2001,Indigenous,185.0,0.65
+Yukon,province,2011,Indigenous,395.0,1.19
+Yukon,province,2021,Indigenous,320.0,0.81

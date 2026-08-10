@@ -1,0 +1,5101 @@
+date,food_group,cpi_value
+1949-01-01,Bakery & cereals,9.6
+1949-02-01,Bakery & cereals,9.6
+1949-03-01,Bakery & cereals,9.5
+1949-04-01,Bakery & cereals,9.8
+1949-05-01,Bakery & cereals,10.0
+1949-06-01,Bakery & cereals,10.0
+1949-07-01,Bakery & cereals,10.0
+1949-08-01,Bakery & cereals,10.0
+1949-09-01,Bakery & cereals,10.0
+1949-10-01,Bakery & cereals,10.0
+1949-11-01,Bakery & cereals,10.0
+1949-12-01,Bakery & cereals,10.0
+1950-01-01,Bakery & cereals,10.0
+1950-02-01,Bakery & cereals,10.0
+1950-03-01,Bakery & cereals,10.0
+1950-04-01,Bakery & cereals,10.0
+1950-05-01,Bakery & cereals,10.0
+1950-06-01,Bakery & cereals,10.0
+1950-07-01,Bakery & cereals,10.0
+1950-08-01,Bakery & cereals,10.1
+1950-09-01,Bakery & cereals,10.5
+1950-10-01,Bakery & cereals,10.5
+1950-11-01,Bakery & cereals,10.5
+1950-12-01,Bakery & cereals,10.6
+1951-01-01,Bakery & cereals,10.6
+1951-02-01,Bakery & cereals,10.8
+1951-03-01,Bakery & cereals,11.0
+1951-04-01,Bakery & cereals,11.0
+1951-05-01,Bakery & cereals,11.0
+1951-06-01,Bakery & cereals,11.1
+1951-07-01,Bakery & cereals,11.1
+1951-08-01,Bakery & cereals,11.3
+1951-09-01,Bakery & cereals,11.3
+1951-10-01,Bakery & cereals,11.4
+1951-11-01,Bakery & cereals,11.4
+1951-12-01,Bakery & cereals,11.4
+1952-01-01,Bakery & cereals,11.4
+1952-02-01,Bakery & cereals,11.5
+1952-03-01,Bakery & cereals,11.5
+1952-04-01,Bakery & cereals,11.5
+1952-05-01,Bakery & cereals,11.6
+1952-06-01,Bakery & cereals,11.6
+1952-07-01,Bakery & cereals,11.6
+1952-08-01,Bakery & cereals,11.6
+1952-09-01,Bakery & cereals,11.6
+1952-10-01,Bakery & cereals,11.6
+1952-11-01,Bakery & cereals,11.5
+1952-12-01,Bakery & cereals,11.5
+1953-01-01,Bakery & cereals,11.5
+1953-02-01,Bakery & cereals,11.5
+1953-03-01,Bakery & cereals,11.5
+1953-04-01,Bakery & cereals,11.5
+1953-05-01,Bakery & cereals,11.6
+1953-06-01,Bakery & cereals,11.7
+1953-07-01,Bakery & cereals,11.8
+1953-08-01,Bakery & cereals,11.8
+1953-09-01,Bakery & cereals,11.9
+1953-10-01,Bakery & cereals,11.9
+1953-11-01,Bakery & cereals,11.9
+1953-12-01,Bakery & cereals,12.1
+1954-01-01,Bakery & cereals,12.1
+1954-02-01,Bakery & cereals,12.1
+1954-03-01,Bakery & cereals,12.1
+1954-04-01,Bakery & cereals,12.1
+1954-05-01,Bakery & cereals,12.1
+1954-06-01,Bakery & cereals,12.1
+1954-07-01,Bakery & cereals,12.1
+1954-08-01,Bakery & cereals,12.1
+1954-09-01,Bakery & cereals,12.1
+1954-10-01,Bakery & cereals,12.1
+1954-11-01,Bakery & cereals,12.0
+1954-12-01,Bakery & cereals,12.0
+1955-01-01,Bakery & cereals,12.0
+1955-02-01,Bakery & cereals,12.0
+1955-03-01,Bakery & cereals,12.0
+1955-04-01,Bakery & cereals,11.9
+1955-05-01,Bakery & cereals,11.9
+1955-06-01,Bakery & cereals,11.9
+1955-07-01,Bakery & cereals,11.9
+1955-08-01,Bakery & cereals,11.9
+1955-09-01,Bakery & cereals,12.0
+1955-10-01,Bakery & cereals,12.0
+1955-11-01,Bakery & cereals,12.0
+1955-12-01,Bakery & cereals,12.0
+1956-01-01,Bakery & cereals,12.0
+1956-02-01,Bakery & cereals,12.0
+1956-03-01,Bakery & cereals,12.1
+1956-04-01,Bakery & cereals,12.1
+1956-05-01,Bakery & cereals,12.1
+1956-06-01,Bakery & cereals,12.2
+1956-07-01,Bakery & cereals,12.4
+1956-08-01,Bakery & cereals,12.4
+1956-09-01,Bakery & cereals,12.4
+1956-10-01,Bakery & cereals,12.4
+1956-11-01,Bakery & cereals,12.7
+1956-12-01,Bakery & cereals,12.8
+1957-01-01,Bakery & cereals,12.8
+1957-02-01,Bakery & cereals,12.8
+1957-03-01,Bakery & cereals,12.8
+1957-04-01,Bakery & cereals,13.0
+1957-05-01,Bakery & cereals,13.0
+1957-06-01,Bakery & cereals,13.1
+1957-07-01,Bakery & cereals,13.1
+1957-08-01,Bakery & cereals,13.1
+1957-09-01,Bakery & cereals,13.1
+1957-10-01,Bakery & cereals,13.1
+1957-11-01,Bakery & cereals,13.1
+1957-12-01,Bakery & cereals,13.1
+1958-01-01,Bakery & cereals,13.1
+1958-02-01,Bakery & cereals,13.1
+1958-03-01,Bakery & cereals,13.3
+1958-04-01,Bakery & cereals,13.3
+1958-05-01,Bakery & cereals,13.3
+1958-06-01,Bakery & cereals,13.3
+1958-07-01,Bakery & cereals,13.3
+1958-08-01,Bakery & cereals,13.3
+1958-09-01,Bakery & cereals,13.5
+1958-10-01,Bakery & cereals,13.5
+1958-11-01,Bakery & cereals,13.5
+1958-12-01,Bakery & cereals,13.6
+1959-01-01,Bakery & cereals,13.6
+1959-02-01,Bakery & cereals,13.6
+1959-03-01,Bakery & cereals,13.6
+1959-04-01,Bakery & cereals,13.6
+1959-05-01,Bakery & cereals,13.6
+1959-06-01,Bakery & cereals,13.6
+1959-07-01,Bakery & cereals,13.6
+1959-08-01,Bakery & cereals,13.7
+1959-09-01,Bakery & cereals,13.7
+1959-10-01,Bakery & cereals,13.7
+1959-11-01,Bakery & cereals,13.8
+1959-12-01,Bakery & cereals,13.8
+1960-01-01,Bakery & cereals,13.8
+1960-02-01,Bakery & cereals,13.8
+1960-03-01,Bakery & cereals,13.8
+1960-04-01,Bakery & cereals,13.9
+1960-05-01,Bakery & cereals,13.9
+1960-06-01,Bakery & cereals,14.0
+1960-07-01,Bakery & cereals,14.0
+1960-08-01,Bakery & cereals,14.0
+1960-09-01,Bakery & cereals,13.9
+1960-10-01,Bakery & cereals,14.0
+1960-11-01,Bakery & cereals,14.0
+1960-12-01,Bakery & cereals,14.0
+1961-01-01,Bakery & cereals,14.0
+1961-02-01,Bakery & cereals,14.0
+1961-03-01,Bakery & cereals,14.0
+1961-04-01,Bakery & cereals,14.1
+1961-05-01,Bakery & cereals,14.1
+1961-06-01,Bakery & cereals,14.1
+1961-07-01,Bakery & cereals,14.1
+1961-08-01,Bakery & cereals,14.3
+1961-09-01,Bakery & cereals,14.3
+1961-10-01,Bakery & cereals,14.2
+1961-11-01,Bakery & cereals,14.3
+1961-12-01,Bakery & cereals,14.2
+1962-01-01,Bakery & cereals,14.3
+1962-02-01,Bakery & cereals,14.4
+1962-03-01,Bakery & cereals,14.4
+1962-04-01,Bakery & cereals,14.4
+1962-05-01,Bakery & cereals,14.4
+1962-06-01,Bakery & cereals,14.4
+1962-07-01,Bakery & cereals,14.4
+1962-08-01,Bakery & cereals,14.4
+1962-09-01,Bakery & cereals,14.4
+1962-10-01,Bakery & cereals,14.5
+1962-11-01,Bakery & cereals,14.6
+1962-12-01,Bakery & cereals,14.7
+1963-01-01,Bakery & cereals,14.9
+1963-02-01,Bakery & cereals,15.0
+1963-03-01,Bakery & cereals,15.0
+1963-04-01,Bakery & cereals,15.1
+1963-05-01,Bakery & cereals,15.1
+1963-06-01,Bakery & cereals,15.2
+1963-07-01,Bakery & cereals,15.2
+1963-08-01,Bakery & cereals,15.3
+1963-09-01,Bakery & cereals,15.3
+1963-10-01,Bakery & cereals,15.2
+1963-11-01,Bakery & cereals,15.3
+1963-12-01,Bakery & cereals,15.4
+1964-01-01,Bakery & cereals,15.6
+1964-02-01,Bakery & cereals,15.8
+1964-03-01,Bakery & cereals,15.8
+1964-04-01,Bakery & cereals,15.7
+1964-05-01,Bakery & cereals,15.8
+1964-06-01,Bakery & cereals,15.8
+1964-07-01,Bakery & cereals,15.9
+1964-08-01,Bakery & cereals,16.0
+1964-09-01,Bakery & cereals,16.0
+1964-10-01,Bakery & cereals,16.0
+1964-11-01,Bakery & cereals,15.9
+1964-12-01,Bakery & cereals,16.0
+1965-01-01,Bakery & cereals,16.0
+1965-02-01,Bakery & cereals,16.0
+1965-03-01,Bakery & cereals,16.0
+1965-04-01,Bakery & cereals,16.0
+1965-05-01,Bakery & cereals,15.9
+1965-06-01,Bakery & cereals,16.0
+1965-07-01,Bakery & cereals,16.0
+1965-08-01,Bakery & cereals,15.9
+1965-09-01,Bakery & cereals,16.0
+1965-10-01,Bakery & cereals,15.9
+1965-11-01,Bakery & cereals,15.9
+1965-12-01,Bakery & cereals,16.0
+1966-01-01,Bakery & cereals,15.9
+1966-02-01,Bakery & cereals,15.9
+1966-03-01,Bakery & cereals,16.3
+1966-04-01,Bakery & cereals,16.4
+1966-05-01,Bakery & cereals,16.5
+1966-06-01,Bakery & cereals,16.5
+1966-07-01,Bakery & cereals,16.5
+1966-08-01,Bakery & cereals,16.6
+1966-09-01,Bakery & cereals,16.6
+1966-10-01,Bakery & cereals,16.6
+1966-11-01,Bakery & cereals,16.6
+1966-12-01,Bakery & cereals,16.5
+1967-01-01,Bakery & cereals,16.4
+1967-02-01,Bakery & cereals,16.5
+1967-03-01,Bakery & cereals,16.4
+1967-04-01,Bakery & cereals,16.5
+1967-05-01,Bakery & cereals,16.4
+1967-06-01,Bakery & cereals,16.5
+1967-07-01,Bakery & cereals,16.6
+1967-08-01,Bakery & cereals,16.8
+1967-09-01,Bakery & cereals,16.9
+1967-10-01,Bakery & cereals,16.9
+1967-11-01,Bakery & cereals,16.8
+1967-12-01,Bakery & cereals,16.9
+1968-01-01,Bakery & cereals,17.0
+1968-02-01,Bakery & cereals,16.9
+1968-03-01,Bakery & cereals,16.9
+1968-04-01,Bakery & cereals,16.9
+1968-05-01,Bakery & cereals,16.8
+1968-06-01,Bakery & cereals,16.9
+1968-07-01,Bakery & cereals,17.0
+1968-08-01,Bakery & cereals,17.1
+1968-09-01,Bakery & cereals,17.1
+1968-10-01,Bakery & cereals,17.0
+1968-11-01,Bakery & cereals,17.1
+1968-12-01,Bakery & cereals,17.1
+1969-01-01,Bakery & cereals,17.0
+1969-02-01,Bakery & cereals,17.0
+1969-03-01,Bakery & cereals,17.1
+1969-04-01,Bakery & cereals,17.1
+1969-05-01,Bakery & cereals,17.1
+1969-06-01,Bakery & cereals,17.1
+1969-07-01,Bakery & cereals,17.2
+1969-08-01,Bakery & cereals,17.2
+1969-09-01,Bakery & cereals,17.3
+1969-10-01,Bakery & cereals,17.1
+1969-11-01,Bakery & cereals,17.5
+1969-12-01,Bakery & cereals,17.5
+1970-01-01,Bakery & cereals,17.5
+1970-02-01,Bakery & cereals,17.5
+1970-03-01,Bakery & cereals,17.5
+1970-04-01,Bakery & cereals,17.5
+1970-05-01,Bakery & cereals,17.5
+1970-06-01,Bakery & cereals,17.5
+1970-07-01,Bakery & cereals,17.7
+1970-08-01,Bakery & cereals,17.6
+1970-09-01,Bakery & cereals,17.5
+1970-10-01,Bakery & cereals,17.5
+1970-11-01,Bakery & cereals,17.5
+1970-12-01,Bakery & cereals,17.3
+1971-01-01,Bakery & cereals,17.4
+1971-02-01,Bakery & cereals,17.5
+1971-03-01,Bakery & cereals,17.7
+1971-04-01,Bakery & cereals,17.8
+1971-05-01,Bakery & cereals,18.0
+1971-06-01,Bakery & cereals,18.1
+1971-07-01,Bakery & cereals,18.1
+1971-08-01,Bakery & cereals,18.2
+1971-09-01,Bakery & cereals,18.1
+1971-10-01,Bakery & cereals,18.1
+1971-11-01,Bakery & cereals,18.1
+1971-12-01,Bakery & cereals,18.1
+1972-01-01,Bakery & cereals,18.1
+1972-02-01,Bakery & cereals,18.2
+1972-03-01,Bakery & cereals,18.5
+1972-04-01,Bakery & cereals,18.5
+1972-05-01,Bakery & cereals,18.2
+1972-06-01,Bakery & cereals,18.2
+1972-07-01,Bakery & cereals,18.6
+1972-08-01,Bakery & cereals,18.8
+1972-09-01,Bakery & cereals,18.9
+1972-10-01,Bakery & cereals,18.9
+1972-11-01,Bakery & cereals,18.9
+1972-12-01,Bakery & cereals,19.1
+1973-01-01,Bakery & cereals,19.2
+1973-02-01,Bakery & cereals,19.2
+1973-03-01,Bakery & cereals,19.4
+1973-04-01,Bakery & cereals,19.3
+1973-05-01,Bakery & cereals,19.2
+1973-06-01,Bakery & cereals,19.4
+1973-07-01,Bakery & cereals,19.5
+1973-08-01,Bakery & cereals,19.8
+1973-09-01,Bakery & cereals,21.5
+1973-10-01,Bakery & cereals,22.2
+1973-11-01,Bakery & cereals,22.7
+1973-12-01,Bakery & cereals,22.8
+1974-01-01,Bakery & cereals,22.9
+1974-02-01,Bakery & cereals,23.2
+1974-03-01,Bakery & cereals,23.9
+1974-04-01,Bakery & cereals,24.5
+1974-05-01,Bakery & cereals,24.8
+1974-06-01,Bakery & cereals,25.1
+1974-07-01,Bakery & cereals,25.3
+1974-08-01,Bakery & cereals,25.6
+1974-09-01,Bakery & cereals,25.9
+1974-10-01,Bakery & cereals,27.1
+1974-11-01,Bakery & cereals,27.4
+1974-12-01,Bakery & cereals,27.8
+1975-01-01,Bakery & cereals,28.3
+1975-02-01,Bakery & cereals,29.2
+1975-03-01,Bakery & cereals,29.6
+1975-04-01,Bakery & cereals,29.9
+1975-05-01,Bakery & cereals,30.0
+1975-06-01,Bakery & cereals,30.1
+1975-07-01,Bakery & cereals,30.1
+1975-08-01,Bakery & cereals,30.4
+1975-09-01,Bakery & cereals,30.1
+1975-10-01,Bakery & cereals,30.2
+1975-11-01,Bakery & cereals,30.4
+1975-12-01,Bakery & cereals,30.1
+1976-01-01,Bakery & cereals,30.1
+1976-02-01,Bakery & cereals,30.2
+1976-03-01,Bakery & cereals,30.2
+1976-04-01,Bakery & cereals,30.1
+1976-05-01,Bakery & cereals,30.2
+1976-06-01,Bakery & cereals,30.4
+1976-07-01,Bakery & cereals,30.4
+1976-08-01,Bakery & cereals,30.6
+1976-09-01,Bakery & cereals,30.6
+1976-10-01,Bakery & cereals,30.6
+1976-11-01,Bakery & cereals,30.6
+1976-12-01,Bakery & cereals,30.8
+1977-01-01,Bakery & cereals,30.9
+1977-02-01,Bakery & cereals,31.3
+1977-03-01,Bakery & cereals,31.5
+1977-04-01,Bakery & cereals,31.7
+1977-05-01,Bakery & cereals,31.9
+1977-06-01,Bakery & cereals,32.3
+1977-07-01,Bakery & cereals,32.5
+1977-08-01,Bakery & cereals,32.9
+1977-09-01,Bakery & cereals,32.8
+1977-10-01,Bakery & cereals,33.3
+1977-11-01,Bakery & cereals,33.5
+1977-12-01,Bakery & cereals,33.9
+1978-01-01,Bakery & cereals,33.9
+1978-02-01,Bakery & cereals,34.3
+1978-03-01,Bakery & cereals,34.4
+1978-04-01,Bakery & cereals,34.7
+1978-05-01,Bakery & cereals,34.9
+1978-06-01,Bakery & cereals,34.9
+1978-07-01,Bakery & cereals,35.4
+1978-08-01,Bakery & cereals,35.6
+1978-09-01,Bakery & cereals,35.6
+1978-10-01,Bakery & cereals,36.0
+1978-11-01,Bakery & cereals,36.3
+1978-12-01,Bakery & cereals,36.2
+1979-01-01,Bakery & cereals,38.5
+1979-02-01,Bakery & cereals,39.4
+1979-03-01,Bakery & cereals,39.8
+1979-04-01,Bakery & cereals,40.6
+1979-05-01,Bakery & cereals,40.8
+1979-06-01,Bakery & cereals,40.9
+1979-07-01,Bakery & cereals,41.3
+1979-08-01,Bakery & cereals,41.8
+1979-09-01,Bakery & cereals,42.2
+1979-10-01,Bakery & cereals,42.6
+1979-11-01,Bakery & cereals,42.6
+1979-12-01,Bakery & cereals,43.6
+1980-01-01,Bakery & cereals,44.0
+1980-02-01,Bakery & cereals,44.1
+1980-03-01,Bakery & cereals,44.6
+1980-04-01,Bakery & cereals,45.4
+1980-05-01,Bakery & cereals,45.9
+1980-06-01,Bakery & cereals,46.5
+1980-07-01,Bakery & cereals,46.6
+1980-08-01,Bakery & cereals,47.4
+1980-09-01,Bakery & cereals,49.5
+1980-10-01,Bakery & cereals,49.6
+1980-11-01,Bakery & cereals,51.1
+1980-12-01,Bakery & cereals,51.7
+1981-01-01,Bakery & cereals,52.6
+1981-02-01,Bakery & cereals,53.0
+1981-03-01,Bakery & cereals,54.9
+1981-04-01,Bakery & cereals,55.4
+1981-05-01,Bakery & cereals,55.8
+1981-06-01,Bakery & cereals,56.3
+1981-07-01,Bakery & cereals,56.3
+1981-08-01,Bakery & cereals,56.4
+1981-09-01,Bakery & cereals,56.9
+1981-10-01,Bakery & cereals,56.7
+1981-11-01,Bakery & cereals,56.8
+1981-12-01,Bakery & cereals,56.3
+1982-01-01,Bakery & cereals,56.3
+1982-02-01,Bakery & cereals,56.9
+1982-03-01,Bakery & cereals,58.2
+1982-04-01,Bakery & cereals,58.6
+1982-05-01,Bakery & cereals,59.1
+1982-06-01,Bakery & cereals,58.9
+1982-07-01,Bakery & cereals,58.8
+1982-08-01,Bakery & cereals,59.6
+1982-09-01,Bakery & cereals,59.3
+1982-10-01,Bakery & cereals,60.1
+1982-11-01,Bakery & cereals,60.0
+1982-12-01,Bakery & cereals,60.4
+1983-01-01,Bakery & cereals,60.6
+1983-02-01,Bakery & cereals,60.6
+1983-03-01,Bakery & cereals,60.6
+1983-04-01,Bakery & cereals,60.4
+1983-05-01,Bakery & cereals,61.5
+1983-06-01,Bakery & cereals,61.6
+1983-07-01,Bakery & cereals,61.9
+1983-08-01,Bakery & cereals,62.2
+1983-09-01,Bakery & cereals,62.0
+1983-10-01,Bakery & cereals,62.8
+1983-11-01,Bakery & cereals,63.1
+1983-12-01,Bakery & cereals,63.4
+1984-01-01,Bakery & cereals,63.4
+1984-02-01,Bakery & cereals,63.3
+1984-03-01,Bakery & cereals,65.0
+1984-04-01,Bakery & cereals,64.7
+1984-05-01,Bakery & cereals,64.7
+1984-06-01,Bakery & cereals,65.0
+1984-07-01,Bakery & cereals,65.4
+1984-08-01,Bakery & cereals,65.2
+1984-09-01,Bakery & cereals,65.3
+1984-10-01,Bakery & cereals,65.2
+1984-11-01,Bakery & cereals,65.8
+1984-12-01,Bakery & cereals,66.4
+1985-01-01,Bakery & cereals,67.0
+1985-02-01,Bakery & cereals,67.3
+1985-03-01,Bakery & cereals,67.4
+1985-04-01,Bakery & cereals,68.3
+1985-05-01,Bakery & cereals,68.0
+1985-06-01,Bakery & cereals,67.3
+1985-07-01,Bakery & cereals,67.4
+1985-08-01,Bakery & cereals,67.8
+1985-09-01,Bakery & cereals,67.3
+1985-10-01,Bakery & cereals,67.4
+1985-11-01,Bakery & cereals,67.4
+1985-12-01,Bakery & cereals,68.2
+1986-01-01,Bakery & cereals,69.3
+1986-02-01,Bakery & cereals,70.3
+1986-03-01,Bakery & cereals,70.6
+1986-04-01,Bakery & cereals,71.3
+1986-05-01,Bakery & cereals,71.2
+1986-06-01,Bakery & cereals,71.1
+1986-07-01,Bakery & cereals,71.7
+1986-08-01,Bakery & cereals,71.9
+1986-09-01,Bakery & cereals,71.7
+1986-10-01,Bakery & cereals,71.1
+1986-11-01,Bakery & cereals,71.6
+1986-12-01,Bakery & cereals,72.2
+1987-01-01,Bakery & cereals,72.6
+1987-02-01,Bakery & cereals,72.3
+1987-03-01,Bakery & cereals,72.8
+1987-04-01,Bakery & cereals,72.6
+1987-05-01,Bakery & cereals,73.2
+1987-06-01,Bakery & cereals,72.6
+1987-07-01,Bakery & cereals,73.7
+1987-08-01,Bakery & cereals,73.6
+1987-09-01,Bakery & cereals,73.3
+1987-10-01,Bakery & cereals,73.1
+1987-11-01,Bakery & cereals,73.6
+1987-12-01,Bakery & cereals,73.7
+1988-01-01,Bakery & cereals,74.4
+1988-02-01,Bakery & cereals,74.3
+1988-03-01,Bakery & cereals,74.6
+1988-04-01,Bakery & cereals,74.9
+1988-05-01,Bakery & cereals,74.9
+1988-06-01,Bakery & cereals,75.9
+1988-07-01,Bakery & cereals,75.9
+1988-08-01,Bakery & cereals,76.3
+1988-09-01,Bakery & cereals,76.1
+1988-10-01,Bakery & cereals,76.8
+1988-11-01,Bakery & cereals,76.8
+1988-12-01,Bakery & cereals,76.7
+1989-01-01,Bakery & cereals,76.9
+1989-02-01,Bakery & cereals,76.8
+1989-03-01,Bakery & cereals,77.3
+1989-04-01,Bakery & cereals,77.5
+1989-05-01,Bakery & cereals,77.2
+1989-06-01,Bakery & cereals,77.4
+1989-07-01,Bakery & cereals,78.1
+1989-08-01,Bakery & cereals,78.5
+1989-09-01,Bakery & cereals,78.2
+1989-10-01,Bakery & cereals,79.3
+1989-11-01,Bakery & cereals,79.1
+1989-12-01,Bakery & cereals,79.8
+1990-01-01,Bakery & cereals,80.3
+1990-02-01,Bakery & cereals,80.5
+1990-03-01,Bakery & cereals,80.7
+1990-04-01,Bakery & cereals,81.2
+1990-05-01,Bakery & cereals,80.6
+1990-06-01,Bakery & cereals,81.0
+1990-07-01,Bakery & cereals,80.8
+1990-08-01,Bakery & cereals,80.4
+1990-09-01,Bakery & cereals,81.0
+1990-10-01,Bakery & cereals,81.5
+1990-11-01,Bakery & cereals,81.8
+1990-12-01,Bakery & cereals,82.3
+1991-01-01,Bakery & cereals,82.6
+1991-02-01,Bakery & cereals,81.7
+1991-03-01,Bakery & cereals,82.2
+1991-04-01,Bakery & cereals,82.0
+1991-05-01,Bakery & cereals,81.0
+1991-06-01,Bakery & cereals,81.8
+1991-07-01,Bakery & cereals,81.1
+1991-08-01,Bakery & cereals,81.2
+1991-09-01,Bakery & cereals,81.1
+1991-10-01,Bakery & cereals,81.4
+1991-11-01,Bakery & cereals,81.5
+1991-12-01,Bakery & cereals,81.6
+1992-01-01,Bakery & cereals,81.2
+1992-02-01,Bakery & cereals,81.0
+1992-03-01,Bakery & cereals,81.5
+1992-04-01,Bakery & cereals,81.6
+1992-05-01,Bakery & cereals,82.1
+1992-06-01,Bakery & cereals,82.6
+1992-07-01,Bakery & cereals,82.9
+1992-08-01,Bakery & cereals,82.9
+1992-09-01,Bakery & cereals,83.1
+1992-10-01,Bakery & cereals,83.0
+1992-11-01,Bakery & cereals,83.2
+1992-12-01,Bakery & cereals,83.6
+1993-01-01,Bakery & cereals,83.3
+1993-02-01,Bakery & cereals,83.3
+1993-03-01,Bakery & cereals,82.9
+1993-04-01,Bakery & cereals,82.9
+1993-05-01,Bakery & cereals,82.6
+1993-06-01,Bakery & cereals,83.2
+1993-07-01,Bakery & cereals,83.9
+1993-08-01,Bakery & cereals,83.8
+1993-09-01,Bakery & cereals,83.2
+1993-10-01,Bakery & cereals,84.0
+1993-11-01,Bakery & cereals,84.1
+1993-12-01,Bakery & cereals,84.4
+1994-01-01,Bakery & cereals,84.4
+1994-02-01,Bakery & cereals,84.4
+1994-03-01,Bakery & cereals,84.4
+1994-04-01,Bakery & cereals,85.2
+1994-05-01,Bakery & cereals,84.5
+1994-06-01,Bakery & cereals,84.7
+1994-07-01,Bakery & cereals,85.0
+1994-08-01,Bakery & cereals,84.8
+1994-09-01,Bakery & cereals,84.9
+1994-10-01,Bakery & cereals,85.7
+1994-11-01,Bakery & cereals,85.5
+1994-12-01,Bakery & cereals,86.2
+1995-01-01,Bakery & cereals,86.8
+1995-02-01,Bakery & cereals,88.0
+1995-03-01,Bakery & cereals,88.0
+1995-04-01,Bakery & cereals,89.0
+1995-05-01,Bakery & cereals,87.7
+1995-06-01,Bakery & cereals,88.0
+1995-07-01,Bakery & cereals,87.4
+1995-08-01,Bakery & cereals,87.8
+1995-09-01,Bakery & cereals,88.9
+1995-10-01,Bakery & cereals,89.9
+1995-11-01,Bakery & cereals,90.0
+1995-12-01,Bakery & cereals,91.5
+1996-01-01,Bakery & cereals,90.3
+1996-02-01,Bakery & cereals,91.1
+1996-03-01,Bakery & cereals,91.1
+1996-04-01,Bakery & cereals,91.6
+1996-05-01,Bakery & cereals,90.8
+1996-06-01,Bakery & cereals,90.8
+1996-07-01,Bakery & cereals,90.4
+1996-08-01,Bakery & cereals,91.2
+1996-09-01,Bakery & cereals,92.7
+1996-10-01,Bakery & cereals,94.1
+1996-11-01,Bakery & cereals,94.1
+1996-12-01,Bakery & cereals,95.2
+1997-01-01,Bakery & cereals,94.4
+1997-02-01,Bakery & cereals,95.1
+1997-03-01,Bakery & cereals,95.1
+1997-04-01,Bakery & cereals,94.2
+1997-05-01,Bakery & cereals,93.1
+1997-06-01,Bakery & cereals,93.2
+1997-07-01,Bakery & cereals,93.2
+1997-08-01,Bakery & cereals,92.5
+1997-09-01,Bakery & cereals,93.2
+1997-10-01,Bakery & cereals,95.0
+1997-11-01,Bakery & cereals,95.4
+1997-12-01,Bakery & cereals,95.5
+1998-01-01,Bakery & cereals,94.5
+1998-02-01,Bakery & cereals,94.7
+1998-03-01,Bakery & cereals,94.2
+1998-04-01,Bakery & cereals,94.3
+1998-05-01,Bakery & cereals,92.9
+1998-06-01,Bakery & cereals,93.1
+1998-07-01,Bakery & cereals,92.8
+1998-08-01,Bakery & cereals,92.7
+1998-09-01,Bakery & cereals,93.2
+1998-10-01,Bakery & cereals,94.2
+1998-11-01,Bakery & cereals,94.8
+1998-12-01,Bakery & cereals,95.4
+1999-01-01,Bakery & cereals,95.4
+1999-02-01,Bakery & cereals,95.7
+1999-03-01,Bakery & cereals,94.7
+1999-04-01,Bakery & cereals,95.3
+1999-05-01,Bakery & cereals,93.9
+1999-06-01,Bakery & cereals,93.6
+1999-07-01,Bakery & cereals,93.7
+1999-08-01,Bakery & cereals,93.3
+1999-09-01,Bakery & cereals,93.7
+1999-10-01,Bakery & cereals,95.2
+1999-11-01,Bakery & cereals,95.4
+1999-12-01,Bakery & cereals,96.4
+2000-01-01,Bakery & cereals,93.7
+2000-02-01,Bakery & cereals,93.4
+2000-03-01,Bakery & cereals,93.9
+2000-04-01,Bakery & cereals,94.0
+2000-05-01,Bakery & cereals,93.8
+2000-06-01,Bakery & cereals,94.2
+2000-07-01,Bakery & cereals,94.4
+2000-08-01,Bakery & cereals,94.4
+2000-09-01,Bakery & cereals,94.2
+2000-10-01,Bakery & cereals,94.7
+2000-11-01,Bakery & cereals,95.3
+2000-12-01,Bakery & cereals,96.4
+2001-01-01,Bakery & cereals,95.4
+2001-02-01,Bakery & cereals,96.1
+2001-03-01,Bakery & cereals,96.1
+2001-04-01,Bakery & cereals,96.2
+2001-05-01,Bakery & cereals,96.7
+2001-06-01,Bakery & cereals,97.1
+2001-07-01,Bakery & cereals,98.0
+2001-08-01,Bakery & cereals,98.1
+2001-09-01,Bakery & cereals,97.8
+2001-10-01,Bakery & cereals,98.3
+2001-11-01,Bakery & cereals,98.6
+2001-12-01,Bakery & cereals,99.0
+2002-01-01,Bakery & cereals,98.4
+2002-02-01,Bakery & cereals,99.2
+2002-03-01,Bakery & cereals,98.9
+2002-04-01,Bakery & cereals,99.3
+2002-05-01,Bakery & cereals,99.4
+2002-06-01,Bakery & cereals,99.8
+2002-07-01,Bakery & cereals,99.3
+2002-08-01,Bakery & cereals,99.7
+2002-09-01,Bakery & cereals,99.5
+2002-10-01,Bakery & cereals,99.5
+2002-11-01,Bakery & cereals,102.9
+2002-12-01,Bakery & cereals,104.1
+2003-01-01,Bakery & cereals,103.5
+2003-02-01,Bakery & cereals,103.9
+2003-03-01,Bakery & cereals,104.1
+2003-04-01,Bakery & cereals,104.4
+2003-05-01,Bakery & cereals,104.0
+2003-06-01,Bakery & cereals,104.0
+2003-07-01,Bakery & cereals,103.6
+2003-08-01,Bakery & cereals,104.1
+2003-09-01,Bakery & cereals,104.2
+2003-10-01,Bakery & cereals,104.7
+2003-11-01,Bakery & cereals,104.9
+2003-12-01,Bakery & cereals,105.8
+2004-01-01,Bakery & cereals,104.6
+2004-02-01,Bakery & cereals,105.3
+2004-03-01,Bakery & cereals,105.8
+2004-04-01,Bakery & cereals,106.8
+2004-05-01,Bakery & cereals,106.8
+2004-06-01,Bakery & cereals,106.9
+2004-07-01,Bakery & cereals,107.3
+2004-08-01,Bakery & cereals,107.1
+2004-09-01,Bakery & cereals,107.3
+2004-10-01,Bakery & cereals,108.3
+2004-11-01,Bakery & cereals,108.6
+2004-12-01,Bakery & cereals,108.7
+2005-01-01,Bakery & cereals,108.2
+2005-02-01,Bakery & cereals,108.4
+2005-03-01,Bakery & cereals,108.7
+2005-04-01,Bakery & cereals,110.3
+2005-05-01,Bakery & cereals,110.2
+2005-06-01,Bakery & cereals,109.5
+2005-07-01,Bakery & cereals,110.0
+2005-08-01,Bakery & cereals,109.6
+2005-09-01,Bakery & cereals,109.7
+2005-10-01,Bakery & cereals,110.7
+2005-11-01,Bakery & cereals,110.5
+2005-12-01,Bakery & cereals,111.5
+2006-01-01,Bakery & cereals,110.0
+2006-02-01,Bakery & cereals,111.9
+2006-03-01,Bakery & cereals,112.5
+2006-04-01,Bakery & cereals,112.8
+2006-05-01,Bakery & cereals,113.1
+2006-06-01,Bakery & cereals,113.7
+2006-07-01,Bakery & cereals,114.5
+2006-08-01,Bakery & cereals,114.2
+2006-09-01,Bakery & cereals,113.5
+2006-10-01,Bakery & cereals,114.6
+2006-11-01,Bakery & cereals,115.7
+2006-12-01,Bakery & cereals,116.6
+2007-01-01,Bakery & cereals,116.0
+2007-02-01,Bakery & cereals,117.5
+2007-03-01,Bakery & cereals,116.7
+2007-04-01,Bakery & cereals,118.4
+2007-05-01,Bakery & cereals,117.3
+2007-06-01,Bakery & cereals,117.5
+2007-07-01,Bakery & cereals,118.1
+2007-08-01,Bakery & cereals,118.2
+2007-09-01,Bakery & cereals,116.5
+2007-10-01,Bakery & cereals,118.0
+2007-11-01,Bakery & cereals,121.4
+2007-12-01,Bakery & cereals,122.1
+2008-01-01,Bakery & cereals,124.3
+2008-02-01,Bakery & cereals,125.6
+2008-03-01,Bakery & cereals,127.0
+2008-04-01,Bakery & cereals,130.1
+2008-05-01,Bakery & cereals,132.6
+2008-06-01,Bakery & cereals,132.9
+2008-07-01,Bakery & cereals,135.2
+2008-08-01,Bakery & cereals,135.8
+2008-09-01,Bakery & cereals,134.6
+2008-10-01,Bakery & cereals,136.7
+2008-11-01,Bakery & cereals,137.1
+2008-12-01,Bakery & cereals,137.2
+2009-01-01,Bakery & cereals,137.3
+2009-02-01,Bakery & cereals,137.8
+2009-03-01,Bakery & cereals,137.7
+2009-04-01,Bakery & cereals,138.7
+2009-05-01,Bakery & cereals,137.9
+2009-06-01,Bakery & cereals,137.6
+2009-07-01,Bakery & cereals,138.2
+2009-08-01,Bakery & cereals,137.6
+2009-09-01,Bakery & cereals,136.9
+2009-10-01,Bakery & cereals,138.5
+2009-11-01,Bakery & cereals,137.4
+2009-12-01,Bakery & cereals,139.0
+2010-01-01,Bakery & cereals,138.4
+2010-02-01,Bakery & cereals,139.5
+2010-03-01,Bakery & cereals,138.9
+2010-04-01,Bakery & cereals,137.6
+2010-05-01,Bakery & cereals,137.6
+2010-06-01,Bakery & cereals,138.5
+2010-07-01,Bakery & cereals,139.0
+2010-08-01,Bakery & cereals,139.4
+2010-09-01,Bakery & cereals,138.4
+2010-10-01,Bakery & cereals,139.5
+2010-11-01,Bakery & cereals,138.5
+2010-12-01,Bakery & cereals,140.2
+2011-01-01,Bakery & cereals,139.4
+2011-02-01,Bakery & cereals,141.9
+2011-03-01,Bakery & cereals,142.8
+2011-04-01,Bakery & cereals,145.6
+2011-05-01,Bakery & cereals,146.3
+2011-06-01,Bakery & cereals,147.1
+2011-07-01,Bakery & cereals,147.3
+2011-08-01,Bakery & cereals,147.9
+2011-09-01,Bakery & cereals,146.8
+2011-10-01,Bakery & cereals,148.4
+2011-11-01,Bakery & cereals,149.3
+2011-12-01,Bakery & cereals,148.6
+2012-01-01,Bakery & cereals,148.8
+2012-02-01,Bakery & cereals,149.0
+2012-03-01,Bakery & cereals,149.9
+2012-04-01,Bakery & cereals,151.0
+2012-05-01,Bakery & cereals,149.4
+2012-06-01,Bakery & cereals,149.6
+2012-07-01,Bakery & cereals,150.2
+2012-08-01,Bakery & cereals,151.7
+2012-09-01,Bakery & cereals,149.9
+2012-10-01,Bakery & cereals,152.4
+2012-11-01,Bakery & cereals,151.4
+2012-12-01,Bakery & cereals,151.6
+2013-01-01,Bakery & cereals,151.0
+2013-02-01,Bakery & cereals,152.5
+2013-03-01,Bakery & cereals,152.0
+2013-04-01,Bakery & cereals,153.4
+2013-05-01,Bakery & cereals,152.8
+2013-06-01,Bakery & cereals,152.2
+2013-07-01,Bakery & cereals,152.2
+2013-08-01,Bakery & cereals,153.3
+2013-09-01,Bakery & cereals,151.4
+2013-10-01,Bakery & cereals,152.0
+2013-11-01,Bakery & cereals,151.8
+2013-12-01,Bakery & cereals,151.4
+2014-01-01,Bakery & cereals,150.1
+2014-02-01,Bakery & cereals,152.4
+2014-03-01,Bakery & cereals,151.0
+2014-04-01,Bakery & cereals,151.0
+2014-05-01,Bakery & cereals,150.8
+2014-06-01,Bakery & cereals,152.0
+2014-07-01,Bakery & cereals,151.9
+2014-08-01,Bakery & cereals,152.7
+2014-09-01,Bakery & cereals,149.5
+2014-10-01,Bakery & cereals,150.8
+2014-11-01,Bakery & cereals,151.8
+2014-12-01,Bakery & cereals,153.0
+2015-01-01,Bakery & cereals,151.7
+2015-02-01,Bakery & cereals,152.7
+2015-03-01,Bakery & cereals,152.9
+2015-04-01,Bakery & cereals,154.1
+2015-05-01,Bakery & cereals,156.0
+2015-06-01,Bakery & cereals,155.6
+2015-07-01,Bakery & cereals,156.1
+2015-08-01,Bakery & cereals,156.4
+2015-09-01,Bakery & cereals,154.2
+2015-10-01,Bakery & cereals,155.1
+2015-11-01,Bakery & cereals,154.9
+2015-12-01,Bakery & cereals,156.1
+2016-01-01,Bakery & cereals,156.6
+2016-02-01,Bakery & cereals,156.2
+2016-03-01,Bakery & cereals,155.6
+2016-04-01,Bakery & cereals,156.4
+2016-05-01,Bakery & cereals,156.6
+2016-06-01,Bakery & cereals,155.2
+2016-07-01,Bakery & cereals,155.4
+2016-08-01,Bakery & cereals,155.3
+2016-09-01,Bakery & cereals,151.5
+2016-10-01,Bakery & cereals,151.9
+2016-11-01,Bakery & cereals,149.6
+2016-12-01,Bakery & cereals,149.7
+2017-01-01,Bakery & cereals,150.4
+2017-02-01,Bakery & cereals,150.5
+2017-03-01,Bakery & cereals,150.7
+2017-04-01,Bakery & cereals,151.6
+2017-05-01,Bakery & cereals,151.2
+2017-06-01,Bakery & cereals,151.7
+2017-07-01,Bakery & cereals,152.3
+2017-08-01,Bakery & cereals,153.0
+2017-09-01,Bakery & cereals,150.8
+2017-10-01,Bakery & cereals,152.9
+2017-11-01,Bakery & cereals,151.6
+2017-12-01,Bakery & cereals,152.3
+2018-01-01,Bakery & cereals,151.0
+2018-02-01,Bakery & cereals,152.0
+2018-03-01,Bakery & cereals,151.1
+2018-04-01,Bakery & cereals,151.5
+2018-05-01,Bakery & cereals,151.6
+2018-06-01,Bakery & cereals,151.2
+2018-07-01,Bakery & cereals,151.3
+2018-08-01,Bakery & cereals,151.8
+2018-09-01,Bakery & cereals,149.6
+2018-10-01,Bakery & cereals,152.3
+2018-11-01,Bakery & cereals,152.2
+2018-12-01,Bakery & cereals,153.7
+2019-01-01,Bakery & cereals,153.8
+2019-02-01,Bakery & cereals,155.1
+2019-03-01,Bakery & cereals,154.1
+2019-04-01,Bakery & cereals,152.4
+2019-05-01,Bakery & cereals,154.8
+2019-06-01,Bakery & cereals,154.4
+2019-07-01,Bakery & cereals,156.0
+2019-08-01,Bakery & cereals,156.8
+2019-09-01,Bakery & cereals,154.2
+2019-10-01,Bakery & cereals,156.0
+2019-11-01,Bakery & cereals,156.4
+2019-12-01,Bakery & cereals,156.9
+2020-01-01,Bakery & cereals,156.9
+2020-02-01,Bakery & cereals,157.9
+2020-03-01,Bakery & cereals,159.6
+2020-04-01,Bakery & cereals,158.7
+2020-05-01,Bakery & cereals,160.2
+2020-06-01,Bakery & cereals,158.9
+2020-07-01,Bakery & cereals,156.9
+2020-08-01,Bakery & cereals,157.8
+2020-09-01,Bakery & cereals,155.1
+2020-10-01,Bakery & cereals,156.6
+2020-11-01,Bakery & cereals,155.2
+2020-12-01,Bakery & cereals,156.4
+2021-01-01,Bakery & cereals,154.2
+2021-02-01,Bakery & cereals,157.1
+2021-03-01,Bakery & cereals,156.8
+2021-04-01,Bakery & cereals,156.2
+2021-05-01,Bakery & cereals,157.8
+2021-06-01,Bakery & cereals,157.7
+2021-07-01,Bakery & cereals,157.9
+2021-08-01,Bakery & cereals,158.5
+2021-09-01,Bakery & cereals,158.1
+2021-10-01,Bakery & cereals,159.3
+2021-11-01,Bakery & cereals,161.6
+2021-12-01,Bakery & cereals,164.1
+2022-01-01,Bakery & cereals,164.9
+2022-02-01,Bakery & cereals,167.6
+2022-03-01,Bakery & cereals,172.2
+2022-04-01,Bakery & cereals,173.8
+2022-05-01,Bakery & cereals,173.8
+2022-06-01,Bakery & cereals,175.5
+2022-07-01,Bakery & cereals,178.7
+2022-08-01,Bakery & cereals,182.4
+2022-09-01,Bakery & cereals,183.5
+2022-10-01,Bakery & cereals,186.3
+2022-11-01,Bakery & cereals,186.9
+2022-12-01,Bakery & cereals,188.3
+2023-01-01,Bakery & cereals,189.1
+2023-02-01,Bakery & cereals,191.6
+2023-03-01,Bakery & cereals,195.4
+2023-04-01,Bakery & cereals,196.7
+2023-05-01,Bakery & cereals,198.9
+2023-06-01,Bakery & cereals,197.7
+2023-07-01,Bakery & cereals,199.3
+2023-08-01,Bakery & cereals,197.9
+2023-09-01,Bakery & cereals,196.7
+2023-10-01,Bakery & cereals,197.6
+2023-11-01,Bakery & cereals,197.9
+2023-12-01,Bakery & cereals,197.9
+2024-01-01,Bakery & cereals,197.0
+2024-02-01,Bakery & cereals,197.7
+2024-03-01,Bakery & cereals,197.0
+2024-04-01,Bakery & cereals,197.0
+2024-05-01,Bakery & cereals,198.8
+2024-06-01,Bakery & cereals,198.2
+2024-07-01,Bakery & cereals,199.1
+2024-08-01,Bakery & cereals,198.4
+2024-09-01,Bakery & cereals,196.4
+2024-10-01,Bakery & cereals,199.1
+2024-11-01,Bakery & cereals,200.2
+2024-12-01,Bakery & cereals,198.0
+2025-01-01,Bakery & cereals,198.5
+2025-02-01,Bakery & cereals,201.9
+2025-03-01,Bakery & cereals,197.8
+2025-04-01,Bakery & cereals,197.6
+2025-05-01,Bakery & cereals,199.0
+2025-06-01,Bakery & cereals,198.0
+2025-07-01,Bakery & cereals,200.5
+2025-08-01,Bakery & cereals,199.5
+2025-09-01,Bakery & cereals,198.5
+2025-10-01,Bakery & cereals,199.6
+2025-11-01,Bakery & cereals,203.2
+2025-12-01,Bakery & cereals,202.8
+2026-01-01,Bakery & cereals,201.7
+2026-02-01,Bakery & cereals,204.1
+2026-03-01,Bakery & cereals,202.4
+2026-04-01,Bakery & cereals,201.6
+2026-05-01,Bakery & cereals,202.3
+2026-06-01,Bakery & cereals,203.3
+1971-01-01,Dairy & eggs,19.4
+1971-02-01,Dairy & eggs,19.4
+1971-03-01,Dairy & eggs,19.4
+1971-04-01,Dairy & eggs,19.4
+1971-05-01,Dairy & eggs,19.7
+1971-06-01,Dairy & eggs,19.6
+1971-07-01,Dairy & eggs,19.6
+1971-08-01,Dairy & eggs,19.9
+1971-09-01,Dairy & eggs,20.4
+1971-10-01,Dairy & eggs,20.6
+1971-11-01,Dairy & eggs,20.6
+1971-12-01,Dairy & eggs,20.9
+1972-01-01,Dairy & eggs,21.0
+1972-02-01,Dairy & eggs,20.6
+1972-03-01,Dairy & eggs,20.4
+1972-04-01,Dairy & eggs,20.8
+1972-05-01,Dairy & eggs,20.7
+1972-06-01,Dairy & eggs,20.6
+1972-07-01,Dairy & eggs,21.1
+1972-08-01,Dairy & eggs,21.5
+1972-09-01,Dairy & eggs,21.5
+1972-10-01,Dairy & eggs,21.5
+1972-11-01,Dairy & eggs,21.5
+1972-12-01,Dairy & eggs,21.7
+1973-01-01,Dairy & eggs,22.4
+1973-02-01,Dairy & eggs,22.5
+1973-03-01,Dairy & eggs,22.2
+1973-04-01,Dairy & eggs,23.1
+1973-05-01,Dairy & eggs,23.5
+1973-06-01,Dairy & eggs,23.5
+1973-07-01,Dairy & eggs,23.7
+1973-08-01,Dairy & eggs,24.4
+1973-09-01,Dairy & eggs,24.9
+1973-10-01,Dairy & eggs,24.6
+1973-11-01,Dairy & eggs,24.5
+1973-12-01,Dairy & eggs,24.6
+1974-01-01,Dairy & eggs,24.7
+1974-02-01,Dairy & eggs,24.6
+1974-03-01,Dairy & eggs,25.0
+1974-04-01,Dairy & eggs,26.0
+1974-05-01,Dairy & eggs,26.7
+1974-06-01,Dairy & eggs,26.7
+1974-07-01,Dairy & eggs,26.7
+1974-08-01,Dairy & eggs,26.9
+1974-09-01,Dairy & eggs,27.4
+1974-10-01,Dairy & eggs,28.0
+1974-11-01,Dairy & eggs,29.4
+1974-12-01,Dairy & eggs,29.5
+1975-01-01,Dairy & eggs,30.0
+1975-02-01,Dairy & eggs,30.7
+1975-03-01,Dairy & eggs,31.0
+1975-04-01,Dairy & eggs,32.2
+1975-05-01,Dairy & eggs,32.4
+1975-06-01,Dairy & eggs,32.6
+1975-07-01,Dairy & eggs,33.0
+1975-08-01,Dairy & eggs,33.7
+1975-09-01,Dairy & eggs,33.9
+1975-10-01,Dairy & eggs,34.0
+1975-11-01,Dairy & eggs,34.0
+1975-12-01,Dairy & eggs,34.0
+1976-01-01,Dairy & eggs,34.0
+1976-02-01,Dairy & eggs,33.9
+1976-03-01,Dairy & eggs,34.0
+1976-04-01,Dairy & eggs,34.0
+1976-05-01,Dairy & eggs,34.2
+1976-06-01,Dairy & eggs,34.3
+1976-07-01,Dairy & eggs,34.5
+1976-08-01,Dairy & eggs,34.5
+1976-09-01,Dairy & eggs,34.8
+1976-10-01,Dairy & eggs,35.0
+1976-11-01,Dairy & eggs,35.5
+1976-12-01,Dairy & eggs,35.5
+1977-01-01,Dairy & eggs,35.5
+1977-02-01,Dairy & eggs,35.5
+1977-03-01,Dairy & eggs,36.0
+1977-04-01,Dairy & eggs,36.5
+1977-05-01,Dairy & eggs,36.9
+1977-06-01,Dairy & eggs,37.0
+1977-07-01,Dairy & eggs,37.4
+1977-08-01,Dairy & eggs,37.4
+1977-09-01,Dairy & eggs,37.3
+1977-10-01,Dairy & eggs,37.3
+1977-11-01,Dairy & eggs,37.4
+1977-12-01,Dairy & eggs,37.6
+1978-01-01,Dairy & eggs,37.6
+1978-02-01,Dairy & eggs,38.1
+1978-03-01,Dairy & eggs,38.3
+1978-04-01,Dairy & eggs,38.5
+1978-05-01,Dairy & eggs,39.0
+1978-06-01,Dairy & eggs,39.4
+1978-07-01,Dairy & eggs,39.6
+1978-08-01,Dairy & eggs,39.6
+1978-09-01,Dairy & eggs,39.6
+1978-10-01,Dairy & eggs,40.1
+1978-11-01,Dairy & eggs,40.1
+1978-12-01,Dairy & eggs,40.5
+1979-01-01,Dairy & eggs,40.7
+1979-02-01,Dairy & eggs,41.0
+1979-03-01,Dairy & eggs,41.1
+1979-04-01,Dairy & eggs,41.5
+1979-05-01,Dairy & eggs,42.4
+1979-06-01,Dairy & eggs,42.5
+1979-07-01,Dairy & eggs,42.8
+1979-08-01,Dairy & eggs,43.1
+1979-09-01,Dairy & eggs,43.8
+1979-10-01,Dairy & eggs,43.9
+1979-11-01,Dairy & eggs,44.8
+1979-12-01,Dairy & eggs,45.1
+1980-01-01,Dairy & eggs,45.3
+1980-02-01,Dairy & eggs,46.0
+1980-03-01,Dairy & eggs,47.0
+1980-04-01,Dairy & eggs,47.1
+1980-05-01,Dairy & eggs,47.8
+1980-06-01,Dairy & eggs,48.3
+1980-07-01,Dairy & eggs,48.7
+1980-08-01,Dairy & eggs,49.0
+1980-09-01,Dairy & eggs,50.5
+1980-10-01,Dairy & eggs,50.9
+1980-11-01,Dairy & eggs,51.2
+1980-12-01,Dairy & eggs,51.9
+1981-01-01,Dairy & eggs,52.2
+1981-02-01,Dairy & eggs,54.0
+1981-03-01,Dairy & eggs,54.5
+1981-04-01,Dairy & eggs,54.7
+1981-05-01,Dairy & eggs,55.1
+1981-06-01,Dairy & eggs,55.9
+1981-07-01,Dairy & eggs,56.2
+1981-08-01,Dairy & eggs,56.4
+1981-09-01,Dairy & eggs,57.1
+1981-10-01,Dairy & eggs,57.3
+1981-11-01,Dairy & eggs,57.7
+1981-12-01,Dairy & eggs,57.8
+1982-01-01,Dairy & eggs,57.9
+1982-02-01,Dairy & eggs,58.3
+1982-03-01,Dairy & eggs,59.4
+1982-04-01,Dairy & eggs,59.7
+1982-05-01,Dairy & eggs,60.6
+1982-06-01,Dairy & eggs,60.2
+1982-07-01,Dairy & eggs,60.2
+1982-08-01,Dairy & eggs,60.7
+1982-09-01,Dairy & eggs,61.7
+1982-10-01,Dairy & eggs,62.2
+1982-11-01,Dairy & eggs,63.3
+1982-12-01,Dairy & eggs,63.5
+1983-01-01,Dairy & eggs,62.9
+1983-02-01,Dairy & eggs,63.3
+1983-03-01,Dairy & eggs,63.3
+1983-04-01,Dairy & eggs,63.0
+1983-05-01,Dairy & eggs,62.8
+1983-06-01,Dairy & eggs,63.3
+1983-07-01,Dairy & eggs,63.8
+1983-08-01,Dairy & eggs,63.8
+1983-09-01,Dairy & eggs,64.3
+1983-10-01,Dairy & eggs,64.6
+1983-11-01,Dairy & eggs,65.0
+1983-12-01,Dairy & eggs,65.3
+1984-01-01,Dairy & eggs,66.0
+1984-02-01,Dairy & eggs,66.3
+1984-03-01,Dairy & eggs,67.2
+1984-04-01,Dairy & eggs,67.2
+1984-05-01,Dairy & eggs,67.8
+1984-06-01,Dairy & eggs,68.0
+1984-07-01,Dairy & eggs,67.8
+1984-08-01,Dairy & eggs,68.1
+1984-09-01,Dairy & eggs,68.8
+1984-10-01,Dairy & eggs,69.0
+1984-11-01,Dairy & eggs,69.6
+1984-12-01,Dairy & eggs,69.9
+1985-01-01,Dairy & eggs,70.8
+1985-02-01,Dairy & eggs,70.6
+1985-03-01,Dairy & eggs,70.3
+1985-04-01,Dairy & eggs,70.3
+1985-05-01,Dairy & eggs,70.3
+1985-06-01,Dairy & eggs,69.8
+1985-07-01,Dairy & eggs,69.8
+1985-08-01,Dairy & eggs,70.0
+1985-09-01,Dairy & eggs,70.0
+1985-10-01,Dairy & eggs,70.2
+1985-11-01,Dairy & eggs,70.3
+1985-12-01,Dairy & eggs,70.9
+1986-01-01,Dairy & eggs,70.9
+1986-02-01,Dairy & eggs,70.8
+1986-03-01,Dairy & eggs,71.1
+1986-04-01,Dairy & eggs,71.0
+1986-05-01,Dairy & eggs,71.4
+1986-06-01,Dairy & eggs,71.1
+1986-07-01,Dairy & eggs,71.3
+1986-08-01,Dairy & eggs,71.5
+1986-09-01,Dairy & eggs,71.8
+1986-10-01,Dairy & eggs,71.8
+1986-11-01,Dairy & eggs,72.1
+1986-12-01,Dairy & eggs,72.5
+1987-01-01,Dairy & eggs,72.5
+1987-02-01,Dairy & eggs,72.8
+1987-03-01,Dairy & eggs,72.4
+1987-04-01,Dairy & eggs,72.2
+1987-05-01,Dairy & eggs,72.4
+1987-06-01,Dairy & eggs,72.4
+1987-07-01,Dairy & eggs,72.4
+1987-08-01,Dairy & eggs,72.9
+1987-09-01,Dairy & eggs,73.5
+1987-10-01,Dairy & eggs,73.1
+1987-11-01,Dairy & eggs,73.2
+1987-12-01,Dairy & eggs,73.1
+1988-01-01,Dairy & eggs,73.4
+1988-02-01,Dairy & eggs,73.8
+1988-03-01,Dairy & eggs,74.1
+1988-04-01,Dairy & eggs,74.4
+1988-05-01,Dairy & eggs,75.4
+1988-06-01,Dairy & eggs,75.5
+1988-07-01,Dairy & eggs,75.9
+1988-08-01,Dairy & eggs,76.3
+1988-09-01,Dairy & eggs,76.5
+1988-10-01,Dairy & eggs,76.4
+1988-11-01,Dairy & eggs,76.3
+1988-12-01,Dairy & eggs,76.4
+1989-01-01,Dairy & eggs,77.1
+1989-02-01,Dairy & eggs,77.2
+1989-03-01,Dairy & eggs,76.9
+1989-04-01,Dairy & eggs,77.0
+1989-05-01,Dairy & eggs,77.3
+1989-06-01,Dairy & eggs,77.4
+1989-07-01,Dairy & eggs,77.5
+1989-08-01,Dairy & eggs,77.7
+1989-09-01,Dairy & eggs,78.4
+1989-10-01,Dairy & eggs,79.0
+1989-11-01,Dairy & eggs,79.2
+1989-12-01,Dairy & eggs,79.2
+1990-01-01,Dairy & eggs,79.5
+1990-02-01,Dairy & eggs,80.0
+1990-03-01,Dairy & eggs,79.7
+1990-04-01,Dairy & eggs,79.5
+1990-05-01,Dairy & eggs,79.0
+1990-06-01,Dairy & eggs,79.2
+1990-07-01,Dairy & eggs,79.2
+1990-08-01,Dairy & eggs,79.5
+1990-09-01,Dairy & eggs,81.4
+1990-10-01,Dairy & eggs,81.7
+1990-11-01,Dairy & eggs,81.9
+1990-12-01,Dairy & eggs,82.2
+1991-01-01,Dairy & eggs,82.2
+1991-02-01,Dairy & eggs,82.2
+1991-03-01,Dairy & eggs,83.3
+1991-04-01,Dairy & eggs,82.8
+1991-05-01,Dairy & eggs,82.6
+1991-06-01,Dairy & eggs,82.6
+1991-07-01,Dairy & eggs,82.7
+1991-08-01,Dairy & eggs,82.6
+1991-09-01,Dairy & eggs,82.2
+1991-10-01,Dairy & eggs,82.2
+1991-11-01,Dairy & eggs,82.9
+1991-12-01,Dairy & eggs,83.0
+1992-01-01,Dairy & eggs,83.1
+1992-02-01,Dairy & eggs,83.1
+1992-03-01,Dairy & eggs,82.8
+1992-04-01,Dairy & eggs,82.7
+1992-05-01,Dairy & eggs,83.0
+1992-06-01,Dairy & eggs,83.3
+1992-07-01,Dairy & eggs,83.0
+1992-08-01,Dairy & eggs,83.3
+1992-09-01,Dairy & eggs,83.5
+1992-10-01,Dairy & eggs,83.6
+1992-11-01,Dairy & eggs,83.8
+1992-12-01,Dairy & eggs,83.7
+1993-01-01,Dairy & eggs,84.0
+1993-02-01,Dairy & eggs,83.1
+1993-03-01,Dairy & eggs,82.4
+1993-04-01,Dairy & eggs,82.6
+1993-05-01,Dairy & eggs,82.4
+1993-06-01,Dairy & eggs,82.5
+1993-07-01,Dairy & eggs,82.5
+1993-08-01,Dairy & eggs,82.6
+1993-09-01,Dairy & eggs,82.7
+1993-10-01,Dairy & eggs,82.5
+1993-11-01,Dairy & eggs,82.7
+1993-12-01,Dairy & eggs,83.0
+1994-01-01,Dairy & eggs,83.3
+1994-02-01,Dairy & eggs,82.8
+1994-03-01,Dairy & eggs,80.2
+1994-04-01,Dairy & eggs,82.6
+1994-05-01,Dairy & eggs,82.0
+1994-06-01,Dairy & eggs,82.4
+1994-07-01,Dairy & eggs,82.8
+1994-08-01,Dairy & eggs,82.7
+1994-09-01,Dairy & eggs,83.0
+1994-10-01,Dairy & eggs,82.7
+1994-11-01,Dairy & eggs,83.4
+1994-12-01,Dairy & eggs,84.0
+1995-01-01,Dairy & eggs,84.5
+1995-02-01,Dairy & eggs,84.7
+1995-03-01,Dairy & eggs,84.8
+1995-04-01,Dairy & eggs,85.2
+1995-05-01,Dairy & eggs,85.2
+1995-06-01,Dairy & eggs,85.2
+1995-07-01,Dairy & eggs,85.3
+1995-08-01,Dairy & eggs,85.0
+1995-09-01,Dairy & eggs,85.5
+1995-10-01,Dairy & eggs,85.6
+1995-11-01,Dairy & eggs,85.9
+1995-12-01,Dairy & eggs,85.7
+1996-01-01,Dairy & eggs,86.3
+1996-02-01,Dairy & eggs,86.7
+1996-03-01,Dairy & eggs,86.6
+1996-04-01,Dairy & eggs,86.3
+1996-05-01,Dairy & eggs,86.2
+1996-06-01,Dairy & eggs,86.3
+1996-07-01,Dairy & eggs,86.5
+1996-08-01,Dairy & eggs,86.3
+1996-09-01,Dairy & eggs,87.1
+1996-10-01,Dairy & eggs,87.9
+1996-11-01,Dairy & eggs,88.5
+1996-12-01,Dairy & eggs,88.9
+1997-01-01,Dairy & eggs,89.1
+1997-02-01,Dairy & eggs,89.1
+1997-03-01,Dairy & eggs,89.2
+1997-04-01,Dairy & eggs,89.1
+1997-05-01,Dairy & eggs,89.3
+1997-06-01,Dairy & eggs,89.0
+1997-07-01,Dairy & eggs,89.4
+1997-08-01,Dairy & eggs,89.4
+1997-09-01,Dairy & eggs,89.6
+1997-10-01,Dairy & eggs,89.6
+1997-11-01,Dairy & eggs,90.1
+1997-12-01,Dairy & eggs,90.1
+1998-01-01,Dairy & eggs,90.3
+1998-02-01,Dairy & eggs,90.7
+1998-03-01,Dairy & eggs,91.0
+1998-04-01,Dairy & eggs,91.4
+1998-05-01,Dairy & eggs,91.6
+1998-06-01,Dairy & eggs,91.9
+1998-07-01,Dairy & eggs,91.7
+1998-08-01,Dairy & eggs,91.7
+1998-09-01,Dairy & eggs,91.9
+1998-10-01,Dairy & eggs,91.8
+1998-11-01,Dairy & eggs,92.3
+1998-12-01,Dairy & eggs,92.1
+1999-01-01,Dairy & eggs,92.2
+1999-02-01,Dairy & eggs,92.2
+1999-03-01,Dairy & eggs,92.8
+1999-04-01,Dairy & eggs,92.7
+1999-05-01,Dairy & eggs,92.6
+1999-06-01,Dairy & eggs,92.4
+1999-07-01,Dairy & eggs,92.5
+1999-08-01,Dairy & eggs,92.3
+1999-09-01,Dairy & eggs,92.3
+1999-10-01,Dairy & eggs,92.4
+1999-11-01,Dairy & eggs,92.5
+1999-12-01,Dairy & eggs,92.4
+2000-01-01,Dairy & eggs,92.3
+2000-02-01,Dairy & eggs,93.2
+2000-03-01,Dairy & eggs,93.6
+2000-04-01,Dairy & eggs,93.6
+2000-05-01,Dairy & eggs,93.9
+2000-06-01,Dairy & eggs,93.8
+2000-07-01,Dairy & eggs,94.2
+2000-08-01,Dairy & eggs,94.2
+2000-09-01,Dairy & eggs,94.6
+2000-10-01,Dairy & eggs,94.3
+2000-11-01,Dairy & eggs,94.7
+2000-12-01,Dairy & eggs,94.7
+2001-01-01,Dairy & eggs,95.1
+2001-02-01,Dairy & eggs,96.5
+2001-03-01,Dairy & eggs,97.1
+2001-04-01,Dairy & eggs,96.9
+2001-05-01,Dairy & eggs,97.4
+2001-06-01,Dairy & eggs,97.7
+2001-07-01,Dairy & eggs,97.5
+2001-08-01,Dairy & eggs,97.4
+2001-09-01,Dairy & eggs,97.5
+2001-10-01,Dairy & eggs,97.2
+2001-11-01,Dairy & eggs,97.4
+2001-12-01,Dairy & eggs,97.4
+2002-01-01,Dairy & eggs,97.8
+2002-02-01,Dairy & eggs,99.1
+2002-03-01,Dairy & eggs,99.7
+2002-04-01,Dairy & eggs,100.1
+2002-05-01,Dairy & eggs,100.1
+2002-06-01,Dairy & eggs,100.2
+2002-07-01,Dairy & eggs,100.2
+2002-08-01,Dairy & eggs,100.2
+2002-09-01,Dairy & eggs,100.5
+2002-10-01,Dairy & eggs,100.4
+2002-11-01,Dairy & eggs,100.8
+2002-12-01,Dairy & eggs,100.8
+2003-01-01,Dairy & eggs,101.1
+2003-02-01,Dairy & eggs,102.4
+2003-03-01,Dairy & eggs,102.9
+2003-04-01,Dairy & eggs,102.9
+2003-05-01,Dairy & eggs,103.0
+2003-06-01,Dairy & eggs,103.5
+2003-07-01,Dairy & eggs,103.5
+2003-08-01,Dairy & eggs,103.9
+2003-09-01,Dairy & eggs,103.6
+2003-10-01,Dairy & eggs,103.5
+2003-11-01,Dairy & eggs,103.5
+2003-12-01,Dairy & eggs,103.7
+2004-01-01,Dairy & eggs,104.0
+2004-02-01,Dairy & eggs,104.6
+2004-03-01,Dairy & eggs,105.1
+2004-04-01,Dairy & eggs,104.7
+2004-05-01,Dairy & eggs,105.9
+2004-06-01,Dairy & eggs,106.1
+2004-07-01,Dairy & eggs,106.1
+2004-08-01,Dairy & eggs,106.2
+2004-09-01,Dairy & eggs,106.3
+2004-10-01,Dairy & eggs,106.0
+2004-11-01,Dairy & eggs,106.4
+2004-12-01,Dairy & eggs,106.6
+2005-01-01,Dairy & eggs,106.9
+2005-02-01,Dairy & eggs,108.1
+2005-03-01,Dairy & eggs,109.7
+2005-04-01,Dairy & eggs,111.4
+2005-05-01,Dairy & eggs,111.4
+2005-06-01,Dairy & eggs,112.1
+2005-07-01,Dairy & eggs,111.8
+2005-08-01,Dairy & eggs,112.3
+2005-09-01,Dairy & eggs,112.0
+2005-10-01,Dairy & eggs,111.6
+2005-11-01,Dairy & eggs,111.9
+2005-12-01,Dairy & eggs,112.3
+2006-01-01,Dairy & eggs,112.7
+2006-02-01,Dairy & eggs,113.6
+2006-03-01,Dairy & eggs,114.1
+2006-04-01,Dairy & eggs,114.7
+2006-05-01,Dairy & eggs,115.8
+2006-06-01,Dairy & eggs,116.0
+2006-07-01,Dairy & eggs,115.5
+2006-08-01,Dairy & eggs,116.3
+2006-09-01,Dairy & eggs,116.7
+2006-10-01,Dairy & eggs,116.2
+2006-11-01,Dairy & eggs,117.3
+2006-12-01,Dairy & eggs,116.9
+2007-01-01,Dairy & eggs,118.0
+2007-02-01,Dairy & eggs,119.4
+2007-03-01,Dairy & eggs,119.6
+2007-04-01,Dairy & eggs,119.5
+2007-05-01,Dairy & eggs,120.5
+2007-06-01,Dairy & eggs,120.3
+2007-07-01,Dairy & eggs,120.2
+2007-08-01,Dairy & eggs,120.2
+2007-09-01,Dairy & eggs,120.6
+2007-10-01,Dairy & eggs,119.8
+2007-11-01,Dairy & eggs,120.2
+2007-12-01,Dairy & eggs,119.7
+2008-01-01,Dairy & eggs,121.3
+2008-02-01,Dairy & eggs,122.4
+2008-03-01,Dairy & eggs,122.9
+2008-04-01,Dairy & eggs,123.6
+2008-05-01,Dairy & eggs,124.5
+2008-06-01,Dairy & eggs,124.6
+2008-07-01,Dairy & eggs,124.5
+2008-08-01,Dairy & eggs,124.8
+2008-09-01,Dairy & eggs,125.7
+2008-10-01,Dairy & eggs,126.2
+2008-11-01,Dairy & eggs,126.7
+2008-12-01,Dairy & eggs,126.9
+2009-01-01,Dairy & eggs,127.6
+2009-02-01,Dairy & eggs,129.2
+2009-03-01,Dairy & eggs,129.8
+2009-04-01,Dairy & eggs,129.5
+2009-05-01,Dairy & eggs,128.9
+2009-06-01,Dairy & eggs,129.4
+2009-07-01,Dairy & eggs,128.7
+2009-08-01,Dairy & eggs,128.1
+2009-09-01,Dairy & eggs,128.9
+2009-10-01,Dairy & eggs,128.3
+2009-11-01,Dairy & eggs,129.3
+2009-12-01,Dairy & eggs,129.3
+2010-01-01,Dairy & eggs,129.6
+2010-02-01,Dairy & eggs,131.0
+2010-03-01,Dairy & eggs,130.3
+2010-04-01,Dairy & eggs,129.9
+2010-05-01,Dairy & eggs,130.0
+2010-06-01,Dairy & eggs,130.1
+2010-07-01,Dairy & eggs,130.0
+2010-08-01,Dairy & eggs,130.5
+2010-09-01,Dairy & eggs,130.6
+2010-10-01,Dairy & eggs,129.8
+2010-11-01,Dairy & eggs,130.0
+2010-12-01,Dairy & eggs,130.2
+2011-01-01,Dairy & eggs,130.8
+2011-02-01,Dairy & eggs,132.9
+2011-03-01,Dairy & eggs,134.2
+2011-04-01,Dairy & eggs,133.1
+2011-05-01,Dairy & eggs,134.2
+2011-06-01,Dairy & eggs,134.1
+2011-07-01,Dairy & eggs,134.0
+2011-08-01,Dairy & eggs,134.9
+2011-09-01,Dairy & eggs,134.9
+2011-10-01,Dairy & eggs,135.0
+2011-11-01,Dairy & eggs,134.8
+2011-12-01,Dairy & eggs,134.7
+2012-01-01,Dairy & eggs,135.1
+2012-02-01,Dairy & eggs,135.7
+2012-03-01,Dairy & eggs,136.3
+2012-04-01,Dairy & eggs,135.2
+2012-05-01,Dairy & eggs,136.0
+2012-06-01,Dairy & eggs,135.6
+2012-07-01,Dairy & eggs,136.4
+2012-08-01,Dairy & eggs,136.7
+2012-09-01,Dairy & eggs,136.3
+2012-10-01,Dairy & eggs,135.3
+2012-11-01,Dairy & eggs,136.3
+2012-12-01,Dairy & eggs,135.5
+2013-01-01,Dairy & eggs,135.6
+2013-02-01,Dairy & eggs,137.5
+2013-03-01,Dairy & eggs,136.4
+2013-04-01,Dairy & eggs,136.3
+2013-05-01,Dairy & eggs,137.1
+2013-06-01,Dairy & eggs,135.8
+2013-07-01,Dairy & eggs,135.6
+2013-08-01,Dairy & eggs,136.3
+2013-09-01,Dairy & eggs,135.1
+2013-10-01,Dairy & eggs,134.7
+2013-11-01,Dairy & eggs,134.7
+2013-12-01,Dairy & eggs,134.0
+2014-01-01,Dairy & eggs,134.7
+2014-02-01,Dairy & eggs,135.8
+2014-03-01,Dairy & eggs,135.7
+2014-04-01,Dairy & eggs,135.6
+2014-05-01,Dairy & eggs,135.0
+2014-06-01,Dairy & eggs,134.9
+2014-07-01,Dairy & eggs,135.2
+2014-08-01,Dairy & eggs,135.3
+2014-09-01,Dairy & eggs,136.4
+2014-10-01,Dairy & eggs,135.3
+2014-11-01,Dairy & eggs,136.2
+2014-12-01,Dairy & eggs,136.0
+2015-01-01,Dairy & eggs,136.1
+2015-02-01,Dairy & eggs,136.8
+2015-03-01,Dairy & eggs,137.2
+2015-04-01,Dairy & eggs,136.1
+2015-05-01,Dairy & eggs,137.0
+2015-06-01,Dairy & eggs,138.1
+2015-07-01,Dairy & eggs,137.1
+2015-08-01,Dairy & eggs,136.5
+2015-09-01,Dairy & eggs,135.8
+2015-10-01,Dairy & eggs,137.3
+2015-11-01,Dairy & eggs,136.8
+2015-12-01,Dairy & eggs,136.7
+2016-01-01,Dairy & eggs,136.7
+2016-02-01,Dairy & eggs,137.8
+2016-03-01,Dairy & eggs,136.8
+2016-04-01,Dairy & eggs,136.7
+2016-05-01,Dairy & eggs,136.6
+2016-06-01,Dairy & eggs,135.5
+2016-07-01,Dairy & eggs,135.8
+2016-08-01,Dairy & eggs,136.7
+2016-09-01,Dairy & eggs,134.6
+2016-10-01,Dairy & eggs,133.7
+2016-11-01,Dairy & eggs,133.5
+2016-12-01,Dairy & eggs,133.6
+2017-01-01,Dairy & eggs,134.5
+2017-02-01,Dairy & eggs,133.9
+2017-03-01,Dairy & eggs,134.2
+2017-04-01,Dairy & eggs,134.7
+2017-05-01,Dairy & eggs,134.3
+2017-06-01,Dairy & eggs,133.6
+2017-07-01,Dairy & eggs,133.5
+2017-08-01,Dairy & eggs,134.0
+2017-09-01,Dairy & eggs,133.1
+2017-10-01,Dairy & eggs,132.8
+2017-11-01,Dairy & eggs,132.8
+2017-12-01,Dairy & eggs,133.7
+2018-01-01,Dairy & eggs,134.0
+2018-02-01,Dairy & eggs,134.1
+2018-03-01,Dairy & eggs,133.8
+2018-04-01,Dairy & eggs,133.7
+2018-05-01,Dairy & eggs,133.6
+2018-06-01,Dairy & eggs,133.3
+2018-07-01,Dairy & eggs,133.5
+2018-08-01,Dairy & eggs,134.3
+2018-09-01,Dairy & eggs,134.6
+2018-10-01,Dairy & eggs,133.6
+2018-11-01,Dairy & eggs,134.9
+2018-12-01,Dairy & eggs,135.7
+2019-01-01,Dairy & eggs,135.9
+2019-02-01,Dairy & eggs,137.6
+2019-03-01,Dairy & eggs,137.1
+2019-04-01,Dairy & eggs,136.3
+2019-05-01,Dairy & eggs,137.8
+2019-06-01,Dairy & eggs,136.2
+2019-07-01,Dairy & eggs,137.7
+2019-08-01,Dairy & eggs,137.9
+2019-09-01,Dairy & eggs,138.0
+2019-10-01,Dairy & eggs,135.5
+2019-11-01,Dairy & eggs,137.1
+2019-12-01,Dairy & eggs,138.4
+2020-01-01,Dairy & eggs,138.8
+2020-02-01,Dairy & eggs,140.5
+2020-03-01,Dairy & eggs,140.3
+2020-04-01,Dairy & eggs,142.8
+2020-05-01,Dairy & eggs,142.8
+2020-06-01,Dairy & eggs,142.1
+2020-07-01,Dairy & eggs,141.2
+2020-08-01,Dairy & eggs,142.3
+2020-09-01,Dairy & eggs,140.8
+2020-10-01,Dairy & eggs,140.5
+2020-11-01,Dairy & eggs,141.6
+2020-12-01,Dairy & eggs,141.5
+2021-01-01,Dairy & eggs,141.6
+2021-02-01,Dairy & eggs,143.1
+2021-03-01,Dairy & eggs,144.9
+2021-04-01,Dairy & eggs,146.1
+2021-05-01,Dairy & eggs,146.6
+2021-06-01,Dairy & eggs,145.3
+2021-07-01,Dairy & eggs,146.4
+2021-08-01,Dairy & eggs,148.3
+2021-09-01,Dairy & eggs,148.0
+2021-10-01,Dairy & eggs,146.6
+2021-11-01,Dairy & eggs,146.7
+2021-12-01,Dairy & eggs,145.9
+2022-01-01,Dairy & eggs,148.0
+2022-02-01,Dairy & eggs,153.0
+2022-03-01,Dairy & eggs,157.2
+2022-04-01,Dairy & eggs,157.6
+2022-05-01,Dairy & eggs,158.2
+2022-06-01,Dairy & eggs,157.8
+2022-07-01,Dairy & eggs,159.4
+2022-08-01,Dairy & eggs,159.4
+2022-09-01,Dairy & eggs,162.8
+2022-10-01,Dairy & eggs,162.6
+2022-11-01,Dairy & eggs,164.3
+2022-12-01,Dairy & eggs,163.4
+2023-01-01,Dairy & eggs,166.8
+2023-02-01,Dairy & eggs,167.7
+2023-03-01,Dairy & eggs,169.5
+2023-04-01,Dairy & eggs,168.7
+2023-05-01,Dairy & eggs,170.2
+2023-06-01,Dairy & eggs,169.8
+2023-07-01,Dairy & eggs,170.8
+2023-08-01,Dairy & eggs,168.8
+2023-09-01,Dairy & eggs,169.1
+2023-10-01,Dairy & eggs,168.1
+2023-11-01,Dairy & eggs,170.0
+2023-12-01,Dairy & eggs,168.9
+2024-01-01,Dairy & eggs,169.3
+2024-02-01,Dairy & eggs,169.1
+2024-03-01,Dairy & eggs,170.7
+2024-04-01,Dairy & eggs,171.3
+2024-05-01,Dairy & eggs,171.0
+2024-06-01,Dairy & eggs,173.7
+2024-07-01,Dairy & eggs,174.4
+2024-08-01,Dairy & eggs,174.4
+2024-09-01,Dairy & eggs,174.2
+2024-10-01,Dairy & eggs,174.1
+2024-11-01,Dairy & eggs,175.7
+2024-12-01,Dairy & eggs,174.3
+2025-01-01,Dairy & eggs,174.6
+2025-02-01,Dairy & eggs,175.9
+2025-03-01,Dairy & eggs,177.6
+2025-04-01,Dairy & eggs,175.9
+2025-05-01,Dairy & eggs,176.3
+2025-06-01,Dairy & eggs,177.0
+2025-07-01,Dairy & eggs,176.2
+2025-08-01,Dairy & eggs,177.7
+2025-09-01,Dairy & eggs,176.7
+2025-10-01,Dairy & eggs,176.8
+2025-11-01,Dairy & eggs,176.3
+2025-12-01,Dairy & eggs,176.7
+2026-01-01,Dairy & eggs,178.2
+2026-02-01,Dairy & eggs,178.7
+2026-03-01,Dairy & eggs,181.0
+2026-04-01,Dairy & eggs,178.3
+2026-05-01,Dairy & eggs,179.9
+2026-06-01,Dairy & eggs,181.4
+1985-01-01,Fish & seafood,59.0
+1985-02-01,Fish & seafood,59.2
+1985-03-01,Fish & seafood,59.2
+1985-04-01,Fish & seafood,59.8
+1985-05-01,Fish & seafood,59.7
+1985-06-01,Fish & seafood,60.6
+1985-07-01,Fish & seafood,60.6
+1985-08-01,Fish & seafood,60.9
+1985-09-01,Fish & seafood,60.7
+1985-10-01,Fish & seafood,60.9
+1985-11-01,Fish & seafood,60.6
+1985-12-01,Fish & seafood,60.2
+1986-01-01,Fish & seafood,60.6
+1986-02-01,Fish & seafood,61.3
+1986-03-01,Fish & seafood,61.3
+1986-04-01,Fish & seafood,61.4
+1986-05-01,Fish & seafood,61.9
+1986-06-01,Fish & seafood,62.0
+1986-07-01,Fish & seafood,62.2
+1986-08-01,Fish & seafood,62.7
+1986-09-01,Fish & seafood,63.1
+1986-10-01,Fish & seafood,63.6
+1986-11-01,Fish & seafood,65.3
+1986-12-01,Fish & seafood,65.9
+1987-01-01,Fish & seafood,67.1
+1987-02-01,Fish & seafood,67.5
+1987-03-01,Fish & seafood,67.6
+1987-04-01,Fish & seafood,67.6
+1987-05-01,Fish & seafood,67.8
+1987-06-01,Fish & seafood,67.9
+1987-07-01,Fish & seafood,68.4
+1987-08-01,Fish & seafood,69.0
+1987-09-01,Fish & seafood,69.3
+1987-10-01,Fish & seafood,70.3
+1987-11-01,Fish & seafood,70.3
+1987-12-01,Fish & seafood,70.4
+1988-01-01,Fish & seafood,71.4
+1988-02-01,Fish & seafood,72.0
+1988-03-01,Fish & seafood,72.6
+1988-04-01,Fish & seafood,72.9
+1988-05-01,Fish & seafood,73.7
+1988-06-01,Fish & seafood,73.8
+1988-07-01,Fish & seafood,74.3
+1988-08-01,Fish & seafood,75.2
+1988-09-01,Fish & seafood,76.0
+1988-10-01,Fish & seafood,77.1
+1988-11-01,Fish & seafood,77.2
+1988-12-01,Fish & seafood,77.0
+1989-01-01,Fish & seafood,77.2
+1989-02-01,Fish & seafood,77.2
+1989-03-01,Fish & seafood,77.0
+1989-04-01,Fish & seafood,77.6
+1989-05-01,Fish & seafood,77.7
+1989-06-01,Fish & seafood,77.7
+1989-07-01,Fish & seafood,77.9
+1989-08-01,Fish & seafood,78.4
+1989-09-01,Fish & seafood,77.8
+1989-10-01,Fish & seafood,76.6
+1989-11-01,Fish & seafood,76.3
+1989-12-01,Fish & seafood,75.5
+1990-01-01,Fish & seafood,76.3
+1990-02-01,Fish & seafood,76.6
+1990-03-01,Fish & seafood,76.1
+1990-04-01,Fish & seafood,75.8
+1990-05-01,Fish & seafood,76.2
+1990-06-01,Fish & seafood,76.9
+1990-07-01,Fish & seafood,76.6
+1990-08-01,Fish & seafood,76.9
+1990-09-01,Fish & seafood,77.2
+1990-10-01,Fish & seafood,77.0
+1990-11-01,Fish & seafood,76.6
+1990-12-01,Fish & seafood,77.0
+1991-01-01,Fish & seafood,78.3
+1991-02-01,Fish & seafood,78.0
+1991-03-01,Fish & seafood,78.0
+1991-04-01,Fish & seafood,77.8
+1991-05-01,Fish & seafood,78.8
+1991-06-01,Fish & seafood,79.1
+1991-07-01,Fish & seafood,79.2
+1991-08-01,Fish & seafood,79.8
+1991-09-01,Fish & seafood,79.9
+1991-10-01,Fish & seafood,79.2
+1991-11-01,Fish & seafood,78.0
+1991-12-01,Fish & seafood,77.4
+1992-01-01,Fish & seafood,78.7
+1992-02-01,Fish & seafood,78.7
+1992-03-01,Fish & seafood,79.0
+1992-04-01,Fish & seafood,79.1
+1992-05-01,Fish & seafood,80.0
+1992-06-01,Fish & seafood,80.5
+1992-07-01,Fish & seafood,82.2
+1992-08-01,Fish & seafood,82.4
+1992-09-01,Fish & seafood,82.9
+1992-10-01,Fish & seafood,84.1
+1992-11-01,Fish & seafood,83.2
+1992-12-01,Fish & seafood,83.1
+1993-01-01,Fish & seafood,84.6
+1993-02-01,Fish & seafood,84.7
+1993-03-01,Fish & seafood,85.2
+1993-04-01,Fish & seafood,85.2
+1993-05-01,Fish & seafood,85.4
+1993-06-01,Fish & seafood,85.4
+1993-07-01,Fish & seafood,85.6
+1993-08-01,Fish & seafood,85.7
+1993-09-01,Fish & seafood,85.4
+1993-10-01,Fish & seafood,85.4
+1993-11-01,Fish & seafood,84.2
+1993-12-01,Fish & seafood,83.6
+1994-01-01,Fish & seafood,84.3
+1994-02-01,Fish & seafood,84.5
+1994-03-01,Fish & seafood,84.5
+1994-04-01,Fish & seafood,84.8
+1994-05-01,Fish & seafood,84.6
+1994-06-01,Fish & seafood,83.5
+1994-07-01,Fish & seafood,84.7
+1994-08-01,Fish & seafood,85.2
+1994-09-01,Fish & seafood,86.0
+1994-10-01,Fish & seafood,85.8
+1994-11-01,Fish & seafood,86.0
+1994-12-01,Fish & seafood,86.8
+1995-01-01,Fish & seafood,87.1
+1995-02-01,Fish & seafood,87.7
+1995-03-01,Fish & seafood,87.7
+1995-04-01,Fish & seafood,87.9
+1995-05-01,Fish & seafood,88.4
+1995-06-01,Fish & seafood,88.4
+1995-07-01,Fish & seafood,88.4
+1995-08-01,Fish & seafood,88.6
+1995-09-01,Fish & seafood,88.8
+1995-10-01,Fish & seafood,89.0
+1995-11-01,Fish & seafood,88.7
+1995-12-01,Fish & seafood,88.1
+1996-01-01,Fish & seafood,88.4
+1996-02-01,Fish & seafood,88.4
+1996-03-01,Fish & seafood,87.7
+1996-04-01,Fish & seafood,87.0
+1996-05-01,Fish & seafood,87.0
+1996-06-01,Fish & seafood,87.0
+1996-07-01,Fish & seafood,87.0
+1996-08-01,Fish & seafood,87.2
+1996-09-01,Fish & seafood,87.3
+1996-10-01,Fish & seafood,87.6
+1996-11-01,Fish & seafood,87.3
+1996-12-01,Fish & seafood,87.1
+1997-01-01,Fish & seafood,88.0
+1997-02-01,Fish & seafood,87.1
+1997-03-01,Fish & seafood,87.3
+1997-04-01,Fish & seafood,87.3
+1997-05-01,Fish & seafood,87.6
+1997-06-01,Fish & seafood,87.3
+1997-07-01,Fish & seafood,87.7
+1997-08-01,Fish & seafood,87.4
+1997-09-01,Fish & seafood,87.4
+1997-10-01,Fish & seafood,87.8
+1997-11-01,Fish & seafood,88.4
+1997-12-01,Fish & seafood,88.2
+1998-01-01,Fish & seafood,88.4
+1998-02-01,Fish & seafood,88.4
+1998-03-01,Fish & seafood,88.3
+1998-04-01,Fish & seafood,88.4
+1998-05-01,Fish & seafood,89.7
+1998-06-01,Fish & seafood,90.0
+1998-07-01,Fish & seafood,90.5
+1998-08-01,Fish & seafood,90.3
+1998-09-01,Fish & seafood,90.8
+1998-10-01,Fish & seafood,91.9
+1998-11-01,Fish & seafood,92.3
+1998-12-01,Fish & seafood,92.4
+1999-01-01,Fish & seafood,93.1
+1999-02-01,Fish & seafood,94.0
+1999-03-01,Fish & seafood,94.3
+1999-04-01,Fish & seafood,94.7
+1999-05-01,Fish & seafood,95.7
+1999-06-01,Fish & seafood,95.4
+1999-07-01,Fish & seafood,96.2
+1999-08-01,Fish & seafood,96.0
+1999-09-01,Fish & seafood,96.1
+1999-10-01,Fish & seafood,96.0
+1999-11-01,Fish & seafood,95.9
+1999-12-01,Fish & seafood,96.4
+2000-01-01,Fish & seafood,95.7
+2000-02-01,Fish & seafood,95.1
+2000-03-01,Fish & seafood,94.6
+2000-04-01,Fish & seafood,94.8
+2000-05-01,Fish & seafood,96.0
+2000-06-01,Fish & seafood,96.1
+2000-07-01,Fish & seafood,96.1
+2000-08-01,Fish & seafood,96.8
+2000-09-01,Fish & seafood,96.4
+2000-10-01,Fish & seafood,96.3
+2000-11-01,Fish & seafood,96.8
+2000-12-01,Fish & seafood,97.5
+2001-01-01,Fish & seafood,98.1
+2001-02-01,Fish & seafood,98.9
+2001-03-01,Fish & seafood,99.2
+2001-04-01,Fish & seafood,98.8
+2001-05-01,Fish & seafood,99.3
+2001-06-01,Fish & seafood,99.5
+2001-07-01,Fish & seafood,99.9
+2001-08-01,Fish & seafood,100.2
+2001-09-01,Fish & seafood,100.4
+2001-10-01,Fish & seafood,99.9
+2001-11-01,Fish & seafood,99.6
+2001-12-01,Fish & seafood,99.8
+2002-01-01,Fish & seafood,99.8
+2002-02-01,Fish & seafood,99.9
+2002-03-01,Fish & seafood,99.1
+2002-04-01,Fish & seafood,99.5
+2002-05-01,Fish & seafood,100.0
+2002-06-01,Fish & seafood,99.7
+2002-07-01,Fish & seafood,100.4
+2002-08-01,Fish & seafood,100.4
+2002-09-01,Fish & seafood,101.0
+2002-10-01,Fish & seafood,99.8
+2002-11-01,Fish & seafood,100.2
+2002-12-01,Fish & seafood,100.1
+2003-01-01,Fish & seafood,100.7
+2003-02-01,Fish & seafood,100.3
+2003-03-01,Fish & seafood,100.0
+2003-04-01,Fish & seafood,99.7
+2003-05-01,Fish & seafood,100.5
+2003-06-01,Fish & seafood,100.5
+2003-07-01,Fish & seafood,100.2
+2003-08-01,Fish & seafood,100.2
+2003-09-01,Fish & seafood,99.8
+2003-10-01,Fish & seafood,97.9
+2003-11-01,Fish & seafood,97.9
+2003-12-01,Fish & seafood,98.4
+2004-01-01,Fish & seafood,99.8
+2004-02-01,Fish & seafood,99.3
+2004-03-01,Fish & seafood,98.7
+2004-04-01,Fish & seafood,98.5
+2004-05-01,Fish & seafood,99.0
+2004-06-01,Fish & seafood,99.1
+2004-07-01,Fish & seafood,100.1
+2004-08-01,Fish & seafood,99.8
+2004-09-01,Fish & seafood,98.9
+2004-10-01,Fish & seafood,99.1
+2004-11-01,Fish & seafood,98.4
+2004-12-01,Fish & seafood,98.0
+2005-01-01,Fish & seafood,98.6
+2005-02-01,Fish & seafood,99.0
+2005-03-01,Fish & seafood,98.9
+2005-04-01,Fish & seafood,98.8
+2005-05-01,Fish & seafood,99.8
+2005-06-01,Fish & seafood,99.7
+2005-07-01,Fish & seafood,99.8
+2005-08-01,Fish & seafood,100.4
+2005-09-01,Fish & seafood,99.5
+2005-10-01,Fish & seafood,98.6
+2005-11-01,Fish & seafood,98.4
+2005-12-01,Fish & seafood,97.3
+2006-01-01,Fish & seafood,97.4
+2006-02-01,Fish & seafood,97.8
+2006-03-01,Fish & seafood,96.9
+2006-04-01,Fish & seafood,96.4
+2006-05-01,Fish & seafood,97.1
+2006-06-01,Fish & seafood,97.9
+2006-07-01,Fish & seafood,98.6
+2006-08-01,Fish & seafood,98.4
+2006-09-01,Fish & seafood,98.5
+2006-10-01,Fish & seafood,98.4
+2006-11-01,Fish & seafood,99.7
+2006-12-01,Fish & seafood,98.7
+2007-01-01,Fish & seafood,99.2
+2007-02-01,Fish & seafood,99.8
+2007-03-01,Fish & seafood,100.0
+2007-04-01,Fish & seafood,99.7
+2007-05-01,Fish & seafood,100.5
+2007-06-01,Fish & seafood,100.8
+2007-07-01,Fish & seafood,101.0
+2007-08-01,Fish & seafood,101.2
+2007-09-01,Fish & seafood,100.2
+2007-10-01,Fish & seafood,100.5
+2007-11-01,Fish & seafood,99.0
+2007-12-01,Fish & seafood,98.9
+2008-01-01,Fish & seafood,99.5
+2008-02-01,Fish & seafood,100.6
+2008-03-01,Fish & seafood,100.6
+2008-04-01,Fish & seafood,100.7
+2008-05-01,Fish & seafood,100.8
+2008-06-01,Fish & seafood,100.9
+2008-07-01,Fish & seafood,100.9
+2008-08-01,Fish & seafood,101.2
+2008-09-01,Fish & seafood,101.8
+2008-10-01,Fish & seafood,101.7
+2008-11-01,Fish & seafood,103.6
+2008-12-01,Fish & seafood,102.6
+2009-01-01,Fish & seafood,104.8
+2009-02-01,Fish & seafood,108.0
+2009-03-01,Fish & seafood,108.2
+2009-04-01,Fish & seafood,107.3
+2009-05-01,Fish & seafood,107.9
+2009-06-01,Fish & seafood,108.4
+2009-07-01,Fish & seafood,109.7
+2009-08-01,Fish & seafood,110.6
+2009-09-01,Fish & seafood,109.4
+2009-10-01,Fish & seafood,109.7
+2009-11-01,Fish & seafood,109.2
+2009-12-01,Fish & seafood,109.5
+2010-01-01,Fish & seafood,109.5
+2010-02-01,Fish & seafood,108.7
+2010-03-01,Fish & seafood,108.4
+2010-04-01,Fish & seafood,108.6
+2010-05-01,Fish & seafood,108.7
+2010-06-01,Fish & seafood,109.1
+2010-07-01,Fish & seafood,109.5
+2010-08-01,Fish & seafood,110.6
+2010-09-01,Fish & seafood,109.1
+2010-10-01,Fish & seafood,107.5
+2010-11-01,Fish & seafood,108.0
+2010-12-01,Fish & seafood,106.4
+2011-01-01,Fish & seafood,107.9
+2011-02-01,Fish & seafood,107.6
+2011-03-01,Fish & seafood,108.2
+2011-04-01,Fish & seafood,107.6
+2011-05-01,Fish & seafood,109.0
+2011-06-01,Fish & seafood,110.6
+2011-07-01,Fish & seafood,109.7
+2011-08-01,Fish & seafood,111.4
+2011-09-01,Fish & seafood,110.1
+2011-10-01,Fish & seafood,109.0
+2011-11-01,Fish & seafood,108.9
+2011-12-01,Fish & seafood,108.4
+2012-01-01,Fish & seafood,110.7
+2012-02-01,Fish & seafood,112.5
+2012-03-01,Fish & seafood,111.2
+2012-04-01,Fish & seafood,112.5
+2012-05-01,Fish & seafood,112.5
+2012-06-01,Fish & seafood,112.3
+2012-07-01,Fish & seafood,112.8
+2012-08-01,Fish & seafood,113.6
+2012-09-01,Fish & seafood,111.6
+2012-10-01,Fish & seafood,110.8
+2012-11-01,Fish & seafood,111.2
+2012-12-01,Fish & seafood,109.7
+2013-01-01,Fish & seafood,110.7
+2013-02-01,Fish & seafood,111.8
+2013-03-01,Fish & seafood,111.4
+2013-04-01,Fish & seafood,111.0
+2013-05-01,Fish & seafood,113.8
+2013-06-01,Fish & seafood,115.1
+2013-07-01,Fish & seafood,115.9
+2013-08-01,Fish & seafood,116.8
+2013-09-01,Fish & seafood,116.2
+2013-10-01,Fish & seafood,116.4
+2013-11-01,Fish & seafood,116.4
+2013-12-01,Fish & seafood,116.3
+2014-01-01,Fish & seafood,120.1
+2014-02-01,Fish & seafood,120.6
+2014-03-01,Fish & seafood,123.1
+2014-04-01,Fish & seafood,121.5
+2014-05-01,Fish & seafood,124.0
+2014-06-01,Fish & seafood,125.8
+2014-07-01,Fish & seafood,126.1
+2014-08-01,Fish & seafood,125.5
+2014-09-01,Fish & seafood,124.5
+2014-10-01,Fish & seafood,123.3
+2014-11-01,Fish & seafood,124.1
+2014-12-01,Fish & seafood,121.9
+2015-01-01,Fish & seafood,123.6
+2015-02-01,Fish & seafood,123.1
+2015-03-01,Fish & seafood,123.9
+2015-04-01,Fish & seafood,125.2
+2015-05-01,Fish & seafood,126.3
+2015-06-01,Fish & seafood,126.4
+2015-07-01,Fish & seafood,126.1
+2015-08-01,Fish & seafood,126.7
+2015-09-01,Fish & seafood,127.2
+2015-10-01,Fish & seafood,126.2
+2015-11-01,Fish & seafood,125.6
+2015-12-01,Fish & seafood,124.1
+2016-01-01,Fish & seafood,127.7
+2016-02-01,Fish & seafood,127.3
+2016-03-01,Fish & seafood,127.4
+2016-04-01,Fish & seafood,129.6
+2016-05-01,Fish & seafood,130.6
+2016-06-01,Fish & seafood,131.9
+2016-07-01,Fish & seafood,132.9
+2016-08-01,Fish & seafood,132.8
+2016-09-01,Fish & seafood,132.0
+2016-10-01,Fish & seafood,129.4
+2016-11-01,Fish & seafood,131.2
+2016-12-01,Fish & seafood,130.3
+2017-01-01,Fish & seafood,132.8
+2017-02-01,Fish & seafood,132.0
+2017-03-01,Fish & seafood,134.5
+2017-04-01,Fish & seafood,133.5
+2017-05-01,Fish & seafood,136.2
+2017-06-01,Fish & seafood,137.4
+2017-07-01,Fish & seafood,137.9
+2017-08-01,Fish & seafood,137.3
+2017-09-01,Fish & seafood,136.4
+2017-10-01,Fish & seafood,134.3
+2017-11-01,Fish & seafood,134.8
+2017-12-01,Fish & seafood,134.4
+2018-01-01,Fish & seafood,136.5
+2018-02-01,Fish & seafood,136.2
+2018-03-01,Fish & seafood,136.5
+2018-04-01,Fish & seafood,137.0
+2018-05-01,Fish & seafood,137.2
+2018-06-01,Fish & seafood,138.1
+2018-07-01,Fish & seafood,138.2
+2018-08-01,Fish & seafood,138.1
+2018-09-01,Fish & seafood,136.4
+2018-10-01,Fish & seafood,135.7
+2018-11-01,Fish & seafood,137.8
+2018-12-01,Fish & seafood,139.5
+2019-01-01,Fish & seafood,140.9
+2019-02-01,Fish & seafood,142.1
+2019-03-01,Fish & seafood,142.5
+2019-04-01,Fish & seafood,140.7
+2019-05-01,Fish & seafood,142.7
+2019-06-01,Fish & seafood,140.4
+2019-07-01,Fish & seafood,142.3
+2019-08-01,Fish & seafood,142.1
+2019-09-01,Fish & seafood,141.9
+2019-10-01,Fish & seafood,143.3
+2019-11-01,Fish & seafood,144.6
+2019-12-01,Fish & seafood,144.0
+2020-01-01,Fish & seafood,144.2
+2020-02-01,Fish & seafood,144.3
+2020-03-01,Fish & seafood,146.0
+2020-04-01,Fish & seafood,144.4
+2020-05-01,Fish & seafood,149.0
+2020-06-01,Fish & seafood,145.7
+2020-07-01,Fish & seafood,144.5
+2020-08-01,Fish & seafood,146.8
+2020-09-01,Fish & seafood,143.5
+2020-10-01,Fish & seafood,143.6
+2020-11-01,Fish & seafood,145.0
+2020-12-01,Fish & seafood,144.7
+2021-01-01,Fish & seafood,143.4
+2021-02-01,Fish & seafood,143.9
+2021-03-01,Fish & seafood,144.9
+2021-04-01,Fish & seafood,145.1
+2021-05-01,Fish & seafood,147.6
+2021-06-01,Fish & seafood,146.2
+2021-07-01,Fish & seafood,146.6
+2021-08-01,Fish & seafood,146.8
+2021-09-01,Fish & seafood,147.1
+2021-10-01,Fish & seafood,149.3
+2021-11-01,Fish & seafood,148.6
+2021-12-01,Fish & seafood,149.1
+2022-01-01,Fish & seafood,151.7
+2022-02-01,Fish & seafood,152.3
+2022-03-01,Fish & seafood,153.6
+2022-04-01,Fish & seafood,154.4
+2022-05-01,Fish & seafood,160.2
+2022-06-01,Fish & seafood,161.1
+2022-07-01,Fish & seafood,160.1
+2022-08-01,Fish & seafood,159.5
+2022-09-01,Fish & seafood,158.3
+2022-10-01,Fish & seafood,160.5
+2022-11-01,Fish & seafood,160.7
+2022-12-01,Fish & seafood,161.5
+2023-01-01,Fish & seafood,162.0
+2023-02-01,Fish & seafood,163.6
+2023-03-01,Fish & seafood,163.5
+2023-04-01,Fish & seafood,164.8
+2023-05-01,Fish & seafood,166.5
+2023-06-01,Fish & seafood,166.0
+2023-07-01,Fish & seafood,164.3
+2023-08-01,Fish & seafood,165.1
+2023-09-01,Fish & seafood,165.1
+2023-10-01,Fish & seafood,163.8
+2023-11-01,Fish & seafood,162.0
+2023-12-01,Fish & seafood,160.4
+2024-01-01,Fish & seafood,163.1
+2024-02-01,Fish & seafood,162.5
+2024-03-01,Fish & seafood,161.8
+2024-04-01,Fish & seafood,161.9
+2024-05-01,Fish & seafood,160.8
+2024-06-01,Fish & seafood,161.0
+2024-07-01,Fish & seafood,162.1
+2024-08-01,Fish & seafood,162.1
+2024-09-01,Fish & seafood,162.5
+2024-10-01,Fish & seafood,160.3
+2024-11-01,Fish & seafood,160.7
+2024-12-01,Fish & seafood,162.2
+2025-01-01,Fish & seafood,163.4
+2025-02-01,Fish & seafood,162.9
+2025-03-01,Fish & seafood,162.9
+2025-04-01,Fish & seafood,164.8
+2025-05-01,Fish & seafood,166.1
+2025-06-01,Fish & seafood,167.9
+2025-07-01,Fish & seafood,166.9
+2025-08-01,Fish & seafood,166.4
+2025-09-01,Fish & seafood,165.2
+2025-10-01,Fish & seafood,166.5
+2025-11-01,Fish & seafood,168.5
+2025-12-01,Fish & seafood,171.4
+2026-01-01,Fish & seafood,171.9
+2026-02-01,Fish & seafood,170.0
+2026-03-01,Fish & seafood,169.2
+2026-04-01,Fish & seafood,169.9
+2026-05-01,Fish & seafood,170.8
+2026-06-01,Fish & seafood,172.3
+1978-09-01,Fruit & nuts,46.1
+1978-10-01,Fruit & nuts,45.2
+1978-11-01,Fruit & nuts,43.3
+1978-12-01,Fruit & nuts,44.1
+1979-01-01,Fruit & nuts,44.1
+1979-02-01,Fruit & nuts,45.5
+1979-03-01,Fruit & nuts,47.3
+1979-04-01,Fruit & nuts,48.9
+1979-05-01,Fruit & nuts,50.1
+1979-06-01,Fruit & nuts,52.3
+1979-07-01,Fruit & nuts,55.2
+1979-08-01,Fruit & nuts,56.3
+1979-09-01,Fruit & nuts,54.3
+1979-10-01,Fruit & nuts,51.8
+1979-11-01,Fruit & nuts,50.7
+1979-12-01,Fruit & nuts,50.3
+1980-01-01,Fruit & nuts,48.9
+1980-02-01,Fruit & nuts,50.7
+1980-03-01,Fruit & nuts,50.5
+1980-04-01,Fruit & nuts,53.2
+1980-05-01,Fruit & nuts,53.3
+1980-06-01,Fruit & nuts,55.9
+1980-07-01,Fruit & nuts,58.3
+1980-08-01,Fruit & nuts,60.0
+1980-09-01,Fruit & nuts,57.5
+1980-10-01,Fruit & nuts,54.1
+1980-11-01,Fruit & nuts,52.6
+1980-12-01,Fruit & nuts,53.0
+1981-01-01,Fruit & nuts,51.0
+1981-02-01,Fruit & nuts,52.4
+1981-03-01,Fruit & nuts,53.3
+1981-04-01,Fruit & nuts,55.1
+1981-05-01,Fruit & nuts,55.4
+1981-06-01,Fruit & nuts,58.1
+1981-07-01,Fruit & nuts,58.7
+1981-08-01,Fruit & nuts,61.0
+1981-09-01,Fruit & nuts,62.6
+1981-10-01,Fruit & nuts,61.6
+1981-11-01,Fruit & nuts,60.2
+1981-12-01,Fruit & nuts,60.1
+1982-01-01,Fruit & nuts,60.6
+1982-02-01,Fruit & nuts,63.4
+1982-03-01,Fruit & nuts,65.4
+1982-04-01,Fruit & nuts,66.4
+1982-05-01,Fruit & nuts,68.2
+1982-06-01,Fruit & nuts,70.9
+1982-07-01,Fruit & nuts,74.6
+1982-08-01,Fruit & nuts,73.8
+1982-09-01,Fruit & nuts,70.7
+1982-10-01,Fruit & nuts,65.7
+1982-11-01,Fruit & nuts,65.6
+1982-12-01,Fruit & nuts,63.1
+1983-01-01,Fruit & nuts,62.2
+1983-02-01,Fruit & nuts,62.5
+1983-03-01,Fruit & nuts,61.8
+1983-04-01,Fruit & nuts,65.1
+1983-05-01,Fruit & nuts,67.5
+1983-06-01,Fruit & nuts,69.4
+1983-07-01,Fruit & nuts,72.3
+1983-08-01,Fruit & nuts,71.3
+1983-09-01,Fruit & nuts,68.8
+1983-10-01,Fruit & nuts,67.6
+1983-11-01,Fruit & nuts,63.0
+1983-12-01,Fruit & nuts,64.6
+1984-01-01,Fruit & nuts,66.0
+1984-02-01,Fruit & nuts,68.1
+1984-03-01,Fruit & nuts,68.0
+1984-04-01,Fruit & nuts,70.7
+1984-05-01,Fruit & nuts,71.7
+1984-06-01,Fruit & nuts,77.3
+1984-07-01,Fruit & nuts,79.4
+1984-08-01,Fruit & nuts,80.4
+1984-09-01,Fruit & nuts,79.4
+1984-10-01,Fruit & nuts,77.1
+1984-11-01,Fruit & nuts,73.3
+1984-12-01,Fruit & nuts,70.5
+1985-01-01,Fruit & nuts,71.5
+1985-02-01,Fruit & nuts,75.8
+1985-03-01,Fruit & nuts,76.4
+1985-04-01,Fruit & nuts,80.2
+1985-05-01,Fruit & nuts,80.3
+1985-06-01,Fruit & nuts,82.5
+1985-07-01,Fruit & nuts,82.6
+1985-08-01,Fruit & nuts,82.9
+1985-09-01,Fruit & nuts,80.0
+1985-10-01,Fruit & nuts,77.2
+1985-11-01,Fruit & nuts,73.0
+1985-12-01,Fruit & nuts,75.1
+1986-01-01,Fruit & nuts,76.0
+1986-02-01,Fruit & nuts,77.6
+1986-03-01,Fruit & nuts,79.2
+1986-04-01,Fruit & nuts,82.2
+1986-05-01,Fruit & nuts,83.5
+1986-06-01,Fruit & nuts,83.1
+1986-07-01,Fruit & nuts,84.8
+1986-08-01,Fruit & nuts,86.7
+1986-09-01,Fruit & nuts,83.8
+1986-10-01,Fruit & nuts,82.9
+1986-11-01,Fruit & nuts,78.9
+1986-12-01,Fruit & nuts,76.1
+1987-01-01,Fruit & nuts,77.4
+1987-02-01,Fruit & nuts,79.4
+1987-03-01,Fruit & nuts,79.6
+1987-04-01,Fruit & nuts,79.3
+1987-05-01,Fruit & nuts,82.6
+1987-06-01,Fruit & nuts,88.2
+1987-07-01,Fruit & nuts,87.8
+1987-08-01,Fruit & nuts,85.9
+1987-09-01,Fruit & nuts,83.0
+1987-10-01,Fruit & nuts,81.6
+1987-11-01,Fruit & nuts,80.9
+1987-12-01,Fruit & nuts,78.6
+1988-01-01,Fruit & nuts,78.6
+1988-02-01,Fruit & nuts,81.5
+1988-03-01,Fruit & nuts,81.6
+1988-04-01,Fruit & nuts,82.6
+1988-05-01,Fruit & nuts,85.4
+1988-06-01,Fruit & nuts,90.3
+1988-07-01,Fruit & nuts,91.0
+1988-08-01,Fruit & nuts,92.2
+1988-09-01,Fruit & nuts,91.4
+1988-10-01,Fruit & nuts,88.1
+1988-11-01,Fruit & nuts,84.6
+1988-12-01,Fruit & nuts,80.3
+1989-01-01,Fruit & nuts,79.4
+1989-02-01,Fruit & nuts,78.7
+1989-03-01,Fruit & nuts,80.9
+1989-04-01,Fruit & nuts,82.1
+1989-05-01,Fruit & nuts,83.6
+1989-06-01,Fruit & nuts,84.5
+1989-07-01,Fruit & nuts,86.3
+1989-08-01,Fruit & nuts,88.1
+1989-09-01,Fruit & nuts,85.3
+1989-10-01,Fruit & nuts,84.1
+1989-11-01,Fruit & nuts,81.3
+1989-12-01,Fruit & nuts,81.0
+1990-01-01,Fruit & nuts,81.4
+1990-02-01,Fruit & nuts,83.6
+1990-03-01,Fruit & nuts,87.3
+1990-04-01,Fruit & nuts,85.9
+1990-05-01,Fruit & nuts,88.1
+1990-06-01,Fruit & nuts,92.8
+1990-07-01,Fruit & nuts,96.4
+1990-08-01,Fruit & nuts,96.0
+1990-09-01,Fruit & nuts,90.5
+1990-10-01,Fruit & nuts,86.7
+1990-11-01,Fruit & nuts,85.9
+1990-12-01,Fruit & nuts,85.6
+1991-01-01,Fruit & nuts,92.7
+1991-02-01,Fruit & nuts,95.2
+1991-03-01,Fruit & nuts,99.2
+1991-04-01,Fruit & nuts,98.4
+1991-05-01,Fruit & nuts,100.3
+1991-06-01,Fruit & nuts,102.9
+1991-07-01,Fruit & nuts,105.4
+1991-08-01,Fruit & nuts,105.6
+1991-09-01,Fruit & nuts,100.8
+1991-10-01,Fruit & nuts,93.0
+1991-11-01,Fruit & nuts,89.9
+1991-12-01,Fruit & nuts,85.9
+1992-01-01,Fruit & nuts,87.4
+1992-02-01,Fruit & nuts,88.1
+1992-03-01,Fruit & nuts,90.0
+1992-04-01,Fruit & nuts,89.9
+1992-05-01,Fruit & nuts,91.9
+1992-06-01,Fruit & nuts,96.9
+1992-07-01,Fruit & nuts,96.5
+1992-08-01,Fruit & nuts,98.8
+1992-09-01,Fruit & nuts,95.2
+1992-10-01,Fruit & nuts,89.8
+1992-11-01,Fruit & nuts,86.4
+1992-12-01,Fruit & nuts,86.1
+1993-01-01,Fruit & nuts,87.4
+1993-02-01,Fruit & nuts,89.0
+1993-03-01,Fruit & nuts,85.9
+1993-04-01,Fruit & nuts,86.7
+1993-05-01,Fruit & nuts,87.4
+1993-06-01,Fruit & nuts,87.6
+1993-07-01,Fruit & nuts,89.3
+1993-08-01,Fruit & nuts,91.4
+1993-09-01,Fruit & nuts,91.9
+1993-10-01,Fruit & nuts,91.9
+1993-11-01,Fruit & nuts,90.6
+1993-12-01,Fruit & nuts,87.8
+1994-01-01,Fruit & nuts,86.9
+1994-02-01,Fruit & nuts,87.6
+1994-03-01,Fruit & nuts,86.4
+1994-04-01,Fruit & nuts,86.3
+1994-05-01,Fruit & nuts,88.1
+1994-06-01,Fruit & nuts,87.4
+1994-07-01,Fruit & nuts,91.0
+1994-08-01,Fruit & nuts,94.6
+1994-09-01,Fruit & nuts,90.9
+1994-10-01,Fruit & nuts,87.5
+1994-11-01,Fruit & nuts,85.5
+1994-12-01,Fruit & nuts,82.5
+1995-01-01,Fruit & nuts,86.7
+1995-02-01,Fruit & nuts,86.3
+1995-03-01,Fruit & nuts,84.9
+1995-04-01,Fruit & nuts,86.7
+1995-05-01,Fruit & nuts,87.8
+1995-06-01,Fruit & nuts,87.2
+1995-07-01,Fruit & nuts,90.9
+1995-08-01,Fruit & nuts,91.3
+1995-09-01,Fruit & nuts,87.7
+1995-10-01,Fruit & nuts,86.7
+1995-11-01,Fruit & nuts,86.8
+1995-12-01,Fruit & nuts,86.7
+1996-01-01,Fruit & nuts,87.5
+1996-02-01,Fruit & nuts,86.5
+1996-03-01,Fruit & nuts,88.7
+1996-04-01,Fruit & nuts,89.9
+1996-05-01,Fruit & nuts,89.6
+1996-06-01,Fruit & nuts,92.4
+1996-07-01,Fruit & nuts,91.0
+1996-08-01,Fruit & nuts,91.9
+1996-09-01,Fruit & nuts,89.9
+1996-10-01,Fruit & nuts,91.0
+1996-11-01,Fruit & nuts,89.9
+1996-12-01,Fruit & nuts,91.1
+1997-01-01,Fruit & nuts,90.6
+1997-02-01,Fruit & nuts,87.8
+1997-03-01,Fruit & nuts,87.6
+1997-04-01,Fruit & nuts,88.1
+1997-05-01,Fruit & nuts,91.8
+1997-06-01,Fruit & nuts,90.1
+1997-07-01,Fruit & nuts,90.8
+1997-08-01,Fruit & nuts,89.5
+1997-09-01,Fruit & nuts,88.0
+1997-10-01,Fruit & nuts,87.1
+1997-11-01,Fruit & nuts,87.4
+1997-12-01,Fruit & nuts,86.7
+1998-01-01,Fruit & nuts,88.7
+1998-02-01,Fruit & nuts,87.5
+1998-03-01,Fruit & nuts,87.2
+1998-04-01,Fruit & nuts,87.1
+1998-05-01,Fruit & nuts,92.1
+1998-06-01,Fruit & nuts,94.6
+1998-07-01,Fruit & nuts,93.2
+1998-08-01,Fruit & nuts,94.3
+1998-09-01,Fruit & nuts,91.3
+1998-10-01,Fruit & nuts,91.3
+1998-11-01,Fruit & nuts,93.0
+1998-12-01,Fruit & nuts,93.1
+1999-01-01,Fruit & nuts,97.7
+1999-02-01,Fruit & nuts,92.6
+1999-03-01,Fruit & nuts,91.7
+1999-04-01,Fruit & nuts,95.4
+1999-05-01,Fruit & nuts,97.7
+1999-06-01,Fruit & nuts,96.8
+1999-07-01,Fruit & nuts,95.5
+1999-08-01,Fruit & nuts,94.2
+1999-09-01,Fruit & nuts,91.0
+1999-10-01,Fruit & nuts,90.0
+1999-11-01,Fruit & nuts,91.4
+1999-12-01,Fruit & nuts,91.5
+2000-01-01,Fruit & nuts,89.7
+2000-02-01,Fruit & nuts,89.0
+2000-03-01,Fruit & nuts,87.8
+2000-04-01,Fruit & nuts,87.9
+2000-05-01,Fruit & nuts,90.2
+2000-06-01,Fruit & nuts,92.0
+2000-07-01,Fruit & nuts,93.4
+2000-08-01,Fruit & nuts,93.0
+2000-09-01,Fruit & nuts,90.4
+2000-10-01,Fruit & nuts,89.7
+2000-11-01,Fruit & nuts,91.3
+2000-12-01,Fruit & nuts,94.6
+2001-01-01,Fruit & nuts,93.6
+2001-02-01,Fruit & nuts,92.9
+2001-03-01,Fruit & nuts,92.9
+2001-04-01,Fruit & nuts,97.2
+2001-05-01,Fruit & nuts,100.0
+2001-06-01,Fruit & nuts,100.0
+2001-07-01,Fruit & nuts,99.8
+2001-08-01,Fruit & nuts,99.2
+2001-09-01,Fruit & nuts,96.1
+2001-10-01,Fruit & nuts,95.7
+2001-11-01,Fruit & nuts,97.0
+2001-12-01,Fruit & nuts,101.4
+2002-01-01,Fruit & nuts,101.4
+2002-02-01,Fruit & nuts,98.8
+2002-03-01,Fruit & nuts,97.6
+2002-04-01,Fruit & nuts,99.5
+2002-05-01,Fruit & nuts,100.7
+2002-06-01,Fruit & nuts,100.3
+2002-07-01,Fruit & nuts,101.4
+2002-08-01,Fruit & nuts,101.8
+2002-09-01,Fruit & nuts,99.8
+2002-10-01,Fruit & nuts,98.9
+2002-11-01,Fruit & nuts,98.9
+2002-12-01,Fruit & nuts,101.0
+2003-01-01,Fruit & nuts,99.1
+2003-02-01,Fruit & nuts,96.6
+2003-03-01,Fruit & nuts,96.1
+2003-04-01,Fruit & nuts,96.0
+2003-05-01,Fruit & nuts,98.9
+2003-06-01,Fruit & nuts,98.9
+2003-07-01,Fruit & nuts,101.1
+2003-08-01,Fruit & nuts,100.8
+2003-09-01,Fruit & nuts,98.2
+2003-10-01,Fruit & nuts,96.8
+2003-11-01,Fruit & nuts,97.4
+2003-12-01,Fruit & nuts,98.3
+2004-01-01,Fruit & nuts,96.6
+2004-02-01,Fruit & nuts,94.5
+2004-03-01,Fruit & nuts,94.4
+2004-04-01,Fruit & nuts,95.5
+2004-05-01,Fruit & nuts,100.2
+2004-06-01,Fruit & nuts,102.2
+2004-07-01,Fruit & nuts,102.1
+2004-08-01,Fruit & nuts,102.3
+2004-09-01,Fruit & nuts,99.8
+2004-10-01,Fruit & nuts,101.1
+2004-11-01,Fruit & nuts,101.3
+2004-12-01,Fruit & nuts,101.5
+2005-01-01,Fruit & nuts,99.7
+2005-02-01,Fruit & nuts,97.0
+2005-03-01,Fruit & nuts,94.8
+2005-04-01,Fruit & nuts,95.6
+2005-05-01,Fruit & nuts,99.3
+2005-06-01,Fruit & nuts,101.7
+2005-07-01,Fruit & nuts,102.4
+2005-08-01,Fruit & nuts,101.1
+2005-09-01,Fruit & nuts,96.5
+2005-10-01,Fruit & nuts,98.5
+2005-11-01,Fruit & nuts,98.2
+2005-12-01,Fruit & nuts,101.2
+2006-01-01,Fruit & nuts,100.4
+2006-02-01,Fruit & nuts,98.2
+2006-03-01,Fruit & nuts,96.9
+2006-04-01,Fruit & nuts,95.6
+2006-05-01,Fruit & nuts,99.2
+2006-06-01,Fruit & nuts,101.5
+2006-07-01,Fruit & nuts,106.1
+2006-08-01,Fruit & nuts,105.0
+2006-09-01,Fruit & nuts,102.1
+2006-10-01,Fruit & nuts,103.0
+2006-11-01,Fruit & nuts,103.6
+2006-12-01,Fruit & nuts,103.9
+2007-01-01,Fruit & nuts,106.2
+2007-02-01,Fruit & nuts,109.4
+2007-03-01,Fruit & nuts,106.0
+2007-04-01,Fruit & nuts,104.8
+2007-05-01,Fruit & nuts,107.6
+2007-06-01,Fruit & nuts,108.6
+2007-07-01,Fruit & nuts,107.9
+2007-08-01,Fruit & nuts,106.8
+2007-09-01,Fruit & nuts,103.1
+2007-10-01,Fruit & nuts,102.2
+2007-11-01,Fruit & nuts,103.0
+2007-12-01,Fruit & nuts,102.9
+2008-01-01,Fruit & nuts,105.0
+2008-02-01,Fruit & nuts,100.5
+2008-03-01,Fruit & nuts,99.8
+2008-04-01,Fruit & nuts,101.0
+2008-05-01,Fruit & nuts,105.4
+2008-06-01,Fruit & nuts,107.5
+2008-07-01,Fruit & nuts,109.1
+2008-08-01,Fruit & nuts,110.5
+2008-09-01,Fruit & nuts,110.3
+2008-10-01,Fruit & nuts,110.2
+2008-11-01,Fruit & nuts,114.3
+2008-12-01,Fruit & nuts,114.6
+2009-01-01,Fruit & nuts,115.6
+2009-02-01,Fruit & nuts,112.0
+2009-03-01,Fruit & nuts,111.7
+2009-04-01,Fruit & nuts,112.5
+2009-05-01,Fruit & nuts,115.5
+2009-06-01,Fruit & nuts,115.8
+2009-07-01,Fruit & nuts,116.9
+2009-08-01,Fruit & nuts,113.2
+2009-09-01,Fruit & nuts,109.4
+2009-10-01,Fruit & nuts,110.0
+2009-11-01,Fruit & nuts,112.5
+2009-12-01,Fruit & nuts,111.9
+2010-01-01,Fruit & nuts,112.3
+2010-02-01,Fruit & nuts,110.5
+2010-03-01,Fruit & nuts,112.2
+2010-04-01,Fruit & nuts,109.3
+2010-05-01,Fruit & nuts,111.4
+2010-06-01,Fruit & nuts,112.3
+2010-07-01,Fruit & nuts,113.9
+2010-08-01,Fruit & nuts,113.2
+2010-09-01,Fruit & nuts,111.1
+2010-10-01,Fruit & nuts,111.1
+2010-11-01,Fruit & nuts,112.6
+2010-12-01,Fruit & nuts,113.8
+2011-01-01,Fruit & nuts,114.8
+2011-02-01,Fruit & nuts,112.1
+2011-03-01,Fruit & nuts,110.7
+2011-04-01,Fruit & nuts,110.9
+2011-05-01,Fruit & nuts,115.0
+2011-06-01,Fruit & nuts,115.7
+2011-07-01,Fruit & nuts,120.4
+2011-08-01,Fruit & nuts,119.3
+2011-09-01,Fruit & nuts,116.5
+2011-10-01,Fruit & nuts,116.5
+2011-11-01,Fruit & nuts,118.3
+2011-12-01,Fruit & nuts,120.4
+2012-01-01,Fruit & nuts,119.1
+2012-02-01,Fruit & nuts,117.4
+2012-03-01,Fruit & nuts,114.7
+2012-04-01,Fruit & nuts,115.2
+2012-05-01,Fruit & nuts,121.0
+2012-06-01,Fruit & nuts,119.8
+2012-07-01,Fruit & nuts,122.6
+2012-08-01,Fruit & nuts,120.3
+2012-09-01,Fruit & nuts,117.4
+2012-10-01,Fruit & nuts,119.7
+2012-11-01,Fruit & nuts,123.1
+2012-12-01,Fruit & nuts,123.6
+2013-01-01,Fruit & nuts,122.8
+2013-02-01,Fruit & nuts,123.2
+2013-03-01,Fruit & nuts,121.4
+2013-04-01,Fruit & nuts,120.3
+2013-05-01,Fruit & nuts,122.6
+2013-06-01,Fruit & nuts,122.4
+2013-07-01,Fruit & nuts,123.2
+2013-08-01,Fruit & nuts,122.6
+2013-09-01,Fruit & nuts,120.2
+2013-10-01,Fruit & nuts,121.3
+2013-11-01,Fruit & nuts,123.6
+2013-12-01,Fruit & nuts,123.6
+2014-01-01,Fruit & nuts,123.1
+2014-02-01,Fruit & nuts,127.8
+2014-03-01,Fruit & nuts,126.3
+2014-04-01,Fruit & nuts,125.9
+2014-05-01,Fruit & nuts,128.3
+2014-06-01,Fruit & nuts,128.1
+2014-07-01,Fruit & nuts,128.4
+2014-08-01,Fruit & nuts,124.2
+2014-09-01,Fruit & nuts,123.1
+2014-10-01,Fruit & nuts,122.7
+2014-11-01,Fruit & nuts,125.8
+2014-12-01,Fruit & nuts,125.7
+2015-01-01,Fruit & nuts,131.2
+2015-02-01,Fruit & nuts,131.5
+2015-03-01,Fruit & nuts,129.8
+2015-04-01,Fruit & nuts,127.4
+2015-05-01,Fruit & nuts,132.7
+2015-06-01,Fruit & nuts,132.2
+2015-07-01,Fruit & nuts,133.6
+2015-08-01,Fruit & nuts,131.5
+2015-09-01,Fruit & nuts,131.6
+2015-10-01,Fruit & nuts,133.9
+2015-11-01,Fruit & nuts,135.2
+2015-12-01,Fruit & nuts,138.3
+2016-01-01,Fruit & nuts,144.9
+2016-02-01,Fruit & nuts,145.7
+2016-03-01,Fruit & nuts,141.7
+2016-04-01,Fruit & nuts,138.2
+2016-05-01,Fruit & nuts,137.6
+2016-06-01,Fruit & nuts,137.4
+2016-07-01,Fruit & nuts,135.9
+2016-08-01,Fruit & nuts,130.9
+2016-09-01,Fruit & nuts,129.7
+2016-10-01,Fruit & nuts,127.0
+2016-11-01,Fruit & nuts,130.8
+2016-12-01,Fruit & nuts,131.1
+2017-01-01,Fruit & nuts,133.6
+2017-02-01,Fruit & nuts,132.5
+2017-03-01,Fruit & nuts,129.9
+2017-04-01,Fruit & nuts,131.8
+2017-05-01,Fruit & nuts,136.5
+2017-06-01,Fruit & nuts,137.4
+2017-07-01,Fruit & nuts,139.6
+2017-08-01,Fruit & nuts,135.6
+2017-09-01,Fruit & nuts,132.0
+2017-10-01,Fruit & nuts,127.6
+2017-11-01,Fruit & nuts,130.2
+2017-12-01,Fruit & nuts,132.3
+2018-01-01,Fruit & nuts,136.2
+2018-02-01,Fruit & nuts,132.4
+2018-03-01,Fruit & nuts,130.3
+2018-04-01,Fruit & nuts,130.5
+2018-05-01,Fruit & nuts,133.1
+2018-06-01,Fruit & nuts,136.3
+2018-07-01,Fruit & nuts,138.7
+2018-08-01,Fruit & nuts,135.8
+2018-09-01,Fruit & nuts,131.6
+2018-10-01,Fruit & nuts,128.7
+2018-11-01,Fruit & nuts,131.8
+2018-12-01,Fruit & nuts,135.5
+2019-01-01,Fruit & nuts,136.1
+2019-02-01,Fruit & nuts,136.3
+2019-03-01,Fruit & nuts,137.8
+2019-04-01,Fruit & nuts,136.3
+2019-05-01,Fruit & nuts,136.1
+2019-06-01,Fruit & nuts,139.7
+2019-07-01,Fruit & nuts,136.3
+2019-08-01,Fruit & nuts,136.2
+2019-09-01,Fruit & nuts,133.8
+2019-10-01,Fruit & nuts,135.0
+2019-11-01,Fruit & nuts,137.9
+2019-12-01,Fruit & nuts,144.9
+2020-01-01,Fruit & nuts,142.5
+2020-02-01,Fruit & nuts,137.1
+2020-03-01,Fruit & nuts,133.4
+2020-04-01,Fruit & nuts,138.8
+2020-05-01,Fruit & nuts,138.3
+2020-06-01,Fruit & nuts,139.0
+2020-07-01,Fruit & nuts,141.7
+2020-08-01,Fruit & nuts,140.9
+2020-09-01,Fruit & nuts,138.1
+2020-10-01,Fruit & nuts,140.3
+2020-11-01,Fruit & nuts,139.6
+2020-12-01,Fruit & nuts,140.0
+2021-01-01,Fruit & nuts,140.9
+2021-02-01,Fruit & nuts,143.4
+2021-03-01,Fruit & nuts,142.4
+2021-04-01,Fruit & nuts,141.9
+2021-05-01,Fruit & nuts,143.9
+2021-06-01,Fruit & nuts,144.5
+2021-07-01,Fruit & nuts,141.7
+2021-08-01,Fruit & nuts,142.5
+2021-09-01,Fruit & nuts,141.5
+2021-10-01,Fruit & nuts,141.7
+2021-11-01,Fruit & nuts,144.2
+2021-12-01,Fruit & nuts,147.4
+2022-01-01,Fruit & nuts,150.7
+2022-02-01,Fruit & nuts,152.3
+2022-03-01,Fruit & nuts,154.1
+2022-04-01,Fruit & nuts,153.6
+2022-05-01,Fruit & nuts,157.4
+2022-06-01,Fruit & nuts,156.6
+2022-07-01,Fruit & nuts,156.5
+2022-08-01,Fruit & nuts,158.5
+2022-09-01,Fruit & nuts,157.7
+2022-10-01,Fruit & nuts,154.2
+2022-11-01,Fruit & nuts,158.4
+2022-12-01,Fruit & nuts,161.7
+2023-01-01,Fruit & nuts,165.3
+2023-02-01,Fruit & nuts,169.0
+2023-03-01,Fruit & nuts,166.4
+2023-04-01,Fruit & nuts,167.4
+2023-05-01,Fruit & nuts,168.6
+2023-06-01,Fruit & nuts,172.4
+2023-07-01,Fruit & nuts,166.6
+2023-08-01,Fruit & nuts,164.6
+2023-09-01,Fruit & nuts,165.9
+2023-10-01,Fruit & nuts,164.1
+2023-11-01,Fruit & nuts,167.1
+2023-12-01,Fruit & nuts,170.7
+2024-01-01,Fruit & nuts,172.3
+2024-02-01,Fruit & nuts,168.4
+2024-03-01,Fruit & nuts,165.7
+2024-04-01,Fruit & nuts,166.1
+2024-05-01,Fruit & nuts,168.8
+2024-06-01,Fruit & nuts,171.0
+2024-07-01,Fruit & nuts,168.8
+2024-08-01,Fruit & nuts,168.3
+2024-09-01,Fruit & nuts,168.9
+2024-10-01,Fruit & nuts,167.8
+2024-11-01,Fruit & nuts,167.3
+2024-12-01,Fruit & nuts,169.8
+2025-01-01,Fruit & nuts,174.8
+2025-02-01,Fruit & nuts,177.4
+2025-03-01,Fruit & nuts,175.7
+2025-04-01,Fruit & nuts,175.8
+2025-05-01,Fruit & nuts,177.1
+2025-06-01,Fruit & nuts,177.4
+2025-07-01,Fruit & nuts,178.3
+2025-08-01,Fruit & nuts,173.5
+2025-09-01,Fruit & nuts,173.1
+2025-10-01,Fruit & nuts,171.2
+2025-11-01,Fruit & nuts,175.7
+2025-12-01,Fruit & nuts,178.9
+2026-01-01,Fruit & nuts,176.4
+2026-02-01,Fruit & nuts,177.0
+2026-03-01,Fruit & nuts,175.6
+2026-04-01,Fruit & nuts,177.3
+2026-05-01,Fruit & nuts,185.6
+2026-06-01,Fruit & nuts,180.6
+1978-09-01,Meat,42.5
+1978-10-01,Meat,43.5
+1978-11-01,Meat,43.4
+1978-12-01,Meat,43.8
+1979-01-01,Meat,44.5
+1979-02-01,Meat,46.8
+1979-03-01,Meat,49.2
+1979-04-01,Meat,49.6
+1979-05-01,Meat,49.3
+1979-06-01,Meat,48.0
+1979-07-01,Meat,48.4
+1979-08-01,Meat,47.8
+1979-09-01,Meat,49.0
+1979-10-01,Meat,49.2
+1979-11-01,Meat,48.6
+1979-12-01,Meat,49.5
+1980-01-01,Meat,49.8
+1980-02-01,Meat,50.5
+1980-03-01,Meat,50.2
+1980-04-01,Meat,49.1
+1980-05-01,Meat,48.3
+1980-06-01,Meat,49.3
+1980-07-01,Meat,49.0
+1980-08-01,Meat,50.6
+1980-09-01,Meat,53.6
+1980-10-01,Meat,54.2
+1980-11-01,Meat,55.1
+1980-12-01,Meat,55.3
+1981-01-01,Meat,56.0
+1981-02-01,Meat,55.5
+1981-03-01,Meat,54.9
+1981-04-01,Meat,54.2
+1981-05-01,Meat,54.2
+1981-06-01,Meat,54.6
+1981-07-01,Meat,56.2
+1981-08-01,Meat,56.8
+1981-09-01,Meat,56.8
+1981-10-01,Meat,56.8
+1981-11-01,Meat,56.5
+1981-12-01,Meat,54.9
+1982-01-01,Meat,54.6
+1982-02-01,Meat,55.1
+1982-03-01,Meat,55.3
+1982-04-01,Meat,55.6
+1982-05-01,Meat,58.7
+1982-06-01,Meat,61.2
+1982-07-01,Meat,60.9
+1982-08-01,Meat,60.2
+1982-09-01,Meat,59.8
+1982-10-01,Meat,59.4
+1982-11-01,Meat,59.2
+1982-12-01,Meat,58.3
+1983-01-01,Meat,57.9
+1983-02-01,Meat,58.8
+1983-03-01,Meat,57.7
+1983-04-01,Meat,58.6
+1983-05-01,Meat,59.7
+1983-06-01,Meat,59.5
+1983-07-01,Meat,59.2
+1983-08-01,Meat,59.0
+1983-09-01,Meat,58.9
+1983-10-01,Meat,59.8
+1983-11-01,Meat,59.0
+1983-12-01,Meat,59.4
+1984-01-01,Meat,60.0
+1984-02-01,Meat,60.9
+1984-03-01,Meat,60.8
+1984-04-01,Meat,61.4
+1984-05-01,Meat,61.2
+1984-06-01,Meat,61.8
+1984-07-01,Meat,62.7
+1984-08-01,Meat,62.0
+1984-09-01,Meat,62.6
+1984-10-01,Meat,62.7
+1984-11-01,Meat,62.3
+1984-12-01,Meat,63.6
+1985-01-01,Meat,63.4
+1985-02-01,Meat,63.7
+1985-03-01,Meat,63.4
+1985-04-01,Meat,63.7
+1985-05-01,Meat,62.7
+1985-06-01,Meat,63.1
+1985-07-01,Meat,63.9
+1985-08-01,Meat,63.4
+1985-09-01,Meat,62.6
+1985-10-01,Meat,62.1
+1985-11-01,Meat,63.6
+1985-12-01,Meat,64.1
+1986-01-01,Meat,65.1
+1986-02-01,Meat,64.2
+1986-03-01,Meat,64.2
+1986-04-01,Meat,63.6
+1986-05-01,Meat,64.0
+1986-06-01,Meat,64.9
+1986-07-01,Meat,66.5
+1986-08-01,Meat,67.8
+1986-09-01,Meat,71.3
+1986-10-01,Meat,71.5
+1986-11-01,Meat,72.1
+1986-12-01,Meat,72.9
+1987-01-01,Meat,72.8
+1987-02-01,Meat,71.0
+1987-03-01,Meat,70.5
+1987-04-01,Meat,71.2
+1987-05-01,Meat,72.0
+1987-06-01,Meat,73.0
+1987-07-01,Meat,73.4
+1987-08-01,Meat,74.6
+1987-09-01,Meat,73.8
+1987-10-01,Meat,74.3
+1987-11-01,Meat,73.8
+1987-12-01,Meat,72.3
+1988-01-01,Meat,72.9
+1988-02-01,Meat,72.0
+1988-03-01,Meat,72.3
+1988-04-01,Meat,72.2
+1988-05-01,Meat,72.0
+1988-06-01,Meat,72.9
+1988-07-01,Meat,73.6
+1988-08-01,Meat,73.8
+1988-09-01,Meat,73.8
+1988-10-01,Meat,73.6
+1988-11-01,Meat,72.9
+1988-12-01,Meat,72.9
+1989-01-01,Meat,73.5
+1989-02-01,Meat,73.6
+1989-03-01,Meat,74.0
+1989-04-01,Meat,74.4
+1989-05-01,Meat,73.8
+1989-06-01,Meat,74.5
+1989-07-01,Meat,75.7
+1989-08-01,Meat,75.6
+1989-09-01,Meat,76.5
+1989-10-01,Meat,76.8
+1989-11-01,Meat,75.9
+1989-12-01,Meat,76.6
+1990-01-01,Meat,77.8
+1990-02-01,Meat,76.4
+1990-03-01,Meat,77.1
+1990-04-01,Meat,77.9
+1990-05-01,Meat,78.4
+1990-06-01,Meat,80.8
+1990-07-01,Meat,81.1
+1990-08-01,Meat,80.4
+1990-09-01,Meat,81.5
+1990-10-01,Meat,81.9
+1990-11-01,Meat,81.3
+1990-12-01,Meat,81.9
+1991-01-01,Meat,82.1
+1991-02-01,Meat,81.4
+1991-03-01,Meat,80.9
+1991-04-01,Meat,80.0
+1991-05-01,Meat,79.4
+1991-06-01,Meat,80.5
+1991-07-01,Meat,80.5
+1991-08-01,Meat,80.3
+1991-09-01,Meat,79.9
+1991-10-01,Meat,79.0
+1991-11-01,Meat,79.3
+1991-12-01,Meat,78.6
+1992-01-01,Meat,78.6
+1992-02-01,Meat,78.2
+1992-03-01,Meat,77.9
+1992-04-01,Meat,78.1
+1992-05-01,Meat,78.5
+1992-06-01,Meat,79.1
+1992-07-01,Meat,78.2
+1992-08-01,Meat,78.6
+1992-09-01,Meat,78.8
+1992-10-01,Meat,79.0
+1992-11-01,Meat,79.6
+1992-12-01,Meat,80.1
+1993-01-01,Meat,80.8
+1993-02-01,Meat,81.6
+1993-03-01,Meat,80.6
+1993-04-01,Meat,80.5
+1993-05-01,Meat,81.5
+1993-06-01,Meat,81.9
+1993-07-01,Meat,82.6
+1993-08-01,Meat,82.0
+1993-09-01,Meat,82.2
+1993-10-01,Meat,81.8
+1993-11-01,Meat,82.0
+1993-12-01,Meat,83.1
+1994-01-01,Meat,82.5
+1994-02-01,Meat,82.9
+1994-03-01,Meat,82.3
+1994-04-01,Meat,81.8
+1994-05-01,Meat,82.1
+1994-06-01,Meat,82.2
+1994-07-01,Meat,81.9
+1994-08-01,Meat,81.9
+1994-09-01,Meat,82.2
+1994-10-01,Meat,82.2
+1994-11-01,Meat,80.8
+1994-12-01,Meat,80.5
+1995-01-01,Meat,80.9
+1995-02-01,Meat,81.8
+1995-03-01,Meat,82.2
+1995-04-01,Meat,82.6
+1995-05-01,Meat,81.6
+1995-06-01,Meat,81.8
+1995-07-01,Meat,82.7
+1995-08-01,Meat,83.1
+1995-09-01,Meat,83.4
+1995-10-01,Meat,83.3
+1995-11-01,Meat,82.7
+1995-12-01,Meat,82.5
+1996-01-01,Meat,82.7
+1996-02-01,Meat,83.3
+1996-03-01,Meat,83.3
+1996-04-01,Meat,83.8
+1996-05-01,Meat,83.8
+1996-06-01,Meat,85.0
+1996-07-01,Meat,84.7
+1996-08-01,Meat,85.5
+1996-09-01,Meat,86.9
+1996-10-01,Meat,86.8
+1996-11-01,Meat,86.9
+1996-12-01,Meat,86.4
+1997-01-01,Meat,86.8
+1997-02-01,Meat,86.8
+1997-03-01,Meat,86.4
+1997-04-01,Meat,86.4
+1997-05-01,Meat,87.1
+1997-06-01,Meat,88.2
+1997-07-01,Meat,88.3
+1997-08-01,Meat,88.7
+1997-09-01,Meat,88.4
+1997-10-01,Meat,87.7
+1997-11-01,Meat,87.8
+1997-12-01,Meat,87.6
+1998-01-01,Meat,87.0
+1998-02-01,Meat,86.4
+1998-03-01,Meat,85.8
+1998-04-01,Meat,84.7
+1998-05-01,Meat,84.5
+1998-06-01,Meat,86.0
+1998-07-01,Meat,86.6
+1998-08-01,Meat,87.4
+1998-09-01,Meat,86.9
+1998-10-01,Meat,85.5
+1998-11-01,Meat,87.0
+1998-12-01,Meat,85.9
+1999-01-01,Meat,85.6
+1999-02-01,Meat,85.7
+1999-03-01,Meat,85.9
+1999-04-01,Meat,85.1
+1999-05-01,Meat,86.3
+1999-06-01,Meat,86.5
+1999-07-01,Meat,87.4
+1999-08-01,Meat,87.4
+1999-09-01,Meat,87.7
+1999-10-01,Meat,86.8
+1999-11-01,Meat,87.8
+1999-12-01,Meat,88.1
+2000-01-01,Meat,87.7
+2000-02-01,Meat,87.9
+2000-03-01,Meat,88.9
+2000-04-01,Meat,89.5
+2000-05-01,Meat,90.2
+2000-06-01,Meat,90.9
+2000-07-01,Meat,92.3
+2000-08-01,Meat,92.6
+2000-09-01,Meat,92.4
+2000-10-01,Meat,91.9
+2000-11-01,Meat,92.3
+2000-12-01,Meat,92.6
+2001-01-01,Meat,94.3
+2001-02-01,Meat,95.4
+2001-03-01,Meat,97.3
+2001-04-01,Meat,98.1
+2001-05-01,Meat,99.5
+2001-06-01,Meat,99.9
+2001-07-01,Meat,100.0
+2001-08-01,Meat,99.8
+2001-09-01,Meat,100.3
+2001-10-01,Meat,99.4
+2001-11-01,Meat,99.4
+2001-12-01,Meat,99.3
+2002-01-01,Meat,99.7
+2002-02-01,Meat,100.3
+2002-03-01,Meat,99.6
+2002-04-01,Meat,100.6
+2002-05-01,Meat,100.6
+2002-06-01,Meat,100.5
+2002-07-01,Meat,100.1
+2002-08-01,Meat,100.4
+2002-09-01,Meat,100.0
+2002-10-01,Meat,99.1
+2002-11-01,Meat,99.6
+2002-12-01,Meat,99.4
+2003-01-01,Meat,101.1
+2003-02-01,Meat,102.6
+2003-03-01,Meat,103.2
+2003-04-01,Meat,103.3
+2003-05-01,Meat,103.3
+2003-06-01,Meat,103.1
+2003-07-01,Meat,102.1
+2003-08-01,Meat,99.5
+2003-09-01,Meat,98.7
+2003-10-01,Meat,99.9
+2003-11-01,Meat,102.6
+2003-12-01,Meat,101.9
+2004-01-01,Meat,101.5
+2004-02-01,Meat,102.5
+2004-03-01,Meat,103.2
+2004-04-01,Meat,102.6
+2004-05-01,Meat,104.3
+2004-06-01,Meat,108.5
+2004-07-01,Meat,109.1
+2004-08-01,Meat,109.9
+2004-09-01,Meat,109.3
+2004-10-01,Meat,108.2
+2004-11-01,Meat,107.5
+2004-12-01,Meat,107.6
+2005-01-01,Meat,108.2
+2005-02-01,Meat,108.6
+2005-03-01,Meat,109.2
+2005-04-01,Meat,108.6
+2005-05-01,Meat,108.1
+2005-06-01,Meat,108.9
+2005-07-01,Meat,108.0
+2005-08-01,Meat,108.3
+2005-09-01,Meat,108.0
+2005-10-01,Meat,107.8
+2005-11-01,Meat,107.8
+2005-12-01,Meat,107.4
+2006-01-01,Meat,107.1
+2006-02-01,Meat,107.5
+2006-03-01,Meat,107.6
+2006-04-01,Meat,106.5
+2006-05-01,Meat,106.8
+2006-06-01,Meat,107.5
+2006-07-01,Meat,107.1
+2006-08-01,Meat,108.2
+2006-09-01,Meat,109.4
+2006-10-01,Meat,108.8
+2006-11-01,Meat,109.6
+2006-12-01,Meat,109.1
+2007-01-01,Meat,109.4
+2007-02-01,Meat,110.6
+2007-03-01,Meat,110.9
+2007-04-01,Meat,111.2
+2007-05-01,Meat,111.7
+2007-06-01,Meat,112.4
+2007-07-01,Meat,112.3
+2007-08-01,Meat,112.0
+2007-09-01,Meat,111.8
+2007-10-01,Meat,110.6
+2007-11-01,Meat,110.8
+2007-12-01,Meat,110.0
+2008-01-01,Meat,111.1
+2008-02-01,Meat,111.1
+2008-03-01,Meat,110.9
+2008-04-01,Meat,110.8
+2008-05-01,Meat,111.7
+2008-06-01,Meat,112.8
+2008-07-01,Meat,113.3
+2008-08-01,Meat,115.0
+2008-09-01,Meat,115.6
+2008-10-01,Meat,114.6
+2008-11-01,Meat,117.4
+2008-12-01,Meat,116.1
+2009-01-01,Meat,117.1
+2009-02-01,Meat,117.9
+2009-03-01,Meat,119.3
+2009-04-01,Meat,118.6
+2009-05-01,Meat,119.0
+2009-06-01,Meat,119.9
+2009-07-01,Meat,119.7
+2009-08-01,Meat,119.1
+2009-09-01,Meat,118.6
+2009-10-01,Meat,117.0
+2009-11-01,Meat,118.1
+2009-12-01,Meat,116.9
+2010-01-01,Meat,116.8
+2010-02-01,Meat,117.7
+2010-03-01,Meat,117.4
+2010-04-01,Meat,117.7
+2010-05-01,Meat,118.7
+2010-06-01,Meat,119.0
+2010-07-01,Meat,120.0
+2010-08-01,Meat,119.8
+2010-09-01,Meat,120.5
+2010-10-01,Meat,120.0
+2010-11-01,Meat,120.2
+2010-12-01,Meat,121.4
+2011-01-01,Meat,121.5
+2011-02-01,Meat,121.7
+2011-03-01,Meat,123.3
+2011-04-01,Meat,124.2
+2011-05-01,Meat,125.1
+2011-06-01,Meat,126.0
+2011-07-01,Meat,126.6
+2011-08-01,Meat,126.6
+2011-09-01,Meat,127.8
+2011-10-01,Meat,126.2
+2011-11-01,Meat,127.7
+2011-12-01,Meat,127.8
+2012-01-01,Meat,129.4
+2012-02-01,Meat,130.4
+2012-03-01,Meat,130.4
+2012-04-01,Meat,130.3
+2012-05-01,Meat,132.7
+2012-06-01,Meat,131.8
+2012-07-01,Meat,133.3
+2012-08-01,Meat,133.8
+2012-09-01,Meat,132.6
+2012-10-01,Meat,132.6
+2012-11-01,Meat,133.2
+2012-12-01,Meat,133.4
+2013-01-01,Meat,133.2
+2013-02-01,Meat,134.5
+2013-03-01,Meat,134.2
+2013-04-01,Meat,134.5
+2013-05-01,Meat,134.5
+2013-06-01,Meat,134.7
+2013-07-01,Meat,135.2
+2013-08-01,Meat,135.9
+2013-09-01,Meat,135.2
+2013-10-01,Meat,134.8
+2013-11-01,Meat,135.7
+2013-12-01,Meat,135.0
+2014-01-01,Meat,135.1
+2014-02-01,Meat,137.3
+2014-03-01,Meat,138.7
+2014-04-01,Meat,140.5
+2014-05-01,Meat,145.2
+2014-06-01,Meat,147.4
+2014-07-01,Meat,147.7
+2014-08-01,Meat,148.5
+2014-09-01,Meat,150.7
+2014-10-01,Meat,151.5
+2014-11-01,Meat,152.2
+2014-12-01,Meat,152.7
+2015-01-01,Meat,153.8
+2015-02-01,Meat,154.3
+2015-03-01,Meat,155.1
+2015-04-01,Meat,156.3
+2015-05-01,Meat,156.7
+2015-06-01,Meat,157.2
+2015-07-01,Meat,156.7
+2015-08-01,Meat,157.8
+2015-09-01,Meat,157.3
+2015-10-01,Meat,159.0
+2015-11-01,Meat,158.1
+2015-12-01,Meat,156.4
+2016-01-01,Meat,156.9
+2016-02-01,Meat,156.8
+2016-03-01,Meat,160.0
+2016-04-01,Meat,158.7
+2016-05-01,Meat,159.1
+2016-06-01,Meat,156.7
+2016-07-01,Meat,158.4
+2016-08-01,Meat,157.5
+2016-09-01,Meat,156.7
+2016-10-01,Meat,156.3
+2016-11-01,Meat,155.0
+2016-12-01,Meat,154.8
+2017-01-01,Meat,154.3
+2017-02-01,Meat,154.2
+2017-03-01,Meat,155.2
+2017-04-01,Meat,155.4
+2017-05-01,Meat,155.9
+2017-06-01,Meat,156.5
+2017-07-01,Meat,158.4
+2017-08-01,Meat,159.3
+2017-09-01,Meat,158.5
+2017-10-01,Meat,156.5
+2017-11-01,Meat,158.0
+2017-12-01,Meat,157.3
+2018-01-01,Meat,156.2
+2018-02-01,Meat,156.7
+2018-03-01,Meat,156.0
+2018-04-01,Meat,158.2
+2018-05-01,Meat,156.3
+2018-06-01,Meat,157.6
+2018-07-01,Meat,158.7
+2018-08-01,Meat,159.7
+2018-09-01,Meat,159.4
+2018-10-01,Meat,157.6
+2018-11-01,Meat,158.8
+2018-12-01,Meat,158.3
+2019-01-01,Meat,159.8
+2019-02-01,Meat,159.4
+2019-03-01,Meat,158.9
+2019-04-01,Meat,159.3
+2019-05-01,Meat,160.9
+2019-06-01,Meat,163.8
+2019-07-01,Meat,167.4
+2019-08-01,Meat,167.3
+2019-09-01,Meat,168.2
+2019-10-01,Meat,167.3
+2019-11-01,Meat,167.1
+2019-12-01,Meat,165.9
+2020-01-01,Meat,169.9
+2020-02-01,Meat,168.3
+2020-03-01,Meat,170.4
+2020-04-01,Meat,170.0
+2020-05-01,Meat,173.5
+2020-06-01,Meat,177.0
+2020-07-01,Meat,175.5
+2020-08-01,Meat,170.4
+2020-09-01,Meat,168.8
+2020-10-01,Meat,170.2
+2020-11-01,Meat,170.9
+2020-12-01,Meat,170.0
+2021-01-01,Meat,171.9
+2021-02-01,Meat,169.5
+2021-03-01,Meat,170.2
+2021-04-01,Meat,173.5
+2021-05-01,Meat,175.4
+2021-06-01,Meat,176.7
+2021-07-01,Meat,180.9
+2021-08-01,Meat,182.1
+2021-09-01,Meat,184.8
+2021-10-01,Meat,187.1
+2021-11-01,Meat,186.3
+2021-12-01,Meat,185.3
+2022-01-01,Meat,189.3
+2022-02-01,Meat,189.3
+2022-03-01,Meat,188.0
+2022-04-01,Meat,191.1
+2022-05-01,Meat,191.2
+2022-06-01,Meat,190.8
+2022-07-01,Meat,192.0
+2022-08-01,Meat,193.9
+2022-09-01,Meat,198.8
+2022-10-01,Meat,197.4
+2022-11-01,Meat,197.9
+2022-12-01,Meat,196.5
+2023-01-01,Meat,203.1
+2023-02-01,Meat,201.0
+2023-03-01,Meat,200.4
+2023-04-01,Meat,203.9
+2023-05-01,Meat,203.2
+2023-06-01,Meat,204.0
+2023-07-01,Meat,206.7
+2023-08-01,Meat,206.6
+2023-09-01,Meat,207.5
+2023-10-01,Meat,206.2
+2023-11-01,Meat,207.7
+2023-12-01,Meat,207.4
+2024-01-01,Meat,208.8
+2024-02-01,Meat,206.2
+2024-03-01,Meat,207.2
+2024-04-01,Meat,207.6
+2024-05-01,Meat,210.2
+2024-06-01,Meat,211.3
+2024-07-01,Meat,212.8
+2024-08-01,Meat,212.5
+2024-09-01,Meat,214.0
+2024-10-01,Meat,213.2
+2024-11-01,Meat,214.6
+2024-12-01,Meat,213.9
+2025-01-01,Meat,214.0
+2025-02-01,Meat,213.3
+2025-03-01,Meat,216.3
+2025-04-01,Meat,219.2
+2025-05-01,Meat,221.2
+2025-06-01,Meat,221.5
+2025-07-01,Meat,222.8
+2025-08-01,Meat,227.8
+2025-09-01,Meat,228.2
+2025-10-01,Meat,231.2
+2025-11-01,Meat,232.4
+2025-12-01,Meat,232.0
+2026-01-01,Meat,234.1
+2026-02-01,Meat,230.7
+2026-03-01,Meat,232.7
+2026-04-01,Meat,235.4
+2026-05-01,Meat,234.4
+2026-06-01,Meat,236.0
+1985-01-01,Other foods & beverages,74.2
+1985-02-01,Other foods & beverages,74.5
+1985-03-01,Other foods & beverages,74.4
+1985-04-01,Other foods & beverages,74.6
+1985-05-01,Other foods & beverages,74.7
+1985-06-01,Other foods & beverages,74.8
+1985-07-01,Other foods & beverages,76.0
+1985-08-01,Other foods & beverages,76.1
+1985-09-01,Other foods & beverages,76.3
+1985-10-01,Other foods & beverages,76.3
+1985-11-01,Other foods & beverages,75.5
+1985-12-01,Other foods & beverages,74.9
+1986-01-01,Other foods & beverages,77.5
+1986-02-01,Other foods & beverages,78.1
+1986-03-01,Other foods & beverages,78.6
+1986-04-01,Other foods & beverages,79.5
+1986-05-01,Other foods & beverages,79.8
+1986-06-01,Other foods & beverages,79.9
+1986-07-01,Other foods & beverages,80.2
+1986-08-01,Other foods & beverages,80.2
+1986-09-01,Other foods & beverages,80.8
+1986-10-01,Other foods & beverages,81.0
+1986-11-01,Other foods & beverages,79.9
+1986-12-01,Other foods & beverages,78.8
+1987-01-01,Other foods & beverages,81.0
+1987-02-01,Other foods & beverages,81.1
+1987-03-01,Other foods & beverages,81.9
+1987-04-01,Other foods & beverages,81.3
+1987-05-01,Other foods & beverages,79.8
+1987-06-01,Other foods & beverages,79.3
+1987-07-01,Other foods & beverages,79.8
+1987-08-01,Other foods & beverages,80.3
+1987-09-01,Other foods & beverages,80.2
+1987-10-01,Other foods & beverages,79.9
+1987-11-01,Other foods & beverages,79.7
+1987-12-01,Other foods & beverages,78.3
+1988-01-01,Other foods & beverages,81.1
+1988-02-01,Other foods & beverages,81.4
+1988-03-01,Other foods & beverages,81.3
+1988-04-01,Other foods & beverages,81.5
+1988-05-01,Other foods & beverages,80.5
+1988-06-01,Other foods & beverages,80.9
+1988-07-01,Other foods & beverages,81.3
+1988-08-01,Other foods & beverages,82.4
+1988-09-01,Other foods & beverages,82.3
+1988-10-01,Other foods & beverages,82.8
+1988-11-01,Other foods & beverages,82.7
+1988-12-01,Other foods & beverages,81.0
+1989-01-01,Other foods & beverages,83.4
+1989-02-01,Other foods & beverages,84.0
+1989-03-01,Other foods & beverages,85.0
+1989-04-01,Other foods & beverages,84.5
+1989-05-01,Other foods & beverages,84.2
+1989-06-01,Other foods & beverages,84.2
+1989-07-01,Other foods & beverages,85.1
+1989-08-01,Other foods & beverages,85.5
+1989-09-01,Other foods & beverages,86.2
+1989-10-01,Other foods & beverages,85.3
+1989-11-01,Other foods & beverages,84.8
+1989-12-01,Other foods & beverages,83.6
+1990-01-01,Other foods & beverages,86.0
+1990-02-01,Other foods & beverages,86.9
+1990-03-01,Other foods & beverages,86.9
+1990-04-01,Other foods & beverages,87.6
+1990-05-01,Other foods & beverages,87.0
+1990-06-01,Other foods & beverages,86.9
+1990-07-01,Other foods & beverages,87.7
+1990-08-01,Other foods & beverages,87.1
+1990-09-01,Other foods & beverages,87.8
+1990-10-01,Other foods & beverages,87.8
+1990-11-01,Other foods & beverages,87.1
+1990-12-01,Other foods & beverages,84.3
+1991-01-01,Other foods & beverages,89.4
+1991-02-01,Other foods & beverages,89.2
+1991-03-01,Other foods & beverages,89.5
+1991-04-01,Other foods & beverages,89.4
+1991-05-01,Other foods & beverages,88.7
+1991-06-01,Other foods & beverages,88.7
+1991-07-01,Other foods & beverages,88.3
+1991-08-01,Other foods & beverages,88.6
+1991-09-01,Other foods & beverages,87.7
+1991-10-01,Other foods & beverages,87.5
+1991-11-01,Other foods & beverages,85.9
+1991-12-01,Other foods & beverages,84.2
+1992-01-01,Other foods & beverages,86.2
+1992-02-01,Other foods & beverages,84.8
+1992-03-01,Other foods & beverages,84.7
+1992-04-01,Other foods & beverages,85.2
+1992-05-01,Other foods & beverages,85.0
+1992-06-01,Other foods & beverages,85.5
+1992-07-01,Other foods & beverages,85.9
+1992-08-01,Other foods & beverages,85.6
+1992-09-01,Other foods & beverages,85.5
+1992-10-01,Other foods & beverages,85.5
+1992-11-01,Other foods & beverages,85.6
+1992-12-01,Other foods & beverages,85.9
+1993-01-01,Other foods & beverages,86.3
+1993-02-01,Other foods & beverages,87.1
+1993-03-01,Other foods & beverages,86.3
+1993-04-01,Other foods & beverages,86.2
+1993-05-01,Other foods & beverages,86.3
+1993-06-01,Other foods & beverages,87.0
+1993-07-01,Other foods & beverages,87.1
+1993-08-01,Other foods & beverages,87.7
+1993-09-01,Other foods & beverages,87.3
+1993-10-01,Other foods & beverages,87.1
+1993-11-01,Other foods & beverages,86.8
+1993-12-01,Other foods & beverages,86.7
+1994-01-01,Other foods & beverages,87.2
+1994-02-01,Other foods & beverages,87.6
+1994-03-01,Other foods & beverages,87.2
+1994-04-01,Other foods & beverages,87.7
+1994-05-01,Other foods & beverages,86.7
+1994-06-01,Other foods & beverages,86.3
+1994-07-01,Other foods & beverages,87.1
+1994-08-01,Other foods & beverages,88.2
+1994-09-01,Other foods & beverages,89.3
+1994-10-01,Other foods & beverages,90.7
+1994-11-01,Other foods & beverages,91.2
+1994-12-01,Other foods & beverages,91.8
+1995-01-01,Other foods & beverages,94.4
+1995-02-01,Other foods & beverages,95.5
+1995-03-01,Other foods & beverages,94.9
+1995-04-01,Other foods & beverages,94.5
+1995-05-01,Other foods & beverages,94.7
+1995-06-01,Other foods & beverages,94.2
+1995-07-01,Other foods & beverages,94.3
+1995-08-01,Other foods & beverages,94.8
+1995-09-01,Other foods & beverages,94.9
+1995-10-01,Other foods & beverages,94.9
+1995-11-01,Other foods & beverages,94.6
+1995-12-01,Other foods & beverages,94.2
+1996-01-01,Other foods & beverages,95.5
+1996-02-01,Other foods & beverages,95.8
+1996-03-01,Other foods & beverages,95.3
+1996-04-01,Other foods & beverages,95.3
+1996-05-01,Other foods & beverages,95.6
+1996-06-01,Other foods & beverages,95.1
+1996-07-01,Other foods & beverages,95.2
+1996-08-01,Other foods & beverages,94.8
+1996-09-01,Other foods & beverages,94.9
+1996-10-01,Other foods & beverages,94.9
+1996-11-01,Other foods & beverages,95.5
+1996-12-01,Other foods & beverages,94.1
+1997-01-01,Other foods & beverages,95.0
+1997-02-01,Other foods & beverages,95.4
+1997-03-01,Other foods & beverages,95.2
+1997-04-01,Other foods & beverages,94.7
+1997-05-01,Other foods & beverages,94.8
+1997-06-01,Other foods & beverages,94.3
+1997-07-01,Other foods & beverages,94.6
+1997-08-01,Other foods & beverages,94.6
+1997-09-01,Other foods & beverages,93.6
+1997-10-01,Other foods & beverages,94.8
+1997-11-01,Other foods & beverages,94.4
+1997-12-01,Other foods & beverages,94.1
+1998-01-01,Other foods & beverages,95.8
+1998-02-01,Other foods & beverages,96.1
+1998-03-01,Other foods & beverages,95.8
+1998-04-01,Other foods & beverages,95.9
+1998-05-01,Other foods & beverages,95.9
+1998-06-01,Other foods & beverages,96.1
+1998-07-01,Other foods & beverages,95.8
+1998-08-01,Other foods & beverages,95.9
+1998-09-01,Other foods & beverages,95.7
+1998-10-01,Other foods & beverages,95.4
+1998-11-01,Other foods & beverages,95.8
+1998-12-01,Other foods & beverages,95.5
+1999-01-01,Other foods & beverages,96.9
+1999-02-01,Other foods & beverages,97.0
+1999-03-01,Other foods & beverages,97.1
+1999-04-01,Other foods & beverages,97.0
+1999-05-01,Other foods & beverages,96.4
+1999-06-01,Other foods & beverages,97.4
+1999-07-01,Other foods & beverages,96.9
+1999-08-01,Other foods & beverages,97.0
+1999-09-01,Other foods & beverages,97.4
+1999-10-01,Other foods & beverages,97.2
+1999-11-01,Other foods & beverages,96.9
+1999-12-01,Other foods & beverages,96.2
+2000-01-01,Other foods & beverages,97.1
+2000-02-01,Other foods & beverages,97.6
+2000-03-01,Other foods & beverages,97.8
+2000-04-01,Other foods & beverages,97.4
+2000-05-01,Other foods & beverages,97.2
+2000-06-01,Other foods & beverages,97.8
+2000-07-01,Other foods & beverages,97.0
+2000-08-01,Other foods & beverages,97.1
+2000-09-01,Other foods & beverages,97.3
+2000-10-01,Other foods & beverages,96.8
+2000-11-01,Other foods & beverages,97.3
+2000-12-01,Other foods & beverages,96.7
+2001-01-01,Other foods & beverages,98.5
+2001-02-01,Other foods & beverages,98.7
+2001-03-01,Other foods & beverages,98.9
+2001-04-01,Other foods & beverages,99.2
+2001-05-01,Other foods & beverages,99.2
+2001-06-01,Other foods & beverages,98.9
+2001-07-01,Other foods & beverages,99.4
+2001-08-01,Other foods & beverages,99.2
+2001-09-01,Other foods & beverages,99.3
+2001-10-01,Other foods & beverages,99.4
+2001-11-01,Other foods & beverages,99.0
+2001-12-01,Other foods & beverages,98.8
+2002-01-01,Other foods & beverages,99.9
+2002-02-01,Other foods & beverages,100.6
+2002-03-01,Other foods & beverages,99.6
+2002-04-01,Other foods & beverages,100.2
+2002-05-01,Other foods & beverages,99.7
+2002-06-01,Other foods & beverages,99.9
+2002-07-01,Other foods & beverages,99.7
+2002-08-01,Other foods & beverages,100.0
+2002-09-01,Other foods & beverages,100.1
+2002-10-01,Other foods & beverages,99.5
+2002-11-01,Other foods & beverages,100.4
+2002-12-01,Other foods & beverages,100.4
+2003-01-01,Other foods & beverages,102.4
+2003-02-01,Other foods & beverages,102.3
+2003-03-01,Other foods & beverages,102.2
+2003-04-01,Other foods & beverages,102.3
+2003-05-01,Other foods & beverages,102.9
+2003-06-01,Other foods & beverages,103.8
+2003-07-01,Other foods & beverages,103.8
+2003-08-01,Other foods & beverages,104.1
+2003-09-01,Other foods & beverages,105.1
+2003-10-01,Other foods & beverages,103.5
+2003-11-01,Other foods & beverages,103.1
+2003-12-01,Other foods & beverages,104.0
+2004-01-01,Other foods & beverages,105.0
+2004-02-01,Other foods & beverages,104.5
+2004-03-01,Other foods & beverages,103.7
+2004-04-01,Other foods & beverages,103.8
+2004-05-01,Other foods & beverages,104.1
+2004-06-01,Other foods & beverages,104.4
+2004-07-01,Other foods & beverages,104.6
+2004-08-01,Other foods & beverages,104.4
+2004-09-01,Other foods & beverages,104.5
+2004-10-01,Other foods & beverages,104.5
+2004-11-01,Other foods & beverages,105.0
+2004-12-01,Other foods & beverages,104.6
+2005-01-01,Other foods & beverages,106.6
+2005-02-01,Other foods & beverages,106.3
+2005-03-01,Other foods & beverages,107.0
+2005-04-01,Other foods & beverages,108.1
+2005-05-01,Other foods & beverages,107.1
+2005-06-01,Other foods & beverages,107.2
+2005-07-01,Other foods & beverages,107.0
+2005-08-01,Other foods & beverages,108.0
+2005-09-01,Other foods & beverages,106.9
+2005-10-01,Other foods & beverages,106.9
+2005-11-01,Other foods & beverages,107.1
+2005-12-01,Other foods & beverages,106.3
+2006-01-01,Other foods & beverages,108.5
+2006-02-01,Other foods & beverages,108.4
+2006-03-01,Other foods & beverages,109.9
+2006-04-01,Other foods & beverages,109.5
+2006-05-01,Other foods & beverages,109.8
+2006-06-01,Other foods & beverages,109.6
+2006-07-01,Other foods & beverages,108.8
+2006-08-01,Other foods & beverages,109.1
+2006-09-01,Other foods & beverages,108.6
+2006-10-01,Other foods & beverages,107.9
+2006-11-01,Other foods & beverages,108.8
+2006-12-01,Other foods & beverages,108.3
+2007-01-01,Other foods & beverages,109.6
+2007-02-01,Other foods & beverages,110.7
+2007-03-01,Other foods & beverages,110.9
+2007-04-01,Other foods & beverages,110.0
+2007-05-01,Other foods & beverages,110.5
+2007-06-01,Other foods & beverages,110.6
+2007-07-01,Other foods & beverages,110.1
+2007-08-01,Other foods & beverages,110.2
+2007-09-01,Other foods & beverages,110.1
+2007-10-01,Other foods & beverages,109.4
+2007-11-01,Other foods & beverages,109.2
+2007-12-01,Other foods & beverages,109.5
+2008-01-01,Other foods & beverages,108.2
+2008-02-01,Other foods & beverages,111.1
+2008-03-01,Other foods & beverages,110.7
+2008-04-01,Other foods & beverages,112.1
+2008-05-01,Other foods & beverages,111.4
+2008-06-01,Other foods & beverages,111.8
+2008-07-01,Other foods & beverages,112.0
+2008-08-01,Other foods & beverages,113.2
+2008-09-01,Other foods & beverages,115.3
+2008-10-01,Other foods & beverages,115.7
+2008-11-01,Other foods & beverages,115.9
+2008-12-01,Other foods & beverages,116.6
+2009-01-01,Other foods & beverages,117.6
+2009-02-01,Other foods & beverages,119.6
+2009-03-01,Other foods & beverages,120.8
+2009-04-01,Other foods & beverages,120.4
+2009-05-01,Other foods & beverages,121.5
+2009-06-01,Other foods & beverages,121.2
+2009-07-01,Other foods & beverages,120.9
+2009-08-01,Other foods & beverages,122.0
+2009-09-01,Other foods & beverages,120.8
+2009-10-01,Other foods & beverages,120.3
+2009-11-01,Other foods & beverages,121.0
+2009-12-01,Other foods & beverages,120.4
+2010-01-01,Other foods & beverages,123.4
+2010-02-01,Other foods & beverages,124.0
+2010-03-01,Other foods & beverages,125.2
+2010-04-01,Other foods & beverages,123.9
+2010-05-01,Other foods & beverages,123.4
+2010-06-01,Other foods & beverages,122.9
+2010-07-01,Other foods & beverages,124.5
+2010-08-01,Other foods & beverages,124.3
+2010-09-01,Other foods & beverages,125.3
+2010-10-01,Other foods & beverages,124.6
+2010-11-01,Other foods & beverages,124.6
+2010-12-01,Other foods & beverages,123.3
+2011-01-01,Other foods & beverages,126.0
+2011-02-01,Other foods & beverages,124.8
+2011-03-01,Other foods & beverages,128.1
+2011-04-01,Other foods & beverages,127.8
+2011-05-01,Other foods & beverages,128.1
+2011-06-01,Other foods & beverages,128.2
+2011-07-01,Other foods & beverages,129.0
+2011-08-01,Other foods & beverages,129.7
+2011-09-01,Other foods & beverages,129.0
+2011-10-01,Other foods & beverages,129.3
+2011-11-01,Other foods & beverages,129.9
+2011-12-01,Other foods & beverages,127.9
+2012-01-01,Other foods & beverages,130.2
+2012-02-01,Other foods & beverages,131.3
+2012-03-01,Other foods & beverages,131.7
+2012-04-01,Other foods & beverages,132.2
+2012-05-01,Other foods & beverages,131.5
+2012-06-01,Other foods & beverages,130.4
+2012-07-01,Other foods & beverages,131.6
+2012-08-01,Other foods & beverages,132.8
+2012-09-01,Other foods & beverages,130.9
+2012-10-01,Other foods & beverages,130.1
+2012-11-01,Other foods & beverages,130.7
+2012-12-01,Other foods & beverages,128.1
+2013-01-01,Other foods & beverages,129.1
+2013-02-01,Other foods & beverages,130.0
+2013-03-01,Other foods & beverages,130.2
+2013-04-01,Other foods & beverages,130.5
+2013-05-01,Other foods & beverages,130.7
+2013-06-01,Other foods & beverages,129.7
+2013-07-01,Other foods & beverages,130.0
+2013-08-01,Other foods & beverages,131.3
+2013-09-01,Other foods & beverages,129.9
+2013-10-01,Other foods & beverages,129.8
+2013-11-01,Other foods & beverages,129.4
+2013-12-01,Other foods & beverages,128.1
+2014-01-01,Other foods & beverages,129.6
+2014-02-01,Other foods & beverages,129.2
+2014-03-01,Other foods & beverages,130.0
+2014-04-01,Other foods & beverages,129.8
+2014-05-01,Other foods & beverages,130.1
+2014-06-01,Other foods & beverages,129.2
+2014-07-01,Other foods & beverages,129.7
+2014-08-01,Other foods & beverages,130.6
+2014-09-01,Other foods & beverages,130.2
+2014-10-01,Other foods & beverages,130.1
+2014-11-01,Other foods & beverages,129.9
+2014-12-01,Other foods & beverages,129.8
+2015-01-01,Other foods & beverages,132.0
+2015-02-01,Other foods & beverages,132.3
+2015-03-01,Other foods & beverages,132.9
+2015-04-01,Other foods & beverages,133.9
+2015-05-01,Other foods & beverages,133.7
+2015-06-01,Other foods & beverages,134.2
+2015-07-01,Other foods & beverages,133.3
+2015-08-01,Other foods & beverages,135.0
+2015-09-01,Other foods & beverages,134.8
+2015-10-01,Other foods & beverages,134.3
+2015-11-01,Other foods & beverages,133.7
+2015-12-01,Other foods & beverages,133.8
+2016-01-01,Other foods & beverages,134.8
+2016-02-01,Other foods & beverages,135.6
+2016-03-01,Other foods & beverages,135.9
+2016-04-01,Other foods & beverages,136.4
+2016-05-01,Other foods & beverages,136.0
+2016-06-01,Other foods & beverages,135.2
+2016-07-01,Other foods & beverages,135.8
+2016-08-01,Other foods & beverages,136.1
+2016-09-01,Other foods & beverages,133.3
+2016-10-01,Other foods & beverages,133.2
+2016-11-01,Other foods & beverages,133.3
+2016-12-01,Other foods & beverages,132.3
+2017-01-01,Other foods & beverages,133.4
+2017-02-01,Other foods & beverages,133.9
+2017-03-01,Other foods & beverages,134.3
+2017-04-01,Other foods & beverages,134.1
+2017-05-01,Other foods & beverages,134.3
+2017-06-01,Other foods & beverages,134.0
+2017-07-01,Other foods & beverages,134.3
+2017-08-01,Other foods & beverages,134.6
+2017-09-01,Other foods & beverages,134.3
+2017-10-01,Other foods & beverages,134.2
+2017-11-01,Other foods & beverages,133.8
+2017-12-01,Other foods & beverages,132.4
+2018-01-01,Other foods & beverages,134.5
+2018-02-01,Other foods & beverages,134.7
+2018-03-01,Other foods & beverages,134.1
+2018-04-01,Other foods & beverages,134.8
+2018-05-01,Other foods & beverages,133.4
+2018-06-01,Other foods & beverages,134.0
+2018-07-01,Other foods & beverages,133.9
+2018-08-01,Other foods & beverages,133.9
+2018-09-01,Other foods & beverages,133.6
+2018-10-01,Other foods & beverages,133.3
+2018-11-01,Other foods & beverages,133.0
+2018-12-01,Other foods & beverages,133.4
+2019-01-01,Other foods & beverages,135.4
+2019-02-01,Other foods & beverages,136.2
+2019-03-01,Other foods & beverages,136.8
+2019-04-01,Other foods & beverages,136.4
+2019-05-01,Other foods & beverages,136.5
+2019-06-01,Other foods & beverages,136.3
+2019-07-01,Other foods & beverages,136.2
+2019-08-01,Other foods & beverages,136.3
+2019-09-01,Other foods & beverages,137.1
+2019-10-01,Other foods & beverages,137.3
+2019-11-01,Other foods & beverages,137.0
+2019-12-01,Other foods & beverages,136.0
+2020-01-01,Other foods & beverages,139.1
+2020-02-01,Other foods & beverages,138.0
+2020-03-01,Other foods & beverages,138.7
+2020-04-01,Other foods & beverages,139.8
+2020-05-01,Other foods & beverages,139.1
+2020-06-01,Other foods & beverages,137.8
+2020-07-01,Other foods & beverages,138.0
+2020-08-01,Other foods & beverages,136.0
+2020-09-01,Other foods & beverages,137.0
+2020-10-01,Other foods & beverages,137.4
+2020-11-01,Other foods & beverages,138.1
+2020-12-01,Other foods & beverages,136.5
+2021-01-01,Other foods & beverages,139.0
+2021-02-01,Other foods & beverages,139.5
+2021-03-01,Other foods & beverages,141.5
+2021-04-01,Other foods & beverages,140.5
+2021-05-01,Other foods & beverages,141.6
+2021-06-01,Other foods & beverages,142.2
+2021-07-01,Other foods & beverages,141.9
+2021-08-01,Other foods & beverages,141.7
+2021-09-01,Other foods & beverages,144.3
+2021-10-01,Other foods & beverages,144.4
+2021-11-01,Other foods & beverages,144.2
+2021-12-01,Other foods & beverages,145.4
+2022-01-01,Other foods & beverages,148.0
+2022-02-01,Other foods & beverages,151.6
+2022-03-01,Other foods & beverages,154.2
+2022-04-01,Other foods & beverages,156.7
+2022-05-01,Other foods & beverages,157.1
+2022-06-01,Other foods & beverages,156.9
+2022-07-01,Other foods & beverages,158.2
+2022-08-01,Other foods & beverages,161.7
+2022-09-01,Other foods & beverages,162.8
+2022-10-01,Other foods & beverages,163.6
+2022-11-01,Other foods & beverages,164.6
+2022-12-01,Other foods & beverages,163.3
+2023-01-01,Other foods & beverages,166.0
+2023-02-01,Other foods & beverages,168.2
+2023-03-01,Other foods & beverages,171.5
+2023-04-01,Other foods & beverages,172.5
+2023-05-01,Other foods & beverages,173.5
+2023-06-01,Other foods & beverages,173.0
+2023-07-01,Other foods & beverages,173.8
+2023-08-01,Other foods & beverages,174.9
+2023-09-01,Other foods & beverages,173.7
+2023-10-01,Other foods & beverages,175.3
+2023-11-01,Other foods & beverages,173.1
+2023-12-01,Other foods & beverages,173.5
+2024-01-01,Other foods & beverages,174.5
+2024-02-01,Other foods & beverages,175.2
+2024-03-01,Other foods & beverages,176.6
+2024-04-01,Other foods & beverages,176.2
+2024-05-01,Other foods & beverages,177.9
+2024-06-01,Other foods & beverages,178.5
+2024-07-01,Other foods & beverages,177.9
+2024-08-01,Other foods & beverages,179.5
+2024-09-01,Other foods & beverages,179.1
+2024-10-01,Other foods & beverages,180.2
+2024-11-01,Other foods & beverages,179.4
+2024-12-01,Other foods & beverages,176.3
+2025-01-01,Other foods & beverages,176.4
+2025-02-01,Other foods & beverages,179.0
+2025-03-01,Other foods & beverages,182.7
+2025-04-01,Other foods & beverages,184.7
+2025-05-01,Other foods & beverages,184.9
+2025-06-01,Other foods & beverages,187.5
+2025-07-01,Other foods & beverages,189.3
+2025-08-01,Other foods & beverages,189.4
+2025-09-01,Other foods & beverages,191.4
+2025-10-01,Other foods & beverages,189.5
+2025-11-01,Other foods & beverages,193.3
+2025-12-01,Other foods & beverages,190.7
+2026-01-01,Other foods & beverages,193.4
+2026-02-01,Other foods & beverages,192.7
+2026-03-01,Other foods & beverages,193.9
+2026-04-01,Other foods & beverages,194.0
+2026-05-01,Other foods & beverages,193.1
+2026-06-01,Other foods & beverages,193.7
+1961-01-01,Restaurant meals,10.6
+1961-02-01,Restaurant meals,10.6
+1961-03-01,Restaurant meals,10.6
+1961-04-01,Restaurant meals,10.6
+1961-05-01,Restaurant meals,10.6
+1961-06-01,Restaurant meals,10.6
+1961-07-01,Restaurant meals,10.6
+1961-08-01,Restaurant meals,10.6
+1961-09-01,Restaurant meals,10.6
+1961-10-01,Restaurant meals,10.6
+1961-11-01,Restaurant meals,10.6
+1961-12-01,Restaurant meals,10.6
+1962-01-01,Restaurant meals,10.6
+1962-02-01,Restaurant meals,10.6
+1962-03-01,Restaurant meals,10.6
+1962-04-01,Restaurant meals,10.6
+1962-05-01,Restaurant meals,10.6
+1962-06-01,Restaurant meals,10.6
+1962-07-01,Restaurant meals,10.7
+1962-08-01,Restaurant meals,10.7
+1962-09-01,Restaurant meals,10.7
+1962-10-01,Restaurant meals,10.9
+1962-11-01,Restaurant meals,10.9
+1962-12-01,Restaurant meals,10.9
+1963-01-01,Restaurant meals,10.9
+1963-02-01,Restaurant meals,10.9
+1963-03-01,Restaurant meals,10.9
+1963-04-01,Restaurant meals,11.1
+1963-05-01,Restaurant meals,11.1
+1963-06-01,Restaurant meals,11.1
+1963-07-01,Restaurant meals,11.2
+1963-08-01,Restaurant meals,11.2
+1963-09-01,Restaurant meals,11.2
+1963-10-01,Restaurant meals,11.4
+1963-11-01,Restaurant meals,11.4
+1963-12-01,Restaurant meals,11.4
+1964-01-01,Restaurant meals,11.5
+1964-02-01,Restaurant meals,11.5
+1964-03-01,Restaurant meals,11.5
+1964-04-01,Restaurant meals,11.6
+1964-05-01,Restaurant meals,11.6
+1964-06-01,Restaurant meals,11.6
+1964-07-01,Restaurant meals,11.8
+1964-08-01,Restaurant meals,11.8
+1964-09-01,Restaurant meals,11.8
+1964-10-01,Restaurant meals,11.8
+1964-11-01,Restaurant meals,11.8
+1964-12-01,Restaurant meals,11.8
+1965-01-01,Restaurant meals,11.8
+1965-02-01,Restaurant meals,11.8
+1965-03-01,Restaurant meals,11.8
+1965-04-01,Restaurant meals,11.9
+1965-05-01,Restaurant meals,11.9
+1965-06-01,Restaurant meals,11.9
+1965-07-01,Restaurant meals,12.0
+1965-08-01,Restaurant meals,12.0
+1965-09-01,Restaurant meals,12.0
+1965-10-01,Restaurant meals,12.2
+1965-11-01,Restaurant meals,12.2
+1965-12-01,Restaurant meals,12.2
+1966-01-01,Restaurant meals,12.5
+1966-02-01,Restaurant meals,12.5
+1966-03-01,Restaurant meals,12.5
+1966-04-01,Restaurant meals,12.7
+1966-05-01,Restaurant meals,12.7
+1966-06-01,Restaurant meals,12.7
+1966-07-01,Restaurant meals,13.0
+1966-08-01,Restaurant meals,13.0
+1966-09-01,Restaurant meals,13.0
+1966-10-01,Restaurant meals,13.3
+1966-11-01,Restaurant meals,13.3
+1966-12-01,Restaurant meals,13.3
+1967-01-01,Restaurant meals,13.4
+1967-02-01,Restaurant meals,13.4
+1967-03-01,Restaurant meals,13.4
+1967-04-01,Restaurant meals,13.7
+1967-05-01,Restaurant meals,13.7
+1967-06-01,Restaurant meals,13.7
+1967-07-01,Restaurant meals,14.0
+1967-08-01,Restaurant meals,14.0
+1967-09-01,Restaurant meals,14.0
+1967-10-01,Restaurant meals,14.3
+1967-11-01,Restaurant meals,14.3
+1967-12-01,Restaurant meals,14.3
+1968-01-01,Restaurant meals,14.3
+1968-02-01,Restaurant meals,14.3
+1968-03-01,Restaurant meals,14.3
+1968-04-01,Restaurant meals,14.4
+1968-05-01,Restaurant meals,14.4
+1968-06-01,Restaurant meals,14.4
+1968-07-01,Restaurant meals,14.6
+1968-08-01,Restaurant meals,14.6
+1968-09-01,Restaurant meals,14.6
+1968-10-01,Restaurant meals,14.7
+1968-11-01,Restaurant meals,14.7
+1968-12-01,Restaurant meals,14.7
+1969-01-01,Restaurant meals,14.9
+1969-02-01,Restaurant meals,14.9
+1969-03-01,Restaurant meals,14.9
+1969-04-01,Restaurant meals,15.1
+1969-05-01,Restaurant meals,15.1
+1969-06-01,Restaurant meals,15.1
+1969-07-01,Restaurant meals,15.6
+1969-08-01,Restaurant meals,15.6
+1969-09-01,Restaurant meals,15.6
+1969-10-01,Restaurant meals,15.9
+1969-11-01,Restaurant meals,15.9
+1969-12-01,Restaurant meals,15.9
+1970-01-01,Restaurant meals,16.0
+1970-02-01,Restaurant meals,16.0
+1970-03-01,Restaurant meals,16.0
+1970-04-01,Restaurant meals,16.1
+1970-05-01,Restaurant meals,16.1
+1970-06-01,Restaurant meals,16.1
+1970-07-01,Restaurant meals,16.4
+1970-08-01,Restaurant meals,16.5
+1970-09-01,Restaurant meals,16.5
+1970-10-01,Restaurant meals,16.6
+1970-11-01,Restaurant meals,16.6
+1970-12-01,Restaurant meals,16.7
+1971-01-01,Restaurant meals,16.8
+1971-02-01,Restaurant meals,16.8
+1971-03-01,Restaurant meals,16.9
+1971-04-01,Restaurant meals,16.9
+1971-05-01,Restaurant meals,16.9
+1971-06-01,Restaurant meals,16.9
+1971-07-01,Restaurant meals,17.0
+1971-08-01,Restaurant meals,17.2
+1971-09-01,Restaurant meals,17.2
+1971-10-01,Restaurant meals,17.3
+1971-11-01,Restaurant meals,17.4
+1971-12-01,Restaurant meals,17.5
+1972-01-01,Restaurant meals,17.6
+1972-02-01,Restaurant meals,17.6
+1972-03-01,Restaurant meals,17.6
+1972-04-01,Restaurant meals,17.8
+1972-05-01,Restaurant meals,17.9
+1972-06-01,Restaurant meals,18.0
+1972-07-01,Restaurant meals,18.2
+1972-08-01,Restaurant meals,18.3
+1972-09-01,Restaurant meals,18.4
+1972-10-01,Restaurant meals,18.5
+1972-11-01,Restaurant meals,18.6
+1972-12-01,Restaurant meals,18.8
+1973-01-01,Restaurant meals,18.9
+1973-02-01,Restaurant meals,19.2
+1973-03-01,Restaurant meals,19.3
+1973-04-01,Restaurant meals,19.6
+1973-05-01,Restaurant meals,19.8
+1973-06-01,Restaurant meals,20.0
+1973-07-01,Restaurant meals,20.1
+1973-08-01,Restaurant meals,20.6
+1973-09-01,Restaurant meals,21.3
+1973-10-01,Restaurant meals,21.7
+1973-11-01,Restaurant meals,22.0
+1973-12-01,Restaurant meals,22.3
+1974-01-01,Restaurant meals,22.4
+1974-02-01,Restaurant meals,22.6
+1974-03-01,Restaurant meals,22.9
+1974-04-01,Restaurant meals,23.3
+1974-05-01,Restaurant meals,23.6
+1974-06-01,Restaurant meals,24.2
+1974-07-01,Restaurant meals,24.4
+1974-08-01,Restaurant meals,24.8
+1974-09-01,Restaurant meals,25.1
+1974-10-01,Restaurant meals,25.4
+1974-11-01,Restaurant meals,26.0
+1974-12-01,Restaurant meals,26.2
+1975-01-01,Restaurant meals,26.5
+1975-02-01,Restaurant meals,26.7
+1975-03-01,Restaurant meals,26.8
+1975-04-01,Restaurant meals,26.9
+1975-05-01,Restaurant meals,27.2
+1975-06-01,Restaurant meals,27.4
+1975-07-01,Restaurant meals,27.7
+1975-08-01,Restaurant meals,28.3
+1975-09-01,Restaurant meals,28.4
+1975-10-01,Restaurant meals,28.6
+1975-11-01,Restaurant meals,28.9
+1975-12-01,Restaurant meals,29.1
+1976-01-01,Restaurant meals,29.2
+1976-02-01,Restaurant meals,29.3
+1976-03-01,Restaurant meals,29.5
+1976-04-01,Restaurant meals,29.7
+1976-05-01,Restaurant meals,29.7
+1976-06-01,Restaurant meals,29.9
+1976-07-01,Restaurant meals,30.1
+1976-08-01,Restaurant meals,30.3
+1976-09-01,Restaurant meals,30.5
+1976-10-01,Restaurant meals,30.6
+1976-11-01,Restaurant meals,30.7
+1976-12-01,Restaurant meals,31.0
+1977-01-01,Restaurant meals,31.1
+1977-02-01,Restaurant meals,31.3
+1977-03-01,Restaurant meals,31.7
+1977-04-01,Restaurant meals,31.6
+1977-05-01,Restaurant meals,31.5
+1977-06-01,Restaurant meals,31.8
+1977-07-01,Restaurant meals,32.0
+1977-08-01,Restaurant meals,32.1
+1977-09-01,Restaurant meals,32.2
+1977-10-01,Restaurant meals,32.3
+1977-11-01,Restaurant meals,32.4
+1977-12-01,Restaurant meals,32.5
+1978-01-01,Restaurant meals,32.7
+1978-02-01,Restaurant meals,32.8
+1978-03-01,Restaurant meals,33.0
+1978-04-01,Restaurant meals,33.0
+1978-05-01,Restaurant meals,33.2
+1978-06-01,Restaurant meals,33.5
+1978-07-01,Restaurant meals,34.0
+1978-08-01,Restaurant meals,34.6
+1978-09-01,Restaurant meals,34.8
+1978-10-01,Restaurant meals,35.0
+1978-11-01,Restaurant meals,35.5
+1978-12-01,Restaurant meals,35.7
+1979-01-01,Restaurant meals,35.9
+1979-02-01,Restaurant meals,36.4
+1979-03-01,Restaurant meals,36.8
+1979-04-01,Restaurant meals,37.0
+1979-05-01,Restaurant meals,37.6
+1979-06-01,Restaurant meals,38.2
+1979-07-01,Restaurant meals,38.4
+1979-08-01,Restaurant meals,38.7
+1979-09-01,Restaurant meals,39.0
+1979-10-01,Restaurant meals,39.3
+1979-11-01,Restaurant meals,39.6
+1979-12-01,Restaurant meals,39.8
+1980-01-01,Restaurant meals,40.1
+1980-02-01,Restaurant meals,40.4
+1980-03-01,Restaurant meals,40.8
+1980-04-01,Restaurant meals,40.9
+1980-05-01,Restaurant meals,41.0
+1980-06-01,Restaurant meals,41.3
+1980-07-01,Restaurant meals,41.8
+1980-08-01,Restaurant meals,42.1
+1980-09-01,Restaurant meals,42.3
+1980-10-01,Restaurant meals,42.8
+1980-11-01,Restaurant meals,42.9
+1980-12-01,Restaurant meals,43.2
+1981-01-01,Restaurant meals,43.5
+1981-02-01,Restaurant meals,43.9
+1981-03-01,Restaurant meals,44.1
+1981-04-01,Restaurant meals,44.8
+1981-05-01,Restaurant meals,45.0
+1981-06-01,Restaurant meals,45.4
+1981-07-01,Restaurant meals,45.9
+1981-08-01,Restaurant meals,46.3
+1981-09-01,Restaurant meals,46.4
+1981-10-01,Restaurant meals,46.8
+1981-11-01,Restaurant meals,47.2
+1981-12-01,Restaurant meals,47.5
+1982-01-01,Restaurant meals,47.8
+1982-02-01,Restaurant meals,48.3
+1982-03-01,Restaurant meals,48.7
+1982-04-01,Restaurant meals,49.1
+1982-05-01,Restaurant meals,49.4
+1982-06-01,Restaurant meals,50.5
+1982-07-01,Restaurant meals,51.0
+1982-08-01,Restaurant meals,51.3
+1982-09-01,Restaurant meals,51.4
+1982-10-01,Restaurant meals,51.7
+1982-11-01,Restaurant meals,51.8
+1982-12-01,Restaurant meals,51.9
+1983-01-01,Restaurant meals,52.4
+1983-02-01,Restaurant meals,52.4
+1983-03-01,Restaurant meals,52.4
+1983-04-01,Restaurant meals,52.6
+1983-05-01,Restaurant meals,52.8
+1983-06-01,Restaurant meals,52.9
+1983-07-01,Restaurant meals,53.2
+1983-08-01,Restaurant meals,53.3
+1983-09-01,Restaurant meals,53.6
+1983-10-01,Restaurant meals,53.8
+1983-11-01,Restaurant meals,54.0
+1983-12-01,Restaurant meals,54.1
+1984-01-01,Restaurant meals,54.5
+1984-02-01,Restaurant meals,54.5
+1984-03-01,Restaurant meals,54.7
+1984-04-01,Restaurant meals,54.9
+1984-05-01,Restaurant meals,55.0
+1984-06-01,Restaurant meals,55.1
+1984-07-01,Restaurant meals,55.4
+1984-08-01,Restaurant meals,55.6
+1984-09-01,Restaurant meals,55.7
+1984-10-01,Restaurant meals,55.9
+1984-11-01,Restaurant meals,56.0
+1984-12-01,Restaurant meals,56.3
+1985-01-01,Restaurant meals,56.8
+1985-02-01,Restaurant meals,56.8
+1985-03-01,Restaurant meals,56.8
+1985-04-01,Restaurant meals,57.1
+1985-05-01,Restaurant meals,57.3
+1985-06-01,Restaurant meals,57.3
+1985-07-01,Restaurant meals,57.7
+1985-08-01,Restaurant meals,58.0
+1985-09-01,Restaurant meals,58.2
+1985-10-01,Restaurant meals,58.3
+1985-11-01,Restaurant meals,58.4
+1985-12-01,Restaurant meals,58.6
+1986-01-01,Restaurant meals,59.1
+1986-02-01,Restaurant meals,59.1
+1986-03-01,Restaurant meals,59.3
+1986-04-01,Restaurant meals,59.7
+1986-05-01,Restaurant meals,59.9
+1986-06-01,Restaurant meals,60.0
+1986-07-01,Restaurant meals,60.6
+1986-08-01,Restaurant meals,60.9
+1986-09-01,Restaurant meals,60.9
+1986-10-01,Restaurant meals,61.3
+1986-11-01,Restaurant meals,61.6
+1986-12-01,Restaurant meals,61.7
+1987-01-01,Restaurant meals,62.1
+1987-02-01,Restaurant meals,62.1
+1987-03-01,Restaurant meals,62.3
+1987-04-01,Restaurant meals,62.3
+1987-05-01,Restaurant meals,62.7
+1987-06-01,Restaurant meals,62.3
+1987-07-01,Restaurant meals,62.7
+1987-08-01,Restaurant meals,62.9
+1987-09-01,Restaurant meals,63.1
+1987-10-01,Restaurant meals,63.4
+1987-11-01,Restaurant meals,63.6
+1987-12-01,Restaurant meals,63.7
+1988-01-01,Restaurant meals,64.1
+1988-02-01,Restaurant meals,64.4
+1988-03-01,Restaurant meals,64.5
+1988-04-01,Restaurant meals,64.8
+1988-05-01,Restaurant meals,65.3
+1988-06-01,Restaurant meals,65.4
+1988-07-01,Restaurant meals,65.9
+1988-08-01,Restaurant meals,66.2
+1988-09-01,Restaurant meals,66.4
+1988-10-01,Restaurant meals,66.7
+1988-11-01,Restaurant meals,67.0
+1988-12-01,Restaurant meals,67.2
+1989-01-01,Restaurant meals,67.6
+1989-02-01,Restaurant meals,67.8
+1989-03-01,Restaurant meals,68.1
+1989-04-01,Restaurant meals,68.3
+1989-05-01,Restaurant meals,68.6
+1989-06-01,Restaurant meals,68.7
+1989-07-01,Restaurant meals,69.5
+1989-08-01,Restaurant meals,69.6
+1989-09-01,Restaurant meals,69.9
+1989-10-01,Restaurant meals,70.1
+1989-11-01,Restaurant meals,70.4
+1989-12-01,Restaurant meals,70.5
+1990-01-01,Restaurant meals,70.9
+1990-02-01,Restaurant meals,71.0
+1990-03-01,Restaurant meals,71.3
+1990-04-01,Restaurant meals,71.7
+1990-05-01,Restaurant meals,72.2
+1990-06-01,Restaurant meals,72.2
+1990-07-01,Restaurant meals,72.8
+1990-08-01,Restaurant meals,73.0
+1990-09-01,Restaurant meals,73.1
+1990-10-01,Restaurant meals,73.6
+1990-11-01,Restaurant meals,73.9
+1990-12-01,Restaurant meals,74.2
+1991-01-01,Restaurant meals,79.5
+1991-02-01,Restaurant meals,79.6
+1991-03-01,Restaurant meals,79.8
+1991-04-01,Restaurant meals,80.0
+1991-05-01,Restaurant meals,80.3
+1991-06-01,Restaurant meals,80.3
+1991-07-01,Restaurant meals,80.4
+1991-08-01,Restaurant meals,80.6
+1991-09-01,Restaurant meals,80.7
+1991-10-01,Restaurant meals,80.9
+1991-11-01,Restaurant meals,81.1
+1991-12-01,Restaurant meals,81.2
+1992-01-01,Restaurant meals,81.4
+1992-02-01,Restaurant meals,81.5
+1992-03-01,Restaurant meals,81.6
+1992-04-01,Restaurant meals,81.6
+1992-05-01,Restaurant meals,81.7
+1992-06-01,Restaurant meals,81.7
+1992-07-01,Restaurant meals,82.0
+1992-08-01,Restaurant meals,82.1
+1992-09-01,Restaurant meals,82.1
+1992-10-01,Restaurant meals,82.4
+1992-11-01,Restaurant meals,82.4
+1992-12-01,Restaurant meals,82.5
+1993-01-01,Restaurant meals,82.7
+1993-02-01,Restaurant meals,82.7
+1993-03-01,Restaurant meals,82.7
+1993-04-01,Restaurant meals,82.7
+1993-05-01,Restaurant meals,83.0
+1993-06-01,Restaurant meals,83.0
+1993-07-01,Restaurant meals,83.0
+1993-08-01,Restaurant meals,83.1
+1993-09-01,Restaurant meals,83.0
+1993-10-01,Restaurant meals,83.2
+1993-11-01,Restaurant meals,83.2
+1993-12-01,Restaurant meals,83.3
+1994-01-01,Restaurant meals,83.5
+1994-02-01,Restaurant meals,83.6
+1994-03-01,Restaurant meals,83.8
+1994-04-01,Restaurant meals,83.9
+1994-05-01,Restaurant meals,83.7
+1994-06-01,Restaurant meals,83.7
+1994-07-01,Restaurant meals,84.0
+1994-08-01,Restaurant meals,84.2
+1994-09-01,Restaurant meals,84.4
+1994-10-01,Restaurant meals,84.5
+1994-11-01,Restaurant meals,84.6
+1994-12-01,Restaurant meals,84.7
+1995-01-01,Restaurant meals,84.9
+1995-02-01,Restaurant meals,85.0
+1995-03-01,Restaurant meals,85.1
+1995-04-01,Restaurant meals,85.3
+1995-05-01,Restaurant meals,85.6
+1995-06-01,Restaurant meals,85.7
+1995-07-01,Restaurant meals,85.9
+1995-08-01,Restaurant meals,86.1
+1995-09-01,Restaurant meals,86.2
+1995-10-01,Restaurant meals,86.2
+1995-11-01,Restaurant meals,86.2
+1995-12-01,Restaurant meals,86.2
+1996-01-01,Restaurant meals,86.4
+1996-02-01,Restaurant meals,86.6
+1996-03-01,Restaurant meals,86.7
+1996-04-01,Restaurant meals,86.8
+1996-05-01,Restaurant meals,86.8
+1996-06-01,Restaurant meals,87.1
+1996-07-01,Restaurant meals,87.2
+1996-08-01,Restaurant meals,87.2
+1996-09-01,Restaurant meals,87.3
+1996-10-01,Restaurant meals,87.6
+1996-11-01,Restaurant meals,87.7
+1996-12-01,Restaurant meals,87.7
+1997-01-01,Restaurant meals,87.7
+1997-02-01,Restaurant meals,88.0
+1997-03-01,Restaurant meals,88.1
+1997-04-01,Restaurant meals,88.0
+1997-05-01,Restaurant meals,88.2
+1997-06-01,Restaurant meals,88.6
+1997-07-01,Restaurant meals,88.7
+1997-08-01,Restaurant meals,88.8
+1997-09-01,Restaurant meals,88.9
+1997-10-01,Restaurant meals,88.9
+1997-11-01,Restaurant meals,89.1
+1997-12-01,Restaurant meals,89.4
+1998-01-01,Restaurant meals,89.7
+1998-02-01,Restaurant meals,89.8
+1998-03-01,Restaurant meals,89.8
+1998-04-01,Restaurant meals,90.0
+1998-05-01,Restaurant meals,90.1
+1998-06-01,Restaurant meals,90.2
+1998-07-01,Restaurant meals,90.4
+1998-08-01,Restaurant meals,90.5
+1998-09-01,Restaurant meals,90.8
+1998-10-01,Restaurant meals,90.8
+1998-11-01,Restaurant meals,90.8
+1998-12-01,Restaurant meals,90.9
+1999-01-01,Restaurant meals,91.1
+1999-02-01,Restaurant meals,91.3
+1999-03-01,Restaurant meals,91.4
+1999-04-01,Restaurant meals,91.7
+1999-05-01,Restaurant meals,91.8
+1999-06-01,Restaurant meals,91.9
+1999-07-01,Restaurant meals,92.0
+1999-08-01,Restaurant meals,92.3
+1999-09-01,Restaurant meals,92.3
+1999-10-01,Restaurant meals,92.7
+1999-11-01,Restaurant meals,93.0
+1999-12-01,Restaurant meals,93.0
+2000-01-01,Restaurant meals,93.1
+2000-02-01,Restaurant meals,93.2
+2000-03-01,Restaurant meals,93.4
+2000-04-01,Restaurant meals,93.6
+2000-05-01,Restaurant meals,93.6
+2000-06-01,Restaurant meals,93.9
+2000-07-01,Restaurant meals,94.0
+2000-08-01,Restaurant meals,94.4
+2000-09-01,Restaurant meals,94.5
+2000-10-01,Restaurant meals,94.6
+2000-11-01,Restaurant meals,94.7
+2000-12-01,Restaurant meals,94.9
+2001-01-01,Restaurant meals,95.3
+2001-02-01,Restaurant meals,95.5
+2001-03-01,Restaurant meals,95.7
+2001-04-01,Restaurant meals,95.9
+2001-05-01,Restaurant meals,96.2
+2001-06-01,Restaurant meals,96.7
+2001-07-01,Restaurant meals,97.3
+2001-08-01,Restaurant meals,97.7
+2001-09-01,Restaurant meals,97.9
+2001-10-01,Restaurant meals,98.1
+2001-11-01,Restaurant meals,98.3
+2001-12-01,Restaurant meals,98.6
+2002-01-01,Restaurant meals,99.1
+2002-02-01,Restaurant meals,99.2
+2002-03-01,Restaurant meals,99.3
+2002-04-01,Restaurant meals,99.4
+2002-05-01,Restaurant meals,99.6
+2002-06-01,Restaurant meals,99.9
+2002-07-01,Restaurant meals,100.2
+2002-08-01,Restaurant meals,100.5
+2002-09-01,Restaurant meals,100.6
+2002-10-01,Restaurant meals,100.6
+2002-11-01,Restaurant meals,100.7
+2002-12-01,Restaurant meals,101.0
+2003-01-01,Restaurant meals,101.3
+2003-02-01,Restaurant meals,101.6
+2003-03-01,Restaurant meals,101.8
+2003-04-01,Restaurant meals,102.0
+2003-05-01,Restaurant meals,102.2
+2003-06-01,Restaurant meals,102.3
+2003-07-01,Restaurant meals,102.6
+2003-08-01,Restaurant meals,102.7
+2003-09-01,Restaurant meals,102.9
+2003-10-01,Restaurant meals,103.2
+2003-11-01,Restaurant meals,103.4
+2003-12-01,Restaurant meals,103.6
+2004-01-01,Restaurant meals,104.1
+2004-02-01,Restaurant meals,104.3
+2004-03-01,Restaurant meals,104.1
+2004-04-01,Restaurant meals,104.5
+2004-05-01,Restaurant meals,104.8
+2004-06-01,Restaurant meals,104.9
+2004-07-01,Restaurant meals,105.2
+2004-08-01,Restaurant meals,105.5
+2004-09-01,Restaurant meals,105.6
+2004-10-01,Restaurant meals,105.9
+2004-11-01,Restaurant meals,106.3
+2004-12-01,Restaurant meals,106.6
+2005-01-01,Restaurant meals,106.8
+2005-02-01,Restaurant meals,107.0
+2005-03-01,Restaurant meals,107.2
+2005-04-01,Restaurant meals,107.7
+2005-05-01,Restaurant meals,107.8
+2005-06-01,Restaurant meals,108.1
+2005-07-01,Restaurant meals,108.5
+2005-08-01,Restaurant meals,108.5
+2005-09-01,Restaurant meals,108.8
+2005-10-01,Restaurant meals,109.1
+2005-11-01,Restaurant meals,109.3
+2005-12-01,Restaurant meals,109.6
+2006-01-01,Restaurant meals,110.0
+2006-02-01,Restaurant meals,110.2
+2006-03-01,Restaurant meals,110.5
+2006-04-01,Restaurant meals,110.7
+2006-05-01,Restaurant meals,111.0
+2006-06-01,Restaurant meals,111.5
+2006-07-01,Restaurant meals,110.7
+2006-08-01,Restaurant meals,110.9
+2006-09-01,Restaurant meals,111.1
+2006-10-01,Restaurant meals,111.5
+2006-11-01,Restaurant meals,112.3
+2006-12-01,Restaurant meals,112.4
+2007-01-01,Restaurant meals,112.6
+2007-02-01,Restaurant meals,113.0
+2007-03-01,Restaurant meals,113.1
+2007-04-01,Restaurant meals,113.3
+2007-05-01,Restaurant meals,113.6
+2007-06-01,Restaurant meals,114.1
+2007-07-01,Restaurant meals,114.7
+2007-08-01,Restaurant meals,114.8
+2007-09-01,Restaurant meals,114.8
+2007-10-01,Restaurant meals,114.9
+2007-11-01,Restaurant meals,115.0
+2007-12-01,Restaurant meals,115.4
+2008-01-01,Restaurant meals,114.6
+2008-02-01,Restaurant meals,115.2
+2008-03-01,Restaurant meals,115.2
+2008-04-01,Restaurant meals,115.5
+2008-05-01,Restaurant meals,115.9
+2008-06-01,Restaurant meals,116.9
+2008-07-01,Restaurant meals,117.3
+2008-08-01,Restaurant meals,117.9
+2008-09-01,Restaurant meals,118.5
+2008-10-01,Restaurant meals,118.8
+2008-11-01,Restaurant meals,119.0
+2008-12-01,Restaurant meals,119.1
+2009-01-01,Restaurant meals,119.6
+2009-02-01,Restaurant meals,119.9
+2009-03-01,Restaurant meals,120.0
+2009-04-01,Restaurant meals,120.4
+2009-05-01,Restaurant meals,120.5
+2009-06-01,Restaurant meals,121.1
+2009-07-01,Restaurant meals,121.3
+2009-08-01,Restaurant meals,121.6
+2009-09-01,Restaurant meals,121.8
+2009-10-01,Restaurant meals,122.0
+2009-11-01,Restaurant meals,122.2
+2009-12-01,Restaurant meals,122.5
+2010-01-01,Restaurant meals,122.7
+2010-02-01,Restaurant meals,123.0
+2010-03-01,Restaurant meals,123.1
+2010-04-01,Restaurant meals,123.2
+2010-05-01,Restaurant meals,123.1
+2010-06-01,Restaurant meals,123.3
+2010-07-01,Restaurant meals,124.7
+2010-08-01,Restaurant meals,124.7
+2010-09-01,Restaurant meals,124.3
+2010-10-01,Restaurant meals,124.7
+2010-11-01,Restaurant meals,125.2
+2010-12-01,Restaurant meals,125.4
+2011-01-01,Restaurant meals,126.0
+2011-02-01,Restaurant meals,126.2
+2011-03-01,Restaurant meals,126.4
+2011-04-01,Restaurant meals,126.6
+2011-05-01,Restaurant meals,127.1
+2011-06-01,Restaurant meals,127.4
+2011-07-01,Restaurant meals,127.5
+2011-08-01,Restaurant meals,128.1
+2011-09-01,Restaurant meals,128.1
+2011-10-01,Restaurant meals,128.6
+2011-11-01,Restaurant meals,128.9
+2011-12-01,Restaurant meals,129.0
+2012-01-01,Restaurant meals,129.5
+2012-02-01,Restaurant meals,129.7
+2012-03-01,Restaurant meals,129.8
+2012-04-01,Restaurant meals,130.1
+2012-05-01,Restaurant meals,130.3
+2012-06-01,Restaurant meals,130.6
+2012-07-01,Restaurant meals,130.6
+2012-08-01,Restaurant meals,130.9
+2012-09-01,Restaurant meals,131.0
+2012-10-01,Restaurant meals,131.3
+2012-11-01,Restaurant meals,131.6
+2012-12-01,Restaurant meals,131.8
+2013-01-01,Restaurant meals,132.1
+2013-02-01,Restaurant meals,132.6
+2013-03-01,Restaurant meals,132.7
+2013-04-01,Restaurant meals,131.7
+2013-05-01,Restaurant meals,131.8
+2013-06-01,Restaurant meals,132.1
+2013-07-01,Restaurant meals,132.5
+2013-08-01,Restaurant meals,132.8
+2013-09-01,Restaurant meals,132.9
+2013-10-01,Restaurant meals,133.2
+2013-11-01,Restaurant meals,133.2
+2013-12-01,Restaurant meals,133.6
+2014-01-01,Restaurant meals,133.8
+2014-02-01,Restaurant meals,134.0
+2014-03-01,Restaurant meals,134.0
+2014-04-01,Restaurant meals,134.5
+2014-05-01,Restaurant meals,134.6
+2014-06-01,Restaurant meals,135.1
+2014-07-01,Restaurant meals,135.3
+2014-08-01,Restaurant meals,135.6
+2014-09-01,Restaurant meals,135.9
+2014-10-01,Restaurant meals,136.1
+2014-11-01,Restaurant meals,136.5
+2014-12-01,Restaurant meals,136.9
+2015-01-01,Restaurant meals,137.5
+2015-02-01,Restaurant meals,137.7
+2015-03-01,Restaurant meals,137.8
+2015-04-01,Restaurant meals,138.1
+2015-05-01,Restaurant meals,138.5
+2015-06-01,Restaurant meals,138.7
+2015-07-01,Restaurant meals,139.0
+2015-08-01,Restaurant meals,139.4
+2015-09-01,Restaurant meals,139.6
+2015-10-01,Restaurant meals,139.8
+2015-11-01,Restaurant meals,140.3
+2015-12-01,Restaurant meals,140.7
+2016-01-01,Restaurant meals,141.0
+2016-02-01,Restaurant meals,141.4
+2016-03-01,Restaurant meals,141.4
+2016-04-01,Restaurant meals,141.8
+2016-05-01,Restaurant meals,142.1
+2016-06-01,Restaurant meals,142.3
+2016-07-01,Restaurant meals,142.7
+2016-08-01,Restaurant meals,142.9
+2016-09-01,Restaurant meals,143.1
+2016-10-01,Restaurant meals,143.5
+2016-11-01,Restaurant meals,143.8
+2016-12-01,Restaurant meals,144.0
+2017-01-01,Restaurant meals,144.3
+2017-02-01,Restaurant meals,144.7
+2017-03-01,Restaurant meals,144.8
+2017-04-01,Restaurant meals,145.3
+2017-05-01,Restaurant meals,145.5
+2017-06-01,Restaurant meals,145.9
+2017-07-01,Restaurant meals,146.4
+2017-08-01,Restaurant meals,146.6
+2017-09-01,Restaurant meals,146.9
+2017-10-01,Restaurant meals,147.6
+2017-11-01,Restaurant meals,148.0
+2017-12-01,Restaurant meals,148.2
+2018-01-01,Restaurant meals,149.6
+2018-02-01,Restaurant meals,150.5
+2018-03-01,Restaurant meals,151.1
+2018-04-01,Restaurant meals,151.8
+2018-05-01,Restaurant meals,152.1
+2018-06-01,Restaurant meals,152.4
+2018-07-01,Restaurant meals,152.9
+2018-08-01,Restaurant meals,153.2
+2018-09-01,Restaurant meals,153.2
+2018-10-01,Restaurant meals,153.8
+2018-11-01,Restaurant meals,154.1
+2018-12-01,Restaurant meals,153.9
+2019-01-01,Restaurant meals,154.9
+2019-02-01,Restaurant meals,154.5
+2019-03-01,Restaurant meals,155.3
+2019-04-01,Restaurant meals,155.7
+2019-05-01,Restaurant meals,155.9
+2019-06-01,Restaurant meals,156.4
+2019-07-01,Restaurant meals,156.9
+2019-08-01,Restaurant meals,157.4
+2019-09-01,Restaurant meals,157.4
+2019-10-01,Restaurant meals,158.0
+2019-11-01,Restaurant meals,158.1
+2019-12-01,Restaurant meals,157.9
+2020-01-01,Restaurant meals,158.2
+2020-02-01,Restaurant meals,158.3
+2020-03-01,Restaurant meals,158.1
+2020-04-01,Restaurant meals,159.2
+2020-05-01,Restaurant meals,159.3
+2020-06-01,Restaurant meals,159.5
+2020-07-01,Restaurant meals,160.2
+2020-08-01,Restaurant meals,160.7
+2020-09-01,Restaurant meals,160.9
+2020-10-01,Restaurant meals,161.5
+2020-11-01,Restaurant meals,161.6
+2020-12-01,Restaurant meals,161.6
+2021-01-01,Restaurant meals,162.6
+2021-02-01,Restaurant meals,162.9
+2021-03-01,Restaurant meals,162.6
+2021-04-01,Restaurant meals,163.2
+2021-05-01,Restaurant meals,163.5
+2021-06-01,Restaurant meals,163.9
+2021-07-01,Restaurant meals,165.2
+2021-08-01,Restaurant meals,165.9
+2021-09-01,Restaurant meals,165.9
+2021-10-01,Restaurant meals,167.1
+2021-11-01,Restaurant meals,167.8
+2021-12-01,Restaurant meals,168.2
+2022-01-01,Restaurant meals,169.2
+2022-02-01,Restaurant meals,170.5
+2022-03-01,Restaurant meals,171.4
+2022-04-01,Restaurant meals,174.0
+2022-05-01,Restaurant meals,174.6
+2022-06-01,Restaurant meals,175.5
+2022-07-01,Restaurant meals,177.3
+2022-08-01,Restaurant meals,178.1
+2022-09-01,Restaurant meals,178.4
+2022-10-01,Restaurant meals,180.0
+2022-11-01,Restaurant meals,180.7
+2022-12-01,Restaurant meals,181.2
+2023-01-01,Restaurant meals,183.0
+2023-02-01,Restaurant meals,183.7
+2023-03-01,Restaurant meals,183.7
+2023-04-01,Restaurant meals,185.2
+2023-05-01,Restaurant meals,186.4
+2023-06-01,Restaurant meals,187.0
+2023-07-01,Restaurant meals,188.1
+2023-08-01,Restaurant meals,189.0
+2023-09-01,Restaurant meals,189.3
+2023-10-01,Restaurant meals,190.2
+2023-11-01,Restaurant meals,190.7
+2023-12-01,Restaurant meals,191.4
+2024-01-01,Restaurant meals,192.4
+2024-02-01,Restaurant meals,193.1
+2024-03-01,Restaurant meals,193.1
+2024-04-01,Restaurant meals,193.1
+2024-05-01,Restaurant meals,194.2
+2024-06-01,Restaurant meals,195.0
+2024-07-01,Restaurant meals,195.3
+2024-08-01,Restaurant meals,195.5
+2024-09-01,Restaurant meals,196.0
+2024-10-01,Restaurant meals,196.6
+2024-11-01,Restaurant meals,197.1
+2024-12-01,Restaurant meals,188.3
+2025-01-01,Restaurant meals,182.5
+2025-02-01,Restaurant meals,190.4
+2025-03-01,Restaurant meals,199.3
+2025-04-01,Restaurant meals,200.1
+2025-05-01,Restaurant meals,200.6
+2025-06-01,Restaurant meals,201.2
+2025-07-01,Restaurant meals,201.6
+2025-08-01,Restaurant meals,201.9
+2025-09-01,Restaurant meals,202.4
+2025-10-01,Restaurant meals,202.9
+2025-11-01,Restaurant meals,203.7
+2025-12-01,Restaurant meals,204.3
+2026-01-01,Restaurant meals,204.9
+2026-02-01,Restaurant meals,205.2
+2026-03-01,Restaurant meals,205.6
+2026-04-01,Restaurant meals,206.2
+2026-05-01,Restaurant meals,206.9
+2026-06-01,Restaurant meals,206.7
+1978-09-01,Vegetables,37.3
+1978-10-01,Vegetables,39.6
+1978-11-01,Vegetables,40.9
+1978-12-01,Vegetables,40.5
+1979-01-01,Vegetables,44.9
+1979-02-01,Vegetables,45.8
+1979-03-01,Vegetables,48.7
+1979-04-01,Vegetables,47.2
+1979-05-01,Vegetables,45.7
+1979-06-01,Vegetables,47.5
+1979-07-01,Vegetables,52.4
+1979-08-01,Vegetables,44.5
+1979-09-01,Vegetables,38.3
+1979-10-01,Vegetables,41.3
+1979-11-01,Vegetables,41.3
+1979-12-01,Vegetables,44.2
+1980-01-01,Vegetables,43.0
+1980-02-01,Vegetables,42.8
+1980-03-01,Vegetables,43.0
+1980-04-01,Vegetables,45.4
+1980-05-01,Vegetables,49.8
+1980-06-01,Vegetables,53.0
+1980-07-01,Vegetables,55.3
+1980-08-01,Vegetables,54.9
+1980-09-01,Vegetables,49.3
+1980-10-01,Vegetables,51.2
+1980-11-01,Vegetables,51.5
+1980-12-01,Vegetables,55.1
+1981-01-01,Vegetables,56.9
+1981-02-01,Vegetables,63.6
+1981-03-01,Vegetables,64.7
+1981-04-01,Vegetables,70.1
+1981-05-01,Vegetables,63.0
+1981-06-01,Vegetables,69.6
+1981-07-01,Vegetables,70.1
+1981-08-01,Vegetables,64.2
+1981-09-01,Vegetables,57.2
+1981-10-01,Vegetables,55.5
+1981-11-01,Vegetables,56.2
+1981-12-01,Vegetables,56.3
+1982-01-01,Vegetables,61.7
+1982-02-01,Vegetables,69.6
+1982-03-01,Vegetables,64.8
+1982-04-01,Vegetables,64.1
+1982-05-01,Vegetables,65.0
+1982-06-01,Vegetables,69.8
+1982-07-01,Vegetables,70.1
+1982-08-01,Vegetables,59.7
+1982-09-01,Vegetables,54.4
+1982-10-01,Vegetables,54.9
+1982-11-01,Vegetables,56.7
+1982-12-01,Vegetables,58.4
+1983-01-01,Vegetables,57.8
+1983-02-01,Vegetables,59.8
+1983-03-01,Vegetables,62.8
+1983-04-01,Vegetables,65.7
+1983-05-01,Vegetables,71.5
+1983-06-01,Vegetables,70.8
+1983-07-01,Vegetables,70.6
+1983-08-01,Vegetables,69.2
+1983-09-01,Vegetables,61.4
+1983-10-01,Vegetables,66.4
+1983-11-01,Vegetables,66.0
+1983-12-01,Vegetables,66.6
+1984-01-01,Vegetables,74.9
+1984-02-01,Vegetables,80.4
+1984-03-01,Vegetables,82.6
+1984-04-01,Vegetables,79.2
+1984-05-01,Vegetables,73.7
+1984-06-01,Vegetables,75.1
+1984-07-01,Vegetables,78.2
+1984-08-01,Vegetables,71.8
+1984-09-01,Vegetables,59.5
+1984-10-01,Vegetables,60.7
+1984-11-01,Vegetables,62.9
+1984-12-01,Vegetables,60.3
+1985-01-01,Vegetables,65.5
+1985-02-01,Vegetables,69.8
+1985-03-01,Vegetables,68.1
+1985-04-01,Vegetables,73.2
+1985-05-01,Vegetables,68.4
+1985-06-01,Vegetables,71.2
+1985-07-01,Vegetables,71.0
+1985-08-01,Vegetables,64.3
+1985-09-01,Vegetables,57.8
+1985-10-01,Vegetables,58.8
+1985-11-01,Vegetables,63.7
+1985-12-01,Vegetables,72.2
+1986-01-01,Vegetables,76.0
+1986-02-01,Vegetables,68.4
+1986-03-01,Vegetables,66.2
+1986-04-01,Vegetables,71.1
+1986-05-01,Vegetables,75.3
+1986-06-01,Vegetables,74.1
+1986-07-01,Vegetables,75.7
+1986-08-01,Vegetables,71.9
+1986-09-01,Vegetables,66.6
+1986-10-01,Vegetables,70.7
+1986-11-01,Vegetables,78.0
+1986-12-01,Vegetables,75.9
+1987-01-01,Vegetables,79.6
+1987-02-01,Vegetables,82.7
+1987-03-01,Vegetables,81.3
+1987-04-01,Vegetables,80.9
+1987-05-01,Vegetables,84.3
+1987-06-01,Vegetables,90.6
+1987-07-01,Vegetables,88.5
+1987-08-01,Vegetables,71.5
+1987-09-01,Vegetables,70.1
+1987-10-01,Vegetables,72.0
+1987-11-01,Vegetables,78.4
+1987-12-01,Vegetables,84.6
+1988-01-01,Vegetables,85.8
+1988-02-01,Vegetables,81.4
+1988-03-01,Vegetables,75.3
+1988-04-01,Vegetables,77.5
+1988-05-01,Vegetables,80.1
+1988-06-01,Vegetables,79.2
+1988-07-01,Vegetables,81.2
+1988-08-01,Vegetables,78.2
+1988-09-01,Vegetables,75.0
+1988-10-01,Vegetables,75.4
+1988-11-01,Vegetables,76.3
+1988-12-01,Vegetables,78.5
+1989-01-01,Vegetables,83.0
+1989-02-01,Vegetables,90.8
+1989-03-01,Vegetables,84.2
+1989-04-01,Vegetables,85.3
+1989-05-01,Vegetables,92.4
+1989-06-01,Vegetables,96.6
+1989-07-01,Vegetables,95.7
+1989-08-01,Vegetables,82.8
+1989-09-01,Vegetables,74.9
+1989-10-01,Vegetables,77.9
+1989-11-01,Vegetables,82.4
+1989-12-01,Vegetables,75.3
+1990-01-01,Vegetables,93.1
+1990-02-01,Vegetables,102.4
+1990-03-01,Vegetables,98.0
+1990-04-01,Vegetables,84.8
+1990-05-01,Vegetables,84.8
+1990-06-01,Vegetables,88.7
+1990-07-01,Vegetables,88.5
+1990-08-01,Vegetables,79.4
+1990-09-01,Vegetables,72.4
+1990-10-01,Vegetables,78.6
+1990-11-01,Vegetables,82.1
+1990-12-01,Vegetables,77.5
+1991-01-01,Vegetables,83.2
+1991-02-01,Vegetables,83.7
+1991-03-01,Vegetables,80.7
+1991-04-01,Vegetables,89.8
+1991-05-01,Vegetables,93.7
+1991-06-01,Vegetables,110.5
+1991-07-01,Vegetables,100.3
+1991-08-01,Vegetables,83.2
+1991-09-01,Vegetables,74.0
+1991-10-01,Vegetables,72.1
+1991-11-01,Vegetables,79.8
+1991-12-01,Vegetables,77.7
+1992-01-01,Vegetables,81.9
+1992-02-01,Vegetables,86.9
+1992-03-01,Vegetables,92.2
+1992-04-01,Vegetables,95.2
+1992-05-01,Vegetables,86.4
+1992-06-01,Vegetables,87.4
+1992-07-01,Vegetables,86.5
+1992-08-01,Vegetables,80.0
+1992-09-01,Vegetables,77.0
+1992-10-01,Vegetables,78.5
+1992-11-01,Vegetables,83.3
+1992-12-01,Vegetables,84.9
+1993-01-01,Vegetables,89.9
+1993-02-01,Vegetables,92.4
+1993-03-01,Vegetables,96.5
+1993-04-01,Vegetables,93.1
+1993-05-01,Vegetables,102.4
+1993-06-01,Vegetables,99.4
+1993-07-01,Vegetables,93.5
+1993-08-01,Vegetables,85.2
+1993-09-01,Vegetables,78.6
+1993-10-01,Vegetables,80.5
+1993-11-01,Vegetables,87.3
+1993-12-01,Vegetables,91.1
+1994-01-01,Vegetables,95.4
+1994-02-01,Vegetables,88.0
+1994-03-01,Vegetables,86.8
+1994-04-01,Vegetables,86.8
+1994-05-01,Vegetables,89.1
+1994-06-01,Vegetables,93.2
+1994-07-01,Vegetables,93.7
+1994-08-01,Vegetables,83.4
+1994-09-01,Vegetables,73.5
+1994-10-01,Vegetables,75.9
+1994-11-01,Vegetables,82.9
+1994-12-01,Vegetables,86.4
+1995-01-01,Vegetables,92.5
+1995-02-01,Vegetables,92.5
+1995-03-01,Vegetables,91.9
+1995-04-01,Vegetables,101.1
+1995-05-01,Vegetables,94.2
+1995-06-01,Vegetables,97.1
+1995-07-01,Vegetables,91.4
+1995-08-01,Vegetables,76.0
+1995-09-01,Vegetables,71.8
+1995-10-01,Vegetables,71.8
+1995-11-01,Vegetables,73.2
+1995-12-01,Vegetables,78.2
+1996-01-01,Vegetables,79.9
+1996-02-01,Vegetables,77.4
+1996-03-01,Vegetables,79.1
+1996-04-01,Vegetables,88.1
+1996-05-01,Vegetables,83.4
+1996-06-01,Vegetables,85.6
+1996-07-01,Vegetables,84.1
+1996-08-01,Vegetables,77.3
+1996-09-01,Vegetables,67.8
+1996-10-01,Vegetables,70.4
+1996-11-01,Vegetables,77.8
+1996-12-01,Vegetables,75.0
+1997-01-01,Vegetables,79.4
+1997-02-01,Vegetables,82.5
+1997-03-01,Vegetables,83.4
+1997-04-01,Vegetables,81.5
+1997-05-01,Vegetables,81.0
+1997-06-01,Vegetables,85.4
+1997-07-01,Vegetables,88.2
+1997-08-01,Vegetables,80.6
+1997-09-01,Vegetables,73.0
+1997-10-01,Vegetables,73.0
+1997-11-01,Vegetables,82.0
+1997-12-01,Vegetables,81.3
+1998-01-01,Vegetables,97.4
+1998-02-01,Vegetables,88.9
+1998-03-01,Vegetables,93.9
+1998-04-01,Vegetables,92.4
+1998-05-01,Vegetables,93.6
+1998-06-01,Vegetables,95.0
+1998-07-01,Vegetables,91.9
+1998-08-01,Vegetables,81.4
+1998-09-01,Vegetables,74.8
+1998-10-01,Vegetables,78.2
+1998-11-01,Vegetables,84.2
+1998-12-01,Vegetables,85.5
+1999-01-01,Vegetables,92.3
+1999-02-01,Vegetables,89.9
+1999-03-01,Vegetables,92.1
+1999-04-01,Vegetables,90.7
+1999-05-01,Vegetables,90.3
+1999-06-01,Vegetables,94.1
+1999-07-01,Vegetables,91.1
+1999-08-01,Vegetables,82.2
+1999-09-01,Vegetables,76.7
+1999-10-01,Vegetables,78.2
+1999-11-01,Vegetables,81.1
+1999-12-01,Vegetables,83.6
+2000-01-01,Vegetables,87.4
+2000-02-01,Vegetables,82.7
+2000-03-01,Vegetables,84.9
+2000-04-01,Vegetables,86.1
+2000-05-01,Vegetables,90.5
+2000-06-01,Vegetables,93.3
+2000-07-01,Vegetables,94.7
+2000-08-01,Vegetables,89.0
+2000-09-01,Vegetables,81.5
+2000-10-01,Vegetables,81.4
+2000-11-01,Vegetables,86.4
+2000-12-01,Vegetables,97.5
+2001-01-01,Vegetables,92.7
+2001-02-01,Vegetables,96.3
+2001-03-01,Vegetables,100.4
+2001-04-01,Vegetables,97.7
+2001-05-01,Vegetables,99.2
+2001-06-01,Vegetables,98.5
+2001-07-01,Vegetables,99.6
+2001-08-01,Vegetables,90.0
+2001-09-01,Vegetables,82.6
+2001-10-01,Vegetables,82.1
+2001-11-01,Vegetables,86.2
+2001-12-01,Vegetables,94.7
+2002-01-01,Vegetables,104.8
+2002-02-01,Vegetables,108.4
+2002-03-01,Vegetables,110.3
+2002-04-01,Vegetables,108.3
+2002-05-01,Vegetables,101.8
+2002-06-01,Vegetables,105.6
+2002-07-01,Vegetables,105.3
+2002-08-01,Vegetables,94.0
+2002-09-01,Vegetables,85.1
+2002-10-01,Vegetables,82.9
+2002-11-01,Vegetables,94.8
+2002-12-01,Vegetables,98.7
+2003-01-01,Vegetables,103.4
+2003-02-01,Vegetables,98.6
+2003-03-01,Vegetables,99.9
+2003-04-01,Vegetables,98.3
+2003-05-01,Vegetables,97.7
+2003-06-01,Vegetables,98.8
+2003-07-01,Vegetables,97.7
+2003-08-01,Vegetables,88.8
+2003-09-01,Vegetables,81.5
+2003-10-01,Vegetables,81.1
+2003-11-01,Vegetables,88.6
+2003-12-01,Vegetables,96.7
+2004-01-01,Vegetables,98.0
+2004-02-01,Vegetables,94.7
+2004-03-01,Vegetables,96.3
+2004-04-01,Vegetables,91.5
+2004-05-01,Vegetables,91.8
+2004-06-01,Vegetables,93.4
+2004-07-01,Vegetables,89.3
+2004-08-01,Vegetables,83.8
+2004-09-01,Vegetables,80.1
+2004-10-01,Vegetables,85.2
+2004-11-01,Vegetables,97.6
+2004-12-01,Vegetables,103.3
+2005-01-01,Vegetables,94.5
+2005-02-01,Vegetables,91.2
+2005-03-01,Vegetables,93.5
+2005-04-01,Vegetables,97.8
+2005-05-01,Vegetables,98.9
+2005-06-01,Vegetables,98.2
+2005-07-01,Vegetables,94.5
+2005-08-01,Vegetables,90.7
+2005-09-01,Vegetables,85.3
+2005-10-01,Vegetables,86.1
+2005-11-01,Vegetables,92.9
+2005-12-01,Vegetables,99.3
+2006-01-01,Vegetables,108.5
+2006-02-01,Vegetables,103.0
+2006-03-01,Vegetables,97.7
+2006-04-01,Vegetables,98.2
+2006-05-01,Vegetables,98.2
+2006-06-01,Vegetables,98.7
+2006-07-01,Vegetables,98.2
+2006-08-01,Vegetables,95.2
+2006-09-01,Vegetables,91.7
+2006-10-01,Vegetables,96.8
+2006-11-01,Vegetables,97.4
+2006-12-01,Vegetables,96.8
+2007-01-01,Vegetables,101.8
+2007-02-01,Vegetables,111.3
+2007-03-01,Vegetables,108.9
+2007-04-01,Vegetables,108.3
+2007-05-01,Vegetables,105.6
+2007-06-01,Vegetables,102.2
+2007-07-01,Vegetables,97.9
+2007-08-01,Vegetables,92.1
+2007-09-01,Vegetables,85.9
+2007-10-01,Vegetables,86.5
+2007-11-01,Vegetables,89.6
+2007-12-01,Vegetables,93.5
+2008-01-01,Vegetables,98.6
+2008-02-01,Vegetables,96.9
+2008-03-01,Vegetables,94.1
+2008-04-01,Vegetables,94.5
+2008-05-01,Vegetables,99.2
+2008-06-01,Vegetables,104.1
+2008-07-01,Vegetables,106.2
+2008-08-01,Vegetables,99.3
+2008-09-01,Vegetables,95.3
+2008-10-01,Vegetables,95.4
+2008-11-01,Vegetables,110.1
+2008-12-01,Vegetables,113.9
+2009-01-01,Vegetables,115.4
+2009-02-01,Vegetables,117.7
+2009-03-01,Vegetables,114.9
+2009-04-01,Vegetables,114.7
+2009-05-01,Vegetables,113.9
+2009-06-01,Vegetables,113.6
+2009-07-01,Vegetables,113.5
+2009-08-01,Vegetables,106.2
+2009-09-01,Vegetables,97.7
+2009-10-01,Vegetables,95.7
+2009-11-01,Vegetables,107.3
+2009-12-01,Vegetables,112.2
+2010-01-01,Vegetables,110.9
+2010-02-01,Vegetables,110.4
+2010-03-01,Vegetables,113.2
+2010-04-01,Vegetables,116.6
+2010-05-01,Vegetables,115.2
+2010-06-01,Vegetables,113.8
+2010-07-01,Vegetables,111.0
+2010-08-01,Vegetables,107.6
+2010-09-01,Vegetables,100.9
+2010-10-01,Vegetables,99.5
+2010-11-01,Vegetables,104.1
+2010-12-01,Vegetables,108.8
+2011-01-01,Vegetables,112.1
+2011-02-01,Vegetables,115.8
+2011-03-01,Vegetables,128.3
+2011-04-01,Vegetables,120.3
+2011-05-01,Vegetables,119.2
+2011-06-01,Vegetables,121.4
+2011-07-01,Vegetables,121.7
+2011-08-01,Vegetables,114.9
+2011-09-01,Vegetables,110.6
+2011-10-01,Vegetables,107.4
+2011-11-01,Vegetables,114.8
+2011-12-01,Vegetables,118.2
+2012-01-01,Vegetables,120.0
+2012-02-01,Vegetables,118.5
+2012-03-01,Vegetables,113.3
+2012-04-01,Vegetables,111.7
+2012-05-01,Vegetables,113.3
+2012-06-01,Vegetables,116.4
+2012-07-01,Vegetables,117.0
+2012-08-01,Vegetables,112.6
+2012-09-01,Vegetables,107.1
+2012-10-01,Vegetables,106.4
+2012-11-01,Vegetables,110.0
+2012-12-01,Vegetables,113.3
+2013-01-01,Vegetables,115.7
+2013-02-01,Vegetables,121.6
+2013-03-01,Vegetables,119.1
+2013-04-01,Vegetables,117.7
+2013-05-01,Vegetables,118.5
+2013-06-01,Vegetables,120.6
+2013-07-01,Vegetables,119.6
+2013-08-01,Vegetables,116.0
+2013-09-01,Vegetables,112.7
+2013-10-01,Vegetables,109.2
+2013-11-01,Vegetables,119.5
+2013-12-01,Vegetables,119.1
+2014-01-01,Vegetables,120.7
+2014-02-01,Vegetables,123.5
+2014-03-01,Vegetables,123.9
+2014-04-01,Vegetables,122.8
+2014-05-01,Vegetables,125.7
+2014-06-01,Vegetables,129.4
+2014-07-01,Vegetables,126.9
+2014-08-01,Vegetables,119.7
+2014-09-01,Vegetables,115.1
+2014-10-01,Vegetables,112.6
+2014-11-01,Vegetables,123.0
+2014-12-01,Vegetables,126.4
+2015-01-01,Vegetables,132.2
+2015-02-01,Vegetables,132.7
+2015-03-01,Vegetables,131.0
+2015-04-01,Vegetables,128.1
+2015-05-01,Vegetables,132.7
+2015-06-01,Vegetables,132.0
+2015-07-01,Vegetables,132.3
+2015-08-01,Vegetables,127.0
+2015-09-01,Vegetables,125.1
+2015-10-01,Vegetables,124.0
+2015-11-01,Vegetables,133.1
+2015-12-01,Vegetables,139.7
+2016-01-01,Vegetables,150.7
+2016-02-01,Vegetables,150.9
+2016-03-01,Vegetables,146.6
+2016-04-01,Vegetables,140.7
+2016-05-01,Vegetables,134.5
+2016-06-01,Vegetables,135.8
+2016-07-01,Vegetables,135.2
+2016-08-01,Vegetables,129.4
+2016-09-01,Vegetables,122.9
+2016-10-01,Vegetables,120.8
+2016-11-01,Vegetables,128.1
+2016-12-01,Vegetables,129.3
+2017-01-01,Vegetables,130.9
+2017-02-01,Vegetables,132.9
+2017-03-01,Vegetables,133.9
+2017-04-01,Vegetables,132.9
+2017-05-01,Vegetables,136.3
+2017-06-01,Vegetables,139.4
+2017-07-01,Vegetables,137.8
+2017-08-01,Vegetables,132.6
+2017-09-01,Vegetables,126.3
+2017-10-01,Vegetables,122.9
+2017-11-01,Vegetables,132.0
+2017-12-01,Vegetables,136.5
+2018-01-01,Vegetables,139.9
+2018-02-01,Vegetables,139.9
+2018-03-01,Vegetables,137.4
+2018-04-01,Vegetables,137.0
+2018-05-01,Vegetables,135.4
+2018-06-01,Vegetables,140.1
+2018-07-01,Vegetables,140.4
+2018-08-01,Vegetables,136.6
+2018-09-01,Vegetables,133.6
+2018-10-01,Vegetables,133.2
+2018-11-01,Vegetables,141.8
+2018-12-01,Vegetables,151.8
+2019-01-01,Vegetables,154.9
+2019-02-01,Vegetables,157.2
+2019-03-01,Vegetables,155.5
+2019-04-01,Vegetables,154.4
+2019-05-01,Vegetables,154.9
+2019-06-01,Vegetables,160.6
+2019-07-01,Vegetables,163.0
+2019-08-01,Vegetables,154.9
+2019-09-01,Vegetables,148.1
+2019-10-01,Vegetables,142.7
+2019-11-01,Vegetables,150.9
+2019-12-01,Vegetables,154.8
+2020-01-01,Vegetables,162.4
+2020-02-01,Vegetables,161.8
+2020-03-01,Vegetables,158.9
+2020-04-01,Vegetables,160.3
+2020-05-01,Vegetables,157.9
+2020-06-01,Vegetables,163.1
+2020-07-01,Vegetables,165.4
+2020-08-01,Vegetables,158.3
+2020-09-01,Vegetables,153.2
+2020-10-01,Vegetables,153.1
+2020-11-01,Vegetables,156.8
+2020-12-01,Vegetables,157.1
+2021-01-01,Vegetables,162.5
+2021-02-01,Vegetables,163.8
+2021-03-01,Vegetables,157.4
+2021-04-01,Vegetables,151.1
+2021-05-01,Vegetables,153.8
+2021-06-01,Vegetables,153.4
+2021-07-01,Vegetables,154.8
+2021-08-01,Vegetables,152.2
+2021-09-01,Vegetables,150.0
+2021-10-01,Vegetables,149.4
+2021-11-01,Vegetables,161.4
+2021-12-01,Vegetables,163.3
+2022-01-01,Vegetables,166.4
+2022-02-01,Vegetables,167.8
+2022-03-01,Vegetables,165.9
+2022-04-01,Vegetables,163.4
+2022-05-01,Vegetables,169.5
+2022-06-01,Vegetables,168.5
+2022-07-01,Vegetables,169.8
+2022-08-01,Vegetables,168.2
+2022-09-01,Vegetables,169.0
+2022-10-01,Vegetables,168.3
+2022-11-01,Vegetables,180.7
+2022-12-01,Vegetables,185.6
+2023-01-01,Vegetables,191.5
+2023-02-01,Vegetables,191.1
+2023-03-01,Vegetables,185.7
+2023-04-01,Vegetables,179.3
+2023-05-01,Vegetables,185.6
+2023-06-01,Vegetables,183.0
+2023-07-01,Vegetables,185.2
+2023-08-01,Vegetables,182.5
+2023-09-01,Vegetables,180.9
+2023-10-01,Vegetables,176.5
+2023-11-01,Vegetables,186.7
+2023-12-01,Vegetables,188.6
+2024-01-01,Vegetables,194.6
+2024-02-01,Vegetables,197.5
+2024-03-01,Vegetables,190.5
+2024-04-01,Vegetables,185.2
+2024-05-01,Vegetables,189.7
+2024-06-01,Vegetables,190.2
+2024-07-01,Vegetables,194.7
+2024-08-01,Vegetables,189.8
+2024-09-01,Vegetables,188.2
+2024-10-01,Vegetables,185.2
+2024-11-01,Vegetables,193.0
+2024-12-01,Vegetables,197.2
+2025-01-01,Vegetables,202.2
+2025-02-01,Vegetables,199.7
+2025-03-01,Vegetables,193.0
+2025-04-01,Vegetables,191.2
+2025-05-01,Vegetables,193.4
+2025-06-01,Vegetables,186.6
+2025-07-01,Vegetables,191.2
+2025-08-01,Vegetables,188.1
+2025-09-01,Vegetables,192.8
+2025-10-01,Vegetables,183.6
+2025-11-01,Vegetables,194.0
+2025-12-01,Vegetables,196.8
+2026-01-01,Vegetables,200.0
+2026-02-01,Vegetables,202.4
+2026-03-01,Vegetables,205.2
+2026-04-01,Vegetables,198.9
+2026-05-01,Vegetables,207.4
+2026-06-01,Vegetables,200.4

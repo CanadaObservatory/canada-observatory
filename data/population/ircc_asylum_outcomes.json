@@ -1,0 +1,15 @@
+{
+  "dataset_id": "ircc_asylum_outcomes",
+  "source": "Immigration, Refugees and Citizenship Canada (open data)",
+  "source_table": "IRB Refugee Protection Division decisions (open.canada.ca 6e47f705)",
+  "frequency": "annual",
+  "unit": "persons (rounded to nearest 5)",
+  "retrieved_at": "2026-08-10T15:03:31.619574+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "asylum decision outcomes by year; acceptance rate = positive / (positive + negative)"
+  ],
+  "notes": null,
+  "row_count": 13
+}

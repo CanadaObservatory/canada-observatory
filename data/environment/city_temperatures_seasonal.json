@@ -1,0 +1,15 @@
+{
+  "dataset_id": "city_temperatures_seasonal",
+  "source": "Environment and Climate Change Canada",
+  "source_table": "ECCC AHCCD seasonal (homogenized), via GeoMet",
+  "frequency": "annual",
+  "unit": "\u00b0C seasonal mean / mean daily-high (homogenized)",
+  "retrieved_at": "2026-08-10T15:09:48.397298+00:00",
+  "latest_observation_date": "2020",
+  "next_release_date": null,
+  "transformations": [
+    "homogenized seasonal mean + mean daily-high per city/season/year (Winter/Spring/Summer/Autumn)"
+  ],
+  "notes": null,
+  "row_count": 2923
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_oda",
+  "source": "OECD (Development Assistance Committee, DAC1)",
+  "source_table": "OECD.DCD.FSD,DSD_DAC1@DF_DAC1 (MEASURE 11002, grant-equivalent ODA, % of GNI)",
+  "frequency": "annual",
+  "unit": "ODA as % of gross national income",
+  "retrieved_at": "2026-08-10T15:05:10.418152+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "grant-equivalent ODA / GNI; Canada + OECD-DAC peers; 2018\u2013"
+  ],
+  "notes": null,
+  "row_count": 96
+}

@@ -1,0 +1,829 @@
+code,jurisdiction,year,min_wage
+AB,Alberta,1965,0.95
+AB,Alberta,1966,1.0
+AB,Alberta,1967,1.15
+AB,Alberta,1968,1.25
+AB,Alberta,1969,1.25
+AB,Alberta,1970,1.55
+AB,Alberta,1971,1.55
+AB,Alberta,1972,1.55
+AB,Alberta,1973,1.9
+AB,Alberta,1974,2.0
+AB,Alberta,1975,2.5
+AB,Alberta,1976,2.75
+AB,Alberta,1977,3.0
+AB,Alberta,1978,3.0
+AB,Alberta,1979,3.0
+AB,Alberta,1980,3.5
+AB,Alberta,1981,3.8
+AB,Alberta,1982,3.8
+AB,Alberta,1983,3.8
+AB,Alberta,1984,3.8
+AB,Alberta,1985,3.8
+AB,Alberta,1986,3.8
+AB,Alberta,1987,3.8
+AB,Alberta,1988,4.5
+AB,Alberta,1989,4.5
+AB,Alberta,1990,4.5
+AB,Alberta,1991,4.5
+AB,Alberta,1992,5.0
+AB,Alberta,1993,5.0
+AB,Alberta,1994,5.0
+AB,Alberta,1995,5.0
+AB,Alberta,1996,5.0
+AB,Alberta,1997,5.0
+AB,Alberta,1998,5.4
+AB,Alberta,1999,5.9
+AB,Alberta,2000,5.9
+AB,Alberta,2001,5.9
+AB,Alberta,2002,5.9
+AB,Alberta,2003,5.9
+AB,Alberta,2004,5.9
+AB,Alberta,2005,7.0
+AB,Alberta,2006,7.0
+AB,Alberta,2007,8.0
+AB,Alberta,2008,8.4
+AB,Alberta,2009,8.8
+AB,Alberta,2010,8.8
+AB,Alberta,2011,9.4
+AB,Alberta,2012,9.75
+AB,Alberta,2013,9.95
+AB,Alberta,2014,10.2
+AB,Alberta,2015,11.2
+AB,Alberta,2016,12.2
+AB,Alberta,2017,13.6
+AB,Alberta,2018,15.0
+AB,Alberta,2019,15.0
+AB,Alberta,2020,15.0
+AB,Alberta,2021,15.0
+AB,Alberta,2022,15.0
+AB,Alberta,2023,15.0
+AB,Alberta,2024,15.0
+AB,Alberta,2025,15.0
+AB,Alberta,2026,15.0
+BC,British Columbia,1965,1.0
+BC,British Columbia,1966,1.0
+BC,British Columbia,1967,1.25
+BC,British Columbia,1968,1.25
+BC,British Columbia,1969,1.25
+BC,British Columbia,1970,1.5
+BC,British Columbia,1971,1.5
+BC,British Columbia,1972,2.0
+BC,British Columbia,1973,2.25
+BC,British Columbia,1974,2.5
+BC,British Columbia,1975,2.75
+BC,British Columbia,1976,3.0
+BC,British Columbia,1977,3.0
+BC,British Columbia,1978,3.0
+BC,British Columbia,1979,3.0
+BC,British Columbia,1980,3.65
+BC,British Columbia,1981,3.65
+BC,British Columbia,1982,3.65
+BC,British Columbia,1983,3.65
+BC,British Columbia,1984,3.65
+BC,British Columbia,1985,3.65
+BC,British Columbia,1986,3.65
+BC,British Columbia,1987,3.65
+BC,British Columbia,1988,4.5
+BC,British Columbia,1989,4.75
+BC,British Columbia,1990,5.0
+BC,British Columbia,1991,5.0
+BC,British Columbia,1992,5.5
+BC,British Columbia,1993,6.0
+BC,British Columbia,1994,6.0
+BC,British Columbia,1995,7.0
+BC,British Columbia,1996,7.0
+BC,British Columbia,1997,7.0
+BC,British Columbia,1998,7.15
+BC,British Columbia,1999,7.15
+BC,British Columbia,2000,7.6
+BC,British Columbia,2001,8.0
+BC,British Columbia,2002,8.0
+BC,British Columbia,2003,8.0
+BC,British Columbia,2004,8.0
+BC,British Columbia,2005,8.0
+BC,British Columbia,2006,8.0
+BC,British Columbia,2007,8.0
+BC,British Columbia,2008,8.0
+BC,British Columbia,2009,8.0
+BC,British Columbia,2010,8.0
+BC,British Columbia,2011,9.5
+BC,British Columbia,2012,10.25
+BC,British Columbia,2013,10.25
+BC,British Columbia,2014,10.25
+BC,British Columbia,2015,10.45
+BC,British Columbia,2016,10.85
+BC,British Columbia,2017,11.35
+BC,British Columbia,2018,12.65
+BC,British Columbia,2019,13.85
+BC,British Columbia,2020,14.6
+BC,British Columbia,2021,15.2
+BC,British Columbia,2022,15.65
+BC,British Columbia,2023,16.75
+BC,British Columbia,2024,17.4
+BC,British Columbia,2025,17.85
+BC,British Columbia,2026,17.85
+FJ,Federal,1965,1.25
+FJ,Federal,1966,1.25
+FJ,Federal,1967,1.25
+FJ,Federal,1968,1.25
+FJ,Federal,1969,1.25
+FJ,Federal,1970,1.65
+FJ,Federal,1971,1.75
+FJ,Federal,1972,1.9
+FJ,Federal,1973,1.9
+FJ,Federal,1974,2.2
+FJ,Federal,1975,2.6
+FJ,Federal,1976,2.9
+FJ,Federal,1977,2.9
+FJ,Federal,1978,2.9
+FJ,Federal,1979,2.9
+FJ,Federal,1980,3.25
+FJ,Federal,1981,3.5
+FJ,Federal,1982,3.5
+FJ,Federal,1983,3.5
+FJ,Federal,1984,3.5
+FJ,Federal,1985,3.5
+FJ,Federal,1986,4.0
+FJ,Federal,1987,4.0
+FJ,Federal,1988,4.0
+FJ,Federal,1989,4.0
+FJ,Federal,1990,4.0
+FJ,Federal,1991,4.0
+FJ,Federal,1992,4.0
+FJ,Federal,1993,4.0
+FJ,Federal,1994,4.0
+FJ,Federal,1995,4.0
+FJ,Federal,1996,4.0
+FJ,Federal,1997,4.0
+FJ,Federal,1998,4.0
+FJ,Federal,1999,4.0
+FJ,Federal,2000,4.0
+FJ,Federal,2001,4.0
+FJ,Federal,2002,4.0
+FJ,Federal,2003,4.0
+FJ,Federal,2004,4.0
+FJ,Federal,2005,4.0
+FJ,Federal,2006,4.0
+FJ,Federal,2007,4.0
+FJ,Federal,2008,4.0
+FJ,Federal,2009,4.0
+FJ,Federal,2010,4.0
+FJ,Federal,2011,4.0
+FJ,Federal,2012,4.0
+FJ,Federal,2013,4.0
+FJ,Federal,2014,4.0
+FJ,Federal,2015,4.0
+FJ,Federal,2016,4.0
+FJ,Federal,2017,4.0
+FJ,Federal,2018,4.0
+FJ,Federal,2019,4.0
+FJ,Federal,2020,4.0
+FJ,Federal,2021,15.0
+FJ,Federal,2022,15.55
+FJ,Federal,2023,16.65
+FJ,Federal,2024,17.3
+FJ,Federal,2025,17.75
+FJ,Federal,2026,17.75
+MB,Manitoba,1965,0.8
+MB,Manitoba,1966,1.0
+MB,Manitoba,1967,1.1
+MB,Manitoba,1968,1.25
+MB,Manitoba,1969,1.35
+MB,Manitoba,1970,1.5
+MB,Manitoba,1971,1.65
+MB,Manitoba,1972,1.75
+MB,Manitoba,1973,1.9
+MB,Manitoba,1974,2.15
+MB,Manitoba,1975,2.6
+MB,Manitoba,1976,2.95
+MB,Manitoba,1977,2.95
+MB,Manitoba,1978,2.95
+MB,Manitoba,1979,3.05
+MB,Manitoba,1980,3.15
+MB,Manitoba,1981,3.55
+MB,Manitoba,1982,4.0
+MB,Manitoba,1983,4.0
+MB,Manitoba,1984,4.0
+MB,Manitoba,1985,4.3
+MB,Manitoba,1986,4.3
+MB,Manitoba,1987,4.7
+MB,Manitoba,1988,4.7
+MB,Manitoba,1989,4.7
+MB,Manitoba,1990,4.7
+MB,Manitoba,1991,5.0
+MB,Manitoba,1992,5.0
+MB,Manitoba,1993,5.0
+MB,Manitoba,1994,5.0
+MB,Manitoba,1995,5.25
+MB,Manitoba,1996,5.4
+MB,Manitoba,1997,5.4
+MB,Manitoba,1998,5.4
+MB,Manitoba,1999,6.0
+MB,Manitoba,2000,6.0
+MB,Manitoba,2001,6.25
+MB,Manitoba,2002,6.5
+MB,Manitoba,2003,6.75
+MB,Manitoba,2004,7.0
+MB,Manitoba,2005,7.25
+MB,Manitoba,2006,7.6
+MB,Manitoba,2007,8.0
+MB,Manitoba,2008,8.5
+MB,Manitoba,2009,9.0
+MB,Manitoba,2010,9.5
+MB,Manitoba,2011,10.0
+MB,Manitoba,2012,10.25
+MB,Manitoba,2013,10.45
+MB,Manitoba,2014,10.7
+MB,Manitoba,2015,11.0
+MB,Manitoba,2016,11.0
+MB,Manitoba,2017,11.15
+MB,Manitoba,2018,11.35
+MB,Manitoba,2019,11.65
+MB,Manitoba,2020,11.9
+MB,Manitoba,2021,11.95
+MB,Manitoba,2022,13.5
+MB,Manitoba,2023,15.3
+MB,Manitoba,2024,15.8
+MB,Manitoba,2025,16.0
+MB,Manitoba,2026,16.0
+NB,New Brunswick,1965,0.8
+NB,New Brunswick,1966,0.9
+NB,New Brunswick,1967,0.9
+NB,New Brunswick,1968,1.0
+NB,New Brunswick,1969,1.0
+NB,New Brunswick,1970,1.15
+NB,New Brunswick,1971,1.25
+NB,New Brunswick,1972,1.4
+NB,New Brunswick,1973,1.5
+NB,New Brunswick,1974,1.9
+NB,New Brunswick,1975,2.3
+NB,New Brunswick,1976,2.8
+NB,New Brunswick,1977,2.8
+NB,New Brunswick,1978,2.8
+NB,New Brunswick,1979,2.8
+NB,New Brunswick,1980,3.35
+NB,New Brunswick,1981,3.35
+NB,New Brunswick,1982,3.8
+NB,New Brunswick,1983,3.8
+NB,New Brunswick,1984,3.8
+NB,New Brunswick,1985,3.8
+NB,New Brunswick,1986,4.0
+NB,New Brunswick,1987,4.0
+NB,New Brunswick,1988,4.0
+NB,New Brunswick,1989,4.5
+NB,New Brunswick,1990,4.75
+NB,New Brunswick,1991,5.0
+NB,New Brunswick,1992,5.0
+NB,New Brunswick,1993,5.0
+NB,New Brunswick,1994,5.0
+NB,New Brunswick,1995,5.0
+NB,New Brunswick,1996,5.5
+NB,New Brunswick,1997,5.5
+NB,New Brunswick,1998,5.5
+NB,New Brunswick,1999,5.5
+NB,New Brunswick,2000,5.75
+NB,New Brunswick,2001,5.9
+NB,New Brunswick,2002,6.0
+NB,New Brunswick,2003,6.0
+NB,New Brunswick,2004,6.2
+NB,New Brunswick,2005,6.3
+NB,New Brunswick,2006,6.7
+NB,New Brunswick,2007,7.25
+NB,New Brunswick,2008,7.75
+NB,New Brunswick,2009,8.25
+NB,New Brunswick,2010,9.0
+NB,New Brunswick,2011,9.5
+NB,New Brunswick,2012,10.0
+NB,New Brunswick,2013,10.0
+NB,New Brunswick,2014,10.3
+NB,New Brunswick,2015,10.3
+NB,New Brunswick,2016,10.65
+NB,New Brunswick,2017,11.0
+NB,New Brunswick,2018,11.25
+NB,New Brunswick,2019,11.5
+NB,New Brunswick,2020,11.7
+NB,New Brunswick,2021,11.75
+NB,New Brunswick,2022,13.75
+NB,New Brunswick,2023,14.75
+NB,New Brunswick,2024,15.3
+NB,New Brunswick,2025,15.65
+NB,New Brunswick,2026,15.65
+NL,Newfoundland and Labrador,1965,0.5
+NL,Newfoundland and Labrador,1966,0.5
+NL,Newfoundland and Labrador,1967,0.5
+NL,Newfoundland and Labrador,1968,0.85
+NL,Newfoundland and Labrador,1969,0.85
+NL,Newfoundland and Labrador,1970,1.0
+NL,Newfoundland and Labrador,1971,1.0
+NL,Newfoundland and Labrador,1972,1.4
+NL,Newfoundland and Labrador,1973,1.4
+NL,Newfoundland and Labrador,1974,2.0
+NL,Newfoundland and Labrador,1975,2.2
+NL,Newfoundland and Labrador,1976,2.5
+NL,Newfoundland and Labrador,1977,2.5
+NL,Newfoundland and Labrador,1978,2.5
+NL,Newfoundland and Labrador,1979,2.8
+NL,Newfoundland and Labrador,1980,3.15
+NL,Newfoundland and Labrador,1981,3.45
+NL,Newfoundland and Labrador,1982,3.45
+NL,Newfoundland and Labrador,1983,3.75
+NL,Newfoundland and Labrador,1984,3.75
+NL,Newfoundland and Labrador,1985,4.0
+NL,Newfoundland and Labrador,1986,4.0
+NL,Newfoundland and Labrador,1987,4.0
+NL,Newfoundland and Labrador,1988,4.25
+NL,Newfoundland and Labrador,1989,4.25
+NL,Newfoundland and Labrador,1990,4.25
+NL,Newfoundland and Labrador,1991,4.75
+NL,Newfoundland and Labrador,1992,4.75
+NL,Newfoundland and Labrador,1993,4.75
+NL,Newfoundland and Labrador,1994,4.75
+NL,Newfoundland and Labrador,1995,4.75
+NL,Newfoundland and Labrador,1996,5.0
+NL,Newfoundland and Labrador,1997,5.25
+NL,Newfoundland and Labrador,1998,5.25
+NL,Newfoundland and Labrador,1999,5.5
+NL,Newfoundland and Labrador,2000,5.5
+NL,Newfoundland and Labrador,2001,5.5
+NL,Newfoundland and Labrador,2002,6.0
+NL,Newfoundland and Labrador,2003,6.0
+NL,Newfoundland and Labrador,2004,6.0
+NL,Newfoundland and Labrador,2005,6.25
+NL,Newfoundland and Labrador,2006,6.75
+NL,Newfoundland and Labrador,2007,7.5
+NL,Newfoundland and Labrador,2008,8.0
+NL,Newfoundland and Labrador,2009,9.0
+NL,Newfoundland and Labrador,2010,10.0
+NL,Newfoundland and Labrador,2011,10.0
+NL,Newfoundland and Labrador,2012,10.0
+NL,Newfoundland and Labrador,2013,10.0
+NL,Newfoundland and Labrador,2014,10.25
+NL,Newfoundland and Labrador,2015,10.5
+NL,Newfoundland and Labrador,2016,10.5
+NL,Newfoundland and Labrador,2017,11.0
+NL,Newfoundland and Labrador,2018,11.15
+NL,Newfoundland and Labrador,2019,11.4
+NL,Newfoundland and Labrador,2020,12.15
+NL,Newfoundland and Labrador,2021,12.75
+NL,Newfoundland and Labrador,2022,13.7
+NL,Newfoundland and Labrador,2023,15.0
+NL,Newfoundland and Labrador,2024,15.6
+NL,Newfoundland and Labrador,2025,16.0
+NL,Newfoundland and Labrador,2026,16.0
+NWT,Northwest Territories,1968,1.25
+NWT,Northwest Territories,1969,1.25
+NWT,Northwest Territories,1970,1.5
+NWT,Northwest Territories,1971,1.5
+NWT,Northwest Territories,1972,1.5
+NWT,Northwest Territories,1973,2.0
+NWT,Northwest Territories,1974,2.5
+NWT,Northwest Territories,1975,2.5
+NWT,Northwest Territories,1976,3.0
+NWT,Northwest Territories,1977,3.0
+NWT,Northwest Territories,1978,3.0
+NWT,Northwest Territories,1979,3.0
+NWT,Northwest Territories,1980,3.5
+NWT,Northwest Territories,1981,3.5
+NWT,Northwest Territories,1982,4.25
+NWT,Northwest Territories,1983,4.25
+NWT,Northwest Territories,1984,4.25
+NWT,Northwest Territories,1985,4.25
+NWT,Northwest Territories,1986,5.0
+NWT,Northwest Territories,1987,5.0
+NWT,Northwest Territories,1988,5.0
+NWT,Northwest Territories,1989,5.0
+NWT,Northwest Territories,1990,5.0
+NWT,Northwest Territories,1991,7.0
+NWT,Northwest Territories,1992,7.0
+NWT,Northwest Territories,1993,7.0
+NWT,Northwest Territories,1994,7.0
+NWT,Northwest Territories,1995,7.0
+NWT,Northwest Territories,1996,7.0
+NWT,Northwest Territories,1997,7.0
+NWT,Northwest Territories,1998,7.0
+NWT,Northwest Territories,1999,7.0
+NWT,Northwest Territories,2000,7.0
+NWT,Northwest Territories,2001,7.0
+NWT,Northwest Territories,2002,7.0
+NWT,Northwest Territories,2003,8.25
+NWT,Northwest Territories,2004,8.25
+NWT,Northwest Territories,2005,8.25
+NWT,Northwest Territories,2006,8.25
+NWT,Northwest Territories,2007,8.25
+NWT,Northwest Territories,2008,8.25
+NWT,Northwest Territories,2009,8.25
+NWT,Northwest Territories,2010,9.0
+NWT,Northwest Territories,2011,10.0
+NWT,Northwest Territories,2012,10.0
+NWT,Northwest Territories,2013,10.0
+NWT,Northwest Territories,2014,10.0
+NWT,Northwest Territories,2015,12.5
+NWT,Northwest Territories,2016,12.5
+NWT,Northwest Territories,2017,12.5
+NWT,Northwest Territories,2018,13.46
+NWT,Northwest Territories,2019,13.46
+NWT,Northwest Territories,2020,13.46
+NWT,Northwest Territories,2021,15.2
+NWT,Northwest Territories,2022,15.2
+NWT,Northwest Territories,2023,16.05
+NWT,Northwest Territories,2024,16.7
+NWT,Northwest Territories,2025,16.7
+NWT,Northwest Territories,2026,16.7
+NS,Nova Scotia,1965,0.8
+NS,Nova Scotia,1966,0.85
+NS,Nova Scotia,1967,0.85
+NS,Nova Scotia,1968,1.0
+NS,Nova Scotia,1969,1.0
+NS,Nova Scotia,1970,1.0
+NS,Nova Scotia,1971,1.2
+NS,Nova Scotia,1972,1.55
+NS,Nova Scotia,1973,1.65
+NS,Nova Scotia,1974,2.0
+NS,Nova Scotia,1975,2.25
+NS,Nova Scotia,1976,2.5
+NS,Nova Scotia,1977,2.75
+NS,Nova Scotia,1978,2.75
+NS,Nova Scotia,1979,2.75
+NS,Nova Scotia,1980,3.0
+NS,Nova Scotia,1981,3.3
+NS,Nova Scotia,1982,3.75
+NS,Nova Scotia,1983,3.75
+NS,Nova Scotia,1984,3.75
+NS,Nova Scotia,1985,4.0
+NS,Nova Scotia,1986,4.0
+NS,Nova Scotia,1987,4.0
+NS,Nova Scotia,1988,4.0
+NS,Nova Scotia,1989,4.5
+NS,Nova Scotia,1990,4.5
+NS,Nova Scotia,1991,4.75
+NS,Nova Scotia,1992,5.0
+NS,Nova Scotia,1993,5.15
+NS,Nova Scotia,1994,5.15
+NS,Nova Scotia,1995,5.15
+NS,Nova Scotia,1996,5.35
+NS,Nova Scotia,1997,5.5
+NS,Nova Scotia,1998,5.5
+NS,Nova Scotia,1999,5.6
+NS,Nova Scotia,2000,5.7
+NS,Nova Scotia,2001,5.8
+NS,Nova Scotia,2002,6.0
+NS,Nova Scotia,2003,6.25
+NS,Nova Scotia,2004,6.5
+NS,Nova Scotia,2005,6.8
+NS,Nova Scotia,2006,7.15
+NS,Nova Scotia,2007,7.6
+NS,Nova Scotia,2008,8.1
+NS,Nova Scotia,2009,8.6
+NS,Nova Scotia,2010,9.65
+NS,Nova Scotia,2011,10.0
+NS,Nova Scotia,2012,10.15
+NS,Nova Scotia,2013,10.3
+NS,Nova Scotia,2014,10.4
+NS,Nova Scotia,2015,10.6
+NS,Nova Scotia,2016,10.7
+NS,Nova Scotia,2017,10.85
+NS,Nova Scotia,2018,11.0
+NS,Nova Scotia,2019,11.55
+NS,Nova Scotia,2020,12.55
+NS,Nova Scotia,2021,12.95
+NS,Nova Scotia,2022,13.6
+NS,Nova Scotia,2023,15.0
+NS,Nova Scotia,2024,15.2
+NS,Nova Scotia,2025,16.5
+NS,Nova Scotia,2026,16.5
+NU,Nunavut,1999,6.5
+NU,Nunavut,2000,6.5
+NU,Nunavut,2001,6.5
+NU,Nunavut,2002,6.5
+NU,Nunavut,2003,8.5
+NU,Nunavut,2004,8.5
+NU,Nunavut,2005,8.5
+NU,Nunavut,2006,8.5
+NU,Nunavut,2007,8.5
+NU,Nunavut,2008,10.0
+NU,Nunavut,2009,10.0
+NU,Nunavut,2010,10.0
+NU,Nunavut,2011,11.0
+NU,Nunavut,2012,11.0
+NU,Nunavut,2013,11.0
+NU,Nunavut,2014,11.0
+NU,Nunavut,2015,11.0
+NU,Nunavut,2016,13.0
+NU,Nunavut,2017,13.0
+NU,Nunavut,2018,13.0
+NU,Nunavut,2019,13.0
+NU,Nunavut,2020,16.0
+NU,Nunavut,2021,16.0
+NU,Nunavut,2022,16.0
+NU,Nunavut,2023,16.0
+NU,Nunavut,2024,19.0
+NU,Nunavut,2025,19.0
+NU,Nunavut,2026,19.0
+ON,Ontario,1965,1.0
+ON,Ontario,1966,1.0
+ON,Ontario,1967,1.0
+ON,Ontario,1968,1.0
+ON,Ontario,1969,1.3
+ON,Ontario,1970,1.5
+ON,Ontario,1971,1.65
+ON,Ontario,1972,1.65
+ON,Ontario,1973,1.8
+ON,Ontario,1974,2.25
+ON,Ontario,1975,2.4
+ON,Ontario,1976,2.65
+ON,Ontario,1977,2.65
+ON,Ontario,1978,2.85
+ON,Ontario,1979,3.0
+ON,Ontario,1980,3.0
+ON,Ontario,1981,3.5
+ON,Ontario,1982,3.5
+ON,Ontario,1983,3.5
+ON,Ontario,1984,4.0
+ON,Ontario,1985,4.0
+ON,Ontario,1986,4.35
+ON,Ontario,1987,4.55
+ON,Ontario,1988,4.75
+ON,Ontario,1989,5.0
+ON,Ontario,1990,5.4
+ON,Ontario,1991,6.0
+ON,Ontario,1992,6.35
+ON,Ontario,1993,6.35
+ON,Ontario,1994,6.7
+ON,Ontario,1995,6.85
+ON,Ontario,1996,6.85
+ON,Ontario,1997,6.85
+ON,Ontario,1998,6.85
+ON,Ontario,1999,6.85
+ON,Ontario,2000,6.85
+ON,Ontario,2001,6.85
+ON,Ontario,2002,6.85
+ON,Ontario,2003,6.85
+ON,Ontario,2004,7.15
+ON,Ontario,2005,7.45
+ON,Ontario,2006,7.75
+ON,Ontario,2007,8.0
+ON,Ontario,2008,8.75
+ON,Ontario,2009,9.5
+ON,Ontario,2010,10.25
+ON,Ontario,2011,10.25
+ON,Ontario,2012,10.25
+ON,Ontario,2013,10.25
+ON,Ontario,2014,11.0
+ON,Ontario,2015,11.25
+ON,Ontario,2016,11.4
+ON,Ontario,2017,11.6
+ON,Ontario,2018,14.0
+ON,Ontario,2019,14.0
+ON,Ontario,2020,14.25
+ON,Ontario,2021,14.35
+ON,Ontario,2022,15.5
+ON,Ontario,2023,16.55
+ON,Ontario,2024,17.2
+ON,Ontario,2025,17.6
+ON,Ontario,2026,17.6
+PEI,Prince Edward Island,1965,1.0
+PEI,Prince Edward Island,1966,1.1
+PEI,Prince Edward Island,1967,1.1
+PEI,Prince Edward Island,1968,0.8
+PEI,Prince Edward Island,1969,1.25
+PEI,Prince Edward Island,1970,1.25
+PEI,Prince Edward Island,1971,1.25
+PEI,Prince Edward Island,1972,1.1
+PEI,Prince Edward Island,1973,1.3
+PEI,Prince Edward Island,1974,1.75
+PEI,Prince Edward Island,1975,2.3
+PEI,Prince Edward Island,1976,2.5
+PEI,Prince Edward Island,1977,2.7
+PEI,Prince Edward Island,1978,2.75
+PEI,Prince Edward Island,1979,2.75
+PEI,Prince Edward Island,1980,3.0
+PEI,Prince Edward Island,1981,3.3
+PEI,Prince Edward Island,1982,3.75
+PEI,Prince Edward Island,1983,3.75
+PEI,Prince Edward Island,1984,3.75
+PEI,Prince Edward Island,1985,4.0
+PEI,Prince Edward Island,1986,4.0
+PEI,Prince Edward Island,1987,4.0
+PEI,Prince Edward Island,1988,4.25
+PEI,Prince Edward Island,1989,4.5
+PEI,Prince Edward Island,1990,4.5
+PEI,Prince Edward Island,1991,4.75
+PEI,Prince Edward Island,1992,4.75
+PEI,Prince Edward Island,1993,4.75
+PEI,Prince Edward Island,1994,4.75
+PEI,Prince Edward Island,1995,4.75
+PEI,Prince Edward Island,1996,5.15
+PEI,Prince Edward Island,1997,5.4
+PEI,Prince Edward Island,1998,5.4
+PEI,Prince Edward Island,1999,5.4
+PEI,Prince Edward Island,2000,5.6
+PEI,Prince Edward Island,2001,5.8
+PEI,Prince Edward Island,2002,6.0
+PEI,Prince Edward Island,2003,6.25
+PEI,Prince Edward Island,2004,6.5
+PEI,Prince Edward Island,2005,6.8
+PEI,Prince Edward Island,2006,7.15
+PEI,Prince Edward Island,2007,7.5
+PEI,Prince Edward Island,2008,8.0
+PEI,Prince Edward Island,2009,8.4
+PEI,Prince Edward Island,2010,9.0
+PEI,Prince Edward Island,2011,9.6
+PEI,Prince Edward Island,2012,10.0
+PEI,Prince Edward Island,2013,10.0
+PEI,Prince Edward Island,2014,10.35
+PEI,Prince Edward Island,2015,10.5
+PEI,Prince Edward Island,2016,11.0
+PEI,Prince Edward Island,2017,11.25
+PEI,Prince Edward Island,2018,11.55
+PEI,Prince Edward Island,2019,12.25
+PEI,Prince Edward Island,2020,12.85
+PEI,Prince Edward Island,2021,13.0
+PEI,Prince Edward Island,2022,13.7
+PEI,Prince Edward Island,2023,15.0
+PEI,Prince Edward Island,2024,16.0
+PEI,Prince Edward Island,2025,16.5
+PEI,Prince Edward Island,2026,16.5
+QC,Quebec,1965,0.85
+QC,Quebec,1966,1.0
+QC,Quebec,1967,1.05
+QC,Quebec,1968,1.25
+QC,Quebec,1969,1.25
+QC,Quebec,1970,1.4
+QC,Quebec,1971,1.5
+QC,Quebec,1972,1.65
+QC,Quebec,1973,1.85
+QC,Quebec,1974,2.3
+QC,Quebec,1975,2.8
+QC,Quebec,1976,2.87
+QC,Quebec,1977,3.15
+QC,Quebec,1978,3.37
+QC,Quebec,1979,3.47
+QC,Quebec,1980,3.65
+QC,Quebec,1981,4.0
+QC,Quebec,1982,4.0
+QC,Quebec,1983,4.0
+QC,Quebec,1984,4.0
+QC,Quebec,1985,4.0
+QC,Quebec,1986,4.35
+QC,Quebec,1987,4.55
+QC,Quebec,1988,4.75
+QC,Quebec,1989,5.0
+QC,Quebec,1990,5.3
+QC,Quebec,1991,5.55
+QC,Quebec,1992,5.7
+QC,Quebec,1993,5.85
+QC,Quebec,1994,6.0
+QC,Quebec,1995,6.45
+QC,Quebec,1996,6.7
+QC,Quebec,1997,6.8
+QC,Quebec,1998,6.9
+QC,Quebec,1999,6.9
+QC,Quebec,2000,6.9
+QC,Quebec,2001,7.0
+QC,Quebec,2002,7.2
+QC,Quebec,2003,7.3
+QC,Quebec,2004,7.45
+QC,Quebec,2005,7.6
+QC,Quebec,2006,7.75
+QC,Quebec,2007,8.0
+QC,Quebec,2008,8.5
+QC,Quebec,2009,8.5
+QC,Quebec,2010,9.5
+QC,Quebec,2011,9.65
+QC,Quebec,2012,9.9
+QC,Quebec,2013,10.15
+QC,Quebec,2014,10.35
+QC,Quebec,2015,10.55
+QC,Quebec,2016,10.75
+QC,Quebec,2017,11.25
+QC,Quebec,2018,12.0
+QC,Quebec,2019,12.5
+QC,Quebec,2020,13.1
+QC,Quebec,2021,13.5
+QC,Quebec,2022,14.25
+QC,Quebec,2023,15.25
+QC,Quebec,2024,15.75
+QC,Quebec,2025,16.1
+QC,Quebec,2026,16.1
+SK,Saskatchewan,1965,38.0
+SK,Saskatchewan,1966,40.0
+SK,Saskatchewan,1967,40.0
+SK,Saskatchewan,1968,1.05
+SK,Saskatchewan,1969,1.25
+SK,Saskatchewan,1970,1.25
+SK,Saskatchewan,1971,1.5
+SK,Saskatchewan,1972,1.75
+SK,Saskatchewan,1973,2.0
+SK,Saskatchewan,1974,2.25
+SK,Saskatchewan,1975,2.5
+SK,Saskatchewan,1976,2.8
+SK,Saskatchewan,1977,3.0
+SK,Saskatchewan,1978,3.25
+SK,Saskatchewan,1979,3.5
+SK,Saskatchewan,1980,3.65
+SK,Saskatchewan,1981,4.0
+SK,Saskatchewan,1982,4.25
+SK,Saskatchewan,1983,4.25
+SK,Saskatchewan,1984,4.25
+SK,Saskatchewan,1985,4.5
+SK,Saskatchewan,1986,4.5
+SK,Saskatchewan,1987,4.5
+SK,Saskatchewan,1988,4.5
+SK,Saskatchewan,1989,4.5
+SK,Saskatchewan,1990,5.0
+SK,Saskatchewan,1991,5.0
+SK,Saskatchewan,1992,5.35
+SK,Saskatchewan,1993,5.35
+SK,Saskatchewan,1994,5.35
+SK,Saskatchewan,1995,5.35
+SK,Saskatchewan,1996,5.6
+SK,Saskatchewan,1997,5.6
+SK,Saskatchewan,1998,5.6
+SK,Saskatchewan,1999,6.0
+SK,Saskatchewan,2000,6.0
+SK,Saskatchewan,2001,6.0
+SK,Saskatchewan,2002,6.65
+SK,Saskatchewan,2003,6.65
+SK,Saskatchewan,2004,6.65
+SK,Saskatchewan,2005,7.05
+SK,Saskatchewan,2006,7.55
+SK,Saskatchewan,2007,7.95
+SK,Saskatchewan,2008,8.6
+SK,Saskatchewan,2009,9.25
+SK,Saskatchewan,2010,9.25
+SK,Saskatchewan,2011,9.5
+SK,Saskatchewan,2012,10.0
+SK,Saskatchewan,2013,10.0
+SK,Saskatchewan,2014,10.2
+SK,Saskatchewan,2015,10.5
+SK,Saskatchewan,2016,10.72
+SK,Saskatchewan,2017,10.96
+SK,Saskatchewan,2018,11.06
+SK,Saskatchewan,2019,11.32
+SK,Saskatchewan,2020,11.45
+SK,Saskatchewan,2021,11.81
+SK,Saskatchewan,2022,13.0
+SK,Saskatchewan,2023,14.0
+SK,Saskatchewan,2024,15.0
+SK,Saskatchewan,2025,15.0
+SK,Saskatchewan,2026,15.0
+YT,Yukon,1968,1.25
+YT,Yukon,1969,1.25
+YT,Yukon,1970,1.5
+YT,Yukon,1971,1.5
+YT,Yukon,1972,1.75
+YT,Yukon,1973,2.0
+YT,Yukon,1974,2.3
+YT,Yukon,1975,2.7
+YT,Yukon,1976,3.0
+YT,Yukon,1977,3.0
+YT,Yukon,1978,3.0
+YT,Yukon,1979,3.0
+YT,Yukon,1980,3.35
+YT,Yukon,1981,3.6
+YT,Yukon,1982,3.6
+YT,Yukon,1983,3.6
+YT,Yukon,1984,3.6
+YT,Yukon,1985,4.25
+YT,Yukon,1986,4.25
+YT,Yukon,1987,4.75
+YT,Yukon,1988,5.39
+YT,Yukon,1989,5.39
+YT,Yukon,1990,5.97
+YT,Yukon,1991,6.24
+YT,Yukon,1992,6.24
+YT,Yukon,1993,6.24
+YT,Yukon,1994,6.72
+YT,Yukon,1995,6.86
+YT,Yukon,1996,6.86
+YT,Yukon,1997,6.86
+YT,Yukon,1998,7.2
+YT,Yukon,1999,7.2
+YT,Yukon,2000,7.2
+YT,Yukon,2001,7.2
+YT,Yukon,2002,7.2
+YT,Yukon,2003,7.2
+YT,Yukon,2004,7.2
+YT,Yukon,2005,7.2
+YT,Yukon,2006,8.25
+YT,Yukon,2007,8.37
+YT,Yukon,2008,8.58
+YT,Yukon,2009,8.89
+YT,Yukon,2010,8.93
+YT,Yukon,2011,9.0
+YT,Yukon,2012,10.3
+YT,Yukon,2013,10.54
+YT,Yukon,2014,10.72
+YT,Yukon,2015,10.86
+YT,Yukon,2016,11.07
+YT,Yukon,2017,11.32
+YT,Yukon,2018,11.51
+YT,Yukon,2019,12.71
+YT,Yukon,2020,13.71
+YT,Yukon,2021,15.2
+YT,Yukon,2022,15.7
+YT,Yukon,2023,16.77
+YT,Yukon,2024,17.59
+YT,Yukon,2025,17.94
+YT,Yukon,2026,17.94

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "naps_city_annual",
+  "source": "Environment and Climate Change Canada",
+  "source_table": "ECCC National Air Pollution Surveillance (NAPS) \u2014 Annual Summaries (2005\u2013) + raw hourly back-build (pre-2005), 1-hour basis",
+  "frequency": "annual",
+  "unit": "\u00b5g/m\u00b3 (PM) / ppb (gases) / ppm (CO)",
+  "retrieved_at": "2026-06-10T00:11:07.911366+00:00",
+  "latest_observation_date": "2024",
+  "transformations": [
+    "1-hour-basis station means aggregated to major cities",
+    "annual + 12 monthly means; 2005\u2013 from Annual Summaries, pre-2005 from raw hourly (gases to 1974, PM2.5 to 1995)"
+  ],
+  "notes": null,
+  "row_count": 4893
+}

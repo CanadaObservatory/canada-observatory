@@ -1,0 +1,15 @@
+{
+  "dataset_id": "infobase_fps_executive",
+  "source": "Treasury Board of Canada Secretariat (GC InfoBase)",
+  "source_table": "GC InfoBase employee population by executive level",
+  "frequency": "annual",
+  "unit": "employees",
+  "retrieved_at": "2026-08-10T15:05:38.853205+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "EX 01\u201305 collapsed to Executive vs Non-executive; summed across departments"
+  ],
+  "notes": null,
+  "row_count": 32
+}

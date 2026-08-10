@@ -1,0 +1,15 @@
+{
+  "dataset_id": "ircc_asylum_total",
+  "source": "Immigration, Refugees and Citizenship Canada (open data)",
+  "source_table": "IRCC ODP-Asylum-PT_OfficeType",
+  "frequency": "annual",
+  "unit": "persons (rounded to nearest 5)",
+  "retrieved_at": "2026-08-10T15:03:30.897162+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "total asylum claims, annual (all provinces and claim-office types)"
+  ],
+  "notes": null,
+  "row_count": 11
+}

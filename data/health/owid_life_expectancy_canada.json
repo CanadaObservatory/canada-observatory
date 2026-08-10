@@ -1,0 +1,15 @@
+{
+  "dataset_id": "owid_life_expectancy_canada",
+  "source": "Our World in Data (Human Mortality Database; UN; historical demography)",
+  "source_table": "life-expectancy",
+  "frequency": "annual (decennial before 1921)",
+  "unit": "years (period life expectancy at birth)",
+  "retrieved_at": "2026-08-10T15:06:58.263353+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Canada; life_expectancy_0 (period LE at birth)"
+  ],
+  "notes": null,
+  "row_count": 112
+}

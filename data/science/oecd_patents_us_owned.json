@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_patents_us_owned",
+  "source": "OECD",
+  "source_table": "OECD, Foreign ownership of domestic inventions (DSD_PATENTS)",
+  "frequency": "annual",
+  "unit": "% of domestically-invented patents",
+  "retrieved_at": "2026-08-10T15:08:33.841114+00:00",
+  "latest_observation_date": "2022",
+  "next_release_date": null,
+  "transformations": [
+    "% of priority-date IP5 (6F0) patent families invented domestically but owned by US entities; 17 OECD economies"
+  ],
+  "notes": null,
+  "row_count": 368
+}

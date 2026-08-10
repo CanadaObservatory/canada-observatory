@@ -1,0 +1,15 @@
+{
+  "dataset_id": "eccc_ghg_by_sector",
+  "source": "Environment and Climate Change Canada",
+  "source_table": "ECCC CESI (greenhouse gas emissions by economic sector)",
+  "frequency": "annual",
+  "unit": "megatonnes CO2 equivalent (NIR basis)",
+  "retrieved_at": "2026-08-10T15:08:59.522808+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "tidy long: year, economic sector, GHG (Mt)"
+  ],
+  "notes": null,
+  "row_count": 238
+}

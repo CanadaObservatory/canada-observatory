@@ -1,0 +1,9 @@
+pandas
+plotly>=6.0,<7
+stats-can
+pandasdmx
+kaleido
+jupyter
+pyyaml
+openpyxl
+requests

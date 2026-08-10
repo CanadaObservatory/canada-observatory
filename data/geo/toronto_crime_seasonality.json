@@ -1,0 +1,14 @@
+{
+  "dataset_id": "toronto_crime_seasonality",
+  "source": "Toronto Police Service",
+  "source_table": "Toronto Police Service (multiple open datasets)",
+  "frequency": "annual",
+  "unit": "incident counts by month of year",
+  "retrieved_at": "2026-06-10T17:52:57.923984+00:00",
+  "latest_observation_date": null,
+  "transformations": [
+    "server-side count by OCC_MONTH, occurrences 2014\u2013, for 6 crime types"
+  ],
+  "notes": "Source: Toronto Police Service Public Safety Data Portal. Contains information licensed under the Open Government Licence \u2013 Ontario.",
+  "row_count": 72
+}

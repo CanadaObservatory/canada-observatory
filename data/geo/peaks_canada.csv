@@ -1,0 +1,758 @@
+name,province,Latitude,Longitude,elevation_m
+Mount Logan,Yukon,60.5671,-140.4053544,5922.1
+Mount St. Elias,Yukon,60.2932694,-140.9282551,5452.6
+Mount Lucania,Yukon,61.0233333,-140.4655556,5215.3
+King Peak,Yukon,60.5833333,-140.6547222,5110.7
+Mount Steele,Yukon,61.0932017,-140.3107453,5025.6
+Mount Wood,Yukon,61.2327778,-140.5125,4813.1
+Mount Vancouver,Yukon,60.3361111,-139.6947222,4730.6
+Mount Macaulay,Yukon,61.2102778,-140.5263889,4700.1
+Fairweather Mountain,British Columbia,58.9063889,-137.5266667,4655.3
+Mount Hubbard,Yukon,60.3191667,-139.0713889,4547.9
+Mount Quincy Adams,British Columbia,58.9,-137.5,4364.0
+McArthur Peak,Yukon,60.6066917,-140.2142322,4240.1
+Mount Augusta,Yukon,60.3077778,-140.4586111,4210.1
+Mount Kennedy,Yukon,60.3408333,-138.9686111,4196.3
+Mount Waddington,British Columbia,51.373611,-125.263333,3930.9
+Mount Queen Mary,Yukon,60.6285412,-139.7244642,3907.4
+Mount Robson,British Columbia,53.110556,-119.156389,3902.3
+Mount Columbia,British Columbia,52.1472222,-117.4416666,3677.9
+Mount Columbia,Alberta,52.1475,-117.4405556,3677.9
+North Twin,Alberta,52.2236111,-117.4341667,3660.9
+Mount Badham,Yukon,60.8561111,-139.8677778,3653.9
+Mount Clemenceau,British Columbia,52.2475,-117.957778,3609.1
+Mount Alberta,Alberta,52.2872222,-117.4766667,3552.5
+Mount Assiniboine,British Columbia,50.8694444,-115.6508333,3547.1
+Mount Assiniboine,Alberta,50.8697222,-115.6511111,3547.1
+Mount Temple,Alberta,51.3505556,-116.2066667,3512.6
+Mount Forbes,Alberta,51.8597222,-116.9316667,3508.9
+Mount Sir Wilfrid Laurier,British Columbia,52.801389,-119.731667,3502.8
+Mount Kitchener,Alberta,52.2161111,-117.3208333,3488.3
+Mount Sir Sandford,British Columbia,51.656667,-117.867778,3480.1
+Mount Lyell,Alberta,51.9594445,-117.095,3479.3
+Mount Lyell,British Columbia,51.956667,-117.103333,3479.3
+South Twin,Alberta,52.2038889,-117.4347222,3472.3
+Mount Athabasca,Alberta,52.1805555,-117.2016667,3463.8
+Snow Dome,British Columbia,52.1875,-117.316389,3456.1
+Snow Dome,Alberta,52.1880556,-117.3169444,3456.1
+Mount Bryce,British Columbia,52.041111,-117.330278,3449.2
+Mount Goodsir,British Columbia,51.206667,-116.404444,3440.9
+Mount Farnham,British Columbia,50.488889,-116.486944,3440.8
+Mount Brazeau,Alberta,52.5511111,-117.3547222,3427.1
+Mount King Edward,Alberta,52.1563889,-117.5194444,3406.3
+Mount King Edward,British Columbia,52.156667,-117.519723,3406.3
+Jumbo Mountain,British Columbia,50.403056,-116.565,3403.3
+Mount King George,British Columbia,50.6,-115.4,3392.7
+Mount Joffre,British Columbia,50.528334,-115.206944,3369.7
+Mount Joffre,Alberta,50.5283333,-115.2158333,3369.7
+Mount Sir Douglas,Alberta,50.7227778,-115.3391667,3360.6
+Mount Sir Douglas,British Columbia,50.7225,-115.338889,3360.6
+Monarch Mountain,British Columbia,51.899444,-125.875833,3343.1
+Mount Edith Cavell,Alberta,52.6672223,-118.0566667,3340.8
+Mount Dawson,British Columbia,51.151667,-117.420556,3332.6
+Mount Willingdon,Alberta,51.7563889,-116.2497222,3330.7
+Mount Chown,Alberta,53.3969445,-119.4175,3300.4
+Adamant Mountain,British Columbia,51.732223,-117.903889,3294.3
+Mount Fryatt,Alberta,52.55,-117.9102778,3294.0
+Mount Hector,Alberta,51.575,-116.2594444,3290.1
+Mount St. Bride,Alberta,51.5077778,-115.9552778,3264.9
+Mount Hamill,British Columbia,50.222223,-116.607778,3227.0
+Mount Mackenzie King,British Columbia,52.775834,-119.750833,3217.3
+Mount Sir Alexander,British Columbia,53.935833,-120.386389,3214.6
+Mount Bell,British Columbia,51.414444,-125.430278,3202.2
+Torii Mountain,British Columbia,52.395555,-118.935833,3198.5
+Iconoclast Mountain,British Columbia,51.454444,-117.759444,3179.1
+Mount Murchison,Alberta,51.9330555,-116.675,3178.8
+Mount Rae,Alberta,50.6227777,-114.9747222,3170.7
+Good Hope Mountain,British Columbia,51.1425,-124.171667,3163.9
+Mount Lodge,British Columbia,59.106667,-137.542222,3156.1
+Mount Aylmer,Alberta,51.3238889,-115.4333333,3147.1
+Monmouth Mountain,British Columbia,50.9925,-123.79,3142.7
+Neptune Peak,British Columbia,51.875,-118.136666,3142.2
+Mount Evans,Alberta,52.4419444,-118.1294444,3132.3
+Obstruction Mountain,Alberta,52.3869444,-116.8841667,3129.5
+Sorcerer Mountain,British Columbia,51.451389,-117.923611,3128.3
+Dominion Mountain,British Columbia,52.433611,-118.945833,3098.0
+Mount Gilbert,British Columbia,50.861944,-124.2725,3091.8
+Mount Findlay,British Columbia,50.081945,-116.495,3079.1
+Reliance Mountain,British Columbia,51.341667,-124.705833,3078.0
+Mount Raleigh,British Columbia,50.910278,-124.274167,3077.4
+Mount Constantine,Yukon,61.4047222,-140.5716667,3076.3
+Hallam Peak,British Columbia,52.183611,-118.751389,3074.1
+Mount Queen Bess,British Columbia,51.271389,-124.568056,3072.1
+Coppercrown Mountain,British Columbia,50.293055,-116.356667,3070.9
+Mount Bonney,British Columbia,51.204722,-117.541111,3064.9
+The Beast,British Columbia,51.053333,-123.749444,3064.7
+Mount Cooper,British Columbia,50.179723,-117.199166,3063.3
+Tornado Mountain,British Columbia,49.966945,-114.654444,3051.5
+Tornado Mountain,Alberta,49.9666667,-114.6547222,3051.5
+Pagoda Peak,British Columbia,51.5,-124.86667,3047.6
+Mount Seattle,Yukon,60.0883066,-139.1985239,3047.1
+Mount Lester Pearson,British Columbia,52.779723,-119.545,3044.5
+Mount Grenville,British Columbia,50.973611,-124.528611,3038.7
+Taseko Mountain,British Columbia,51.233611,-123.473056,3036.4
+Mount Templeman,British Columbia,50.689722,-117.205,3027.2
+Mount Chapman,British Columbia,51.923889,-118.304444,3020.9
+Ottarasko Mountain,British Columbia,51.523056,-124.713056,3007.1
+Mount Louis St-Laurent,British Columbia,52.7594445,-119.7852778,3002.9
+Albert Peak,British Columbia,51.038055,-117.850556,2995.7
+Kates Needle,British Columbia,57.045,-132.045,2988.2
+Argentine Mountain,British Columbia,51.541389,-117.905,2986.0
+Mount Hoge,Yukon,61.24,-139.3988889,2965.3
+Mount Ulysses,British Columbia,57.346389,-124.092778,2961.6
+Talchako Mountain,British Columbia,52.091667,-126.015833,2960.2
+Remote Mountain,British Columbia,51.463333,-125.52,2955.9
+TsÌ'ilÊosÌ,British Columbia,51.3725,-123.863611,2950.0
+Mount Ratz,British Columbia,57.393055,-132.303333,2949.1
+Keele Peak,Yukon,63.4311111,-130.3236111,2944.7
+The Rajah,Alberta,53.2622222,-118.5494444,2932.5
+Great Snow Mountain,British Columbia,57.449167,-124.098611,2925.6
+Skihist Mountain,British Columbia,50.187778,-121.903333,2923.1
+Mount Dartmouth,British Columbia,51.2575,-124.339167,2912.8
+Mount Dalgleish,British Columbia,50.694444,-123.834444,2912.3
+Mount Sylvia,British Columbia,58.081944,-124.469167,2909.0
+Mount Blakiston,Alberta,49.0941666,-114.035,2907.7
+Ambition Mountain,British Columbia,57.395,-131.485277,2904.7
+Whitecap Mountain,British Columbia,50.716389,-122.508889,2898.0
+Mount Brew,British Columbia,50.585,-121.971111,2877.3
+Mount Odin,British Columbia,50.551667,-118.129167,2877.3
+Snowcrest Mountain,British Columbia,49.551944,-116.517223,2863.3
+Wedge Mountain,British Columbia,50.133056,-122.793333,2855.0
+Cranberry Mountain,British Columbia,50.702222,-118.203333,2842.7
+Mount Truax,British Columbia,50.82,-122.718056,2841.9
+Gordon Horne Peak,British Columbia,51.776111,-118.820834,2838.1
+Silverthrone Mountain,British Columbia,51.517778,-126.113333,2825.3
+Shulaps Peak,British Columbia,50.955556,-122.533056,2821.3
+Mount Fisher,British Columbia,49.646389,-115.484444,2821.1
+Mount Saugstad,British Columbia,52.254167,-126.515,2809.7
+Mount Warner,British Columbia,51.072222,-123.206667,2808.2
+Kokanee Peak,British Columbia,49.741111,-117.132778,2795.4
+Gladsheim Peak,British Columbia,49.786666,-117.627223,2788.6
+Siwhe Mountain,British Columbia,50.361389,-121.84,2788.3
+Mount Ptolemy,Alberta,49.5488889,-114.6313889,2783.7
+Mount Ptolemy,British Columbia,49.549166,-114.631111,2783.7
+Dickson Peak,British Columbia,50.893611,-122.988611,2780.4
+Mount Weart,British Columbia,50.169444,-122.786667,2778.7
+Mount Cairnes,Yukon,60.8683333,-138.2769444,2772.2
+Mount Head,Alberta,50.4402778,-114.65,2754.8
+Crowsnest Mountain,Alberta,49.7036111,-114.5738889,2753.9
+Stein Mountain,British Columbia,50.339167,-121.765833,2746.2
+Mount Edziza,British Columbia,57.715556,-130.634722,2742.6
+Mount Hickman,British Columbia,57.266667,-131.1125,2741.9
+Mount Aylesworth,British Columbia,59.924167,-138.798611,2740.8
+Tsaydaychuz Peak,British Columbia,53.021389,-126.642778,2740.2
+Mount Smythe,British Columbia,57.903611,-124.884167,2729.0
+Churchill Peak,British Columbia,58.242778,-125.199167,2726.7
+Castle Mountain,Alberta,51.2997222,-115.9225,2719.6
+Mount Bute,British Columbia,50.935,-124.701111,2715.7
+Mount Evans,British Columbia,49.555556,-116.299444,2714.7
+Mount Sir James MacBrien,Northwest Territories,62.1165538,-127.6850925,2713.2
+Thudaka Peak,British Columbia,57.927222,-126.848611,2692.6
+Relay Mountain,British Columbia,51.130833,-122.987778,2681.5
+Mount Filer,British Columbia,50.788889,-124.346111,2680.0
+Stupendous Mountain,British Columbia,52.385278,-126.195278,2667.0
+Mount Pattullo,British Columbia,56.233889,-129.657778,2664.2
+Mount Sir Richard,British Columbia,49.964167,-122.701389,2657.3
+Mount Hay,British Columbia,59.244167,-137.608611,2654.6
+Mount Garibaldi,British Columbia,49.8502778,-123.0047222,2652.5
+Mount Sir Francis Drake,British Columbia,50.791389,-124.785833,2641.6
+Castle Towers Mountain,British Columbia,49.939722,-122.9425,2640.7
+Mount Carlyle,British Columbia,49.928334,-117.1225,2633.8
+Mount Armour,British Columbia,59.905833,-138.707222,2629.5
+Devils Thumb,British Columbia,57.091389,-132.369445,2624.2
+Lakeview Mountain,British Columbia,49.043889,-120.159167,2615.9
+Trout Mountain,British Columbia,50.594444,-117.593333,2609.7
+Dunn Peak,British Columbia,51.437222,-119.954722,2602.0
+Mount Haig,British Columbia,49.289166,-114.446389,2596.6
+Mount Haig,Alberta,49.2888889,-114.4472222,2596.6
+Mount Cushing,British Columbia,57.615278,-126.849722,2592.6
+Mount Hentig,British Columbia,58.294167,-124.382778,2588.8
+Kwoiek Needle,British Columbia,50.084722,-121.8075,2588.8
+Overlord Mountain,British Columbia,50.015556,-122.820833,2581.7
+Mount Tantalus,British Columbia,49.818334,-123.329445,2581.3
+Mount Kenny,British Columbia,56.925834,-123.8175,2579.6
+Snowy Mountain,British Columbia,49.049166,-119.868889,2577.9
+Barbeau Peak,Nunavut,81.908333,-75.025,2564.4
+Trophy Mountain,British Columbia,51.799722,-119.875556,2563.5
+Mamquam Mountain,British Columbia,49.775278,-122.851111,2562.4
+Mount McCusker,British Columbia,57.081111,-123.925556,2553.3
+Silvertip Mountain,British Columbia,49.163056,-121.216111,2552.1
+Mount Archibald,Yukon,60.7841667,-137.8741667,2550.4
+Mount Tinniswood,British Columbia,50.313611,-123.839444,2538.0
+Shedin Peak,British Columbia,55.939167,-127.48,2537.2
+Hudson Bay Mountain,British Columbia,54.811944,-127.339722,2523.0
+Cardtable Mountain,British Columbia,51.100278,-122.949444,2507.1
+Mount Michener,Alberta,52.2066667,-116.3905556,2498.6
+North Star Mountain,British Columbia,53.341111,-120.904722,2497.1
+Hankin Peak,British Columbia,57.189166,-130.635277,2495.8
+Sentinel Peak,British Columbia,54.908056,-121.961111,2492.7
+Gott Peak,British Columbia,50.372778,-122.164722,2487.2
+Azure Mountain,British Columbia,52.306389,-120.076944,2485.4
+Tsitsutl Peak,British Columbia,52.723611,-125.778889,2484.7
+Horn Peak,Yukon,63.5769444,-131.1080556,2477.4
+Anvil Mountain,British Columbia,51.3369444,-123.4169444,2474.0
+Mount Pitt,British Columbia,49.878056,-122.704167,2469.2
+Mount Will,British Columbia,57.545277,-128.798889,2468.4
+Mount McNamara,British Columbia,57.656944,-127.228611,2460.9
+Mount Irving,British Columbia,58.12,-127.445278,2460.4
+Jewakwa Mountain,British Columbia,51.150278,-124.87,2442.9
+Mount Kitchener,British Columbia,57.783611,-131.953611,2435.2
+Boss Mountain,British Columbia,52.163056,-120.573611,2433.7
+Red Mountain,British Columbia,51.203889,-122.548611,2433.5
+Mount May,Alberta,54.0458333,-119.9213889,2429.4
+Mount Nesselrode,British Columbia,58.962222,-134.313611,2426.7
+Mount Outram,British Columbia,49.289722,-121.158333,2420.8
+Sustut Peak,British Columbia,56.586389,-126.581389,2419.8
+Sheppard Peak,British Columbia,57.685833,-132.611389,2416.2
+Mount Wade,British Columbia,59.809167,-138.668334,2410.6
+Mount Alfred,British Columbia,50.206111,-124.076667,2403.1
+Mount Thomlinson,British Columbia,55.543611,-127.486667,2402.7
+Welch Peak,British Columbia,49.16,-121.600833,2402.3
+Kalone Peak,British Columbia,52.639444,-126.617222,2401.9
+Mount Tanner,British Columbia,49.655833,-118.5875,2397.5
+T Mountain,British Columbia,57.211389,-132.248333,2396.5
+Slesse Mountain,British Columbia,49.025556,-121.597777,2396.0
+Mount Crysdale,British Columbia,55.938333,-123.421111,2392.7
+Far Mountain,British Columbia,52.786389,-125.322778,2387.0
+Shelagyote Peak,British Columbia,55.955,-127.206111,2383.9
+Owens Peak,British Columbia,57.794722,-132.670556,2383.6
+Motase Peak,British Columbia,56.081389,-127.183056,2381.1
+Mount Breakenridge,British Columbia,49.72,-121.933889,2380.5
+Alma Peak,British Columbia,56.759444,-127.502222,2371.6
+Ymir Mountain,British Columbia,49.4275,-117.110833,2370.8
+Mount Callaghan,British Columbia,50.227778,-123.266111,2369.0
+Mount Cronin,British Columbia,54.93,-126.864167,2366.4
+Mount Rodney,British Columbia,50.848056,-124.785278,2358.3
+Mount Downton,British Columbia,52.705833,-124.850833,2355.3
+Old Glory Mountain,British Columbia,49.149722,-117.912222,2348.1
+Andesite Peak,British Columbia,54.2625,-128.0705555,2345.4
+Nation Peak,British Columbia,57.650278,-128.921945,2343.1
+Mount Winston,British Columbia,58.6575,-127.2425,2337.7
+Mount Laurier,British Columbia,56.776389,-123.483056,2328.4
+Mount Lester Jones,British Columbia,58.717223,-133.230556,2328.0
+Mount Ogilvie,British Columbia,58.861111,-134.257778,2326.2
+Blustry Mountain,British Columbia,50.611667,-121.698889,2324.6
+Mount Skukum,Yukon,60.195,-135.4886111,2316.1
+Fleet Peak,British Columbia,56.780278,-126.271389,2313.3
+Mount Priestley,British Columbia,55.2297222,-128.8758333,2313.1
+Big White Mountain,British Columbia,49.744444,-118.935277,2308.7
+Ripple Mountain,British Columbia,49.028334,-117.080278,2306.5
+Mount Cayley,British Columbia,50.120278,-123.290833,2303.9
+Kappan Mountain,British Columbia,52.319444,-125.5075,2303.8
+Rainbow Mountain,British Columbia,50.179722,-123.053611,2302.1
+Baldy Mountain,British Columbia,49.166111,-119.254167,2300.5
+Almond Mountain,British Columbia,49.308333,-118.605278,2297.2
+Pukeashun Mountain,British Columbia,51.204722,-119.235833,2295.3
+Siwash Mountain,British Columbia,49.356667,-117.450833,2294.7
+Mount Poletica,British Columbia,59.131945,-134.483889,2292.3
+Mount Burden,British Columbia,56.172223,-123.426111,2289.7
+Delta Peak,British Columbia,56.652222,-129.570278,2287.7
+Glacial Mountain,British Columbia,58.242777,-129.452778,2284.6
+The Nipple,British Columbia,49.945,-121.585277,2284.1
+Mount Burnett,British Columbia,49.285277,-116.866389,2283.5
+Netalzul Mountain,British Columbia,55.278333,-126.941111,2281.4
+Crater Mountain,British Columbia,49.178889,-120.082223,2280.5
+Mount Sidney Dobson,Northwest Territories,62.0165506,-127.6184184,2279.4
+Mount Sir Allan MacNab,British Columbia,52.520556,-119.203611,2279.0
+Snass Mountain,British Columbia,49.271945,-120.975834,2278.5
+Cairn Needle,British Columbia,49.818611,-121.993055,2275.1
+Mount Albert Dease,British Columbia,57.741111,-127.596389,2274.4
+Whatshan Peak,British Columbia,50.091389,-118.175278,2270.2
+Snowshoe Peak,Yukon,60.6280556,-138.3283333,2269.6
+Mount Henderson,British Columbia,54.2875,-128.063056,2267.5
+Tulameen Mountain,British Columbia,49.3875,-121.116667,2267.0
+Lavender Peak,British Columbia,55.651111,-129.318611,2264.2
+Gable Mountain,British Columbia,53.160833,-126.960556,2262.1
+Gataga Mountain,British Columbia,58.641944,-126.912778,2261.9
+Whitworth Peak,British Columbia,49.078334,-121.213333,2260.9
+Mount Frank Rae,Yukon,64.4702778,-138.555,2259.9
+Stoyoma Mountain,British Columbia,49.991944,-121.210278,2257.8
+Mount Scaia,British Columbia,49.874723,-118.368611,2255.4
+Three Brothers Mountain,British Columbia,49.166111,-120.768334,2253.7
+Commonwealth Mountain,Nunavut,82.4,-76.75,2251.8
+Mount Ronayne,British Columbia,50.469167,-122.826389,2251.0
+Mount Christie,Yukon,63.0211111,-129.6847222,2249.4
+Mount Faith,British Columbia,49.365,-118.253611,2248.2
+Oscar Peak,British Columbia,54.928889,-129.059444,2247.7
+Taylor Peak,British Columbia,57.280278,-128.520556,2246.3
+Mount Slocomb,British Columbia,57.888611,-126.321111,2240.7
+Apex Mountain,British Columbia,49.359444,-119.91,2238.7
+Mount Trygve,British Columbia,56.9925,-127.568611,2238.2
+Mount Judge Howay,British Columbia,49.507778,-122.322223,2234.9
+Mount Wilson,Northwest Territories,62.8832282,-129.7018478,2226.2
+Mount Wilson,Yukon,62.8914429,-129.710704,2226.2
+Mount Haney,British Columbia,58.938333,-133.7175,2225.4
+Deserters Peak,British Columbia,56.968056,-124.905278,2225.4
+Mount John Jay,British Columbia,56.141666,-130.425278,2224.9
+Moore Peak,British Columbia,50.704722,-121.738333,2217.3
+Fox Mountain,Yukon,61.9146742,-133.3451947,2216.3
+Scuzzy Mountain,British Columbia,49.854722,-121.6325,2206.7
+Mount Henri,British Columbia,56.509444,-124.724444,2203.1
+Celista Mountain,British Columbia,51.413333,-119.032778,2201.6
+Mount Landreville,Yukon,65.1561111,-132.8972222,2201.3
+Placer Mountain,British Columbia,49.141389,-120.417778,2200.7
+Mount Brent,British Columbia,49.4861111,-119.9080556,2198.7
+Twin Mountain,Yukon,61.8377778,-133.3275,2196.9
+Mount Arkell,Yukon,60.6041667,-135.6205556,2195.5
+Beale Mountain,British Columbia,58.922223,-129.199444,2193.2
+Grey Hunter Peak,Yukon,63.1355556,-135.6361111,2193.2
+Mount Ogden,British Columbia,58.430556,-133.3775,2192.7
+Mount Oxford,Nunavut,82.166667,-73.166667,2192.4
+Castle Mountain,British Columbia,56.873333,-132.126667,2185.8
+Mount Dalton,British Columbia,58.967223,-129.516667,2185.6
+Mount Melvin,British Columbia,56.865833,-125.923333,2180.2
+Yahk Mountain,British Columbia,49.192777,-115.699166,2178.3
+Kshwan Mountain,British Columbia,55.684722,-129.745833,2176.5
+Mount Lay,British Columbia,56.544722,-125.548056,2174.5
+Bates Peak,British Columbia,58.035277,-133.008611,2171.7
+Nadaleen Mountain,Yukon,64.253729,-133.0421537,2171.6
+Little White Mountain,British Columbia,49.698889,-119.331945,2169.8
+Mount Russel,British Columbia,57.130278,-125.764167,2163.7
+Mount Moore,British Columbia,49.885555,-118.813611,2163.0
+Mount Laporte,Yukon,61.2222222,-127.7080556,2161.8
+Mount Cartmel,British Columbia,57.7225,-129.294444,2160.4
+Glenlyon Peak,Yukon,62.5316667,-134.4855556,2155.6
+Meszah Peak,British Columbia,58.478611,-131.437222,2155.3
+Mount Hamilton Gault,Northwest Territories,61.6999024,-126.5683694,2154.2
+Mount Lowe,British Columbia,51.126389,-125.486944,2152.8
+Mount Pearkes,British Columbia,50.155,-123.7355556,2151.4
+Big Timothy Mountain,British Columbia,52.102222,-120.931111,2144.2
+Mount Murray,Yukon,60.8923707,-128.81864,2143.3
+Mount Black,Yukon,61.2083333,-134.0644444,2142.8
+Mount Bagot,British Columbia,59.348333,-135.024723,2141.3
+Mount Tod,British Columbia,50.916667,-119.940833,2135.5
+Chuwanten Mountain,British Columbia,49.0375,-120.637222,2133.9
+Mount Valpy,British Columbia,54.275,-129.056667,2131.7
+Pass Peak,Yukon,61.5694444,-132.8313889,2131.2
+Mount Griffin,British Columbia,50.931667,-118.562778,2129.3
+Simpson Peak,British Columbia,59.723334,-131.448055,2127.6
+Mount Everard,British Columbia,51.023056,-125.698056,2125.0
+Julian Peak,British Columbia,50.466111,-124.286667,2124.7
+Coquihalla Mountain,British Columbia,49.525556,-121.060556,2119.9
+Mount New,British Columbia,58.245,-126.436389,2115.4
+Lichen Mountain,British Columbia,51.144722,-119.276389,2114.6
+The Old Settler,British Columbia,49.511944,-121.621667,2112.9
+July Mountain,British Columbia,49.700833,-121.092777,2112.7
+Stalk Peak,British Columbia,57.138056,-127.715,2110.6
+Mount Tommy Jack,British Columbia,56.0475,-127.794167,2107.9
+Mount Monteith,British Columbia,55.743611,-122.508611,2106.6
+Mount McEvoy,British Columbia,56.769445,-128.319167,2102.8
+Mount Tom,British Columbia,51.3402778,-123.1652778,2093.8
+Xhlawit,British Columbia,55.101111,-129.2022221,2092.7
+Two Sisters Mountain,British Columbia,53.205833,-121.543333,2091.8
+Mount Urquhart,British Columbia,49.624445,-121.644166,2091.4
+Tomias Mountain,British Columbia,57.438333,-127.733333,2091.1
+Mount Odin,Nunavut,66.55,-65.4333,2086.0
+Mount Sheldon,Yukon,62.725833,-131.086389,2083.1
+Mount Beirnes,British Columbia,56.970556,-128.584722,2081.8
+Mount Canning,British Columbia,59.25,-134.6947222,2081.7
+Mount Granger,Yukon,60.5361111,-135.2555556,2079.2
+Queest Mountain,British Columbia,50.986944,-118.870556,2078.4
+Golden Hinde,British Columbia,49.6625,-125.746944,2077.4
+K'iyÃ¡n Mountain,British Columbia,59.9405556,-133.9005556,2073.7
+Botanie Mountain,British Columbia,50.370556,-121.600556,2071.7
+Mount Pike,Yukon,62.1781381,-129.6456126,2071.7
+Victoria Peak,British Columbia,50.054722,-126.101111,2071.6
+Mount Hunt,Yukon,61.4841667,-129.2219444,2070.8
+Gable Mountain,British Columbia,54.5,-121.674167,2070.4
+Hefty Peak,British Columbia,59.451944,-135.077223,2070.1
+White Crown Mountain,Nunavut,79.933333,-92.316667,2069.8
+Mount Billings,Yukon,61.1852778,-128.9022222,2068.4
+Mount Byng,Yukon,60.913003,-134.3394011,2064.9
+Troitsa Peak,British Columbia,53.589444,-127.073333,2062.3
+Mount Patterson,Yukon,64.0705556,-134.6580556,2061.6
+Caribou Mountain,Yukon,61.5958333,-133.2691667,2060.4
+Mount Kennedy,British Columbia,50.829722,-125.5475,2059.7
+Mount Alger,British Columbia,56.950278,-129.918611,2054.8
+Park Mountain,British Columbia,50.471111,-118.584722,2053.9
+Mount Clive,British Columbia,59.728889,-134.354167,2051.1
+DdhÃ¤l JÇt,Yukon,62.311944,-133.101111,2050.8
+Mount Mye,Yukon,62.311944,-133.101111,2050.8
+Mount TsÄ ZÅ«l,Yukon,62.311944,-133.101111,2050.8
+Truitt Peak,Yukon,62.2672222,-134.2575,2047.8
+Mount Hinton,Yukon,63.8688889,-135.1294444,2047.3
+Joe Mountain,Yukon,60.9363455,-134.7056505,2046.6
+Isolillock Peak,British Columbia,49.300278,-121.475,2040.9
+Birch Mountain,British Columbia,59.431945,-133.820834,2040.9
+Mount Ortell,Yukon,63.982222,-132.820556,2040.5
+Ddhaw Cho,Yukon,63.982222,-132.820556,2040.5
+Zakwaski Mountain,British Columbia,50.151944,-121.3,2040.1
+Mount Hogg,Yukon,61.3422222,-132.2377778,2037.8
+Traffic Mountain,Yukon,62.1127778,-130.4308333,2033.5
+Elkhorn Mountain,British Columbia,49.79,-125.828056,2033.3
+Mount Baird,Yukon,65.3241667,-133.8113889,2031.3
+Sittakanay Mountain,British Columbia,58.567778,-133.451944,2031.1
+Tahaetkun Mountain,British Columbia,50.261667,-119.738611,2030.8
+Pilot Mountain,Yukon,61.0261111,-135.5355556,2028.5
+Alice Peak,British Columbia,54.636389,-128.939444,2027.2
+Atlin Mountain,British Columbia,59.5325,-133.875834,2025.7
+Mount St. Cyr,Yukon,61.3505556,-133.1591667,2021.6
+Mount Lewis Cass,British Columbia,56.406111,-131.0875,2013.2
+Mount Gordon,British Columbia,57.763056,-131.228889,2011.5
+Mount Thynne,British Columbia,49.702778,-120.921389,2011.4
+House Mountain,British Columbia,50.895833,-124.946389,2009.3
+The Red Pillar,British Columbia,49.525834,-125.389444,2008.7
+Rangifer Mountain,Yukon,61.7913889,-134.0452778,2008.3
+Granite Peak,British Columbia,50.720556,-124.963333,2005.9
+Dall Mountain,Yukon,63.2511111,-131.6847222,2002.3
+Mount Lorne,Yukon,60.4613889,-134.7041667,2002.2
+Apex Mountain,Yukon,62.4694443,-138.0672221,1999.9
+Mount Weber,British Columbia,55.526389,-128.510278,1995.8
+Nankai Peak,British Columbia,55.973611,-126.213056,1995.3
+Mount Murphy,Yukon,60.9991667,-133.5922222,1985.2
+Grizzly Mountain,British Columbia,51.702222,-120.244167,1979.6
+Pennask Mountain,British Columbia,49.8863889,-120.1202778,1970.0
+Prospector Mountain,Yukon,62.4523631,-137.7995774,1967.5
+Mount Phelps,Yukon,65.0642781,-133.941635,1967.0
+Mount Churchill,British Columbia,49.968611,-123.8525,1964.5
+Marble Dome,British Columbia,59.806944,-132.967223,1961.1
+Mount Selous,Yukon,62.956111,-132.4344444,1957.3
+Rose Mountain,Yukon,62.3541957,-133.6222555,1956.0
+Mount Meehaus,British Columbia,58.028334,-130.572778,1955.1
+Twopete Mountain,Yukon,62.6836111,-133.7108333,1955.1
+Sky Pilot Mountain,British Columbia,49.634722,-123.086389,1949.4
+Raymond Peak,British Columbia,59.662222,-135.952778,1947.8
+Mount Cameron,British Columbia,59.405833,-134.087222,1946.1
+Mount Manzo Nagano,British Columbia,51.608333,-126.956667,1941.0
+Glossy Mountain,British Columbia,50.635833,-121.146389,1933.1
+Meslilloet Mountain,British Columbia,49.571667,-122.827223,1928.5
+Snow Peak,British Columbia,58.461944,-130.453056,1925.3
+Mount Kathleen,British Columbia,49.766389,-120.0575,1922.4
+Mount Bratnober,Yukon,60.7397222,-136.6647222,1922.1
+Seltat Peak,British Columbia,59.599722,-136.354167,1921.6
+Mount Brundage,British Columbia,58.276389,-133.345833,1920.2
+Satah Mountain,British Columbia,52.4758333,-124.6891667,1913.9
+Mount Dyer,British Columbia,50.992222,-125.641944,1909.5
+Mount Bryde,Yukon,60.106667,-133.189444,1907.6
+ShÃ  TlÃ¨n,Yukon,60.106667,-133.189444,1907.6
+Sentinel Mountain,British Columbia,59.438333,-133.4375,1900.8
+Mount Heger,British Columbia,51.656389,-120.479167,1900.2
+Sunday Peak,British Columbia,59.75,-134.1,1899.4
+Terrace Mountain,British Columbia,50.096666,-119.626111,1899.0
+Kaketsa Mountain,British Columbia,58.224167,-131.821389,1895.6
+Mount Gottfriedsen,British Columbia,49.941111,-119.946111,1893.7
+Chuwhels Mountain,British Columbia,50.541667,-120.588889,1893.1
+Clarke Peak,Yukon,63.0375,-135.0825,1891.5
+Outlook Peak,Nunavut,79.75,-91.383333,1886.6
+Streak Mountain,Yukon,60.5763217,-133.6555185,1881.8
+Mimenuh Mountain,British Columbia,50.179722,-121.219167,1855.9
+Kisimngiuqtuq Peak,Nunavut,70.797222,-71.65,1855.5
+Notchtop Peak,British Columbia,56.468889,-127.624167,1853.4
+Mount Davidson,British Columbia,53.148333,-124.89,1851.8
+Hayes Peak,Yukon,60.3966667,-133.3066667,1847.6
+Plateau Mountain,Yukon,63.1023919,-133.9289807,1847.0
+Samatosum Mountain,British Columbia,51.16,-119.756389,1844.8
+Qiajivik Mountain,Nunavut,72.180556,-75.911111,1839.3
+Mount Catt,British Columbia,54.343611,-128.786389,1838.5
+Mount Cridge,British Columbia,50.954444,-125.456111,1835.1
+Quintette Mountain,British Columbia,54.858611,-120.879444,1833.7
+Mount Lokken,Yukon,61.9941667,-134.405,1832.1
+TsÃ¤l KÃ­na,Yukon,61.9941667,-134.405,1832.1
+Mount Harper,Yukon,64.6752778,-139.8719444,1831.2
+Big Interior Mountain,British Columbia,49.460556,-125.573889,1828.2
+Mount Edwards,Yukon,63.7238889,-134.2658333,1824.0
+Mount Barner,British Columbia,50.456389,-124.580278,1821.4
+Mount Skonseng,Yukon,60.9581195,-127.1952917,1821.0
+Mount Gething,British Columbia,56.040833,-122.4475,1820.6
+Cap Mountain,Yukon,60.7644444,-134.7280556,1817.8
+Lizard Head Mountain,British Columbia,51.769444,-120.189167,1817.2
+Crown Mountain,British Columbia,49.944444,-125.813333,1816.3
+Mount Haldane,Yukon,63.860555,-135.844722,1808.4
+NÃ¡tthÊ¼Ã¤n,Yukon,63.860555,-135.844722,1808.4
+Slate Mountain,Yukon,60.9994315,-133.7809808,1808.4
+Jubilee Mountain,Yukon,60.1966667,-134.1191667,1806.5
+Mount Nansen,Yukon,62.1065709,-137.3033088,1804.8
+Dromedary Mountain,Yukon,62.8852778,-134.7305556,1798.9
+Gnawed Mountain,British Columbia,50.423056,-120.984444,1794.4
+Matchlee Mountain,British Columbia,49.631945,-125.966945,1786.8
+Mount McMaster,British Columbia,59.352222,-133.178334,1784.8
+Pink Mountain,British Columbia,57.071945,-122.873889,1784.4
+Greenstone Mountain,British Columbia,50.610556,-120.642778,1782.5
+Maquilla Peak,British Columbia,50.1125,-126.339722,1779.2
+Snowcap Mountain,Yukon,62.1468509,-134.8171756,1776.0
+Mount Klotz,Yukon,65.3772222,-140.0938889,1773.3
+Mount Menzie,Yukon,62.7283933,-133.9277243,1768.9
+Moyeha Mountain,British Columbia,49.516945,-125.739166,1763.3
+Selish Mountain,British Columbia,49.983611,-120.817223,1762.2
+Mount Pratt,British Columbia,50.672778,-125.366944,1760.6
+Mount Dirom,British Columbia,58.875278,-133.496666,1755.7
+Brunswick Mountain,British Columbia,49.487777,-123.201389,1750.7
+TsÊ¼agro DdhÇw,Yukon,63.715,-134.819444,1750.3
+Red Mountain,Yukon,63.9716667,-136.6944444,1749.5
+Mount Palmerston,British Columbia,50.4075,-126.337778,1745.7
+Dome Mountain,British Columbia,54.746667,-126.658333,1744.3
+Mount Lolo,British Columbia,50.801944,-120.126944,1743.8
+Mount Arrowsmith,British Columbia,49.223889,-124.594722,1735.8
+The Wart,British Columbia,49.904444,-120.378889,1731.4
+Mount Schellinger,Yukon,65.481944,-132.653611,1724.8
+Goatherd Mountain,Yukon,60.2747222,-137.8583333,1724.7
+Mount Murchison,British Columbia,49.715278,-123.244722,1723.6
+Trio Mountain,British Columbia,49.879167,-126.003333,1720.6
+Swakum Mountain,British Columbia,50.291389,-120.697778,1718.4
+Mount Guichon,British Columbia,50.367778,-120.676389,1713.8
+Mount Tidd,Yukon,62.0616667,-131.3161111,1696.4
+Mount Blanshard,British Columbia,49.362778,-122.507222,1694.6
+Iron Mountain,British Columbia,50.048611,-120.7575,1688.5
+Cathedral Mountain,British Columbia,49.466667,-123.008611,1688.2
+Mount Dent,British Columbia,52.7225,-124.178056,1682.0
+Mount Scovil,British Columbia,55.246667,-123.437778,1671.4
+Mount Raleigh,Nunavut,66.516667,-62.283333,1671.0
+Mount McInnes,British Columbia,50.076111,-120.971389,1670.5
+Hale Mountain,British Columbia,59.5375,-134.355,1669.3
+Mount Robert,British Columbia,55.458889,-121.476944,1665.0
+Shovelnose Mountain,British Columbia,49.865,-120.856389,1660.9
+Koidern Mountain,Yukon,62.0625,-140.3547222,1643.4
+Mount Alex Graham,British Columbia,52.082222,-122.949722,1643.2
+Mount Ewing,British Columbia,59.8875,-133.394722,1640.3
+Missezula Mountain,British Columbia,49.685,-120.542222,1637.5
+Mount Skookum Jim,Yukon,65.1791667,-139.0527778,1636.5
+Long Mountain,British Columbia,50.086944,-119.244722,1635.8
+Flat Top,Yukon,63.2277778,-137.3916667,1634.6
+Estero Peak,British Columbia,50.461944,-125.185833,1628.4
+Mount Morin,Yukon,60.0133333,-134.3088889,1621.1
+Mount Sether,Yukon,63.3267399,-136.2233528,1612.7
+Rough Top,Yukon,63.1725,-137.3336111,1612.5
+Mount Wrottesley,British Columbia,49.6025,-123.3575,1611.7
+Mount Donaldson,British Columbia,49.705833,-123.455278,1608.7
+Mount Hart,Yukon,63.908333,-140.415,1608.1
+Mount Burgess,Yukon,66.0458333,-139.6422222,1605.7
+Mount Moriarty,British Columbia,49.137777,-124.451667,1588.1
+Mount Pitts,Yukon,62.5780556,-137.5952778,1585.2
+Mount Washington,British Columbia,49.753056,-125.296389,1578.5
+Mount Caubvick,Newfoundland and Labrador,58.8836111,-63.7158334,1578.4
+Mont D'Iberville,Quebec,58.887202,-63.712713,1578.4
+Mount Bunoz,Yukon,65.4838889,-137.1894444,1574.2
+Mount Bulman,British Columbia,50.430833,-120.081667,1573.8
+Mount Moodie,British Columbia,56.295,-124.2125,1569.0
+Slollicum Peak,British Columbia,49.408333,-121.716667,1563.8
+Cap Mountain,Northwest Territories,63.4070425,-123.2155377,1555.6
+Mount Ida,British Columbia,50.6391659,-119.3186109,1536.9
+Mount Boofus,British Columbia,59.939722,-133.050278,1536.1
+Cirque Mountain,Newfoundland and Labrador,58.9336111,-63.5491667,1527.7
+Coquitlam Mountain,British Columbia,49.392777,-122.706944,1525.9
+Mount Gallatin,British Columbia,56.754444,-131.901389,1524.6
+Ddhaw NtlÊ¼ro,Yukon,63.483333,-135.363889,1521.8
+Two Buttes,Yukon,63.483333,-135.363889,1521.8
+Mount Morley,Yukon,60.0914933,-132.2007815,1519.5
+Mount Whymper,British Columbia,48.951111,-124.162222,1507.3
+Ptarmigan Mountain,Yukon,62.719444,-136.126389,1487.1
+TezrÄ DdhÇw,Yukon,62.719444,-136.126389,1487.1
+Pinder Peak,British Columbia,50.195,-126.93,1474.2
+Australia Mountain,Yukon,63.6127778,-138.1302778,1470.0
+Pioneer Peak,Nunavut,70.4597222,-70.8291667,1469.4
+Mount Hooper,British Columbia,49.011667,-124.516945,1467.9
+Mount Calder,British Columbia,49.887777,-123.986111,1460.2
+Reindeer Mountain,Yukon,63.6111111,-139.3666667,1458.6
+Mount Clark,Northwest Territories,64.416768,-124.2183877,1456.7
+Mount Baker,Yukon,62.5702778,-140.1430556,1452.4
+Cockscomb Mountain,Nunavut,70.516667,-70.533333,1448.7
+Mount Merrill,Yukon,60.1258333,-124.7111111,1439.7
+Packers Mountain,Yukon,61.8358708,-135.5258973,1438.7
+Mount Gilliland,Yukon,60.2061111,-127.3427778,1438.3
+Mount Fyfe,Yukon,65.2752778,-136.8633333,1438.3
+Mount Pike,British Columbia,49.7225,-120.678334,1438.1
+Conuma Peak,British Columbia,49.831389,-126.31,1434.4
+Mount Tyrrell,Yukon,63.7147222,-140.0694444,1433.2
+Narwhal Mountain,Nunavut,66.716667,-61.966667,1420.2
+Crystal Peak,Nunavut,70.5333334,-70.9166667,1418.5
+Pointed Mountain,Northwest Territories,60.3730539,-123.9144934,1403.4
+Pyroxene Mountain,Yukon,63.021389,-138.351944,1374.8
+Merry Widow Mountain,British Columbia,50.339444,-127.285,1363.1
+Mount Martin,Yukon,60.1291667,-124.1480556,1356.0
+Anticline Mountain,Yukon,61.3544444,-135.5919444,1352.5
+Mount Eliot,Newfoundland and Labrador,59.1836111,-63.7991667,1349.1
+Mount Grey,British Columbia,48.994722,-124.701389,1317.0
+Mount Guemes,British Columbia,49.371389,-125.809444,1308.3
+Mount Scriven,British Columbia,50.633056,-125.885556,1306.6
+Mount Averil,British Columbia,54.414444,-122.426667,1299.6
+Mount Hall,British Columbia,48.919723,-123.878889,1299.5
+Mount Troubridge,British Columbia,49.812222,-124.168611,1279.5
+Mont Jacques-Cartier,Quebec,48.987405,-65.948419,1275.5
+Kingston Mountain,Yukon,61.2602778,-135.8983333,1262.3
+Mont Jacques-Rousseau,Quebec,59.285127,-64.551655,1261.9
+Mount Adami,Yukon,63.3150582,-138.0280843,1261.6
+Tahsis Mountain,British Columbia,49.846111,-126.611111,1260.4
+Shana Mountain,British Columbia,58.850278,-133.113611,1250.5
+Mount Osborn,Yukon,65.7641667,-140.8372222,1249.9
+Mount Elphinstone,British Columbia,49.463056,-123.529723,1245.0
+Mount Turner,Yukon,65.3952778,-136.2147222,1242.7
+Nahanni Mountain,Northwest Territories,62.0834183,-123.3349217,1238.8
+Mount Stewart,Yukon,63.1780556,-139.3766667,1234.0
+Mount Menzies,British Columbia,50.230556,-125.496944,1230.2
+Kaouk Mountain,British Columbia,50.034167,-126.869167,1227.6
+Mount Wolfenden,British Columbia,50.427222,-127.566389,1226.5
+Volcano Mountain,Yukon,62.925,-137.3808334,1225.3
+Towincut Mountain,British Columbia,48.8197222,-124.3955556,1224.7
+Ice Chest Mountain,Yukon,63.5122222,-137.5452778,1185.8
+Mont Gosford,Quebec,45.30165,-70.866935,1184.4
+Mont Richardson,Quebec,48.927138,-66.015769,1181.8
+Mount Bolduc,British Columbia,48.719167,-124.300833,1178.8
+Sawmill Mountain,Northwest Territories,60.8000646,-123.668214,1170.9
+Mont Raoul-Blanchard,Quebec,47.309452,-70.832516,1167.0
+Mont Albert,Quebec,48.90225,-66.20415,1153.6
+Mont Logan,Quebec,48.889908,-66.638724,1145.1
+Edinburgh Mountain,British Columbia,48.647777,-124.412222,1121.8
+Mount Modeste,British Columbia,48.636944,-124.110556,1111.6
+Mont MÃ©gantic,Quebec,45.455775,-71.152744,1106.3
+Mont Veyrier,Quebec,51.533071,-68.077166,1101.1
+Mont FranÃ§ois-De Laval,Quebec,47.3838889,-71.2172222,1084.6
+Bishops Mitre,Newfoundland and Labrador,57.8960498,-61.9830466,1067.5
+Mont Blanc,Quebec,48.777477,-66.88688,1064.4
+Mount Demers,British Columbia,48.609167,-124.082223,1063.3
+Mount Kermode,British Columbia,52.956944,-131.858056,1052.3
+Mount Albemarle,British Columbia,49.578611,-126.461389,1041.0
+Mont GÃ©rard-Morisset,Quebec,47.196438,-71.017121,1039.4
+Sommet de Chaillot,Quebec,47.8027778,-70.8727778,1038.3
+Mont Ãlie,Quebec,47.916877,-70.361711,1036.6
+Man O'War Peak,Newfoundland and Labrador,56.9686145,-61.6712729,1032.6
+Sommet de Maurice,Quebec,47.796455,-70.861011,1022.7
+Sommet de Cotonou,Quebec,47.781982,-70.821938,1022.3
+Sommet de Dakar,Quebec,47.7808333,-70.8319444,1022.3
+Mont Camille-Pouliot,Quebec,47.565,-71.239444,999.2
+Mont Jean-Charles-Bonenfant,Quebec,47.673329,-71.241235,997.6
+Wood Mountain,Saskatchewan,49.2333624,-106.5005936,995.4
+Table Mountain,Northwest Territories,63.6348213,-123.4808486,987.0
+Mont Saddle,Quebec,45.347633,-71.010688,976.9
+Sommet de Paris,Quebec,47.767679,-70.832474,975.5
+Sommet de QuÃ©bec,Quebec,47.76,-70.8352778,975.5
+Mont du Lac des Cygnes,Quebec,47.665805,-70.60338,969.3
+Mount Todd,British Columbia,48.615556,-123.935833,955.8
+Mont Babel,Quebec,51.436716,-68.696019,954.8
+Mont Louis-HÃ©mon,Quebec,47.603889,-71.217778,954.0
+Mont FÃ©lix-Antoine-Savard,Quebec,47.898674,-70.494077,951.8
+Pelican Mountain,Alberta,55.5911111,-113.6861111,940.3
+La NoyÃ©e,Quebec,47.805075,-70.470629,939.0
+Mont ValliÃ¨res-de-Saint-RÃ©al,Quebec,48.838569,-66.024335,937.1
+Mont Tremblant,Quebec,46.249027,-74.559594,931.8
+Mont Chauve,Quebec,48.832204,-66.269274,919.9
+Mount Pinguksoak,Newfoundland and Labrador,58.4169445,-63.2491666,914.5
+Mont D'Urban,Quebec,45.294983,-71.105291,912.5
+Wienerwurst Mountain,Yukon,62.9130556,-140.9466667,910.0
+Mount Dahadinni,Northwest Territories,63.6667344,-125.0017454,908.1
+Mount Higgins,Yukon,66.1433333,-136.5444444,901.6
+JÃ¹uk'an,Yukon,66.1433333,-136.5444444,901.6
+Mont Nicol-Albert,Quebec,48.826896,-66.769496,894.9
+Mont Sainte-CÃ©cile,Quebec,45.688594,-70.969335,889.3
+Mount Shepherd,British Columbia,49.534722,-124.1875,879.9
+Mount Thompson,Nunavut,81.25,-76.95,873.3
+Mont Hereford,Quebec,45.082352,-71.600683,869.7
+Mount Effie,Northwest Territories,65.9500673,-127.8519836,857.7
+Mount Fitton,Yukon,68.4819444,-138.0383333,848.7
+Mont Orford,Quebec,45.311927,-72.24168,847.6
+Sawtooth Mountain,Nunavut,70.416667,-68.9,840.3
+Baldy Mountain,Manitoba,51.468611,-100.72833,833.4
+Mont Flat Top,Quebec,45.485774,-70.727679,827.1
+Moose Mountain,Saskatchewan,49.7833527,-102.5838201,824.7
+Morne de Saint-SÃ©bastien,Quebec,45.760241,-70.922171,821.9
+Mount Davies Gilbert,Yukon,68.5163889,-136.7252778,815.6
+Mount Carleton,New Brunswick,47.378002,-66.875906,806.7
+Mount St. Hans,Nunavut,72.877778,-76.320833,806.0
+Mont Alfred-DesRochers,Quebec,45.323979,-72.242894,803.3
+Mont Sainte-Anne,Quebec,47.088013,-70.932216,802.6
+Mont Laure-Gaudreault,Quebec,48.132085,-70.296913,794.2
+Mount Watt,Alberta,58.6472223,-117.5058333,793.5
+Mont Victor-Tremblay,Quebec,48.639277,-70.897469,791.8
+Mont Adagio,Quebec,47.210556,-71.4175,789.0
+Mount Haywood,Northwest Territories,63.7500666,-125.051755,779.1
+Nalaisk Mountain,New Brunswick,47.200024,-66.752387,776.9
+Mont Sir-Wilfrid,Quebec,46.690241,-75.594788,775.7
+Tower Mountain,Newfoundland and Labrador,59.3336111,-64.1325,768.7
+Wilkinson Mountain,New Brunswick,47.113017,-66.742069,765.5
+Mont des Ãboulements,Quebec,47.5297222,-70.2955556,765.2
+Mount Bolton,Nunavut,78.333333,-75.25,760.5
+Mont Fernand-Seguin,Quebec,48.960763,-66.192088,759.0
+Mount Camsell,Northwest Territories,62.2500853,-123.4849254,753.7
+Bellevue Mountain,Nunavut,72.416667,-81.45,753.3
+Mont Owl's Head,Quebec,45.062161,-72.297913,743.5
+Mont Haywood,Quebec,58.594444,-64.2125,740.3
+Montagne Nesue'g,Quebec,48.658861,-65.593635,740.0
+Riding Mountain,Manitoba,50.6975,-99.636944,738.8
+Duck Mountain,Manitoba,51.583333,-101.0,734.3
+Mount Benedict,Newfoundland and Labrador,54.734718,-58.513762,733.6
+Mont Grand Fonds,Quebec,47.768982,-70.080185,732.4
+Mont Gabrielle-Roy,Quebec,47.377277,-70.579279,717.0
+Mont Foster,Quebec,45.230054,-72.397991,710.8
+Le Pinacle,Quebec,45.046533,-72.739071,706.6
+Mont Adstock,Quebec,46.029724,-71.205033,705.0
+North Arm Mountain,Newfoundland and Labrador,49.2475,-57.9902778,701.2
+Turtle Mountain,Manitoba,49.000556,-100.2475,695.7
+Mont Sainte-Marguerite,Quebec,46.335683,-71.141333,689.3
+Big Bald Mountain,New Brunswick,47.195125,-66.423284,671.1
+Mount Acquin,New Brunswick,47.345753,-66.462881,662.9
+Ogidaki Mountain,Ontario,46.99211,-83.98367,661.7
+Pic Bald,Quebec,45.57146,-71.678979,653.3
+Mont Chapman,Quebec,45.571468,-71.678879,653.3
+GÃ¨egookâyuu,Yukon,67.526,-138.414,644.1
+Maple Mountain,Ontario,47.39745,-80.33791,638.1
+Duck Mountain,Saskatchewan,51.6333254,-101.6337954,636.4
+Camel Back Mountain,New Brunswick,47.531878,-66.394785,635.3
+Tip Top Mountain,Ontario,48.27341,-86.00377,633.8
+Bald Peak,New Brunswick,47.173073,-67.108439,627.6
+Mount Conybeare,Yukon,69.4932867,-140.1185534,622.7
+Batchawana Mountain,Ontario,47.06517,-84.41087,621.0
+Mont du GÃ©nÃ©ral-Allard,Quebec,47.014336,-71.586013,616.9
+Mont Cummings,Quebec,49.9580556,-74.2022222,603.8
+Grizzly Bear Mountain,Northwest Territories,65.3335077,-121.0016393,599.7
+Mont Bernecher,Quebec,48.264466,-73.869102,594.5
+Lower Blue Mountain,New Brunswick,47.068068,-67.224979,592.1
+Stanley Mountain,New Brunswick,46.884243,-67.046035,588.8
+Table Mountain,Newfoundland and Labrador,47.711177,-59.223779,580.9
+Mont ÃlÃ©phant,Quebec,46.229393,-74.480479,580.1
+Mont Comi,Quebec,48.463786,-68.209611,575.6
+Mont Albert-Low,Quebec,61.722778,-72.218889,554.6
+Mont Arthur-LeBlanc,Quebec,48.39663,-70.195719,552.6
+Mont Springer,Quebec,49.804444,-74.816111,550.3
+Mont Brome,Quebec,45.289152,-72.637916,546.8
+Mont des Catalans,Quebec,48.421441,-66.744974,544.3
+Mont Shefford,Quebec,45.363519,-72.625927,519.0
+Blue Mountain,New Brunswick,47.796732,-66.315138,518.8
+Gnat Mountain,Newfoundland and Labrador,54.169788,-58.150051,498.4
+Tahiapik Mountain,Nunavut,67.305556,-116.78056,497.3
+Mount Bumpus,Nunavut,69.55,-112.66667,497.0
+Quisibis Mountain,New Brunswick,47.425443,-67.969035,491.1
+Mont BÃ©lair,Quebec,46.823035,-71.494013,483.5
+Todd Mountain,New Brunswick,46.540116,-66.707095,482.5
+Mont VidÃ©o,Quebec,48.4138889,-77.7791667,470.4
+Mount Peyton,Newfoundland and Labrador,48.947199,-55.100901,470.4
+Ammonite Mountain,Nunavut,77.816667,-87.516667,469.6
+Pandora Peak,British Columbia,48.575556,-124.445277,461.3
+Little Mountain,Newfoundland and Labrador,48.271841,-58.438024,446.2
+Mount Howley,Newfoundland and Labrador,48.271841,-58.438024,446.2
+Mont Brillant,Quebec,46.899783,-71.447813,444.6
+Caledon Mountain,Ontario,43.8416667,-79.9672222,433.7
+Mount Royal,Ontario,49.9363889,-88.8111111,416.5
+Mont Yamaska,Quebec,45.445988,-72.868791,413.8
+Sugarloaf Mountain,Nova Scotia,46.422899,-60.931038,411.1
+Mont Saint-Hilaire,Quebec,45.55683,-73.164097,405.8
+Mont DÃ´me,Quebec,50.612069,-76.448696,394.0
+Mont Rougemont,Quebec,45.475621,-73.073099,391.9
+Mont Casa-Berardi,Quebec,46.911483,-71.578899,391.1
+Wolf Mountain,Newfoundland and Labrador,48.135496,-56.803636,370.6
+Mount Sylvester,Newfoundland and Labrador,48.17695,-55.078618,365.3
+John Martins,Newfoundland and Labrador,48.17695,-55.078618,365.3
+Mount Nicolay,Nunavut,77.783333,-94.85,357.1
+Table Mountain,Newfoundland and Labrador,48.630361,-58.627048,356.1
+Mont AdÃ©la-Lessard,Quebec,48.155152,-69.745252,355.6
+Murray Mountain,Nova Scotia,46.309806,-60.576581,347.2
+Pic Champlain,Quebec,48.3280556,-68.835,346.8
+Mont Snow,Quebec,46.926454,-71.423157,343.0
+Wowkwesueiegatek,Newfoundland and Labrador,48.403803,-55.952117,324.5
+Mount Cormack,Newfoundland and Labrador,48.403803,-55.952117,324.5
+Mont Arthabaska,Quebec,46.036702,-71.902386,303.2
+Mount Walker,Nunavut,72.05,-94.3,259.0
+South Mountain,Nova Scotia,44.904255,-64.749197,255.7
+Mont Saint-GrÃ©goire,Quebec,45.356636,-73.148685,248.4
+North Mountain,Nova Scotia,44.921314,-65.251917,247.4
+Mont Royal,Quebec,45.508577,-73.58968,232.7
+North Mountain,Nova Scotia,45.816738,-61.08259,230.9
+Mount Moriah,Newfoundland and Labrador,48.964989,-58.034939,230.0
+Mount Sherer,Nunavut,72.966667,-89.15,228.9
+Montagne de Rigaud,Quebec,45.450994,-74.298069,227.2
+Mont Saint-Bruno,Quebec,45.555094,-73.309944,205.2
+Discovery Mountain,Nunavut,76.55,-93.333333,191.8
+Mount Bullock,Nunavut,75.2,-100.33333,174.7
+Man Peak,Newfoundland and Labrador,48.812244,-53.963424,159.8
+Mount Meadowbank,Nunavut,66.15,-96.966667,159.3
+Glenmore Mountain,Nova Scotia,45.086355,-63.207776,157.8
+Mount Windsor,Nunavut,77.2,-90.966667,140.4
+Mount Mactavish,Nunavut,68.1,-88.7,117.8

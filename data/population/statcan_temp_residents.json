@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_temp_residents",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 17-10-0121-01",
+  "frequency": "quarterly",
+  "unit": "persons",
+  "retrieved_at": "2026-08-10T15:03:13.109503+00:00",
+  "latest_observation_date": "2026-04-01",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to {'GEO': 'Canada', 'Non-permanent resident types': 'Total, non-permanent residents'}"
+  ],
+  "notes": null,
+  "row_count": 20
+}

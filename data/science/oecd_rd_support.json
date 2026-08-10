@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_rd_support",
+  "source": "OECD",
+  "source_table": "OECD R&D Tax Incentive indicators (DSD_RDTAX)",
+  "frequency": "annual",
+  "unit": "% of GDP",
+  "retrieved_at": "2026-08-10T15:08:26.409946+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "direct (DF) + tax incentives (DF_GTARD), % of GDP; 17 OECD economies"
+  ],
+  "notes": null,
+  "row_count": 406
+}

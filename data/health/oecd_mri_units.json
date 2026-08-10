@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_mri_units",
+  "source": "OECD",
+  "source_table": "OECD Health Statistics",
+  "frequency": "annual",
+  "unit": "per million population",
+  "retrieved_at": "2026-08-10T15:07:26.345467+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to MRI units for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 382
+}

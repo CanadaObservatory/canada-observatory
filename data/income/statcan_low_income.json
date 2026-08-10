@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_low_income",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 11-10-0135-01",
+  "frequency": "annual",
+  "unit": "% of persons",
+  "retrieved_at": "2026-08-10T15:06:34.240018+00:00",
+  "latest_observation_date": "2024-01-01",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to {'GEO': 'Canada', 'Persons in low income': 'All persons', 'Low income lines': 'Low income measure after tax', 'Statistics': 'Percentage of persons in low income'}"
+  ],
+  "notes": null,
+  "row_count": 49
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "esdc_minimum_wage",
+  "source": "Employment and Social Development Canada (Historical Minimum Wage Rates in Canada)",
+  "source_table": "open.canada.ca 390ee890",
+  "frequency": "annual",
+  "unit": "nominal CAD per hour",
+  "retrieved_at": "2026-08-10T15:04:28.213673+00:00",
+  "latest_observation_date": "2026",
+  "next_release_date": null,
+  "transformations": [
+    "rate in effect at year-end, forward-filled per jurisdiction; 14 jurisdictions"
+  ],
+  "notes": null,
+  "row_count": 828
+}

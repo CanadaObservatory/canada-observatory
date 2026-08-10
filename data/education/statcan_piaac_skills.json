@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_piaac_skills",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 37-10-0259-01 (PIAAC Cycle 2)",
+  "frequency": "per assessment cycle (~decadal)",
+  "unit": "mean score (0\u2013500) / % of population aged 16\u201365",
+  "retrieved_at": "2026-08-10T15:08:35.402150+00:00",
+  "latest_observation_date": "2022",
+  "next_release_date": null,
+  "transformations": [
+    "Canada + provinces + the table's built-in OECD average; by gender and age group; average score plus proficiency-level shares (level 1 or below / level 2 / level 3 or above) per skill domain"
+  ],
+  "notes": null,
+  "row_count": 648
+}

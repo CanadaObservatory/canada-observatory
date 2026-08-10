@@ -1,0 +1,369 @@
+country_code,year,pct_above_who,country_name
+AUS,1990,98.75,Australia
+AUS,1995,98.04,Australia
+AUS,2000,98.92,Australia
+AUS,2001,99.17,Australia
+AUS,2002,99.13,Australia
+AUS,2003,98.86,Australia
+AUS,2004,98.78,Australia
+AUS,2005,98.83,Australia
+AUS,2006,98.66,Australia
+AUS,2007,98.26,Australia
+AUS,2008,98.73,Australia
+AUS,2009,99.17,Australia
+AUS,2010,99.11,Australia
+AUS,2011,99.13,Australia
+AUS,2012,99.18,Australia
+AUS,2013,99.13,Australia
+AUS,2014,99.09,Australia
+AUS,2015,98.81,Australia
+AUS,2016,99.14,Australia
+AUS,2017,99.15,Australia
+AUS,2018,99.2,Australia
+AUS,2019,99.21,Australia
+AUS,2020,98.97,Australia
+CAN,1990,98.38,Canada
+CAN,1995,98.37,Canada
+CAN,2000,98.87,Canada
+CAN,2001,98.7,Canada
+CAN,2002,98.59,Canada
+CAN,2003,99.26,Canada
+CAN,2004,98.84,Canada
+CAN,2005,98.18,Canada
+CAN,2006,98.5,Canada
+CAN,2007,97.82,Canada
+CAN,2008,97.47,Canada
+CAN,2009,94.41,Canada
+CAN,2010,95.74,Canada
+CAN,2011,90.98,Canada
+CAN,2012,93.3,Canada
+CAN,2013,93.14,Canada
+CAN,2014,92.74,Canada
+CAN,2015,91.78,Canada
+CAN,2016,77.52,Canada
+CAN,2017,90.63,Canada
+CAN,2018,89.8,Canada
+CAN,2019,74.59,Canada
+CAN,2020,80.81,Canada
+CHE,1990,99.99,Switzerland
+CHE,1995,99.99,Switzerland
+CHE,2000,99.99,Switzerland
+CHE,2001,99.99,Switzerland
+CHE,2002,99.99,Switzerland
+CHE,2003,99.99,Switzerland
+CHE,2004,99.94,Switzerland
+CHE,2005,99.94,Switzerland
+CHE,2006,99.95,Switzerland
+CHE,2007,99.94,Switzerland
+CHE,2008,99.94,Switzerland
+CHE,2009,99.94,Switzerland
+CHE,2010,99.94,Switzerland
+CHE,2011,99.94,Switzerland
+CHE,2012,99.95,Switzerland
+CHE,2013,99.93,Switzerland
+CHE,2014,99.92,Switzerland
+CHE,2015,99.93,Switzerland
+CHE,2016,99.92,Switzerland
+CHE,2017,99.89,Switzerland
+CHE,2018,99.89,Switzerland
+CHE,2019,99.78,Switzerland
+CHE,2020,99.71,Switzerland
+DEU,1990,99.98,Germany
+DEU,1995,99.98,Germany
+DEU,2000,99.98,Germany
+DEU,2001,99.98,Germany
+DEU,2002,99.98,Germany
+DEU,2003,99.98,Germany
+DEU,2004,99.98,Germany
+DEU,2005,99.98,Germany
+DEU,2006,99.98,Germany
+DEU,2007,99.98,Germany
+DEU,2008,99.98,Germany
+DEU,2009,99.98,Germany
+DEU,2010,99.98,Germany
+DEU,2011,99.98,Germany
+DEU,2012,99.98,Germany
+DEU,2013,99.98,Germany
+DEU,2014,99.98,Germany
+DEU,2015,99.98,Germany
+DEU,2016,99.98,Germany
+DEU,2017,99.98,Germany
+DEU,2018,99.98,Germany
+DEU,2019,99.98,Germany
+DEU,2020,99.98,Germany
+DNK,1990,99.22,Denmark
+DNK,1995,99.21,Denmark
+DNK,2000,99.2,Denmark
+DNK,2001,99.2,Denmark
+DNK,2002,99.2,Denmark
+DNK,2003,99.2,Denmark
+DNK,2004,99.2,Denmark
+DNK,2005,99.19,Denmark
+DNK,2006,99.19,Denmark
+DNK,2007,99.19,Denmark
+DNK,2008,99.19,Denmark
+DNK,2009,99.19,Denmark
+DNK,2010,99.19,Denmark
+DNK,2011,99.19,Denmark
+DNK,2012,99.19,Denmark
+DNK,2013,99.18,Denmark
+DNK,2014,99.18,Denmark
+DNK,2015,99.18,Denmark
+DNK,2016,99.17,Denmark
+DNK,2017,99.17,Denmark
+DNK,2018,99.16,Denmark
+DNK,2019,99.16,Denmark
+DNK,2020,99.15,Denmark
+FIN,1990,99.12,Finland
+FIN,1995,98.07,Finland
+FIN,2000,97.61,Finland
+FIN,2001,97.12,Finland
+FIN,2002,96.46,Finland
+FIN,2003,97.4,Finland
+FIN,2004,96.85,Finland
+FIN,2005,96.74,Finland
+FIN,2006,97.4,Finland
+FIN,2007,96.54,Finland
+FIN,2008,95.39,Finland
+FIN,2009,95.85,Finland
+FIN,2010,95.78,Finland
+FIN,2011,95.53,Finland
+FIN,2012,93.16,Finland
+FIN,2013,86.33,Finland
+FIN,2014,89.66,Finland
+FIN,2015,78.5,Finland
+FIN,2016,57.74,Finland
+FIN,2017,55.72,Finland
+FIN,2018,69.88,Finland
+FIN,2019,65.61,Finland
+FIN,2020,47.85,Finland
+FRA,1990,99.69,France
+FRA,1995,99.69,France
+FRA,2000,99.71,France
+FRA,2001,99.71,France
+FRA,2002,99.71,France
+FRA,2003,99.71,France
+FRA,2004,99.7,France
+FRA,2005,99.71,France
+FRA,2006,99.7,France
+FRA,2007,99.71,France
+FRA,2008,99.68,France
+FRA,2009,99.65,France
+FRA,2010,99.67,France
+FRA,2011,99.66,France
+FRA,2012,99.66,France
+FRA,2013,99.68,France
+FRA,2014,99.69,France
+FRA,2015,99.69,France
+FRA,2016,99.7,France
+FRA,2017,99.71,France
+FRA,2018,99.71,France
+FRA,2019,99.7,France
+FRA,2020,99.7,France
+GBR,1990,99.6,United Kingdom
+GBR,1995,99.6,United Kingdom
+GBR,2000,99.61,United Kingdom
+GBR,2001,99.61,United Kingdom
+GBR,2002,99.61,United Kingdom
+GBR,2003,99.61,United Kingdom
+GBR,2004,99.61,United Kingdom
+GBR,2005,99.61,United Kingdom
+GBR,2006,99.61,United Kingdom
+GBR,2007,99.61,United Kingdom
+GBR,2008,99.61,United Kingdom
+GBR,2009,99.61,United Kingdom
+GBR,2010,99.61,United Kingdom
+GBR,2011,99.61,United Kingdom
+GBR,2012,99.6,United Kingdom
+GBR,2013,99.6,United Kingdom
+GBR,2014,99.59,United Kingdom
+GBR,2015,99.59,United Kingdom
+GBR,2016,99.29,United Kingdom
+GBR,2017,99.5,United Kingdom
+GBR,2018,99.46,United Kingdom
+GBR,2019,99.38,United Kingdom
+GBR,2020,99.13,United Kingdom
+ISR,1990,99.89,Israel
+ISR,1995,99.91,Israel
+ISR,2000,99.91,Israel
+ISR,2001,99.92,Israel
+ISR,2002,99.92,Israel
+ISR,2003,99.92,Israel
+ISR,2004,99.92,Israel
+ISR,2005,99.92,Israel
+ISR,2006,99.92,Israel
+ISR,2007,99.92,Israel
+ISR,2008,99.92,Israel
+ISR,2009,99.92,Israel
+ISR,2010,99.92,Israel
+ISR,2011,99.92,Israel
+ISR,2012,99.93,Israel
+ISR,2013,99.93,Israel
+ISR,2014,99.93,Israel
+ISR,2015,99.93,Israel
+ISR,2016,99.93,Israel
+ISR,2017,99.93,Israel
+ISR,2018,99.93,Israel
+ISR,2019,99.93,Israel
+ISR,2020,99.94,Israel
+ITA,1990,99.0,Italy
+ITA,1995,99.01,Italy
+ITA,2000,99.02,Italy
+ITA,2001,99.02,Italy
+ITA,2002,99.03,Italy
+ITA,2003,99.03,Italy
+ITA,2004,99.04,Italy
+ITA,2005,99.04,Italy
+ITA,2006,99.05,Italy
+ITA,2007,99.05,Italy
+ITA,2008,99.06,Italy
+ITA,2009,99.06,Italy
+ITA,2010,99.07,Italy
+ITA,2011,99.07,Italy
+ITA,2012,99.08,Italy
+ITA,2013,99.08,Italy
+ITA,2014,99.08,Italy
+ITA,2015,99.09,Italy
+ITA,2016,99.09,Italy
+ITA,2017,99.09,Italy
+ITA,2018,99.09,Italy
+ITA,2019,99.09,Italy
+ITA,2020,99.09,Italy
+JPN,1990,99.26,Japan
+JPN,1995,99.29,Japan
+JPN,2000,99.3,Japan
+JPN,2001,99.3,Japan
+JPN,2002,99.3,Japan
+JPN,2003,99.3,Japan
+JPN,2004,99.3,Japan
+JPN,2005,99.3,Japan
+JPN,2006,99.3,Japan
+JPN,2007,99.31,Japan
+JPN,2008,99.31,Japan
+JPN,2009,99.31,Japan
+JPN,2010,99.31,Japan
+JPN,2011,99.32,Japan
+JPN,2012,99.32,Japan
+JPN,2013,99.32,Japan
+JPN,2014,99.32,Japan
+JPN,2015,99.32,Japan
+JPN,2016,99.33,Japan
+JPN,2017,99.33,Japan
+JPN,2018,99.33,Japan
+JPN,2019,99.33,Japan
+JPN,2020,99.34,Japan
+NLD,1990,99.42,Netherlands
+NLD,1995,99.4,Netherlands
+NLD,2000,99.39,Netherlands
+NLD,2001,99.39,Netherlands
+NLD,2002,99.39,Netherlands
+NLD,2003,99.39,Netherlands
+NLD,2004,99.39,Netherlands
+NLD,2005,99.39,Netherlands
+NLD,2006,99.39,Netherlands
+NLD,2007,99.39,Netherlands
+NLD,2008,99.39,Netherlands
+NLD,2009,99.39,Netherlands
+NLD,2010,99.39,Netherlands
+NLD,2011,99.39,Netherlands
+NLD,2012,99.39,Netherlands
+NLD,2013,99.39,Netherlands
+NLD,2014,99.4,Netherlands
+NLD,2015,99.4,Netherlands
+NLD,2016,99.4,Netherlands
+NLD,2017,99.4,Netherlands
+NLD,2018,99.4,Netherlands
+NLD,2019,99.4,Netherlands
+NLD,2020,99.41,Netherlands
+NOR,1990,94.94,Norway
+NOR,1995,94.91,Norway
+NOR,2000,96.43,Norway
+NOR,2001,96.42,Norway
+NOR,2002,96.45,Norway
+NOR,2003,96.56,Norway
+NOR,2004,96.47,Norway
+NOR,2005,96.28,Norway
+NOR,2006,96.62,Norway
+NOR,2007,96.27,Norway
+NOR,2008,95.94,Norway
+NOR,2009,95.91,Norway
+NOR,2010,94.52,Norway
+NOR,2011,95.92,Norway
+NOR,2012,92.49,Norway
+NOR,2013,90.32,Norway
+NOR,2014,86.54,Norway
+NOR,2015,86.68,Norway
+NOR,2016,78.16,Norway
+NOR,2017,79.49,Norway
+NOR,2018,80.75,Norway
+NOR,2019,77.6,Norway
+NOR,2020,70.57,Norway
+NZL,1990,97.89,New Zealand
+NZL,1995,97.98,New Zealand
+NZL,2000,99.64,New Zealand
+NZL,2001,99.64,New Zealand
+NZL,2002,99.64,New Zealand
+NZL,2003,98.12,New Zealand
+NZL,2004,97.82,New Zealand
+NZL,2005,98.15,New Zealand
+NZL,2006,97.84,New Zealand
+NZL,2007,99.65,New Zealand
+NZL,2008,99.41,New Zealand
+NZL,2009,99.65,New Zealand
+NZL,2010,99.66,New Zealand
+NZL,2011,99.66,New Zealand
+NZL,2012,99.66,New Zealand
+NZL,2013,99.66,New Zealand
+NZL,2014,99.66,New Zealand
+NZL,2015,99.43,New Zealand
+NZL,2016,99.67,New Zealand
+NZL,2017,99.67,New Zealand
+NZL,2018,99.67,New Zealand
+NZL,2019,99.67,New Zealand
+NZL,2020,97.79,New Zealand
+SWE,1990,98.5,Sweden
+SWE,1995,98.21,Sweden
+SWE,2000,98.31,Sweden
+SWE,2001,97.73,Sweden
+SWE,2002,97.81,Sweden
+SWE,2003,98.17,Sweden
+SWE,2004,97.43,Sweden
+SWE,2005,97.31,Sweden
+SWE,2006,98.33,Sweden
+SWE,2007,96.66,Sweden
+SWE,2008,96.96,Sweden
+SWE,2009,97.21,Sweden
+SWE,2010,96.23,Sweden
+SWE,2011,96.69,Sweden
+SWE,2012,94.57,Sweden
+SWE,2013,93.0,Sweden
+SWE,2014,95.11,Sweden
+SWE,2015,91.38,Sweden
+SWE,2016,74.31,Sweden
+SWE,2017,82.58,Sweden
+SWE,2018,88.5,Sweden
+SWE,2019,87.75,Sweden
+SWE,2020,73.02,Sweden
+USA,1990,99.21,United States
+USA,1995,99.16,United States
+USA,2000,99.4,United States
+USA,2001,99.46,United States
+USA,2002,99.24,United States
+USA,2003,99.02,United States
+USA,2004,98.73,United States
+USA,2005,98.9,United States
+USA,2006,98.82,United States
+USA,2007,98.82,United States
+USA,2008,98.37,United States
+USA,2009,97.73,United States
+USA,2010,97.48,United States
+USA,2011,97.4,United States
+USA,2012,97.79,United States
+USA,2013,97.12,United States
+USA,2014,96.71,United States
+USA,2015,96.74,United States
+USA,2016,92.86,United States
+USA,2017,96.39,United States
+USA,2018,95.88,United States
+USA,2019,91.42,United States
+USA,2020,95.76,United States

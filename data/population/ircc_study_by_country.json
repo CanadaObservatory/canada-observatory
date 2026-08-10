@@ -1,0 +1,15 @@
+{
+  "dataset_id": "ircc_study_by_country",
+  "source": "Immigration, Refugees and Citizenship Canada (open data)",
+  "source_table": "IRCC ODP-TR-Study-IS_CITZ",
+  "frequency": "annual",
+  "unit": "persons (rounded to nearest 5)",
+  "retrieved_at": "2026-08-10T15:03:29.842156+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "study-permit holders, annual by source country (citizenship)"
+  ],
+  "notes": null,
+  "row_count": 1798
+}

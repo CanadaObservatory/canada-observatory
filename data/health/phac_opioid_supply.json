@@ -1,0 +1,15 @@
+{
+  "dataset_id": "phac_opioid_supply",
+  "source": "Public Health Agency of Canada",
+  "source_table": "Substance-Related Harms (opioid death circumstances)",
+  "frequency": "annual",
+  "unit": "% of deaths",
+  "retrieved_at": "2026-08-10T15:07:49.549336+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "% of apparent opioid toxicity deaths involving fentanyl / a stimulant / ruled accidental, Canada"
+  ],
+  "notes": null,
+  "row_count": 10
+}

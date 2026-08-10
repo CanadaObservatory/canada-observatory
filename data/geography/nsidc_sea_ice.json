@@ -1,0 +1,15 @@
+{
+  "dataset_id": "nsidc_sea_ice",
+  "source": "NSIDC Sea Ice Index, Version 4 (G02135), NSIDC / NOAA",
+  "source_table": "G02135 monthly Northern Hemisphere sea-ice extent",
+  "frequency": "monthly",
+  "unit": "million km\u00b2 (sea-ice extent)",
+  "retrieved_at": "2026-08-10T15:10:22.155030+00:00",
+  "latest_observation_date": "2026",
+  "next_release_date": null,
+  "transformations": [
+    "12 monthly NH extent files concatenated; dropped -9999 (missing)"
+  ],
+  "notes": null,
+  "row_count": 571
+}

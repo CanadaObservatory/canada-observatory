@@ -1,0 +1,161 @@
+cmauid,name,density
+001,St. John's,228.2
+010,Grand Falls-Windsor,252.6
+011,Gander,5.6
+015,Corner Brook,26.5
+105,Charlottetown,70.9
+110,Summerside,145.1
+205,Halifax,64.0
+210,Kentville,44.4
+215,Truro,16.9
+220,New Glasgow,16.6
+225,Cape Breton,40.0
+305,Moncton,61.5
+310,Saint John,37.3
+320,Fredericton,18.1
+328,Bathurst,14.9
+329,Miramichi,3.6
+330,Campbellton,8.7
+13330,Campbellton (New Brunswick part),11.0
+24330,Campbellton (Quebec part),3.1
+335,Edmundston,14.0
+403,Matane,21.3
+404,Rimouski,69.8
+405,Rivière-du-Loup,55.3
+406,Baie-Comeau,39.0
+408,Saguenay,51.6
+410,Alma,155.6
+411,Dolbeau-Mistassini,23.6
+412,Sept-Îles,15.8
+421,Québec,239.8
+423,Sainte-Marie,122.1
+428,Saint-Georges,95.4
+430,Thetford Mines,69.7
+433,Sherbrooke,156.0
+437,Cowansville,325.0
+440,Victoriaville,140.0
+442,Trois-Rivières,155.5
+444,Shawinigan,68.0
+447,Drummondville,92.8
+450,Granby,183.8
+452,Saint-Hyacinthe,231.2
+454,Sorel-Tracy,246.2
+456,Joliette,485.0
+462,Montréal,919.0
+465,Salaberry-de-Valleyfield,394.1
+467,Sainte-Agathe-des-Monts,94.3
+468,Lachute,129.8
+480,Val-d'Or,9.6
+481,Amos,8.2
+485,Rouyn-Noranda,7.1
+501,Cornwall,120.6
+502,Hawkesbury,930.0
+24502,Hawkesbury (Quebec part),644.6
+35502,Hawkesbury (Ontario part),1009.7
+505,Ottawa - Gatineau,185.0
+24505,Ottawa - Gatineau (Quebec part),104.5
+35505,Ottawa - Gatineau (Ontario part),243.3
+512,Brockville,54.9
+515,Pembroke,43.0
+516,Petawawa,110.3
+521,Kingston,89.9
+522,Belleville - Quinte West,83.1
+527,Cobourg,915.7
+528,Port Hope,62.0
+529,Peterborough,85.3
+530,Kawartha Lakes,26.1
+531,Centre Wellington,75.9
+532,Oshawa,459.8
+533,Ingersoll,1075.3
+535,Toronto,1050.7
+537,Hamilton,571.8
+539,St. Catharines - Niagara,310.4
+541,Kitchener - Cambridge - Waterloo,527.2
+543,Brantford,134.2
+544,Woodstock,827.2
+546,Tillsonburg,838.6
+547,Norfolk,42.2
+550,Guelph,278.3
+553,Stratford,1107.0
+555,London,204.2
+556,Chatham-Kent,42.3
+559,Windsor,234.4
+562,Sarnia,87.4
+563,Essa,82.1
+565,Wasaga Beach,433.0
+566,Owen Sound,52.4
+567,Collingwood,748.3
+568,Barrie,237.2
+569,Orillia,1171.1
+571,Midland,459.1
+575,North Bay,13.5
+580,Greater Sudbury / Grand Sudbury,40.7
+582,Elliot Lake,16.3
+586,Timmins,13.9
+590,Sault Ste. Marie,95.6
+595,Thunder Bay,48.3
+598,Kenora,70.7
+602,Winnipeg,157.9
+603,Winkler,37.4
+605,Steinbach,474.1
+607,Portage la Prairie,536.8
+610,Brandon,44.0
+640,Thompson,784.3
+705,Regina,57.6
+710,Yorkton,12.2
+715,Moose Jaw,41.3
+720,Swift Current,16.6
+725,Saskatoon,54.1
+735,North Battleford,17.3
+745,Prince Albert,18.0
+750,Estevan,16.1
+755,Weyburn,14.8
+805,Medicine Hat,5.8
+806,Brooks,819.8
+810,Lethbridge,41.9
+820,Okotoks,788.7
+821,High River,645.4
+825,Calgary,290.6
+826,Strathmore,531.6
+828,Canmore,233.5
+830,Red Deer,966.5
+831,Sylvan Lake,680.9
+832,Lacombe,650.7
+833,Camrose,450.5
+835,Edmonton,150.6
+840,Lloydminster,18.4
+47840,Lloydminster (Saskatchewan part),8.6
+48840,Lloydminster (Alberta part),823.1
+850,Grande Prairie,483.3
+860,Wood Buffalo,1.2
+865,Wetaskiwin,671.6
+905,Cranbrook,5.9
+907,Nelson,15.6
+910,Trail,51.1
+913,Penticton,27.3
+915,Kelowna,76.5
+918,Vernon,64.4
+920,Salmon Arm,119.1
+925,Kamloops,20.2
+930,Chilliwack,78.8
+932,Abbotsford - Mission,322.6
+933,Vancouver,918.0
+934,Squamish,229.8
+935,Victoria,571.3
+936,Ladysmith,37.6
+937,Duncan,127.5
+938,Nanaimo,90.3
+939,Parksville,379.6
+940,Port Alberni,15.8
+943,Courtenay,101.4
+944,Campbell River,23.5
+945,Powell River,22.3
+950,Williams Lake,1.9
+952,Quesnel,1.1
+955,Prince Rupert,4.1
+965,Terrace,2.0
+970,Prince George,5.1
+975,Dawson Creek,1.5
+977,Fort St. John,46.5
+990,Whitehorse,3.8
+995,Yellowknife,196.8

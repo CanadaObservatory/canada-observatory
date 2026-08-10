@@ -1,0 +1,15 @@
+{
+  "dataset_id": "tbs_fps_population",
+  "source": "Treasury Board of Canada Secretariat",
+  "source_table": "TBS Federal public service statistics (open.canada.ca)",
+  "frequency": "annual",
+  "unit": "employees (March 31 headcount)",
+  "retrieved_at": "2026-08-10T15:05:35.229256+00:00",
+  "latest_observation_date": "2026",
+  "next_release_date": null,
+  "transformations": [
+    "population total; CPA + SA segments + summed Total"
+  ],
+  "notes": "Excludes RCMP regular/civilian members and the Canadian Armed Forces.",
+  "row_count": 51
+}

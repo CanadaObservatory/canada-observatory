@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_trade_us",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 12-10-0011-01",
+  "frequency": "monthly",
+  "unit": "$ millions (Customs basis, seasonally adjusted)",
+  "retrieved_at": "2026-08-10T15:04:28.970688+00:00",
+  "latest_observation_date": "2026-06-01",
+  "next_release_date": null,
+  "transformations": [
+    "US vs. all-countries exports/imports; export shares for the US, China and the EU; balances computed as exports \u2212 imports"
+  ],
+  "notes": null,
+  "row_count": 354
+}

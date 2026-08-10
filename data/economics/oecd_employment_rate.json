@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_employment_rate",
+  "source": "OECD",
+  "source_table": "OECD Labour Force Statistics",
+  "frequency": "annual",
+  "unit": "% of working-age population",
+  "retrieved_at": "2026-08-10T15:04:10.541652+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Employment rate (15\u201364) for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 356
+}

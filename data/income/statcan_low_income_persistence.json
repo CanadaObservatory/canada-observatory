@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_low_income_persistence",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 11-10-0025-01",
+  "frequency": "annual",
+  "unit": "% of tax filers (8-year window)",
+  "retrieved_at": "2026-08-10T15:06:48.743659+00:00",
+  "latest_observation_date": "2016/2023",
+  "next_release_date": null,
+  "transformations": [
+    "Canada; both sexes; variable LIM; years in low income over the 2016/2023 window"
+  ],
+  "notes": null,
+  "row_count": 9
+}

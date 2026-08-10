@@ -1,0 +1,17 @@
+{
+  "dataset_id": "whr_happiness",
+  "source": "World Happiness Report (Gallup World Poll)",
+  "source_table": "WHR Figure 2.1",
+  "frequency": "annual",
+  "unit": "Cantril ladder score (0-10)",
+  "retrieved_at": "2026-08-10T15:10:18.921240+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to 20 OECD peers",
+    "normalized column names",
+    "mapped country names to ISO codes"
+  ],
+  "notes": null,
+  "row_count": 238
+}

@@ -1,0 +1,409 @@
+country_code,country_name,year,patents_per_million
+AUS,Australia,2000,27.16
+AUS,Australia,2001,24.08
+AUS,Australia,2002,25.18
+AUS,Australia,2003,25.18
+AUS,Australia,2004,26.1
+AUS,Australia,2005,23.75
+AUS,Australia,2006,17.73
+AUS,Australia,2007,16.69
+AUS,Australia,2008,14.9
+AUS,Australia,2009,16.23
+AUS,Australia,2010,13.96
+AUS,Australia,2011,14.32
+AUS,Australia,2012,14.84
+AUS,Australia,2013,13.35
+AUS,Australia,2014,13.71
+AUS,Australia,2015,14.65
+AUS,Australia,2016,15.38
+AUS,Australia,2017,15.21
+AUS,Australia,2018,16.61
+AUS,Australia,2019,17.58
+AUS,Australia,2020,16.09
+AUS,Australia,2021,13.74
+AUS,Australia,2022,12.46
+AUS,Australia,2023,12.29
+CAN,Canada,2000,19.93
+CAN,Canada,2001,20.51
+CAN,Canada,2002,21.63
+CAN,Canada,2003,21.35
+CAN,Canada,2004,23.06
+CAN,Canada,2005,22.33
+CAN,Canada,2006,20.46
+CAN,Canada,2007,20.84
+CAN,Canada,2008,20.63
+CAN,Canada,2009,20.04
+CAN,Canada,2010,16.28
+CAN,Canada,2011,16.94
+CAN,Canada,2012,15.26
+CAN,Canada,2013,17.68
+CAN,Canada,2014,16.77
+CAN,Canada,2015,16.5
+CAN,Canada,2016,18.18
+CAN,Canada,2017,17.36
+CAN,Canada,2018,18.88
+CAN,Canada,2019,19.12
+CAN,Canada,2020,18.04
+CAN,Canada,2021,18.28
+CAN,Canada,2022,17.53
+CAN,Canada,2023,17.09
+CHE,Switzerland,2000,138.55
+CHE,Switzerland,2001,135.17
+CHE,Switzerland,2002,134.93
+CHE,Switzerland,2003,140.92
+CHE,Switzerland,2004,147.36
+CHE,Switzerland,2005,144.66
+CHE,Switzerland,2006,152.77
+CHE,Switzerland,2007,132.9
+CHE,Switzerland,2008,129.14
+CHE,Switzerland,2009,125.23
+CHE,Switzerland,2010,135.72
+CHE,Switzerland,2011,134.22
+CHE,Switzerland,2012,142.85
+CHE,Switzerland,2013,138.03
+CHE,Switzerland,2014,144.26
+CHE,Switzerland,2015,147.72
+CHE,Switzerland,2016,144.69
+CHE,Switzerland,2017,151.42
+CHE,Switzerland,2018,156.49
+CHE,Switzerland,2019,168.06
+CHE,Switzerland,2020,172.92
+CHE,Switzerland,2021,166.59
+CHE,Switzerland,2022,172.89
+CHE,Switzerland,2023,167.78
+DEU,Germany,2000,93.8
+DEU,Germany,2001,88.73
+DEU,Germany,2002,84.4
+DEU,Germany,2003,82.73
+DEU,Germany,2004,85.9
+DEU,Germany,2005,87.85
+DEU,Germany,2006,80.52
+DEU,Germany,2007,71.72
+DEU,Germany,2008,67.87
+DEU,Germany,2009,69.01
+DEU,Germany,2010,63.07
+DEU,Germany,2011,60.09
+DEU,Germany,2012,57.14
+DEU,Germany,2013,60.97
+DEU,Germany,2014,57.68
+DEU,Germany,2015,58.54
+DEU,Germany,2016,60.18
+DEU,Germany,2017,58.05
+DEU,Germany,2018,51.1
+DEU,Germany,2019,56.72
+DEU,Germany,2020,52.73
+DEU,Germany,2021,51.25
+DEU,Germany,2022,50.4
+DEU,Germany,2023,49.28
+DNK,Denmark,2000,54.29
+DNK,Denmark,2001,52.4
+DNK,Denmark,2002,53.64
+DNK,Denmark,2003,57.92
+DNK,Denmark,2004,68.16
+DNK,Denmark,2005,71.97
+DNK,Denmark,2006,58.38
+DNK,Denmark,2007,57.96
+DNK,Denmark,2008,62.44
+DNK,Denmark,2009,46.42
+DNK,Denmark,2010,54.28
+DNK,Denmark,2011,46.49
+DNK,Denmark,2012,50.55
+DNK,Denmark,2013,47.38
+DNK,Denmark,2014,54.21
+DNK,Denmark,2015,57.39
+DNK,Denmark,2016,53.35
+DNK,Denmark,2017,53.61
+DNK,Denmark,2018,56.24
+DNK,Denmark,2019,51.85
+DNK,Denmark,2020,64.88
+DNK,Denmark,2021,61.73
+DNK,Denmark,2022,60.98
+DNK,Denmark,2023,60.96
+FIN,Finland,2000,83.75
+FIN,Finland,2001,80.43
+FIN,Finland,2002,61.13
+FIN,Finland,2003,67.21
+FIN,Finland,2004,75.92
+FIN,Finland,2005,74.64
+FIN,Finland,2006,56.53
+FIN,Finland,2007,49.03
+FIN,Finland,2008,47.62
+FIN,Finland,2009,41.49
+FIN,Finland,2010,42.36
+FIN,Finland,2011,42.27
+FIN,Finland,2012,53.46
+FIN,Finland,2013,49.86
+FIN,Finland,2014,57.34
+FIN,Finland,2015,49.02
+FIN,Finland,2016,51.12
+FIN,Finland,2017,56.17
+FIN,Finland,2018,57.27
+FIN,Finland,2019,60.29
+FIN,Finland,2020,64.47
+FIN,Finland,2021,67.56
+FIN,Finland,2022,66.32
+FIN,Finland,2023,66.29
+FRA,France,2000,48.18
+FRA,France,2001,45.9
+FRA,France,2002,44.69
+FRA,France,2003,44.42
+FRA,France,2004,47.48
+FRA,France,2005,48.43
+FRA,France,2006,45.48
+FRA,France,2007,43.7
+FRA,France,2008,44.99
+FRA,France,2009,42.34
+FRA,France,2010,38.04
+FRA,France,2011,39.96
+FRA,France,2012,37.3
+FRA,France,2013,36.95
+FRA,France,2014,37.82
+FRA,France,2015,34.82
+FRA,France,2016,32.36
+FRA,France,2017,30.63
+FRA,France,2018,30.6
+FRA,France,2019,32.01
+FRA,France,2020,30.23
+FRA,France,2021,29.28
+FRA,France,2022,29.19
+FRA,France,2023,28.78
+GBR,United Kingdom,2000,40.09
+GBR,United Kingdom,2001,38.74
+GBR,United Kingdom,2002,37.49
+GBR,United Kingdom,2003,36.87
+GBR,United Kingdom,2004,34.97
+GBR,United Kingdom,2005,35.86
+GBR,United Kingdom,2006,34.44
+GBR,United Kingdom,2007,29.41
+GBR,United Kingdom,2008,27.42
+GBR,United Kingdom,2009,27.69
+GBR,United Kingdom,2010,26.43
+GBR,United Kingdom,2011,27.28
+GBR,United Kingdom,2012,26.74
+GBR,United Kingdom,2013,28.49
+GBR,United Kingdom,2014,26.03
+GBR,United Kingdom,2015,25.93
+GBR,United Kingdom,2016,25.17
+GBR,United Kingdom,2017,25.66
+GBR,United Kingdom,2018,26.35
+GBR,United Kingdom,2019,28.89
+GBR,United Kingdom,2020,29.77
+GBR,United Kingdom,2021,27.81
+GBR,United Kingdom,2022,27.09
+GBR,United Kingdom,2023,26.44
+ISR,Israel,2000,59.96
+ISR,Israel,2001,57.75
+ISR,Israel,2002,47.91
+ISR,Israel,2003,53.09
+ISR,Israel,2004,60.54
+ISR,Israel,2005,71.53
+ISR,Israel,2006,58.06
+ISR,Israel,2007,48.01
+ISR,Israel,2008,49.5
+ISR,Israel,2009,49.53
+ISR,Israel,2010,45.78
+ISR,Israel,2011,46.44
+ISR,Israel,2012,49.6
+ISR,Israel,2013,53.23
+ISR,Israel,2014,54.57
+ISR,Israel,2015,60.54
+ISR,Israel,2016,57.17
+ISR,Israel,2017,68.31
+ISR,Israel,2018,67.12
+ISR,Israel,2019,78.88
+ISR,Israel,2020,72.1
+ISR,Israel,2021,68.37
+ISR,Israel,2022,60.89
+ISR,Israel,2023,57.88
+ITA,Italy,2000,14.61
+ITA,Italy,2001,16.05
+ITA,Italy,2002,16.24
+ITA,Italy,2003,15.64
+ITA,Italy,2004,16.82
+ITA,Italy,2005,16.6
+ITA,Italy,2006,14.07
+ITA,Italy,2007,12.41
+ITA,Italy,2008,12.83
+ITA,Italy,2009,12.35
+ITA,Italy,2010,11.42
+ITA,Italy,2011,12.0
+ITA,Italy,2012,12.03
+ITA,Italy,2013,12.81
+ITA,Italy,2014,13.57
+ITA,Italy,2015,13.75
+ITA,Italy,2016,15.76
+ITA,Italy,2017,14.62
+ITA,Italy,2018,13.86
+ITA,Italy,2019,15.79
+ITA,Italy,2020,15.03
+ITA,Italy,2021,15.38
+ITA,Italy,2022,15.07
+ITA,Italy,2023,14.34
+JPN,Japan,2000,144.05
+JPN,Japan,2001,137.13
+JPN,Japan,2002,139.67
+JPN,Japan,2003,149.49
+JPN,Japan,2004,157.42
+JPN,Japan,2005,148.2
+JPN,Japan,2006,148.69
+JPN,Japan,2007,145.27
+JPN,Japan,2008,131.39
+JPN,Japan,2009,136.15
+JPN,Japan,2010,150.79
+JPN,Japan,2011,148.69
+JPN,Japan,2012,146.24
+JPN,Japan,2013,138.67
+JPN,Japan,2014,138.47
+JPN,Japan,2015,140.02
+JPN,Japan,2016,142.54
+JPN,Japan,2017,145.14
+JPN,Japan,2018,140.98
+JPN,Japan,2019,139.24
+JPN,Japan,2020,131.3
+JPN,Japan,2021,134.25
+JPN,Japan,2022,135.31
+JPN,Japan,2023,134.2
+KOR,South Korea,2000,19.34
+KOR,South Korea,2001,24.38
+KOR,South Korea,2002,32.92
+KOR,South Korea,2003,45.85
+KOR,South Korea,2004,53.46
+KOR,South Korea,2005,57.01
+KOR,South Korea,2006,48.5
+KOR,South Korea,2007,40.58
+KOR,South Korea,2008,37.29
+KOR,South Korea,2009,42.77
+KOR,South Korea,2010,49.59
+KOR,South Korea,2011,47.34
+KOR,South Korea,2012,49.67
+KOR,South Korea,2013,50.51
+KOR,South Korea,2014,43.6
+KOR,South Korea,2015,44.35
+KOR,South Korea,2016,46.91
+KOR,South Korea,2017,57.06
+KOR,South Korea,2018,59.84
+KOR,South Korea,2019,64.47
+KOR,South Korea,2020,75.72
+KOR,South Korea,2021,86.16
+KOR,South Korea,2022,91.81
+KOR,South Korea,2023,95.02
+NLD,Netherlands,2000,79.36
+NLD,Netherlands,2001,85.05
+NLD,Netherlands,2002,115.5
+NLD,Netherlands,2003,122.57
+NLD,Netherlands,2004,121.38
+NLD,Netherlands,2005,107.96
+NLD,Netherlands,2006,90.34
+NLD,Netherlands,2007,64.88
+NLD,Netherlands,2008,68.64
+NLD,Netherlands,2009,63.41
+NLD,Netherlands,2010,49.74
+NLD,Netherlands,2011,58.05
+NLD,Netherlands,2012,62.11
+NLD,Netherlands,2013,67.71
+NLD,Netherlands,2014,76.37
+NLD,Netherlands,2015,67.14
+NLD,Netherlands,2016,56.51
+NLD,Netherlands,2017,53.36
+NLD,Netherlands,2018,52.02
+NLD,Netherlands,2019,54.22
+NLD,Netherlands,2020,53.5
+NLD,Netherlands,2021,51.03
+NLD,Netherlands,2022,53.45
+NLD,Netherlands,2023,55.16
+NOR,Norway,2000,30.84
+NOR,Norway,2001,25.18
+NOR,Norway,2002,29.11
+NOR,Norway,2003,26.2
+NOR,Norway,2004,29.42
+NOR,Norway,2005,30.66
+NOR,Norway,2006,26.45
+NOR,Norway,2007,22.3
+NOR,Norway,2008,18.49
+NOR,Norway,2009,26.61
+NOR,Norway,2010,23.52
+NOR,Norway,2011,19.07
+NOR,Norway,2012,20.99
+NOR,Norway,2013,20.36
+NOR,Norway,2014,21.4
+NOR,Norway,2015,19.44
+NOR,Norway,2016,27.58
+NOR,Norway,2017,22.52
+NOR,Norway,2018,19.65
+NOR,Norway,2019,28.26
+NOR,Norway,2020,27.14
+NOR,Norway,2021,27.46
+NOR,Norway,2022,27.5
+NOR,Norway,2023,25.71
+NZL,New Zealand,2000,18.67
+NZL,New Zealand,2001,14.87
+NZL,New Zealand,2002,20.54
+NZL,New Zealand,2003,18.93
+NZL,New Zealand,2004,19.36
+NZL,New Zealand,2005,17.65
+NZL,New Zealand,2006,17.0
+NZL,New Zealand,2007,13.33
+NZL,New Zealand,2008,17.06
+NZL,New Zealand,2009,12.73
+NZL,New Zealand,2010,10.28
+NZL,New Zealand,2011,11.78
+NZL,New Zealand,2012,23.68
+NZL,New Zealand,2013,15.78
+NZL,New Zealand,2014,22.08
+NZL,New Zealand,2015,15.22
+NZL,New Zealand,2016,12.46
+NZL,New Zealand,2017,12.06
+NZL,New Zealand,2018,9.79
+NZL,New Zealand,2019,15.56
+NZL,New Zealand,2020,13.93
+NZL,New Zealand,2021,14.03
+NZL,New Zealand,2022,12.85
+NZL,New Zealand,2023,12.58
+SWE,Sweden,2000,89.34
+SWE,Sweden,2001,84.83
+SWE,Sweden,2002,88.98
+SWE,Sweden,2003,84.37
+SWE,Sweden,2004,89.67
+SWE,Sweden,2005,107.29
+SWE,Sweden,2006,97.45
+SWE,Sweden,2007,105.15
+SWE,Sweden,2008,90.57
+SWE,Sweden,2009,85.17
+SWE,Sweden,2010,68.36
+SWE,Sweden,2011,65.12
+SWE,Sweden,2012,69.56
+SWE,Sweden,2013,61.17
+SWE,Sweden,2014,69.78
+SWE,Sweden,2015,74.7
+SWE,Sweden,2016,78.7
+SWE,Sweden,2017,80.86
+SWE,Sweden,2018,78.46
+SWE,Sweden,2019,75.66
+SWE,Sweden,2020,72.59
+SWE,Sweden,2021,70.25
+SWE,Sweden,2022,70.14
+SWE,Sweden,2023,69.26
+USA,United States,2000,55.35
+USA,United States,2001,55.77
+USA,United States,2002,57.13
+USA,United States,2003,57.63
+USA,United States,2004,58.71
+USA,United States,2005,58.7
+USA,United States,2006,51.75
+USA,United States,2007,46.01
+USA,United States,2008,45.43
+USA,United States,2009,43.98
+USA,United States,2010,41.22
+USA,United States,2011,42.39
+USA,United States,2012,43.79
+USA,United States,2013,46.81
+USA,United States,2014,42.94
+USA,United States,2015,42.64
+USA,United States,2016,41.52
+USA,United States,2017,40.53
+USA,United States,2018,41.89
+USA,United States,2019,44.92
+USA,United States,2020,45.28
+USA,United States,2021,43.02
+USA,United States,2022,42.92
+USA,United States,2023,42.48

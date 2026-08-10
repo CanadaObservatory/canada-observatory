@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_foreign_rd_control",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 27-10-0333-01",
+  "frequency": "annual",
+  "unit": "% of business in-house R&D",
+  "retrieved_at": "2026-08-10T15:08:28.917722+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "GEO=Canada, total in-house R&D, all industries; Foreign / Total country of control"
+  ],
+  "notes": null,
+  "row_count": 12
+}

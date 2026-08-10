@@ -1,0 +1,766 @@
+geography,year,area_burned_ha
+Alberta,1959,28077.73
+Alberta,1960,9376.94686
+Alberta,1961,92965.887119
+Alberta,1962,1750.492027
+Alberta,1963,7622.326915
+Alberta,1964,7576.78764
+Alberta,1965,23090.751671
+Alberta,1966,33593.428645
+Alberta,1967,10990.092502
+Alberta,1968,434730.823595
+Alberta,1969,30326.186971
+Alberta,1970,67982.667558
+Alberta,1971,65677.95045
+Alberta,1972,52682.766044
+Alberta,1973,10019.733222
+Alberta,1974,17932.535397
+Alberta,1975,5376.956957
+Alberta,1976,22839.413559
+Alberta,1977,10651.233026
+Alberta,1978,7879.771733
+Alberta,1979,212427.498294
+Alberta,1980,702195.516625
+Alberta,1981,1357303.88391
+Alberta,1982,712690.613836
+Alberta,1983,3464.8
+Alberta,1984,71212.7
+Alberta,1985,16845.4
+Alberta,1986,2307.3
+Alberta,1987,36942.5
+Alberta,1988,14691.3
+Alberta,1989,6708.9
+Alberta,1990,34084.9
+Alberta,1991,6164.8
+Alberta,1992,3548.0
+Alberta,1993,26060.41
+Alberta,1994,29582.23
+Alberta,1995,337949.56
+Alberta,1996,1961.39
+Alberta,1997,4724.95
+Alberta,1998,726968.07
+Alberta,1999,120504.77
+Alberta,2000,14735.9
+Alberta,2001,154103.73
+Alberta,2002,496419.21
+Alberta,2003,74906.92
+Alberta,2004,236163.38
+Alberta,2005,60726.14
+Alberta,2006,118801.75
+Alberta,2007,103619.0
+Alberta,2008,20788.83
+Alberta,2009,66902.84
+Alberta,2010,81323.04
+Alberta,2011,805888.18
+Alberta,2012,385818.42
+Alberta,2013,19578.84
+Alberta,2014,23692.71
+Alberta,2015,466317.3
+Alberta,2016,507057.04
+Alberta,2017,49233.31
+Alberta,2018,60185.22
+Alberta,2019,885943.24
+Alberta,2020,3480.4
+Alberta,2021,65770.5
+Alberta,2022,136687.5
+Alberta,2023,2211873.22
+Alberta,2024,717199.45
+Alberta,2025,700305.85
+British Columbia,1959,109613.901
+British Columbia,1960,116217.8
+British Columbia,1961,483094.9
+British Columbia,1962,18590.5
+British Columbia,1963,19003.7
+British Columbia,1964,3145.4
+British Columbia,1965,121300.799
+British Columbia,1966,22349.8
+British Columbia,1967,102097.401
+British Columbia,1968,13730.7
+British Columbia,1969,163933.3
+British Columbia,1970,105410.001
+British Columbia,1971,351342.402
+British Columbia,1972,25601.9
+British Columbia,1973,33432.9
+British Columbia,1974,21019.9
+British Columbia,1975,24345.4
+British Columbia,1976,57087.0
+British Columbia,1977,3790.5
+British Columbia,1978,50083.3
+British Columbia,1979,29445.0
+British Columbia,1980,65577.9
+British Columbia,1981,106593.198
+British Columbia,1982,348695.2
+British Columbia,1983,67377.7
+British Columbia,1984,19908.1
+British Columbia,1985,312756.906
+British Columbia,1986,17261.2
+British Columbia,1987,34993.2
+British Columbia,1988,11482.4
+British Columbia,1989,25381.6
+British Columbia,1990,75781.8
+British Columbia,1991,24708.8
+British Columbia,1992,30452.8
+British Columbia,1993,5183.4
+British Columbia,1994,29755.3
+British Columbia,1995,48080.0
+British Columbia,1996,20669.1
+British Columbia,1997,2967.8
+British Columbia,1998,76567.344
+British Columbia,1999,11555.41
+British Columbia,2000,17552.012
+British Columbia,2001,9826.949
+British Columbia,2002,8570.56
+British Columbia,2003,264913.562
+British Columbia,2004,220287.477
+British Columbia,2005,34942.066
+British Columbia,2006,139150.792
+British Columbia,2007,29485.504
+British Columbia,2008,13347.288
+British Columbia,2009,247343.468
+British Columbia,2010,337167.198
+British Columbia,2011,12562.885
+British Columbia,2012,102116.657
+British Columbia,2013,18303.099
+British Columbia,2014,368926.186
+British Columbia,2015,280864.261
+British Columbia,2016,100377.631
+British Columbia,2017,1216139.208
+British Columbia,2018,1354001.979
+British Columbia,2019,21506.524
+British Columbia,2020,14547.793
+British Columbia,2021,866342.547
+British Columbia,2022,135060.915
+British Columbia,2023,2840246.973
+British Columbia,2024,1081194.234
+British Columbia,2025,605813.152
+Canada,1959,287625.801
+Canada,1960,597841.22686
+Canada,1961,2778095.6071200008
+Canada,1962,325129.082026
+Canada,1963,174876.30691400002
+Canada,1964,1138930.567639
+Canada,1965,210368.87067099998
+Canada,1966,497450.698645
+Canada,1967,589000.2335020001
+Canada,1968,1263440.3035940002
+Canada,1969,1419755.926972
+Canada,1970,1451748.3685569998
+Canada,1971,1940282.6624499997
+Canada,1972,757095.1760439998
+Canada,1973,1036075.523221
+Canada,1974,912172.0153969999
+Canada,1975,995007.026957
+Canada,1976,2183524.7053869995
+Canada,1977,1393502.7215380003
+Canada,1978,280044.911758
+Canada,1979,2524529.318082
+Canada,1980,4824673.106635001
+Canada,1981,6284457.996871999
+Canada,1982,1757247.1460509996
+Canada,1983,2014471.015209
+Canada,1984,761796.7697010001
+Canada,1985,847534.702156
+Canada,1986,1005912.803005
+Canada,1987,1017736.7150309997
+Canada,1988,1351568.3169639998
+Canada,1989,7597266.517889999
+Canada,1990,953301.858243
+Canada,1991,1545668.6000059997
+Canada,1992,851782.920002
+Canada,1993,1950305.9000050002
+Canada,1994,6206707.45999
+Canada,1995,7481286.539220001
+Canada,1996,1923642.2500369998
+Canada,1997,634632.6399429999
+Canada,1998,4823328.024018
+Canada,1999,1777307.980002
+Canada,2000,636645.0610040001
+Canada,2001,653496.17103
+Canada,2002,2763472.7961510005
+Canada,2003,2168494.230013
+Canada,2004,3183184.2455990002
+Canada,2005,1686893.766011
+Canada,2006,2100682.690807
+Canada,2007,1785449.6671990003
+Canada,2008,1664921.8010020002
+Canada,2009,762733.8489999999
+Canada,2010,3179203.3083540006
+Canada,2011,2397841.88707
+Canada,2012,1811734.050186
+Canada,2013,4268419.863054
+Canada,2014,4545654.853801001
+Canada,2015,3908375.130613
+Canada,2016,1319573.15541
+Canada,2017,3589424.061009001
+Canada,2018,2326356.861002
+Canada,2019,1786215.0278979996
+Canada,2020,218261.659403
+Canada,2021,4078894.9055249994
+Canada,2022,1576204.71106
+Canada,2023,17606546.66779
+Canada,2024,5374344.299956
+Canada,2025,8426718.040108
+Manitoba,1959,8406.01
+Manitoba,1960,148249.34
+Manitoba,1961,938971.8
+Manitoba,1962,63015.0
+Manitoba,1963,19323.0
+Manitoba,1964,424406.52
+Manitoba,1965,30273.0
+Manitoba,1966,9510.0
+Manitoba,1967,142488.0
+Manitoba,1968,44063.1
+Manitoba,1969,41691.3
+Manitoba,1970,111862.7
+Manitoba,1971,13298.0
+Manitoba,1972,42226.8
+Manitoba,1973,61517.2
+Manitoba,1974,161566.6
+Manitoba,1975,24560.2
+Manitoba,1976,110299.1
+Manitoba,1977,198247.7
+Manitoba,1978,24568.9
+Manitoba,1979,81900.0
+Manitoba,1980,514257.1
+Manitoba,1981,375728.0
+Manitoba,1982,15431.5
+Manitoba,1983,99041.3
+Manitoba,1984,130151.2
+Manitoba,1985,11822.4
+Manitoba,1986,67877.7
+Manitoba,1987,112008.0
+Manitoba,1988,501135.4
+Manitoba,1989,3552906.6
+Manitoba,1990,16145.0
+Manitoba,1991,150985.7
+Manitoba,1992,433773.8
+Manitoba,1993,67274.4
+Manitoba,1994,1428785.7
+Manitoba,1995,889237.2
+Manitoba,1996,125326.4
+Manitoba,1997,41799.1
+Manitoba,1998,450572.1
+Manitoba,1999,110453.5
+Manitoba,2000,111699.272
+Manitoba,2001,80521.829
+Manitoba,2002,95404.79
+Manitoba,2003,938176.427
+Manitoba,2004,26820.4
+Manitoba,2005,72680.6
+Manitoba,2006,166050.3
+Manitoba,2007,336280.8
+Manitoba,2008,150672.6
+Manitoba,2009,2872.0
+Manitoba,2010,187494.1
+Manitoba,2011,126844.3
+Manitoba,2012,216888.3
+Manitoba,2013,1115414.8
+Manitoba,2014,39107.9
+Manitoba,2015,68131.6
+Manitoba,2016,38407.5
+Manitoba,2017,223179.5
+Manitoba,2018,234221.7
+Manitoba,2019,71287.2
+Manitoba,2020,48573.7
+Manitoba,2021,1142713.90896
+Manitoba,2022,191778.2
+Manitoba,2023,198634.3
+Manitoba,2024,235619.171103
+Manitoba,2025,2140969.171251
+New Brunswick,1980,2080.0
+New Brunswick,1982,5338.7
+New Brunswick,1983,590.0
+New Brunswick,1985,1701.0
+New Brunswick,1986,37417.0
+New Brunswick,1987,273.0
+New Brunswick,1988,1632.0
+New Brunswick,1989,753.4
+New Brunswick,1990,6218.4
+New Brunswick,1991,3559.0
+New Brunswick,1992,5398.9
+New Brunswick,1993,778.3
+New Brunswick,1994,853.3
+New Brunswick,1995,569.5
+New Brunswick,1996,2016.8
+New Brunswick,1997,263.9
+New Brunswick,1998,412.4
+New Brunswick,1999,1452.8
+New Brunswick,2000,491.1
+New Brunswick,2001,762.5
+New Brunswick,2002,325.5
+New Brunswick,2003,238.2
+New Brunswick,2004,458.8
+New Brunswick,2005,498.3
+New Brunswick,2006,622.6
+New Brunswick,2007,591.0
+New Brunswick,2008,142.5
+New Brunswick,2009,253.9
+New Brunswick,2010,156.3
+New Brunswick,2011,37.5
+New Brunswick,2012,361.1
+New Brunswick,2013,880.1
+New Brunswick,2014,113.1
+New Brunswick,2015,262.3
+New Brunswick,2016,264.8
+New Brunswick,2017,567.9
+New Brunswick,2018,310.9
+New Brunswick,2019,227.7
+New Brunswick,2020,1388.4
+New Brunswick,2021,380.1
+New Brunswick,2022,175.9
+New Brunswick,2023,853.8
+New Brunswick,2024,292.8
+New Brunswick,2025,3413.2
+Newfoundland and Labrador,1959,14467.0
+Newfoundland and Labrador,1960,12156.0
+Newfoundland and Labrador,1961,403713.0
+Newfoundland and Labrador,1962,202.0
+Newfoundland and Labrador,1963,1813.0
+Newfoundland and Labrador,1964,1153.0
+Newfoundland and Labrador,1965,259.0
+Newfoundland and Labrador,1966,485.0
+Newfoundland and Labrador,1967,2914.0
+Newfoundland and Labrador,1968,7524.0
+Newfoundland and Labrador,1969,7472.0
+Newfoundland and Labrador,1970,4792.0
+Newfoundland and Labrador,1971,1464.0
+Newfoundland and Labrador,1972,44622.0
+Newfoundland and Labrador,1973,8531.0
+Newfoundland and Labrador,1974,51460.0
+Newfoundland and Labrador,1975,173652.0
+Newfoundland and Labrador,1976,177049.0
+Newfoundland and Labrador,1977,1268.0
+Newfoundland and Labrador,1978,4474.0
+Newfoundland and Labrador,1979,31897.0
+Newfoundland and Labrador,1980,752.0
+Newfoundland and Labrador,1981,8930.0
+Newfoundland and Labrador,1982,2973.0
+Newfoundland and Labrador,1983,13720.0
+Newfoundland and Labrador,1984,7407.0
+Newfoundland and Labrador,1985,104937.3
+Newfoundland and Labrador,1986,103200.5
+Newfoundland and Labrador,1987,11903.9
+Newfoundland and Labrador,1988,1647.2
+Newfoundland and Labrador,1989,54202.6
+Newfoundland and Labrador,1990,24602.3
+Newfoundland and Labrador,1991,56390.0
+Newfoundland and Labrador,1992,1809.7
+Newfoundland and Labrador,1993,28480.4
+Newfoundland and Labrador,1994,110274.2
+Newfoundland and Labrador,1995,701.1
+Newfoundland and Labrador,1996,81310.4
+Newfoundland and Labrador,1997,8544.7
+Newfoundland and Labrador,1998,40161.2
+Newfoundland and Labrador,1999,39040.2
+Newfoundland and Labrador,2000,103536.167
+Newfoundland and Labrador,2001,965.588
+Newfoundland and Labrador,2002,14784.646
+Newfoundland and Labrador,2003,27711.13
+Newfoundland and Labrador,2004,2156.086
+Newfoundland and Labrador,2005,18248.519
+Newfoundland and Labrador,2006,3465.568
+Newfoundland and Labrador,2007,11350.923
+Newfoundland and Labrador,2008,100.0
+Newfoundland and Labrador,2009,16656.193
+Newfoundland and Labrador,2010,995.249
+Newfoundland and Labrador,2011,425.61487
+Newfoundland and Labrador,2012,29282.68559
+Newfoundland and Labrador,2013,30143.596
+Newfoundland and Labrador,2014,8832.0
+Newfoundland and Labrador,2015,3589.8
+Newfoundland and Labrador,2016,10603.3
+Newfoundland and Labrador,2017,699.8
+Newfoundland and Labrador,2018,395.5
+Newfoundland and Labrador,2019,316.0
+Newfoundland and Labrador,2020,4177.6
+Newfoundland and Labrador,2021,341.0
+Newfoundland and Labrador,2022,15012.5
+Newfoundland and Labrador,2023,16401.9
+Newfoundland and Labrador,2024,68079.9
+Newfoundland and Labrador,2025,18480.9
+Northwest Territories,1959,40328.0
+Northwest Territories,1960,42525.0
+Northwest Territories,1961,290777.2
+Northwest Territories,1962,22197.2
+Northwest Territories,1963,5784.0
+Northwest Territories,1964,171566.2
+Northwest Territories,1965,2094.13
+Northwest Territories,1966,208217.09
+Northwest Territories,1967,37665.55
+Northwest Territories,1968,229608.84
+Northwest Territories,1969,492656.82
+Northwest Territories,1970,207618.39
+Northwest Territories,1971,678151.04
+Northwest Territories,1972,224566.64
+Northwest Territories,1973,339639.87
+Northwest Territories,1974,16738.27
+Northwest Territories,1975,559355.81
+Northwest Territories,1976,636462.49
+Northwest Territories,1977,284432.8
+Northwest Territories,1978,78714.21
+Northwest Territories,1979,1798409.52
+Northwest Territories,1980,1169672.02
+Northwest Territories,1981,984512.5
+Northwest Territories,1982,305297.62
+Northwest Territories,1983,232409.84
+Northwest Territories,1984,40042.5
+Northwest Territories,1985,194989.9
+Northwest Territories,1986,321608.1
+Northwest Territories,1987,399089.9
+Northwest Territories,1988,66078.12
+Northwest Territories,1989,577615.51
+Northwest Territories,1990,104617.4
+Northwest Territories,1991,225466.42
+Northwest Territories,1992,36949.45
+Northwest Territories,1993,864285.83
+Northwest Territories,1994,3027314.59
+Northwest Territories,1995,2843366.44
+Northwest Territories,1996,371544.72
+Northwest Territories,1997,126531.27
+Northwest Territories,1998,1458960.46
+Northwest Territories,1999,561034.64
+Northwest Territories,2000,177835.79
+Northwest Territories,2001,111261.72
+Northwest Territories,2002,27089.17
+Northwest Territories,2003,127821.4
+Northwest Territories,2004,515621.01
+Northwest Territories,2005,218132.63
+Northwest Territories,2006,53397.03
+Northwest Territories,2007,445129.39
+Northwest Territories,2008,308788.79
+Northwest Territories,2009,2056.85
+Northwest Territories,2010,350927.04
+Northwest Territories,2011,329580.8249
+Northwest Territories,2012,299756.36
+Northwest Territories,2013,537872.71
+Northwest Territories,2014,3418290.42
+Northwest Territories,2015,646987.56
+Northwest Territories,2016,254999.43
+Northwest Territories,2017,1030258.81
+Northwest Territories,2018,13243.15
+Northwest Territories,2019,105167.17
+Northwest Territories,2020,21139.03
+Northwest Territories,2021,155491.15
+Northwest Territories,2022,586216.232
+Northwest Territories,2023,4164806.9048
+Northwest Territories,2024,1672980.524365
+Northwest Territories,2025,1109027.187946
+Nova Scotia,1960,5683.0
+Nova Scotia,1961,1233.0
+Nova Scotia,1963,215.0
+Nova Scotia,1980,551.0
+Nova Scotia,1987,1096.98
+Nova Scotia,1988,351.7
+Nova Scotia,1989,460.97
+Nova Scotia,1990,1068.16
+Nova Scotia,1991,1775.75
+Nova Scotia,1992,1159.61
+Nova Scotia,1993,367.91
+Nova Scotia,1994,242.44
+Nova Scotia,1995,404.51
+Nova Scotia,1996,639.22
+Nova Scotia,1997,565.16
+Nova Scotia,1998,396.73
+Nova Scotia,1999,1823.44
+Nova Scotia,2000,488.17
+Nova Scotia,2001,528.81
+Nova Scotia,2002,211.25
+Nova Scotia,2003,1256.76
+Nova Scotia,2004,289.83
+Nova Scotia,2005,495.0
+Nova Scotia,2006,1572.0
+Nova Scotia,2007,689.0
+Nova Scotia,2008,2700.0
+Nova Scotia,2009,883.0
+Nova Scotia,2010,435.74
+Nova Scotia,2011,150.27
+Nova Scotia,2012,361.81
+Nova Scotia,2013,301.347
+Nova Scotia,2014,564.4607
+Nova Scotia,2015,516.7499
+Nova Scotia,2016,802.724
+Nova Scotia,2017,572.77
+Nova Scotia,2018,195.41
+Nova Scotia,2019,136.77
+Nova Scotia,2020,695.694223
+Nova Scotia,2021,197.142001
+Nova Scotia,2022,3383.703
+Nova Scotia,2023,25093.26925
+Nova Scotia,2024,49.41
+Nova Scotia,2025,8848.030402
+Ontario,1959,239.0
+Ontario,1960,11032.0
+Ontario,1961,469978.0
+Ontario,1962,9020.0
+Ontario,1963,17502.0
+Ontario,1964,7498.0
+Ontario,1965,5301.0
+Ontario,1966,3369.0
+Ontario,1967,21897.0
+Ontario,1968,304.0
+Ontario,1969,1142.0
+Ontario,1970,19635.0
+Ontario,1971,38273.0
+Ontario,1972,33638.0
+Ontario,1973,1842.0
+Ontario,1974,520791.0
+Ontario,1975,10036.0
+Ontario,1976,544176.401828
+Ontario,1977,416341.298512
+Ontario,1978,7541.500025
+Ontario,1979,63944.299788
+Ontario,1980,560329.300011
+Ontario,1981,179499.001517
+Ontario,1982,3915.600016
+Ontario,1983,443703.198109
+Ontario,1984,120442.803421
+Ontario,1985,1006.600006
+Ontario,1986,145561.100005
+Ontario,1987,75581.600031
+Ontario,1988,390705.700011
+Ontario,1989,403885.900057
+Ontario,1990,183693.400005
+Ontario,1991,318811.100006
+Ontario,1992,175994.400003
+Ontario,1993,104705.300005
+Ontario,1994,128985.09999
+Ontario,1995,718530.599221
+Ontario,1996,510894.800037
+Ontario,1997,40610.599943
+Ontario,1998,240547.400017
+Ontario,1999,388568.800002
+Ontario,2000,9268.900004
+Ontario,2001,16700.90003
+Ontario,2002,182219.700151
+Ontario,2003,319212.000013
+Ontario,2004,1817.6
+Ontario,2005,42512.400011
+Ontario,2006,149675.600807
+Ontario,2007,40677.500199
+Ontario,2008,1316.400002
+Ontario,2009,20860.600001
+Ontario,2010,16067.199953
+Ontario,2011,635794.699599
+Ontario,2012,152810.401496
+Ontario,2013,51088.499854
+Ontario,2014,6145.500001
+Ontario,2015,42721.600097
+Ontario,2016,86208.70011
+Ontario,2017,112783.099898
+Ontario,2018,265690.396802
+Ontario,2019,269725.79956
+Ontario,2020,15497.20008
+Ontario,2021,784562.398963
+Ontario,2022,2625.299952
+Ontario,2023,441604.3
+Ontario,2024,90593.4
+Ontario,2025,600928.89742
+Prince Edward Island,2018,7.39
+Prince Edward Island,2019,14.21
+Prince Edward Island,2020,11.13
+Prince Edward Island,2021,0.4
+Prince Edward Island,2022,0.52
+Prince Edward Island,2023,7.94
+Prince Edward Island,2024,18.291161
+Prince Edward Island,2025,13.48
+Quebec,1959,34629.01
+Quebec,1960,39932.06
+Quebec,1961,22208.1
+Quebec,1962,194634.49
+Quebec,1963,28960.0
+Quebec,1964,89481.64
+Quebec,1965,6205.42
+Quebec,1966,7076.9
+Quebec,1967,97491.7
+Quebec,1968,499919.68
+Quebec,1969,1197.0
+Quebec,1970,23333.23
+Quebec,1971,235896.6
+Quebec,1972,104280.4
+Quebec,1973,88711.2
+Quebec,1974,101508.7
+Quebec,1975,43538.8
+Quebec,1976,496464.2
+Quebec,1977,32113.6
+Quebec,1978,6470.1
+Quebec,1979,5171.9
+Quebec,1980,31582.0
+Quebec,1981,192008.9
+Quebec,1982,39107.5
+Quebec,1983,1037538.0
+Quebec,1984,3799.4
+Quebec,1985,86446.6
+Quebec,1986,197225.9
+Quebec,1987,36834.2
+Quebec,1988,275721.7
+Quebec,1989,2109512.5
+Quebec,1990,83342.6
+Quebec,1991,438331.4
+Quebec,1992,27111.5
+Quebec,1993,128234.0
+Quebec,1994,116040.3
+Quebec,1995,727726.7
+Quebec,1996,691589.6
+Quebec,1997,393079.2
+Quebec,1998,418306.8
+Quebec,1999,97747.2
+Quebec,2000,39208.3
+Quebec,2001,33068.2
+Quebec,2002,1013749.6
+Quebec,2003,87860.3
+Quebec,2004,3044.2
+Quebec,2005,800130.3
+Quebec,2006,136351.1
+Quebec,2007,342682.1
+Quebec,2008,1481.6
+Quebec,2009,93971.7
+Quebec,2010,314883.8
+Quebec,2011,12397.5
+Quebec,2012,64043.1
+Quebec,2013,1872842.2
+Quebec,2014,63720.7
+Quebec,2015,5379.6
+Quebec,2016,33370.8
+Quebec,2017,38391.9
+Quebec,2018,86260.7
+Quebec,2019,9604.0
+Quebec,2020,59986.1
+Quebec,2021,49483.1
+Quebec,2022,29638.1
+Quebec,2023,4288263.62585
+Quebec,2024,265199.8
+Quebec,2025,8295.2
+Saskatchewan,1959,11530.19
+Saskatchewan,1960,200238.67
+Saskatchewan,1961,11026.22
+Saskatchewan,1962,2072.83
+Saskatchewan,1963,55719.0
+Saskatchewan,1964,423111.56
+Saskatchewan,1965,2130.27
+Saskatchewan,1966,12077.82
+Saskatchewan,1967,47150.76
+Saskatchewan,1968,19526.12
+Saskatchewan,1969,60007.6
+Saskatchewan,1970,826915.11
+Saskatchewan,1971,84295.4
+Saskatchewan,1972,158430.0
+Saskatchewan,1973,489032.0
+Saskatchewan,1974,17668.0
+Saskatchewan,1975,122567.0
+Saskatchewan,1976,79515.7
+Saskatchewan,1977,129054.2
+Saskatchewan,1978,92783.3
+Saskatchewan,1979,226922.6
+Saskatchewan,1980,1338376.0
+Saskatchewan,1981,2413778.60345
+Saskatchewan,1982,83017.8722
+Saskatchewan,1983,61025.4171
+Saskatchewan,1984,325896.36628
+Saskatchewan,1985,92192.90615
+Saskatchewan,1986,11436.723
+Saskatchewan,1987,220088.675
+Saskatchewan,1988,81470.0069528
+Saskatchewan,1989,479904.307833
+Saskatchewan,1990,216055.678238
+Saskatchewan,1991,198175.11
+Saskatchewan,1992,97756.39
+Saskatchewan,1993,608199.84
+Saskatchewan,1994,846019.45
+Saskatchewan,1995,1648433.89
+Saskatchewan,1996,12986.99
+Saskatchewan,1997,3876.91
+Saskatchewan,1998,1038696.22
+Saskatchewan,1999,180820.24
+Saskatchewan,2000,140806.17
+Saskatchewan,2001,203428.42
+Saskatchewan,2002,879610.04
+Saskatchewan,2003,125663.75
+Saskatchewan,2004,258131.61
+Saskatchewan,2005,213773.46
+Saskatchewan,2006,1203726.54
+Saskatchewan,2007,212873.12
+Saskatchewan,2008,1130177.23
+Saskatchewan,2009,37559.37
+Saskatchewan,2010,1734807.18
+Saskatchewan,2011,343719.99
+Saskatchewan,2012,227511.5
+Saskatchewan,2013,363837.1
+Saskatchewan,2014,342783.48
+Saskatchewan,2015,1758733.04942
+Saskatchewan,2016,254764.4
+Saskatchewan,2017,398997.7
+Saskatchewan,2018,155696.8
+Saskatchewan,2019,48153.6
+Saskatchewan,2020,42950.0
+Saskatchewan,2021,956060.9
+Saskatchewan,2022,265573.0
+Saskatchewan,2023,1883006.2
+Saskatchewan,2024,936676.3
+Saskatchewan,2025,2982279.5
+Yukon,1959,39498.46
+Yukon,1960,8878.31
+Yukon,1961,44037.1
+Yukon,1962,13381.57
+Yukon,1963,17506.18
+Yukon,1964,192.66
+Yukon,1965,18000.0
+Yukon,1966,191648.16
+Yukon,1967,123974.63
+Yukon,1968,11577.54
+Yukon,1969,618109.02
+Yukon,1970,99.97
+Yukon,1971,301729.67
+Yukon,1972,70588.67
+Yukon,1973,1450.12
+Yukon,1974,3465.21
+Yukon,1975,31554.56
+Yukon,1976,59143.2
+Yukon,1977,312469.39
+Yukon,1978,7482.93
+Yukon,1979,7388.5
+Yukon,1980,154204.77
+Yukon,1981,14196.81
+Yukon,1982,240111.44
+Yukon,1983,54836.96
+Yukon,1984,23229.2
+Yukon,1985,19455.49
+Yukon,1986,101697.88
+Yukon,1987,88901.46
+Yukon,1988,6614.39
+Yukon,1989,383188.13
+Yukon,1990,182891.92
+Yukon,1991,120270.82
+Yukon,1992,37815.07
+Yukon,1993,115104.31
+Yukon,1994,421710.39
+Yukon,1995,261882.24
+Yukon,1996,91067.13
+Yukon,1997,11470.05
+Yukon,1998,343731.4
+Yukon,1999,194816.48
+Yukon,2000,8015.86
+Yukon,2001,17334.48
+Yukon,2002,36204.11
+Yukon,2003,48785.33
+Yukon,2004,1719664.09
+Yukon,2005,187438.34
+Yukon,2006,95033.34
+Yukon,2007,37707.76
+Yukon,2008,13067.88
+Yukon,2009,230512.35
+Yukon,2010,146963.17
+Yukon,2011,40464.33
+Yukon,2012,58280.2
+Yukon,2013,198313.79
+Yukon,2014,3160.594
+Yukon,2015,169841.61
+Yukon,2016,21537.4
+Yukon,2017,399280.15
+Yukon,2018,80585.49
+Yukon,2019,256036.62
+Yukon,2020,3463.92
+Yukon,2021,14275.12
+Yukon,2022,170367.27
+Yukon,2023,528225.0
+Yukon,2024,209848.3
+Yukon,2025,177701.51

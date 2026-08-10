@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_unemployment",
+  "source": "OECD",
+  "source_table": "OECD Key Economic Indicators (KEI)",
+  "frequency": "annual",
+  "unit": "% of labour force",
+  "retrieved_at": "2026-08-10T15:04:01.618098+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Unemployment rate for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 432
+}

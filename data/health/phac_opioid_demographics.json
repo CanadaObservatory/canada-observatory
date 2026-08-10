@@ -1,0 +1,15 @@
+{
+  "dataset_id": "phac_opioid_demographics",
+  "source": "Public Health Agency of Canada",
+  "source_table": "Substance-Related Harms (opioid toxicity deaths by age & sex)",
+  "frequency": "annual",
+  "unit": "number of deaths",
+  "retrieved_at": "2026-08-10T15:07:49.524973+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "Apparent opioid toxicity deaths by age group \u00d7 sex, Canada, 2025"
+  ],
+  "notes": null,
+  "row_count": 12
+}

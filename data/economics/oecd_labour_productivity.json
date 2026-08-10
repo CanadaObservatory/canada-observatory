@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_labour_productivity",
+  "source": "OECD",
+  "source_table": "OECD Productivity Database (DF_PDB)",
+  "frequency": "annual",
+  "unit": "USD PPP per hour",
+  "retrieved_at": "2026-08-10T15:03:52.442834+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Labour productivity (GDP per hour) for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 435
+}

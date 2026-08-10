@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_poverty_by_group",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 11-10-0135-01 and 11-10-0093-01",
+  "frequency": "annual",
+  "unit": "% in low income (MBM, 2023 base)",
+  "retrieved_at": "2026-08-10T15:06:36.910657+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "Canada; Market basket measure 2023 base; percentage; selected groups from age/family + population-group tables"
+  ],
+  "notes": null,
+  "row_count": 35
+}

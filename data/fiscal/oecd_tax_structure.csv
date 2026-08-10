@@ -1,0 +1,1524 @@
+country_code,country_name,year,tax_type,pct_gdp
+AUS,Australia,2010,Goods & services,7.230783
+AUS,Australia,2010,Income & profits,14.252763
+AUS,Australia,2010,Other,0.0
+AUS,Australia,2010,Payroll,1.303575
+AUS,Australia,2010,Property,2.361409
+AUS,Australia,2010,Social security,0.0
+AUS,Australia,2011,Goods & services,7.002088
+AUS,Australia,2011,Income & profits,15.183263
+AUS,Australia,2011,Other,0.0
+AUS,Australia,2011,Payroll,1.353134
+AUS,Australia,2011,Property,2.237766
+AUS,Australia,2011,Social security,0.0
+AUS,Australia,2012,Goods & services,7.534065
+AUS,Australia,2012,Income & profits,15.535907
+AUS,Australia,2012,Other,0.0
+AUS,Australia,2012,Payroll,1.394159
+AUS,Australia,2012,Property,2.342203
+AUS,Australia,2012,Social security,0.0
+AUS,Australia,2013,Goods & services,7.62743
+AUS,Australia,2013,Income & profits,15.385994
+AUS,Australia,2013,Other,0.0
+AUS,Australia,2013,Payroll,1.388704
+AUS,Australia,2013,Property,2.559129
+AUS,Australia,2013,Social security,0.0
+AUS,Australia,2014,Goods & services,7.271679
+AUS,Australia,2014,Income & profits,15.698784
+AUS,Australia,2014,Other,0.0
+AUS,Australia,2014,Payroll,1.402321
+AUS,Australia,2014,Property,2.786664
+AUS,Australia,2014,Social security,0.0
+AUS,Australia,2015,Goods & services,7.651905
+AUS,Australia,2015,Income & profits,15.763484
+AUS,Australia,2015,Other,0.0
+AUS,Australia,2015,Payroll,1.408638
+AUS,Australia,2015,Property,2.965654
+AUS,Australia,2015,Social security,0.0
+AUS,Australia,2016,Goods & services,7.436556
+AUS,Australia,2016,Income & profits,15.785009
+AUS,Australia,2016,Other,0.0
+AUS,Australia,2016,Payroll,1.35402
+AUS,Australia,2016,Property,2.962242
+AUS,Australia,2016,Social security,0.0
+AUS,Australia,2017,Goods & services,7.535538
+AUS,Australia,2017,Income & profits,16.760557
+AUS,Australia,2017,Other,0.0
+AUS,Australia,2017,Payroll,1.385417
+AUS,Australia,2017,Property,2.874088
+AUS,Australia,2017,Social security,0.0
+AUS,Australia,2018,Goods & services,7.306712
+AUS,Australia,2018,Income & profits,17.194358
+AUS,Australia,2018,Other,0.0
+AUS,Australia,2018,Payroll,1.382568
+AUS,Australia,2018,Property,2.727545
+AUS,Australia,2018,Social security,0.0
+AUS,Australia,2019,Goods & services,7.287061
+AUS,Australia,2019,Income & profits,16.38977
+AUS,Australia,2019,Other,0.0
+AUS,Australia,2019,Payroll,1.296941
+AUS,Australia,2019,Property,2.724076
+AUS,Australia,2019,Social security,0.0
+AUS,Australia,2020,Goods & services,7.497716
+AUS,Australia,2020,Income & profits,16.676831
+AUS,Australia,2020,Other,0.0
+AUS,Australia,2020,Payroll,1.264873
+AUS,Australia,2020,Property,2.853312
+AUS,Australia,2020,Social security,0.0
+AUS,Australia,2021,Goods & services,6.807665
+AUS,Australia,2021,Income & profits,17.950555
+AUS,Australia,2021,Other,0.0
+AUS,Australia,2021,Payroll,1.261624
+AUS,Australia,2021,Property,3.182255
+AUS,Australia,2021,Social security,0.0
+AUS,Australia,2022,Goods & services,6.964836
+AUS,Australia,2022,Income & profits,18.250197
+AUS,Australia,2022,Other,0.0
+AUS,Australia,2022,Payroll,1.375222
+AUS,Australia,2022,Property,2.722597
+AUS,Australia,2022,Social security,0.0
+AUS,Australia,2023,Goods & services,6.913539
+AUS,Australia,2023,Income & profits,18.537991
+AUS,Australia,2023,Other,0.0
+AUS,Australia,2023,Payroll,1.523987
+AUS,Australia,2023,Property,2.891737
+AUS,Australia,2023,Social security,0.0
+CAN,Canada,2010,Goods & services,7.42787
+CAN,Canada,2010,Income & profits,14.463018
+CAN,Canada,2010,Other,0.035773
+CAN,Canada,2010,Payroll,0.64584
+CAN,Canada,2010,Property,3.825507
+CAN,Canada,2010,Social security,4.608937
+CAN,Canada,2011,Goods & services,7.310761
+CAN,Canada,2011,Income & profits,14.57878
+CAN,Canada,2011,Other,0.036132
+CAN,Canada,2011,Payroll,0.651612
+CAN,Canada,2011,Property,3.687296
+CAN,Canada,2011,Social security,4.53832
+CAN,Canada,2012,Goods & services,7.288193
+CAN,Canada,2012,Income & profits,14.796347
+CAN,Canada,2012,Other,0.03738
+CAN,Canada,2012,Payroll,0.651434
+CAN,Canada,2012,Property,3.704803
+CAN,Canada,2012,Social security,4.699319
+CAN,Canada,2013,Goods & services,7.170259
+CAN,Canada,2013,Income & profits,14.813369
+CAN,Canada,2013,Other,0.036588
+CAN,Canada,2013,Payroll,0.656171
+CAN,Canada,2013,Property,3.703559
+CAN,Canada,2013,Social security,4.751976
+CAN,Canada,2014,Goods & services,7.193254
+CAN,Canada,2014,Income & profits,15.034853
+CAN,Canada,2014,Other,0.036142
+CAN,Canada,2014,Payroll,0.648354
+CAN,Canada,2014,Property,3.673612
+CAN,Canada,2014,Social security,4.680158
+CAN,Canada,2015,Goods & services,7.549831
+CAN,Canada,2015,Income & profits,15.817657
+CAN,Canada,2015,Other,0.03758
+CAN,Canada,2015,Payroll,0.665983
+CAN,Canada,2015,Property,3.907578
+CAN,Canada,2015,Social security,4.84171
+CAN,Canada,2016,Goods & services,7.642134
+CAN,Canada,2016,Income & profits,16.008029
+CAN,Canada,2016,Other,0.036534
+CAN,Canada,2016,Payroll,0.675476
+CAN,Canada,2016,Property,4.008299
+CAN,Canada,2016,Social security,4.887543
+CAN,Canada,2017,Goods & services,7.792249
+CAN,Canada,2017,Income & profits,15.990346
+CAN,Canada,2017,Other,0.037699
+CAN,Canada,2017,Payroll,0.668071
+CAN,Canada,2017,Property,3.931423
+CAN,Canada,2017,Social security,4.624225
+CAN,Canada,2018,Goods & services,7.784938
+CAN,Canada,2018,Income & profits,16.492228
+CAN,Canada,2018,Other,0.039585
+CAN,Canada,2018,Payroll,0.664989
+CAN,Canada,2018,Property,3.850739
+CAN,Canada,2018,Social security,4.649997
+CAN,Canada,2019,Goods & services,7.536992
+CAN,Canada,2019,Income & profits,16.199171
+CAN,Canada,2019,Other,0.041451
+CAN,Canada,2019,Payroll,0.751309
+CAN,Canada,2019,Property,3.868434
+CAN,Canada,2019,Social security,4.68452
+CAN,Canada,2020,Goods & services,7.324591
+CAN,Canada,2020,Income & profits,17.419977
+CAN,Canada,2020,Other,0.040261
+CAN,Canada,2020,Payroll,0.774501
+CAN,Canada,2020,Property,4.044791
+CAN,Canada,2020,Social security,4.841031
+CAN,Canada,2021,Goods & services,7.501197
+CAN,Canada,2021,Income & profits,17.858013
+CAN,Canada,2021,Other,0.040027
+CAN,Canada,2021,Payroll,0.745874
+CAN,Canada,2021,Property,3.884701
+CAN,Canada,2021,Social security,4.771073
+CAN,Canada,2022,Goods & services,7.5168
+CAN,Canada,2022,Income & profits,17.397947
+CAN,Canada,2022,Other,0.045739
+CAN,Canada,2022,Payroll,0.723621
+CAN,Canada,2022,Property,3.521414
+CAN,Canada,2022,Social security,4.673219
+CAN,Canada,2023,Goods & services,7.623002
+CAN,Canada,2023,Income & profits,17.744699
+CAN,Canada,2023,Other,0.047583
+CAN,Canada,2023,Payroll,0.752809
+CAN,Canada,2023,Property,3.436956
+CAN,Canada,2023,Social security,5.180084
+CAN,Canada,2024,Goods & services,7.552382
+CAN,Canada,2024,Income & profits,17.892994
+CAN,Canada,2024,Other,0.045763
+CAN,Canada,2024,Payroll,0.770974
+CAN,Canada,2024,Property,3.358166
+CAN,Canada,2024,Social security,5.28429
+CHE,Switzerland,2010,Goods & services,5.821214
+CHE,Switzerland,2010,Income & profits,11.789462
+CHE,Switzerland,2010,Other,0.094527
+CHE,Switzerland,2010,Payroll,0.0
+CHE,Switzerland,2010,Property,1.983028
+CHE,Switzerland,2010,Social security,6.128164
+CHE,Switzerland,2011,Goods & services,5.822812
+CHE,Switzerland,2011,Income & profits,11.903324
+CHE,Switzerland,2011,Other,0.094067
+CHE,Switzerland,2011,Payroll,0.0
+CHE,Switzerland,2011,Property,1.926337
+CHE,Switzerland,2011,Social security,6.433867
+CHE,Switzerland,2012,Goods & services,5.863363
+CHE,Switzerland,2012,Income & profits,11.846028
+CHE,Switzerland,2012,Other,0.094175
+CHE,Switzerland,2012,Payroll,0.0
+CHE,Switzerland,2012,Property,1.794892
+CHE,Switzerland,2012,Social security,6.494557
+CHE,Switzerland,2013,Goods & services,5.821791
+CHE,Switzerland,2013,Income & profits,11.960446
+CHE,Switzerland,2013,Other,0.101435
+CHE,Switzerland,2013,Payroll,0.0
+CHE,Switzerland,2013,Property,1.83734
+CHE,Switzerland,2013,Social security,6.525392
+CHE,Switzerland,2014,Goods & services,5.757684
+CHE,Switzerland,2014,Income & profits,11.914428
+CHE,Switzerland,2014,Other,0.113156
+CHE,Switzerland,2014,Payroll,0.0
+CHE,Switzerland,2014,Property,1.885055
+CHE,Switzerland,2014,Social security,6.518216
+CHE,Switzerland,2015,Goods & services,5.742088
+CHE,Switzerland,2015,Income & profits,12.523605
+CHE,Switzerland,2015,Other,0.119597
+CHE,Switzerland,2015,Payroll,0.0
+CHE,Switzerland,2015,Property,1.965071
+CHE,Switzerland,2015,Social security,6.605936
+CHE,Switzerland,2016,Goods & services,5.688229
+CHE,Switzerland,2016,Income & profits,12.539071
+CHE,Switzerland,2016,Other,0.131421
+CHE,Switzerland,2016,Payroll,0.0
+CHE,Switzerland,2016,Property,1.995875
+CHE,Switzerland,2016,Social security,6.58349
+CHE,Switzerland,2017,Goods & services,5.76348
+CHE,Switzerland,2017,Income & profits,13.127986
+CHE,Switzerland,2017,Other,0.141174
+CHE,Switzerland,2017,Payroll,0.0
+CHE,Switzerland,2017,Property,2.093613
+CHE,Switzerland,2017,Social security,6.58984
+CHE,Switzerland,2018,Goods & services,5.567962
+CHE,Switzerland,2018,Income & profits,12.952196
+CHE,Switzerland,2018,Other,0.144975
+CHE,Switzerland,2018,Payroll,0.0
+CHE,Switzerland,2018,Property,2.042253
+CHE,Switzerland,2018,Social security,6.475081
+CHE,Switzerland,2019,Goods & services,5.503898
+CHE,Switzerland,2019,Income & profits,13.325626
+CHE,Switzerland,2019,Other,0.141488
+CHE,Switzerland,2019,Payroll,0.0
+CHE,Switzerland,2019,Property,2.122365
+CHE,Switzerland,2019,Social security,6.566992
+CHE,Switzerland,2020,Goods & services,5.582821
+CHE,Switzerland,2020,Income & profits,12.898719
+CHE,Switzerland,2020,Other,0.150698
+CHE,Switzerland,2020,Payroll,0.0
+CHE,Switzerland,2020,Property,2.258104
+CHE,Switzerland,2020,Social security,7.021889
+CHE,Switzerland,2021,Goods & services,5.476667
+CHE,Switzerland,2021,Income & profits,13.338873
+CHE,Switzerland,2021,Other,0.141866
+CHE,Switzerland,2021,Payroll,0.0
+CHE,Switzerland,2021,Property,2.234635
+CHE,Switzerland,2021,Social security,6.777193
+CHE,Switzerland,2022,Goods & services,5.294694
+CHE,Switzerland,2022,Income & profits,12.487217
+CHE,Switzerland,2022,Other,0.132396
+CHE,Switzerland,2022,Payroll,0.0
+CHE,Switzerland,2022,Property,2.123436
+CHE,Switzerland,2022,Social security,6.594154
+CHE,Switzerland,2023,Goods & services,5.219408
+CHE,Switzerland,2023,Income & profits,12.831509
+CHE,Switzerland,2023,Other,0.132456
+CHE,Switzerland,2023,Payroll,0.0
+CHE,Switzerland,2023,Property,2.057536
+CHE,Switzerland,2023,Social security,6.657462
+CHE,Switzerland,2024,Goods & services,5.328882
+CHE,Switzerland,2024,Income & profits,12.961324
+CHE,Switzerland,2024,Other,0.13302
+CHE,Switzerland,2024,Payroll,0.0
+CHE,Switzerland,2024,Property,2.070535
+CHE,Switzerland,2024,Social security,6.675286
+DEU,Germany,2010,Goods & services,10.957954
+DEU,Germany,2010,Income & profits,9.858179
+DEU,Germany,2010,Other,0.003824
+DEU,Germany,2010,Payroll,0.0
+DEU,Germany,2010,Property,0.8034
+DEU,Germany,2010,Social security,13.548175
+DEU,Germany,2011,Goods & services,11.167275
+DEU,Germany,2011,Income & profits,10.341402
+DEU,Germany,2011,Other,0.00415
+DEU,Germany,2011,Payroll,0.0
+DEU,Germany,2011,Property,0.83836
+DEU,Germany,2011,Social security,13.526981
+DEU,Germany,2012,Goods & services,11.125647
+DEU,Germany,2012,Income & profits,10.925059
+DEU,Germany,2012,Other,0.004251
+DEU,Germany,2012,Payroll,0.0
+DEU,Germany,2012,Property,0.877904
+DEU,Germany,2012,Social security,13.689413
+DEU,Germany,2013,Goods & services,11.185566
+DEU,Germany,2013,Income & profits,11.160936
+DEU,Germany,2013,Other,0.004465
+DEU,Germany,2013,Payroll,0.0
+DEU,Germany,2013,Property,0.910664
+DEU,Germany,2013,Social security,13.688461
+DEU,Germany,2014,Goods & services,11.122578
+DEU,Germany,2014,Income & profits,11.162484
+DEU,Germany,2014,Other,0.005763
+DEU,Germany,2014,Payroll,0.0
+DEU,Germany,2014,Property,0.943786
+DEU,Germany,2014,Social security,13.660147
+DEU,Germany,2015,Goods & services,11.099633
+DEU,Germany,2015,Income & profits,11.382656
+DEU,Germany,2015,Other,0.006997
+DEU,Germany,2015,Payroll,0.0
+DEU,Germany,2015,Property,1.050816
+DEU,Germany,2015,Social security,13.76216
+DEU,Germany,2016,Goods & services,10.98945
+DEU,Germany,2016,Income & profits,11.787582
+DEU,Germany,2016,Other,0.007261
+DEU,Germany,2016,Payroll,0.0
+DEU,Germany,2016,Property,1.066096
+DEU,Germany,2016,Social security,13.938489
+DEU,Germany,2017,Goods & services,10.684706
+DEU,Germany,2017,Income & profits,12.029486
+DEU,Germany,2017,Other,0.007561
+DEU,Germany,2017,Payroll,0.0
+DEU,Germany,2017,Property,1.027869
+DEU,Germany,2017,Social security,14.015739
+DEU,Germany,2018,Goods & services,10.805497
+DEU,Germany,2018,Income & profits,12.342263
+DEU,Germany,2018,Other,0.007862
+DEU,Germany,2018,Payroll,0.0
+DEU,Germany,2018,Property,1.057271
+DEU,Germany,2018,Social security,14.200633
+DEU,Germany,2019,Goods & services,10.801096
+DEU,Germany,2019,Income & profits,12.355765
+DEU,Germany,2019,Other,0.009018
+DEU,Germany,2019,Payroll,0.0
+DEU,Germany,2019,Property,1.093496
+DEU,Germany,2019,Social security,14.364738
+DEU,Germany,2020,Goods & services,10.345261
+DEU,Germany,2020,Income & profits,11.699384
+DEU,Germany,2020,Other,0.006028
+DEU,Germany,2020,Payroll,0.0
+DEU,Germany,2020,Property,1.229512
+DEU,Germany,2020,Social security,14.845568
+DEU,Germany,2021,Goods & services,10.765003
+DEU,Germany,2021,Income & profits,12.553159
+DEU,Germany,2021,Other,0.006952
+DEU,Germany,2021,Payroll,0.0
+DEU,Germany,2021,Property,1.216265
+DEU,Germany,2021,Social security,14.511805
+DEU,Germany,2022,Goods & services,10.60899
+DEU,Germany,2022,Income & profits,12.743151
+DEU,Germany,2022,Other,0.008974
+DEU,Germany,2022,Payroll,0.0
+DEU,Germany,2022,Property,1.083975
+DEU,Germany,2022,Social security,14.214755
+DEU,Germany,2023,Goods & services,9.957837
+DEU,Germany,2023,Income & profits,12.089536
+DEU,Germany,2023,Other,0.009646
+DEU,Germany,2023,Payroll,0.0
+DEU,Germany,2023,Property,0.91496
+DEU,Germany,2023,Social security,14.322792
+DEU,Germany,2024,Goods & services,9.977755
+DEU,Germany,2024,Income & profits,12.246146
+DEU,Germany,2024,Other,0.012774
+DEU,Germany,2024,Payroll,0.0
+DEU,Germany,2024,Property,0.924354
+DEU,Germany,2024,Social security,14.860463
+DNK,Denmark,2010,Goods & services,14.940688
+DNK,Denmark,2010,Income & profits,27.637635
+DNK,Denmark,2010,Other,0.011335
+DNK,Denmark,2010,Payroll,0.229467
+DNK,Denmark,2010,Property,1.849476
+DNK,Denmark,2010,Social security,0.125744
+DNK,Denmark,2011,Goods & services,15.066837
+DNK,Denmark,2011,Income & profits,27.515266
+DNK,Denmark,2011,Other,0.009418
+DNK,Denmark,2011,Payroll,0.25074
+DNK,Denmark,2011,Property,1.888453
+DNK,Denmark,2011,Social security,0.136379
+DNK,Denmark,2012,Goods & services,15.100543
+DNK,Denmark,2012,Income & profits,28.293781
+DNK,Denmark,2012,Other,0.036932
+DNK,Denmark,2012,Payroll,0.293037
+DNK,Denmark,2012,Property,1.778747
+DNK,Denmark,2012,Social security,0.123179
+DNK,Denmark,2013,Goods & services,14.758727
+DNK,Denmark,2013,Income & profits,28.864242
+DNK,Denmark,2013,Other,0.113673
+DNK,Denmark,2013,Payroll,0.316695
+DNK,Denmark,2013,Property,1.807855
+DNK,Denmark,2013,Social security,0.109173
+DNK,Denmark,2014,Goods & services,14.576197
+DNK,Denmark,2014,Income & profits,31.83256
+DNK,Denmark,2014,Other,0.117414
+DNK,Denmark,2014,Payroll,0.320296
+DNK,Denmark,2014,Property,1.832516
+DNK,Denmark,2014,Social security,0.0973
+DNK,Denmark,2015,Goods & services,14.573539
+DNK,Denmark,2015,Income & profits,29.455212
+DNK,Denmark,2015,Other,0.136957
+DNK,Denmark,2015,Payroll,0.29032
+DNK,Denmark,2015,Property,1.938738
+DNK,Denmark,2015,Social security,0.092281
+DNK,Denmark,2016,Goods & services,14.729092
+DNK,Denmark,2016,Income & profits,28.820212
+DNK,Denmark,2016,Other,0.047799
+DNK,Denmark,2016,Payroll,0.280873
+DNK,Denmark,2016,Property,1.840424
+DNK,Denmark,2016,Social security,0.080166
+DNK,Denmark,2017,Goods & services,14.41841
+DNK,Denmark,2017,Income & profits,28.874152
+DNK,Denmark,2017,Other,0.046575
+DNK,Denmark,2017,Payroll,0.252796
+DNK,Denmark,2017,Property,1.791653
+DNK,Denmark,2017,Social security,0.073393
+DNK,Denmark,2018,Goods & services,14.649072
+DNK,Denmark,2018,Income & profits,27.561972
+DNK,Denmark,2018,Other,0.039353
+DNK,Denmark,2018,Payroll,0.2818
+DNK,Denmark,2018,Property,1.835905
+DNK,Denmark,2018,Social security,0.076763
+DNK,Denmark,2019,Goods & services,14.19438
+DNK,Denmark,2019,Income & profits,30.53914
+DNK,Denmark,2019,Other,0.043983
+DNK,Denmark,2019,Payroll,0.284077
+DNK,Denmark,2019,Property,2.011107
+DNK,Denmark,2019,Social security,0.073497
+DNK,Denmark,2020,Goods & services,14.429718
+DNK,Denmark,2020,Income & profits,30.520574
+DNK,Denmark,2020,Other,0.051552
+DNK,Denmark,2020,Payroll,0.181828
+DNK,Denmark,2020,Property,1.960334
+DNK,Denmark,2020,Social security,0.092676
+DNK,Denmark,2021,Goods & services,13.678601
+DNK,Denmark,2021,Income & profits,31.537757
+DNK,Denmark,2021,Other,0.052439
+DNK,Denmark,2021,Payroll,0.260678
+DNK,Denmark,2021,Property,1.842902
+DNK,Denmark,2021,Social security,0.097656
+DNK,Denmark,2022,Goods & services,12.82292
+DNK,Denmark,2022,Income & profits,27.137426
+DNK,Denmark,2022,Other,0.048801
+DNK,Denmark,2022,Payroll,0.252533
+DNK,Denmark,2022,Property,1.710583
+DNK,Denmark,2022,Social security,0.082655
+DNK,Denmark,2023,Goods & services,12.40876
+DNK,Denmark,2023,Income & profits,29.317894
+DNK,Denmark,2023,Other,0.209995
+DNK,Denmark,2023,Payroll,0.262166
+DNK,Denmark,2023,Property,1.717168
+DNK,Denmark,2023,Social security,0.07559
+DNK,Denmark,2024,Goods & services,12.341525
+DNK,Denmark,2024,Income & profits,30.886489
+DNK,Denmark,2024,Other,0.201197
+DNK,Denmark,2024,Payroll,0.264965
+DNK,Denmark,2024,Property,1.412751
+DNK,Denmark,2024,Social security,0.070133
+FIN,Finland,2010,Goods & services,12.972304
+FIN,Finland,2010,Income & profits,14.405757
+FIN,Finland,2010,Other,0.036673
+FIN,Finland,2010,Payroll,0.0
+FIN,Finland,2010,Property,1.109239
+FIN,Finland,2010,Social security,12.037396
+FIN,Finland,2011,Goods & services,13.877716
+FIN,Finland,2011,Income & profits,14.841011
+FIN,Finland,2011,Other,0.036933
+FIN,Finland,2011,Payroll,0.0
+FIN,Finland,2011,Property,1.081683
+FIN,Finland,2011,Social security,12.02904
+FIN,Finland,2012,Goods & services,14.158241
+FIN,Finland,2012,Income & profits,14.573456
+FIN,Finland,2012,Other,0.037429
+FIN,Finland,2012,Payroll,0.0
+FIN,Finland,2012,Property,1.178273
+FIN,Finland,2012,Social security,12.606673
+FIN,Finland,2013,Goods & services,14.543703
+FIN,Finland,2013,Income & profits,15.133884
+FIN,Finland,2013,Other,0.03145
+FIN,Finland,2013,Payroll,0.0
+FIN,Finland,2013,Property,1.277169
+FIN,Finland,2013,Social security,12.595763
+FIN,Finland,2014,Goods & services,14.448034
+FIN,Finland,2014,Income & profits,15.291832
+FIN,Finland,2014,Other,0.036919
+FIN,Finland,2014,Payroll,0.0
+FIN,Finland,2014,Property,1.320833
+FIN,Finland,2014,Social security,12.635593
+FIN,Finland,2015,Goods & services,14.222711
+FIN,Finland,2015,Income & profits,15.400681
+FIN,Finland,2015,Other,0.038536
+FIN,Finland,2015,Payroll,0.0
+FIN,Finland,2015,Property,1.435354
+FIN,Finland,2015,Social security,12.673651
+FIN,Finland,2016,Goods & services,14.549618
+FIN,Finland,2016,Income & profits,15.267225
+FIN,Finland,2016,Other,0.045893
+FIN,Finland,2016,Payroll,0.0
+FIN,Finland,2016,Property,1.421307
+FIN,Finland,2016,Social security,12.808448
+FIN,Finland,2017,Goods & services,14.267977
+FIN,Finland,2017,Income & profits,15.310673
+FIN,Finland,2017,Other,0.027147
+FIN,Finland,2017,Payroll,0.0
+FIN,Finland,2017,Property,1.539345
+FIN,Finland,2017,Social security,12.015701
+FIN,Finland,2018,Goods & services,14.408055
+FIN,Finland,2018,Income & profits,14.878937
+FIN,Finland,2018,Other,0.018973
+FIN,Finland,2018,Payroll,0.0
+FIN,Finland,2018,Property,1.444126
+FIN,Finland,2018,Social security,11.921692
+FIN,Finland,2019,Goods & services,14.315901
+FIN,Finland,2019,Income & profits,14.870995
+FIN,Finland,2019,Other,0.021382
+FIN,Finland,2019,Payroll,0.0
+FIN,Finland,2019,Property,1.457752
+FIN,Finland,2019,Social security,11.862836
+FIN,Finland,2020,Goods & services,14.247822
+FIN,Finland,2020,Income & profits,14.790153
+FIN,Finland,2020,Other,0.030882
+FIN,Finland,2020,Payroll,0.0
+FIN,Finland,2020,Property,1.509812
+FIN,Finland,2020,Social security,11.559857
+FIN,Finland,2021,Goods & services,14.116592
+FIN,Finland,2021,Income & profits,15.723738
+FIN,Finland,2021,Other,0.043415
+FIN,Finland,2021,Payroll,0.0
+FIN,Finland,2021,Property,1.522728
+FIN,Finland,2021,Social security,12.134392
+FIN,Finland,2022,Goods & services,13.906476
+FIN,Finland,2022,Income & profits,16.029459
+FIN,Finland,2022,Other,0.03269
+FIN,Finland,2022,Payroll,0.0
+FIN,Finland,2022,Property,1.451895
+FIN,Finland,2022,Social security,12.006688
+FIN,Finland,2023,Goods & services,13.292383
+FIN,Finland,2023,Income & profits,15.602826
+FIN,Finland,2023,Other,0.028954
+FIN,Finland,2023,Payroll,0.0
+FIN,Finland,2023,Property,1.405178
+FIN,Finland,2023,Social security,12.428532
+FIN,Finland,2024,Goods & services,13.288738
+FIN,Finland,2024,Income & profits,15.650649
+FIN,Finland,2024,Other,0.037324
+FIN,Finland,2024,Payroll,0.0
+FIN,Finland,2024,Property,1.485706
+FIN,Finland,2024,Social security,11.754837
+FRA,France,2010,Goods & services,11.174814
+FRA,France,2010,Income & profits,9.583943
+FRA,France,2010,Other,0.48734
+FRA,France,2010,Payroll,1.422427
+FRA,France,2010,Property,3.546616
+FRA,France,2010,Social security,16.022854
+FRA,France,2011,Goods & services,11.441695
+FRA,France,2011,Income & profits,10.048206
+FRA,France,2011,Other,0.620723
+FRA,France,2011,Payroll,1.425734
+FRA,France,2011,Property,3.653019
+FRA,France,2011,Social security,16.129538
+FRA,France,2012,Goods & services,11.636167
+FRA,France,2012,Income & profits,10.628628
+FRA,France,2012,Other,0.52106
+FRA,France,2012,Payroll,1.501489
+FRA,France,2012,Property,3.792384
+FRA,France,2012,Social security,16.381082
+FRA,France,2013,Goods & services,11.649056
+FRA,France,2013,Income & profits,11.009726
+FRA,France,2013,Other,0.529504
+FRA,France,2013,Payroll,1.651094
+FRA,France,2013,Property,3.851524
+FRA,France,2013,Social security,16.638392
+FRA,France,2014,Goods & services,11.755633
+FRA,France,2014,Income & profits,10.717377
+FRA,France,2014,Other,0.538112
+FRA,France,2014,Payroll,1.670114
+FRA,France,2014,Property,3.912288
+FRA,France,2014,Social security,16.812711
+FRA,France,2015,Goods & services,11.855384
+FRA,France,2015,Income & profits,10.606578
+FRA,France,2015,Other,0.549313
+FRA,France,2015,Payroll,1.643022
+FRA,France,2015,Property,4.076789
+FRA,France,2015,Social security,16.631814
+FRA,France,2016,Goods & services,12.004453
+FRA,France,2016,Income & profits,10.456935
+FRA,France,2016,Other,0.537321
+FRA,France,2016,Payroll,1.631201
+FRA,France,2016,Property,4.146828
+FRA,France,2016,Social security,16.619916
+FRA,France,2017,Goods & services,12.219602
+FRA,France,2017,Income & profits,10.815887
+FRA,France,2017,Other,0.548285
+FRA,France,2017,Payroll,1.634161
+FRA,France,2017,Property,4.288613
+FRA,France,2017,Social security,16.732175
+FRA,France,2018,Goods & services,12.395595
+FRA,France,2018,Income & profits,11.415834
+FRA,France,2018,Other,0.58357
+FRA,France,2018,Payroll,1.594759
+FRA,France,2018,Property,4.034386
+FRA,France,2018,Social security,15.997531
+FRA,France,2019,Goods & services,12.410717
+FRA,France,2019,Income & profits,11.41471
+FRA,France,2019,Other,0.601305
+FRA,France,2019,Payroll,1.868118
+FRA,France,2019,Property,3.935636
+FRA,France,2019,Social security,14.793069
+FRA,France,2020,Goods & services,12.211097
+FRA,France,2020,Income & profits,11.727563
+FRA,France,2020,Other,0.669925
+FRA,France,2020,Payroll,1.934573
+FRA,France,2020,Property,4.001278
+FRA,France,2020,Social security,14.694997
+FRA,France,2021,Goods & services,12.193991
+FRA,France,2021,Income & profits,11.74128
+FRA,France,2021,Other,0.640028
+FRA,France,2021,Payroll,1.878772
+FRA,France,2021,Property,3.886694
+FRA,France,2021,Social security,14.718561
+FRA,France,2022,Goods & services,11.989455
+FRA,France,2022,Income & profits,12.542079
+FRA,France,2022,Other,0.821462
+FRA,France,2022,Payroll,1.956756
+FRA,France,2022,Property,3.716323
+FRA,France,2022,Social security,14.829852
+FRA,France,2023,Goods & services,11.293353
+FRA,France,2023,Income & profits,11.754389
+FRA,France,2023,Other,0.862777
+FRA,France,2023,Payroll,1.943961
+FRA,France,2023,Property,3.453898
+FRA,France,2023,Social security,14.546595
+FRA,France,2024,Goods & services,11.066231
+FRA,France,2024,Income & profits,11.540843
+FRA,France,2024,Other,0.80098
+FRA,France,2024,Payroll,1.977944
+FRA,France,2024,Property,3.396547
+FRA,France,2024,Social security,14.679665
+GBR,United Kingdom,2010,Goods & services,10.169202
+GBR,United Kingdom,2010,Income & profits,11.984156
+GBR,United Kingdom,2010,Other,0.0
+GBR,United Kingdom,2010,Payroll,0.0
+GBR,United Kingdom,2010,Property,3.839973
+GBR,United Kingdom,2010,Social security,6.051774
+GBR,United Kingdom,2011,Goods & services,11.028636
+GBR,United Kingdom,2011,Income & profits,11.919355
+GBR,United Kingdom,2011,Other,0.0
+GBR,United Kingdom,2011,Payroll,0.0
+GBR,United Kingdom,2011,Property,3.813568
+GBR,United Kingdom,2011,Social security,6.101384
+GBR,United Kingdom,2012,Goods & services,10.916751
+GBR,United Kingdom,2012,Income & profits,11.322069
+GBR,United Kingdom,2012,Other,0.0
+GBR,United Kingdom,2012,Payroll,0.0
+GBR,United Kingdom,2012,Property,3.811602
+GBR,United Kingdom,2012,Social security,6.087302
+GBR,United Kingdom,2013,Goods & services,10.875168
+GBR,United Kingdom,2013,Income & profits,11.263691
+GBR,United Kingdom,2013,Other,0.0
+GBR,United Kingdom,2013,Payroll,0.0
+GBR,United Kingdom,2013,Property,3.929748
+GBR,United Kingdom,2013,Social security,5.955278
+GBR,United Kingdom,2014,Goods & services,10.832348
+GBR,United Kingdom,2014,Income & profits,11.013447
+GBR,United Kingdom,2014,Other,0.0
+GBR,United Kingdom,2014,Payroll,0.0
+GBR,United Kingdom,2014,Property,4.004963
+GBR,United Kingdom,2014,Social security,5.858748
+GBR,United Kingdom,2015,Goods & services,10.880476
+GBR,United Kingdom,2015,Income & profits,11.100073
+GBR,United Kingdom,2015,Other,0.0
+GBR,United Kingdom,2015,Payroll,0.0
+GBR,United Kingdom,2015,Property,3.986483
+GBR,United Kingdom,2015,Social security,5.957523
+GBR,United Kingdom,2016,Goods & services,10.829942
+GBR,United Kingdom,2016,Income & profits,11.435293
+GBR,United Kingdom,2016,Other,0.0
+GBR,United Kingdom,2016,Payroll,0.0
+GBR,United Kingdom,2016,Property,4.077484
+GBR,United Kingdom,2016,Social security,6.123732
+GBR,United Kingdom,2017,Goods & services,10.735555
+GBR,United Kingdom,2017,Income & profits,11.552587
+GBR,United Kingdom,2017,Other,0.0
+GBR,United Kingdom,2017,Payroll,0.088452
+GBR,United Kingdom,2017,Property,4.107887
+GBR,United Kingdom,2017,Social security,6.264112
+GBR,United Kingdom,2018,Goods & services,10.74063
+GBR,United Kingdom,2018,Income & profits,11.513173
+GBR,United Kingdom,2018,Other,0.0
+GBR,United Kingdom,2018,Payroll,0.120987
+GBR,United Kingdom,2018,Property,4.096308
+GBR,United Kingdom,2018,Social security,6.289911
+GBR,United Kingdom,2019,Goods & services,10.703422
+GBR,United Kingdom,2019,Income & profits,11.208027
+GBR,United Kingdom,2019,Other,0.0
+GBR,United Kingdom,2019,Payroll,0.123729
+GBR,United Kingdom,2019,Property,4.034028
+GBR,United Kingdom,2019,Social security,6.443916
+GBR,United Kingdom,2020,Goods & services,10.264057
+GBR,United Kingdom,2020,Income & profits,11.805136
+GBR,United Kingdom,2020,Other,0.0
+GBR,United Kingdom,2020,Payroll,0.137771
+GBR,United Kingdom,2020,Property,3.807489
+GBR,United Kingdom,2020,Social security,6.827143
+GBR,United Kingdom,2021,Goods & services,10.418876
+GBR,United Kingdom,2021,Income & profits,12.914856
+GBR,United Kingdom,2021,Other,0.0
+GBR,United Kingdom,2021,Payroll,0.137744
+GBR,United Kingdom,2021,Property,3.921502
+GBR,United Kingdom,2021,Social security,6.83504
+GBR,United Kingdom,2022,Goods & services,10.695417
+GBR,United Kingdom,2022,Income & profits,13.277123
+GBR,United Kingdom,2022,Other,0.0
+GBR,United Kingdom,2022,Payroll,0.139327
+GBR,United Kingdom,2022,Property,3.987012
+GBR,United Kingdom,2022,Social security,7.063015
+GBR,United Kingdom,2023,Goods & services,10.553061
+GBR,United Kingdom,2023,Income & profits,13.922632
+GBR,United Kingdom,2023,Other,0.0
+GBR,United Kingdom,2023,Payroll,0.139939
+GBR,United Kingdom,2023,Property,3.67651
+GBR,United Kingdom,2023,Social security,6.673171
+GBR,United Kingdom,2024,Goods & services,10.171383
+GBR,United Kingdom,2024,Income & profits,14.246279
+GBR,United Kingdom,2024,Other,0.0
+GBR,United Kingdom,2024,Payroll,0.141004
+GBR,United Kingdom,2024,Property,3.737756
+GBR,United Kingdom,2024,Social security,6.070385
+ISR,Israel,2010,Goods & services,11.801172
+ISR,Israel,2010,Income & profits,8.73343
+ISR,Israel,2010,Other,0.0
+ISR,Israel,2010,Payroll,1.147122
+ISR,Israel,2010,Property,3.350957
+ISR,Israel,2010,Social security,5.059705
+ISR,Israel,2011,Goods & services,11.707
+ISR,Israel,2011,Income & profits,8.990196
+ISR,Israel,2011,Other,0.0
+ISR,Israel,2011,Payroll,1.140431
+ISR,Israel,2011,Property,3.388727
+ISR,Israel,2011,Social security,5.082888
+ISR,Israel,2012,Goods & services,11.341471
+ISR,Israel,2012,Income & profits,8.901542
+ISR,Israel,2012,Other,0.0
+ISR,Israel,2012,Payroll,1.171779
+ISR,Israel,2012,Property,3.105611
+ISR,Israel,2012,Social security,4.94854
+ISR,Israel,2013,Goods & services,11.607055
+ISR,Israel,2013,Income & profits,9.416115
+ISR,Israel,2013,Other,0.0
+ISR,Israel,2013,Payroll,1.185786
+ISR,Israel,2013,Property,3.167561
+ISR,Israel,2013,Social security,4.951495
+ISR,Israel,2014,Goods & services,11.937513
+ISR,Israel,2014,Income & profits,9.349015
+ISR,Israel,2014,Other,0.0
+ISR,Israel,2014,Payroll,1.17376
+ISR,Israel,2014,Property,3.201737
+ISR,Israel,2014,Social security,4.979942
+ISR,Israel,2015,Goods & services,11.712848
+ISR,Israel,2015,Income & profits,9.662796
+ISR,Israel,2015,Other,0.0
+ISR,Israel,2015,Payroll,1.166562
+ISR,Israel,2015,Property,3.442803
+ISR,Israel,2015,Social security,5.049561
+ISR,Israel,2016,Goods & services,11.645021
+ISR,Israel,2016,Income & profits,9.751976
+ISR,Israel,2016,Other,0.0
+ISR,Israel,2016,Payroll,1.131477
+ISR,Israel,2016,Property,3.337887
+ISR,Israel,2016,Social security,5.131822
+ISR,Israel,2017,Goods & services,11.094799
+ISR,Israel,2017,Income & profits,11.422546
+ISR,Israel,2017,Other,0.0
+ISR,Israel,2017,Payroll,1.147819
+ISR,Israel,2017,Property,3.351062
+ISR,Israel,2017,Social security,5.180314
+ISR,Israel,2018,Goods & services,11.064448
+ISR,Israel,2018,Income & profits,10.000895
+ISR,Israel,2018,Other,0.0
+ISR,Israel,2018,Payroll,1.161991
+ISR,Israel,2018,Property,3.306296
+ISR,Israel,2018,Social security,5.227886
+ISR,Israel,2019,Goods & services,10.763256
+ISR,Israel,2019,Income & profits,9.821082
+ISR,Israel,2019,Other,0.0
+ISR,Israel,2019,Payroll,1.146261
+ISR,Israel,2019,Property,3.206529
+ISR,Israel,2019,Social security,5.211074
+ISR,Israel,2020,Goods & services,10.513017
+ISR,Israel,2020,Income & profits,9.832332
+ISR,Israel,2020,Other,0.0
+ISR,Israel,2020,Payroll,1.166135
+ISR,Israel,2020,Property,3.07928
+ISR,Israel,2020,Social security,5.164718
+ISR,Israel,2021,Goods & services,10.954941
+ISR,Israel,2021,Income & profits,11.522043
+ISR,Israel,2021,Other,0.0
+ISR,Israel,2021,Payroll,1.074369
+ISR,Israel,2021,Property,3.919491
+ISR,Israel,2021,Social security,5.03068
+ISR,Israel,2022,Goods & services,10.674358
+ISR,Israel,2022,Income & profits,12.223451
+ISR,Israel,2022,Other,0.0
+ISR,Israel,2022,Payroll,0.96066
+ISR,Israel,2022,Property,4.013856
+ISR,Israel,2022,Social security,5.03537
+ISR,Israel,2023,Goods & services,9.663549
+ISR,Israel,2023,Income & profits,11.051425
+ISR,Israel,2023,Other,0.0
+ISR,Israel,2023,Payroll,0.936981
+ISR,Israel,2023,Property,3.187129
+ISR,Israel,2023,Social security,4.99466
+ISR,Israel,2024,Goods & services,10.488957
+ISR,Israel,2024,Income & profits,11.513535
+ISR,Israel,2024,Other,0.0
+ISR,Israel,2024,Payroll,0.880848
+ISR,Israel,2024,Property,3.034314
+ISR,Israel,2024,Social security,4.959695
+ITA,Italy,2010,Goods & services,11.222819
+ITA,Italy,2010,Income & profits,13.569404
+ITA,Italy,2010,Other,1.96867
+ITA,Italy,2010,Payroll,0.0
+ITA,Italy,2010,Property,2.003962
+ITA,Italy,2010,Social security,12.923557
+ITA,Italy,2011,Goods & services,11.429487
+ITA,Italy,2011,Income & profits,13.230484
+ITA,Italy,2011,Other,1.994253
+ITA,Italy,2011,Payroll,0.0
+ITA,Italy,2011,Property,2.177014
+ITA,Italy,2011,Social security,12.769749
+ITA,Italy,2012,Goods & services,11.744025
+ITA,Italy,2012,Income & profits,14.155609
+ITA,Italy,2012,Other,2.037114
+ITA,Italy,2012,Payroll,0.0
+ITA,Italy,2012,Property,2.671691
+ITA,Italy,2012,Social security,12.91452
+ITA,Italy,2013,Goods & services,11.703917
+ITA,Italy,2013,Income & profits,14.388298
+ITA,Italy,2013,Other,1.9858
+ITA,Italy,2013,Payroll,0.0
+ITA,Italy,2013,Property,2.705364
+ITA,Italy,2013,Social security,12.979837
+ITA,Italy,2014,Goods & services,12.030474
+ITA,Italy,2014,Income & profits,13.707874
+ITA,Italy,2014,Other,1.855464
+ITA,Italy,2014,Payroll,0.0
+ITA,Italy,2014,Property,2.863613
+ITA,Italy,2014,Social security,12.814644
+ITA,Italy,2015,Goods & services,12.038399
+ITA,Italy,2015,Income & profits,13.571004
+ITA,Italy,2015,Other,1.685287
+ITA,Italy,2015,Payroll,0.0
+ITA,Italy,2015,Property,2.782037
+ITA,Italy,2015,Social security,12.885762
+ITA,Italy,2016,Goods & services,12.193459
+ITA,Italy,2016,Income & profits,13.379481
+ITA,Italy,2016,Other,1.185144
+ITA,Italy,2016,Payroll,0.0
+ITA,Italy,2016,Property,2.750202
+ITA,Italy,2016,Social security,12.669863
+ITA,Italy,2017,Goods & services,12.178897
+ITA,Italy,2017,Income & profits,13.267086
+ITA,Italy,2017,Other,1.280143
+ITA,Italy,2017,Payroll,0.0
+ITA,Italy,2017,Property,2.491268
+ITA,Italy,2017,Social security,12.670386
+ITA,Italy,2018,Goods & services,12.050214
+ITA,Italy,2018,Income & profits,12.908171
+ITA,Italy,2018,Other,1.343219
+ITA,Italy,2018,Payroll,0.0
+ITA,Italy,2018,Property,2.47994
+ITA,Italy,2018,Social security,12.901348
+ITA,Italy,2019,Goods & services,12.146889
+ITA,Italy,2019,Income & profits,13.286078
+ITA,Italy,2019,Other,1.347068
+ITA,Italy,2019,Payroll,0.0
+ITA,Italy,2019,Property,2.397195
+ITA,Italy,2019,Social security,13.138039
+ITA,Italy,2020,Goods & services,11.669198
+ITA,Italy,2020,Income & profits,13.900713
+ITA,Italy,2020,Other,1.165261
+ITA,Italy,2020,Payroll,0.0
+ITA,Italy,2020,Property,2.426989
+ITA,Italy,2020,Social security,13.488048
+ITA,Italy,2021,Goods & services,11.937157
+ITA,Italy,2021,Income & profits,13.378544
+ITA,Italy,2021,Other,1.24374
+ITA,Italy,2021,Payroll,0.0
+ITA,Italy,2021,Property,2.445743
+ITA,Italy,2021,Social security,13.136555
+ITA,Italy,2022,Goods & services,11.658035
+ITA,Italy,2022,Income & profits,13.780441
+ITA,Italy,2022,Other,1.388838
+ITA,Italy,2022,Payroll,0.0
+ITA,Italy,2022,Property,2.411424
+ITA,Italy,2022,Social security,12.771908
+ITA,Italy,2023,Goods & services,11.345319
+ITA,Italy,2023,Income & profits,14.322097
+ITA,Italy,2023,Other,1.357602
+ITA,Italy,2023,Payroll,0.0
+ITA,Italy,2023,Property,2.221785
+ITA,Italy,2023,Social security,12.276943
+ITA,Italy,2024,Goods & services,11.53936
+ITA,Italy,2024,Income & profits,15.016484
+ITA,Italy,2024,Other,1.471255
+ITA,Italy,2024,Payroll,0.0
+ITA,Italy,2024,Property,2.252344
+ITA,Italy,2024,Social security,12.472749
+JPN,Japan,2010,Goods & services,4.898293
+JPN,Japan,2010,Income & profits,7.925707
+JPN,Japan,2010,Other,0.075484
+JPN,Japan,2010,Payroll,0.0
+JPN,Japan,2010,Property,2.550796
+JPN,Japan,2010,Social security,10.786953
+JPN,Japan,2011,Goods & services,4.992798
+JPN,Japan,2011,Income & profits,8.178245
+JPN,Japan,2011,Other,0.074113
+JPN,Japan,2011,Payroll,0.0
+JPN,Japan,2011,Property,2.619757
+JPN,Japan,2011,Social security,11.263837
+JPN,Japan,2012,Goods & services,5.016914
+JPN,Japan,2012,Income & profits,8.677602
+JPN,Japan,2012,Other,0.07733
+JPN,Japan,2012,Payroll,0.0
+JPN,Japan,2012,Property,2.546171
+JPN,Japan,2012,Social security,11.631098
+JPN,Japan,2013,Goods & services,5.0215
+JPN,Japan,2013,Income & profits,9.323801
+JPN,Japan,2013,Other,0.074881
+JPN,Japan,2013,Payroll,0.0
+JPN,Japan,2013,Property,2.523926
+JPN,Japan,2013,Social security,11.664897
+JPN,Japan,2014,Goods & services,5.920891
+JPN,Japan,2014,Income & profits,9.540889
+JPN,Japan,2014,Other,0.076133
+JPN,Japan,2014,Payroll,0.0
+JPN,Japan,2014,Property,2.542036
+JPN,Japan,2014,Social security,11.893232
+JPN,Japan,2015,Goods & services,6.340637
+JPN,Japan,2015,Income & profits,9.403743
+JPN,Japan,2015,Other,0.076378
+JPN,Japan,2015,Payroll,0.0
+JPN,Japan,2015,Property,2.478033
+JPN,Japan,2015,Social security,11.92144
+JPN,Japan,2016,Goods & services,6.187436
+JPN,Japan,2016,Income & profits,9.234526
+JPN,Japan,2016,Other,0.076648
+JPN,Japan,2016,Payroll,0.0
+JPN,Japan,2016,Property,2.527816
+JPN,Japan,2016,Social security,12.227963
+JPN,Japan,2017,Goods & services,6.483803
+JPN,Japan,2017,Income & profits,9.475747
+JPN,Japan,2017,Other,0.07691
+JPN,Japan,2017,Payroll,0.0
+JPN,Japan,2017,Property,2.532443
+JPN,Japan,2017,Social security,12.347358
+JPN,Japan,2018,Goods & services,6.154085
+JPN,Japan,2018,Income & profits,10.076559
+JPN,Japan,2018,Other,0.079941
+JPN,Japan,2018,Payroll,0.0
+JPN,Japan,2018,Property,2.550532
+JPN,Japan,2018,Social security,12.687324
+JPN,Japan,2019,Goods & services,6.21382
+JPN,Japan,2019,Income & profits,9.697113
+JPN,Japan,2019,Other,0.081591
+JPN,Japan,2019,Payroll,0.0
+JPN,Japan,2019,Property,2.575391
+JPN,Japan,2019,Social security,12.939241
+JPN,Japan,2020,Goods & services,6.877122
+JPN,Japan,2020,Income & profits,10.01021
+JPN,Japan,2020,Other,0.082481
+JPN,Japan,2020,Payroll,0.0
+JPN,Japan,2020,Property,2.65921
+JPN,Japan,2020,Social security,13.282128
+JPN,Japan,2021,Goods & services,7.029881
+JPN,Japan,2021,Income & profits,10.813542
+JPN,Japan,2021,Other,0.089362
+JPN,Japan,2021,Payroll,0.0
+JPN,Japan,2021,Property,2.663231
+JPN,Japan,2021,Social security,13.281694
+JPN,Japan,2022,Goods & services,7.199106
+JPN,Japan,2022,Income & profits,11.226909
+JPN,Japan,2022,Other,0.084491
+JPN,Japan,2022,Payroll,0.0
+JPN,Japan,2022,Property,2.718056
+JPN,Japan,2022,Social security,13.31799
+JPN,Japan,2023,Goods & services,6.82547
+JPN,Japan,2023,Income & profits,10.884674
+JPN,Japan,2023,Other,0.083611
+JPN,Japan,2023,Payroll,0.0
+JPN,Japan,2023,Property,2.749677
+JPN,Japan,2023,Social security,13.189872
+JPN,Japan,2024,Goods & services,6.822176
+JPN,Japan,2024,Income & profits,10.686311
+JPN,Japan,2024,Other,0.077625
+JPN,Japan,2024,Payroll,0.0
+JPN,Japan,2024,Property,2.663939
+KOR,South Korea,2010,Goods & services,7.232467
+KOR,South Korea,2010,Income & profits,6.00996
+KOR,South Korea,2010,Other,0.723036
+KOR,South Korea,2010,Payroll,0.051759
+KOR,South Korea,2010,Property,2.429646
+KOR,South Korea,2010,Social security,5.008481
+KOR,South Korea,2011,Goods & services,6.941371
+KOR,South Korea,2011,Income & profits,6.685533
+KOR,South Korea,2011,Other,0.685294
+KOR,South Korea,2011,Payroll,0.055434
+KOR,South Korea,2011,Property,2.523513
+KOR,South Korea,2011,Social security,5.33172
+KOR,South Korea,2012,Goods & services,7.071432
+KOR,South Korea,2012,Income & profits,6.775155
+KOR,South Korea,2012,Other,0.766212
+KOR,South Korea,2012,Payroll,0.057687
+KOR,South Korea,2012,Property,2.406701
+KOR,South Korea,2012,Social security,5.607859
+KOR,South Korea,2013,Goods & services,6.793202
+KOR,South Korea,2013,Income & profits,6.479695
+KOR,South Korea,2013,Other,0.661961
+KOR,South Korea,2013,Payroll,0.062447
+KOR,South Korea,2013,Property,2.281885
+KOR,South Korea,2013,Social security,5.830656
+KOR,South Korea,2014,Goods & services,6.680013
+KOR,South Korea,2014,Income & profits,6.490936
+KOR,South Korea,2014,Other,0.615996
+KOR,South Korea,2014,Payroll,0.063595
+KOR,South Korea,2014,Property,2.459895
+KOR,South Korea,2014,Social security,5.992366
+KOR,South Korea,2015,Goods & services,6.337748
+KOR,South Korea,2015,Income & profits,6.844706
+KOR,South Korea,2015,Other,0.553891
+KOR,South Korea,2015,Payroll,0.064454
+KOR,South Korea,2015,Property,2.793294
+KOR,South Korea,2015,Social security,6.014157
+KOR,South Korea,2016,Goods & services,6.611852
+KOR,South Korea,2016,Income & profits,7.337755
+KOR,South Korea,2016,Other,0.61543
+KOR,South Korea,2016,Payroll,0.070539
+KOR,South Korea,2016,Property,2.717909
+KOR,South Korea,2016,Social security,6.14601
+KOR,South Korea,2017,Goods & services,6.672668
+KOR,South Korea,2017,Income & profits,7.725022
+KOR,South Korea,2017,Other,0.595947
+KOR,South Korea,2017,Payroll,0.071139
+KOR,South Korea,2017,Property,2.812793
+KOR,South Korea,2017,Social security,6.187256
+KOR,South Korea,2018,Goods & services,6.631624
+KOR,South Korea,2018,Income & profits,8.618744
+KOR,South Korea,2018,Other,0.573699
+KOR,South Korea,2018,Payroll,0.074341
+KOR,South Korea,2018,Property,2.930331
+KOR,South Korea,2018,Social security,6.410644
+KOR,South Korea,2019,Goods & services,6.629245
+KOR,South Korea,2019,Income & profits,8.528888
+KOR,South Korea,2019,Other,0.650252
+KOR,South Korea,2019,Payroll,0.078262
+KOR,South Korea,2019,Property,2.927186
+KOR,South Korea,2019,Social security,6.864226
+KOR,South Korea,2020,Goods & services,6.381109
+KOR,South Korea,2020,Income & profits,8.091655
+KOR,South Korea,2020,Other,0.561583
+KOR,South Korea,2020,Payroll,0.078068
+KOR,South Korea,2020,Property,3.716942
+KOR,South Korea,2020,Social security,7.328465
+KOR,South Korea,2021,Goods & services,6.440396
+KOR,South Korea,2021,Income & profits,9.252118
+KOR,South Korea,2021,Other,0.593318
+KOR,South Korea,2021,Payroll,0.078986
+KOR,South Korea,2021,Property,4.197419
+KOR,South Korea,2021,Social security,7.300421
+KOR,South Korea,2022,Goods & services,6.746676
+KOR,South Korea,2022,Income & profits,11.110898
+KOR,South Korea,2022,Other,0.666672
+KOR,South Korea,2022,Payroll,0.085292
+KOR,South Korea,2022,Property,3.531528
+KOR,South Korea,2022,Social security,7.606008
+KOR,South Korea,2023,Goods & services,6.08411
+KOR,South Korea,2023,Income & profits,9.1989
+KOR,South Korea,2023,Other,0.546188
+KOR,South Korea,2023,Payroll,0.089039
+KOR,South Korea,2023,Property,3.094633
+KOR,South Korea,2023,Social security,7.858272
+KOR,South Korea,2024,Goods & services,6.116658
+KOR,South Korea,2024,Income & profits,7.90908
+KOR,South Korea,2024,Other,0.588987
+KOR,South Korea,2024,Payroll,0.087246
+KOR,South Korea,2024,Property,2.975536
+KOR,South Korea,2024,Social security,7.65613
+NLD,Netherlands,2010,Goods & services,11.176289
+NLD,Netherlands,2010,Income & profits,9.887842
+NLD,Netherlands,2010,Other,0.149606
+NLD,Netherlands,2010,Payroll,0.0
+NLD,Netherlands,2010,Property,1.363872
+NLD,Netherlands,2010,Social security,12.866123
+NLD,Netherlands,2011,Goods & services,10.856645
+NLD,Netherlands,2011,Income & profits,9.440209
+NLD,Netherlands,2011,Other,0.14893
+NLD,Netherlands,2011,Payroll,0.0
+NLD,Netherlands,2011,Property,1.205769
+NLD,Netherlands,2011,Social security,13.486013
+NLD,Netherlands,2012,Goods & services,10.785103
+NLD,Netherlands,2012,Income & profits,8.943503
+NLD,Netherlands,2012,Other,0.092217
+NLD,Netherlands,2012,Payroll,0.0
+NLD,Netherlands,2012,Property,1.072722
+NLD,Netherlands,2012,Social security,14.408901
+NLD,Netherlands,2013,Goods & services,10.941648
+NLD,Netherlands,2013,Income & profits,8.877393
+NLD,Netherlands,2013,Other,0.168728
+NLD,Netherlands,2013,Payroll,0.0
+NLD,Netherlands,2013,Property,1.214603
+NLD,Netherlands,2013,Social security,14.629932
+NLD,Netherlands,2014,Goods & services,11.149424
+NLD,Netherlands,2014,Income & profits,9.382326
+NLD,Netherlands,2014,Other,0.18169
+NLD,Netherlands,2014,Payroll,0.0
+NLD,Netherlands,2014,Property,1.415652
+NLD,Netherlands,2014,Social security,14.531694
+NLD,Netherlands,2015,Goods & services,11.140129
+NLD,Netherlands,2015,Income & profits,10.133228
+NLD,Netherlands,2015,Other,0.059499
+NLD,Netherlands,2015,Payroll,0.0
+NLD,Netherlands,2015,Property,1.397075
+NLD,Netherlands,2015,Social security,13.791397
+NLD,Netherlands,2016,Goods & services,11.47846
+NLD,Netherlands,2016,Income & profits,10.274308
+NLD,Netherlands,2016,Other,0.099143
+NLD,Netherlands,2016,Payroll,0.0
+NLD,Netherlands,2016,Property,1.494637
+NLD,Netherlands,2016,Social security,14.427327
+NLD,Netherlands,2017,Goods & services,11.407304
+NLD,Netherlands,2017,Income & profits,11.421688
+NLD,Netherlands,2017,Other,0.114136
+NLD,Netherlands,2017,Payroll,0.0
+NLD,Netherlands,2017,Property,1.529844
+NLD,Netherlands,2017,Social security,13.572818
+NLD,Netherlands,2018,Goods & services,11.499315
+NLD,Netherlands,2018,Income & profits,11.275504
+NLD,Netherlands,2018,Other,0.102506
+NLD,Netherlands,2018,Payroll,0.0
+NLD,Netherlands,2018,Property,1.542286
+NLD,Netherlands,2018,Social security,13.724464
+NLD,Netherlands,2019,Goods & services,11.807893
+NLD,Netherlands,2019,Income & profits,11.931422
+NLD,Netherlands,2019,Other,0.093761
+NLD,Netherlands,2019,Payroll,0.0
+NLD,Netherlands,2019,Property,1.467761
+NLD,Netherlands,2019,Social security,13.172131
+NLD,Netherlands,2020,Goods & services,11.884556
+NLD,Netherlands,2020,Income & profits,11.979722
+NLD,Netherlands,2020,Other,0.187271
+NLD,Netherlands,2020,Payroll,0.0
+NLD,Netherlands,2020,Property,1.658863
+NLD,Netherlands,2020,Social security,13.311687
+NLD,Netherlands,2021,Goods & services,11.834558
+NLD,Netherlands,2021,Income & profits,12.096461
+NLD,Netherlands,2021,Other,0.113286
+NLD,Netherlands,2021,Payroll,0.0
+NLD,Netherlands,2021,Property,1.582637
+NLD,Netherlands,2021,Social security,12.637093
+NLD,Netherlands,2022,Goods & services,11.474613
+NLD,Netherlands,2022,Income & profits,12.459802
+NLD,Netherlands,2022,Other,0.120646
+NLD,Netherlands,2022,Payroll,0.0
+NLD,Netherlands,2022,Property,1.48699
+NLD,Netherlands,2022,Social security,12.523696
+NLD,Netherlands,2023,Goods & services,11.451026
+NLD,Netherlands,2023,Income & profits,14.114498
+NLD,Netherlands,2023,Other,0.131317
+NLD,Netherlands,2023,Payroll,0.0
+NLD,Netherlands,2023,Property,1.263935
+NLD,Netherlands,2023,Social security,12.303394
+NLD,Netherlands,2024,Goods & services,11.091006
+NLD,Netherlands,2024,Income & profits,14.086662
+NLD,Netherlands,2024,Other,0.10085
+NLD,Netherlands,2024,Payroll,0.0
+NLD,Netherlands,2024,Property,1.214298
+NLD,Netherlands,2024,Social security,12.048458
+NOR,Norway,2010,Goods & services,11.651674
+NOR,Norway,2010,Income & profits,19.687021
+NOR,Norway,2010,Other,0.0
+NOR,Norway,2010,Payroll,0.0
+NOR,Norway,2010,Property,1.069913
+NOR,Norway,2010,Social security,9.327035
+NOR,Norway,2011,Goods & services,11.186795
+NOR,Norway,2011,Income & profits,20.377739
+NOR,Norway,2011,Other,0.0
+NOR,Norway,2011,Payroll,0.0
+NOR,Norway,2011,Property,1.036325
+NOR,Norway,2011,Social security,9.210589
+NOR,Norway,2012,Goods & services,10.975293
+NOR,Norway,2012,Income & profits,19.997908
+NOR,Norway,2012,Other,0.0
+NOR,Norway,2012,Payroll,0.0
+NOR,Norway,2012,Property,1.032087
+NOR,Norway,2012,Social security,9.285095
+NOR,Norway,2013,Goods & services,11.06702
+NOR,Norway,2013,Income & profits,18.125284
+NOR,Norway,2013,Other,0.0
+NOR,Norway,2013,Payroll,0.0
+NOR,Norway,2013,Property,1.062959
+NOR,Norway,2013,Social security,9.463731
+NOR,Norway,2014,Goods & services,11.225179
+NOR,Norway,2014,Income & profits,16.474064
+NOR,Norway,2014,Other,0.0
+NOR,Norway,2014,Payroll,0.0
+NOR,Norway,2014,Property,1.055072
+NOR,Norway,2014,Social security,9.88318
+NOR,Norway,2015,Goods & services,11.676729
+NOR,Norway,2015,Income & profits,15.216395
+NOR,Norway,2015,Other,0.0
+NOR,Norway,2015,Payroll,0.0
+NOR,Norway,2015,Property,1.057254
+NOR,Norway,2015,Social security,10.386933
+NOR,Norway,2016,Goods & services,12.271781
+NOR,Norway,2016,Income & profits,14.780161
+NOR,Norway,2016,Other,0.0
+NOR,Norway,2016,Payroll,0.0
+NOR,Norway,2016,Property,1.137471
+NOR,Norway,2016,Social security,10.617852
+NOR,Norway,2017,Goods & services,12.019429
+NOR,Norway,2017,Income & profits,15.133837
+NOR,Norway,2017,Other,0.0
+NOR,Norway,2017,Payroll,0.056905
+NOR,Norway,2017,Property,1.164394
+NOR,Norway,2017,Social security,10.226827
+NOR,Norway,2018,Goods & services,11.647856
+NOR,Norway,2018,Income & profits,16.445399
+NOR,Norway,2018,Other,0.0
+NOR,Norway,2018,Payroll,0.055248
+NOR,Norway,2018,Property,1.114025
+NOR,Norway,2018,Social security,9.990463
+NOR,Norway,2019,Goods & services,11.779717
+NOR,Norway,2019,Income & profits,16.36548
+NOR,Norway,2019,Other,0.0
+NOR,Norway,2019,Payroll,0.055909
+NOR,Norway,2019,Property,1.170607
+NOR,Norway,2019,Social security,10.482725
+NOR,Norway,2020,Goods & services,12.251302
+NOR,Norway,2020,Income & profits,14.120191
+NOR,Norway,2020,Other,0.0
+NOR,Norway,2020,Payroll,0.059655
+NOR,Norway,2020,Property,1.269769
+NOR,Norway,2020,Social security,11.013224
+NOR,Norway,2021,Goods & services,10.512564
+NOR,Norway,2021,Income & profits,20.381477
+NOR,Norway,2021,Other,0.0
+NOR,Norway,2021,Payroll,0.051273
+NOR,Norway,2021,Property,1.101706
+NOR,Norway,2021,Social security,9.296864
+NOR,Norway,2022,Goods & services,8.41999
+NOR,Norway,2022,Income & profits,26.389309
+NOR,Norway,2022,Other,0.0
+NOR,Norway,2022,Payroll,0.042125
+NOR,Norway,2022,Property,0.967189
+NOR,Norway,2022,Social security,7.471012
+NOR,Norway,2023,Goods & services,9.580091
+NOR,Norway,2023,Income & profits,21.594379
+NOR,Norway,2023,Other,0.0
+NOR,Norway,2023,Payroll,0.050749
+NOR,Norway,2023,Property,1.171132
+NOR,Norway,2023,Social security,9.234491
+NOR,Norway,2024,Goods & services,9.750133
+NOR,Norway,2024,Income & profits,19.762322
+NOR,Norway,2024,Other,0.0
+NOR,Norway,2024,Payroll,0.054497
+NOR,Norway,2024,Property,1.201977
+NOR,Norway,2024,Social security,9.421649
+NZL,New Zealand,2010,Goods & services,11.979604
+NZL,New Zealand,2010,Income & profits,16.249994
+NZL,New Zealand,2010,Other,0.002426
+NZL,New Zealand,2010,Payroll,0.0
+NZL,New Zealand,2010,Property,1.99838
+NZL,New Zealand,2010,Social security,0.0
+NZL,New Zealand,2011,Goods & services,12.111453
+NZL,New Zealand,2011,Income & profits,15.933604
+NZL,New Zealand,2011,Other,0.002323
+NZL,New Zealand,2011,Payroll,0.0
+NZL,New Zealand,2011,Property,1.996812
+NZL,New Zealand,2011,Social security,0.0
+NZL,New Zealand,2012,Goods & services,12.252775
+NZL,New Zealand,2012,Income & profits,17.327986
+NZL,New Zealand,2012,Other,0.001369
+NZL,New Zealand,2012,Payroll,0.0
+NZL,New Zealand,2012,Property,2.001068
+NZL,New Zealand,2012,Social security,0.0
+NZL,New Zealand,2013,Goods & services,11.885564
+NZL,New Zealand,2013,Income & profits,16.621824
+NZL,New Zealand,2013,Other,0.001265
+NZL,New Zealand,2013,Payroll,0.0
+NZL,New Zealand,2013,Property,1.933555
+NZL,New Zealand,2013,Social security,0.0
+NZL,New Zealand,2014,Goods & services,12.199794
+NZL,New Zealand,2014,Income & profits,17.007968
+NZL,New Zealand,2014,Other,0.000813
+NZL,New Zealand,2014,Payroll,0.0
+NZL,New Zealand,2014,Property,1.94938
+NZL,New Zealand,2014,Social security,0.0
+NZL,New Zealand,2015,Goods & services,12.254018
+NZL,New Zealand,2015,Income & profits,17.273503
+NZL,New Zealand,2015,Other,0.000772
+NZL,New Zealand,2015,Payroll,0.0
+NZL,New Zealand,2015,Property,1.948932
+NZL,New Zealand,2015,Social security,0.0
+NZL,New Zealand,2016,Goods & services,12.025456
+NZL,New Zealand,2016,Income & profits,17.445651
+NZL,New Zealand,2016,Other,0.002538
+NZL,New Zealand,2016,Payroll,0.0
+NZL,New Zealand,2016,Property,1.906333
+NZL,New Zealand,2016,Social security,0.0
+NZL,New Zealand,2017,Goods & services,12.033601
+NZL,New Zealand,2017,Income & profits,17.419119
+NZL,New Zealand,2017,Other,0.000338
+NZL,New Zealand,2017,Payroll,0.0
+NZL,New Zealand,2017,Property,1.871856
+NZL,New Zealand,2017,Social security,0.0
+NZL,New Zealand,2018,Goods & services,12.178279
+NZL,New Zealand,2018,Income & profits,18.116608
+NZL,New Zealand,2018,Other,0.000644
+NZL,New Zealand,2018,Payroll,0.0
+NZL,New Zealand,2018,Property,1.880299
+NZL,New Zealand,2018,Social security,0.0
+NZL,New Zealand,2019,Goods & services,12.141886
+NZL,New Zealand,2019,Income & profits,17.288028
+NZL,New Zealand,2019,Other,0.00063
+NZL,New Zealand,2019,Payroll,0.0
+NZL,New Zealand,2019,Property,1.932086
+NZL,New Zealand,2019,Social security,0.0
+NZL,New Zealand,2020,Goods & services,12.799352
+NZL,New Zealand,2020,Income & profits,19.021624
+NZL,New Zealand,2020,Other,0.000291
+NZL,New Zealand,2020,Payroll,0.0
+NZL,New Zealand,2020,Property,1.852407
+NZL,New Zealand,2020,Social security,0.0
+NZL,New Zealand,2021,Goods & services,12.342307
+NZL,New Zealand,2021,Income & profits,20.130584
+NZL,New Zealand,2021,Other,0.000273
+NZL,New Zealand,2021,Payroll,0.0
+NZL,New Zealand,2021,Property,1.908996
+NZL,New Zealand,2021,Social security,0.0
+NZL,New Zealand,2022,Goods & services,11.720388
+NZL,New Zealand,2022,Income & profits,18.971621
+NZL,New Zealand,2022,Other,0.0
+NZL,New Zealand,2022,Payroll,0.0
+NZL,New Zealand,2022,Property,1.88551
+NZL,New Zealand,2022,Social security,0.0
+NZL,New Zealand,2023,Goods & services,11.825723
+NZL,New Zealand,2023,Income & profits,19.901698
+NZL,New Zealand,2023,Other,0.0
+NZL,New Zealand,2023,Payroll,0.0
+NZL,New Zealand,2023,Property,1.998643
+NZL,New Zealand,2023,Social security,0.0
+NZL,New Zealand,2024,Goods & services,11.627528
+NZL,New Zealand,2024,Income & profits,19.078979
+NZL,New Zealand,2024,Other,0.000229
+NZL,New Zealand,2024,Payroll,0.0
+NZL,New Zealand,2024,Property,2.185034
+NZL,New Zealand,2024,Social security,0.0
+SWE,Sweden,2010,Goods & services,12.824106
+SWE,Sweden,2010,Income & profits,15.393328
+SWE,Sweden,2010,Other,0.040012
+SWE,Sweden,2010,Payroll,3.027297
+SWE,Sweden,2010,Property,1.027974
+SWE,Sweden,2010,Social security,10.83111
+SWE,Sweden,2011,Goods & services,12.432804
+SWE,Sweden,2011,Income & profits,14.793304
+SWE,Sweden,2011,Other,0.047337
+SWE,Sweden,2011,Payroll,4.192958
+SWE,Sweden,2011,Property,0.985999
+SWE,Sweden,2011,Social security,9.77071
+SWE,Sweden,2012,Goods & services,12.342283
+SWE,Sweden,2012,Income & profits,14.546478
+SWE,Sweden,2012,Other,0.048394
+SWE,Sweden,2012,Payroll,4.304634
+SWE,Sweden,2012,Property,1.008413
+SWE,Sweden,2012,Social security,10.085336
+SWE,Sweden,2013,Goods & services,12.261732
+SWE,Sweden,2013,Income & profits,14.8814
+SWE,Sweden,2013,Other,0.047468
+SWE,Sweden,2013,Payroll,4.524864
+SWE,Sweden,2013,Property,1.08232
+SWE,Sweden,2013,Social security,9.899777
+SWE,Sweden,2014,Goods & services,12.151834
+SWE,Sweden,2014,Income & profits,14.964924
+SWE,Sweden,2014,Other,0.034301
+SWE,Sweden,2014,Payroll,4.475955
+SWE,Sweden,2014,Property,1.057979
+SWE,Sweden,2014,Social security,9.805336
+SWE,Sweden,2015,Goods & services,12.15919
+SWE,Sweden,2015,Income & profits,15.541207
+SWE,Sweden,2015,Other,0.032039
+SWE,Sweden,2015,Payroll,4.588134
+SWE,Sweden,2015,Property,1.03646
+SWE,Sweden,2015,Social security,9.568834
+SWE,Sweden,2016,Goods & services,12.529963
+SWE,Sweden,2016,Income & profits,16.064835
+SWE,Sweden,2016,Other,0.049148
+SWE,Sweden,2016,Payroll,4.631034
+SWE,Sweden,2016,Property,1.05296
+SWE,Sweden,2016,Social security,9.990672
+SWE,Sweden,2017,Goods & services,12.463465
+SWE,Sweden,2017,Income & profits,16.281638
+SWE,Sweden,2017,Other,0.049327
+SWE,Sweden,2017,Payroll,5.096962
+SWE,Sweden,2017,Property,0.993909
+SWE,Sweden,2017,Social security,9.685213
+SWE,Sweden,2018,Goods & services,12.48824
+SWE,Sweden,2018,Income & profits,15.928718
+SWE,Sweden,2018,Other,0.040302
+SWE,Sweden,2018,Payroll,5.128587
+SWE,Sweden,2018,Property,0.959477
+SWE,Sweden,2018,Social security,9.69765
+SWE,Sweden,2019,Goods & services,12.151686
+SWE,Sweden,2019,Income & profits,15.376539
+SWE,Sweden,2019,Other,0.033163
+SWE,Sweden,2019,Payroll,5.353749
+SWE,Sweden,2019,Property,0.941382
+SWE,Sweden,2019,Social security,9.217787
+SWE,Sweden,2020,Goods & services,12.128276
+SWE,Sweden,2020,Income & profits,15.329049
+SWE,Sweden,2020,Other,0.047355
+SWE,Sweden,2020,Payroll,5.104695
+SWE,Sweden,2020,Property,0.955375
+SWE,Sweden,2020,Social security,9.084571
+SWE,Sweden,2021,Goods & services,12.051281
+SWE,Sweden,2021,Income & profits,15.845033
+SWE,Sweden,2021,Other,0.048308
+SWE,Sweden,2021,Payroll,5.18232
+SWE,Sweden,2021,Property,0.963557
+SWE,Sweden,2021,Social security,9.04203
+SWE,Sweden,2022,Goods & services,12.335535
+SWE,Sweden,2022,Income & profits,15.436989
+SWE,Sweden,2022,Other,0.056631
+SWE,Sweden,2022,Payroll,5.180277
+SWE,Sweden,2022,Property,0.945717
+SWE,Sweden,2022,Social security,8.913358
+SWE,Sweden,2023,Goods & services,11.842329
+SWE,Sweden,2023,Income & profits,14.783775
+SWE,Sweden,2023,Other,0.033491
+SWE,Sweden,2023,Payroll,5.269652
+SWE,Sweden,2023,Property,0.82456
+SWE,Sweden,2023,Social security,8.954291
+SWE,Sweden,2024,Goods & services,11.179605
+SWE,Sweden,2024,Income & profits,15.142347
+SWE,Sweden,2024,Other,0.038641
+SWE,Sweden,2024,Payroll,5.296843
+SWE,Sweden,2024,Property,0.824062
+SWE,Sweden,2024,Social security,8.956406
+USA,United States,2010,Goods & services,4.221741
+USA,United States,2010,Income & profits,9.892364
+USA,United States,2010,Other,0.0
+USA,United States,2010,Payroll,0.015184
+USA,United States,2010,Property,3.145876
+USA,United States,2010,Social security,6.096158
+USA,United States,2011,Goods & services,4.33166
+USA,United States,2011,Income & profits,10.976177
+USA,United States,2011,Other,0.0
+USA,United States,2011,Payroll,0.011308
+USA,United States,2011,Property,3.011541
+USA,United States,2011,Social security,5.430555
+USA,United States,2012,Goods & services,4.324942
+USA,United States,2012,Income & profits,11.206682
+USA,United States,2012,Other,0.0
+USA,United States,2012,Payroll,0.010434
+USA,United States,2012,Property,2.957614
+USA,United States,2012,Social security,5.415914
+USA,United States,2013,Goods & services,4.384784
+USA,United States,2013,Income & profits,11.948934
+USA,United States,2013,Other,0.0
+USA,United States,2013,Payroll,0.009513
+USA,United States,2013,Property,2.967335
+USA,United States,2013,Social security,6.102235
+USA,United States,2014,Goods & services,4.391898
+USA,United States,2014,Income & profits,12.325922
+USA,United States,2014,Other,0.0
+USA,United States,2014,Payroll,0.009362
+USA,United States,2014,Property,2.943125
+USA,United States,2014,Social security,6.115615
+USA,United States,2015,Goods & services,4.33042
+USA,United States,2015,Income & profits,12.654966
+USA,United States,2015,Other,0.0
+USA,United States,2015,Payroll,0.009699
+USA,United States,2015,Property,2.94049
+USA,United States,2015,Social security,6.151909
+USA,United States,2016,Goods & services,4.290189
+USA,United States,2016,Income & profits,12.304164
+USA,United States,2016,Other,0.0
+USA,United States,2016,Payroll,0.010139
+USA,United States,2016,Property,2.976833
+USA,United States,2016,Social security,6.131919
+USA,United States,2017,Goods & services,4.268086
+USA,United States,2017,Income & profits,11.847452
+USA,United States,2017,Other,0.0
+USA,United States,2017,Payroll,0.010272
+USA,United States,2017,Property,4.188279
+USA,United States,2017,Social security,6.145271
+USA,United States,2018,Goods & services,4.414756
+USA,United States,2018,Income & profits,11.364807
+USA,United States,2018,Other,0.0
+USA,United States,2018,Payroll,0.010438
+USA,United States,2018,Property,2.945871
+USA,United States,2018,Social security,6.080366
+USA,United States,2019,Goods & services,4.429425
+USA,United States,2019,Income & profits,11.470186
+USA,United States,2019,Other,0.0
+USA,United States,2019,Payroll,0.010652
+USA,United States,2019,Property,2.956616
+USA,United States,2019,Social security,6.093193
+USA,United States,2020,Goods & services,4.320214
+USA,United States,2020,Income & profits,11.85819
+USA,United States,2020,Other,0.0
+USA,United States,2020,Payroll,0.015814
+USA,United States,2020,Property,3.092068
+USA,United States,2020,Social security,6.219661
+USA,United States,2021,Goods & services,4.511739
+USA,United States,2021,Income & profits,13.26493
+USA,United States,2021,Other,0.0
+USA,United States,2021,Payroll,0.014169
+USA,United States,2021,Property,2.989893
+USA,United States,2021,Social security,6.047678
+USA,United States,2022,Goods & services,4.535639
+USA,United States,2022,Income & profits,14.597954
+USA,United States,2022,Other,0.0
+USA,United States,2022,Payroll,0.013928
+USA,United States,2022,Property,2.901172
+USA,United States,2022,Social security,5.997122
+USA,United States,2023,Goods & services,4.246881
+USA,United States,2023,Income & profits,12.440816
+USA,United States,2023,Other,0.0
+USA,United States,2023,Payroll,0.013805
+USA,United States,2023,Property,2.906862
+USA,United States,2023,Social security,6.025513
+USA,United States,2024,Goods & services,4.126295
+USA,United States,2024,Income & profits,12.565409
+USA,United States,2024,Other,0.0
+USA,United States,2024,Payroll,0.017662
+USA,United States,2024,Property,2.926418
+USA,United States,2024,Social security,5.982548

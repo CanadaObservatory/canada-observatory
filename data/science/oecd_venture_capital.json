@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_venture_capital",
+  "source": "OECD",
+  "source_table": "OECD, Venture Capital Investments",
+  "frequency": "annual",
+  "unit": "% of GDP",
+  "retrieved_at": "2026-08-10T15:08:09.338494+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Venture capital investment for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 315
+}

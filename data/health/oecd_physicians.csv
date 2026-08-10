@@ -1,0 +1,582 @@
+country_code,year,physicians,country_name
+AUS,1961,1.13,Australia
+AUS,1964,1.23,Australia
+AUS,1965,1.22,Australia
+AUS,1966,1.23,Australia
+AUS,1967,1.26,Australia
+AUS,1968,1.24,Australia
+AUS,1969,1.26,Australia
+AUS,1970,1.33,Australia
+AUS,1971,1.26,Australia
+AUS,1972,1.38,Australia
+AUS,1973,1.35,Australia
+AUS,1974,1.42,Australia
+AUS,1975,1.48,Australia
+AUS,1976,1.64,Australia
+AUS,1977,1.65,Australia
+AUS,1978,1.85,Australia
+AUS,1979,1.78,Australia
+AUS,1980,1.85,Australia
+AUS,1981,1.86,Australia
+AUS,1982,1.9,Australia
+AUS,1983,1.95,Australia
+AUS,1984,1.83,Australia
+AUS,1985,1.91,Australia
+AUS,1986,2.01,Australia
+AUS,1987,2.06,Australia
+AUS,1988,2.1,Australia
+AUS,1989,2.14,Australia
+AUS,1990,2.17,Australia
+AUS,1991,2.33,Australia
+AUS,1992,2.37,Australia
+AUS,1993,2.4,Australia
+AUS,1994,2.44,Australia
+AUS,1995,2.48,Australia
+AUS,1996,2.4,Australia
+AUS,1997,2.4,Australia
+AUS,1998,2.4,Australia
+AUS,1999,2.45,Australia
+AUS,2000,2.49,Australia
+AUS,2001,2.56,Australia
+AUS,2002,2.56,Australia
+AUS,2003,2.63,Australia
+AUS,2004,2.71,Australia
+AUS,2005,2.78,Australia
+AUS,2006,2.84,Australia
+AUS,2007,3.01,Australia
+AUS,2008,3.02,Australia
+AUS,2009,3.12,Australia
+AUS,2011,3.32,Australia
+AUS,2012,3.31,Australia
+AUS,2013,3.37,Australia
+AUS,2014,3.45,Australia
+AUS,2015,3.51,Australia
+AUS,2016,3.58,Australia
+AUS,2017,3.68,Australia
+AUS,2018,3.75,Australia
+AUS,2019,3.83,Australia
+AUS,2020,3.91,Australia
+AUS,2021,4.02,Australia
+AUS,2022,4.11,Australia
+AUS,2023,4.19,Australia
+AUS,2024,4.29,Australia
+CAN,2000,2.01,Canada
+CAN,2001,2.01,Canada
+CAN,2002,2.02,Canada
+CAN,2003,2.02,Canada
+CAN,2004,2.04,Canada
+CAN,2005,2.07,Canada
+CAN,2006,2.08,Canada
+CAN,2007,2.12,Canada
+CAN,2008,2.17,Canada
+CAN,2009,2.24,Canada
+CAN,2010,2.28,Canada
+CAN,2011,2.35,Canada
+CAN,2012,2.41,Canada
+CAN,2013,2.46,Canada
+CAN,2014,2.51,Canada
+CAN,2015,2.56,Canada
+CAN,2016,2.6,Canada
+CAN,2017,2.66,Canada
+CAN,2018,2.72,Canada
+CAN,2019,2.73,Canada
+CAN,2020,2.73,Canada
+CAN,2021,2.76,Canada
+CAN,2022,2.76,Canada
+CAN,2023,2.72,Canada
+CAN,2024,2.7,Canada
+CHE,2003,3.65,Switzerland
+CHE,2004,3.69,Switzerland
+CHE,2005,3.74,Switzerland
+CHE,2006,3.79,Switzerland
+CHE,2007,3.78,Switzerland
+CHE,2008,3.82,Switzerland
+CHE,2009,3.83,Switzerland
+CHE,2010,3.81,Switzerland
+CHE,2011,3.83,Switzerland
+CHE,2012,3.92,Switzerland
+CHE,2013,4.04,Switzerland
+CHE,2014,4.13,Switzerland
+CHE,2015,4.2,Switzerland
+CHE,2016,4.25,Switzerland
+CHE,2017,4.3,Switzerland
+CHE,2018,4.34,Switzerland
+CHE,2019,4.35,Switzerland
+CHE,2020,4.39,Switzerland
+CHE,2021,4.44,Switzerland
+CHE,2022,4.48,Switzerland
+CHE,2023,4.55,Switzerland
+CHE,2024,4.66,Switzerland
+DEU,1991,2.76,Germany
+DEU,1992,2.83,Germany
+DEU,1993,2.92,Germany
+DEU,1994,2.99,Germany
+DEU,1995,3.05,Germany
+DEU,1996,3.1,Germany
+DEU,1997,3.12,Germany
+DEU,1998,3.16,Germany
+DEU,1999,3.2,Germany
+DEU,2000,3.25,Germany
+DEU,2001,3.29,Germany
+DEU,2002,3.32,Germany
+DEU,2003,3.35,Germany
+DEU,2004,3.37,Germany
+DEU,2005,3.4,Germany
+DEU,2006,3.44,Germany
+DEU,2007,3.49,Germany
+DEU,2008,3.54,Germany
+DEU,2009,3.62,Germany
+DEU,2010,3.71,Germany
+DEU,2011,3.88,Germany
+DEU,2012,3.95,Germany
+DEU,2013,4.04,Germany
+DEU,2014,4.11,Germany
+DEU,2015,4.14,Germany
+DEU,2016,4.19,Germany
+DEU,2017,4.25,Germany
+DEU,2018,4.31,Germany
+DEU,2019,4.39,Germany
+DEU,2020,4.47,Germany
+DEU,2021,4.53,Germany
+DEU,2022,4.58,Germany
+DEU,2023,4.66,Germany
+DEU,2024,4.75,Germany
+DNK,1980,1.77,Denmark
+DNK,1981,1.83,Denmark
+DNK,1982,2.05,Denmark
+DNK,1983,2.12,Denmark
+DNK,1984,2.26,Denmark
+DNK,1985,2.3,Denmark
+DNK,1986,2.34,Denmark
+DNK,1987,2.35,Denmark
+DNK,1988,2.42,Denmark
+DNK,1989,2.46,Denmark
+DNK,1990,2.5,Denmark
+DNK,1991,2.43,Denmark
+DNK,1992,2.6,Denmark
+DNK,1993,2.62,Denmark
+DNK,1994,2.64,Denmark
+DNK,1995,2.68,Denmark
+DNK,1996,2.7,Denmark
+DNK,1997,2.78,Denmark
+DNK,1998,2.86,Denmark
+DNK,1999,2.88,Denmark
+DNK,2000,2.91,Denmark
+DNK,2001,2.93,Denmark
+DNK,2002,3.04,Denmark
+DNK,2003,3.08,Denmark
+DNK,2004,3.23,Denmark
+DNK,2005,3.33,Denmark
+DNK,2006,3.42,Denmark
+DNK,2007,3.46,Denmark
+DNK,2008,3.58,Denmark
+DNK,2009,3.65,Denmark
+DNK,2010,3.73,Denmark
+DNK,2011,3.79,Denmark
+DNK,2012,3.84,Denmark
+DNK,2013,3.85,Denmark
+DNK,2014,3.88,Denmark
+DNK,2015,3.93,Denmark
+DNK,2016,4.0,Denmark
+DNK,2017,4.11,Denmark
+DNK,2018,4.2,Denmark
+DNK,2019,4.25,Denmark
+DNK,2020,4.38,Denmark
+DNK,2021,4.5,Denmark
+DNK,2022,4.48,Denmark
+DNK,2023,4.56,Denmark
+DNK,2024,4.66,Denmark
+FIN,2000,2.36,Finland
+FIN,2001,2.48,Finland
+FIN,2002,2.51,Finland
+FIN,2003,2.57,Finland
+FIN,2004,2.63,Finland
+FIN,2005,2.72,Finland
+FIN,2006,2.74,Finland
+FIN,2007,2.81,Finland
+FIN,2008,2.87,Finland
+FIN,2009,2.91,Finland
+FIN,2010,3.03,Finland
+FIN,2011,3.06,Finland
+FIN,2012,3.14,Finland
+FIN,2013,3.19,Finland
+FIN,2014,3.25,Finland
+FIN,2015,3.27,Finland
+FIN,2016,3.3,Finland
+FIN,2017,3.33,Finland
+FIN,2018,3.35,Finland
+FIN,2019,3.38,Finland
+FIN,2020,3.41,Finland
+FIN,2021,3.41,Finland
+FIN,2022,3.44,Finland
+FIN,2023,3.54,Finland
+FIN,2024,3.62,Finland
+FIN,2025,3.68,Finland
+FRA,2000,3.02,France
+FRA,2001,3.05,France
+FRA,2002,3.07,France
+FRA,2003,3.08,France
+FRA,2004,3.1,France
+FRA,2005,3.1,France
+FRA,2006,3.09,France
+FRA,2007,3.07,France
+FRA,2008,3.07,France
+FRA,2009,3.03,France
+FRA,2010,3.04,France
+FRA,2011,3.06,France
+FRA,2012,3.07,France
+FRA,2013,3.09,France
+FRA,2014,3.09,France
+FRA,2015,3.11,France
+FRA,2016,3.12,France
+FRA,2017,3.14,France
+FRA,2018,3.14,France
+FRA,2019,3.16,France
+FRA,2020,3.74,France
+FRA,2021,3.78,France
+FRA,2022,3.82,France
+FRA,2023,3.89,France
+FRA,2024,3.94,France
+GBR,1960,0.85,United Kingdom
+GBR,1961,0.86,United Kingdom
+GBR,1962,0.87,United Kingdom
+GBR,1963,0.87,United Kingdom
+GBR,1964,0.87,United Kingdom
+GBR,1965,0.87,United Kingdom
+GBR,1966,0.88,United Kingdom
+GBR,1967,0.89,United Kingdom
+GBR,1968,0.91,United Kingdom
+GBR,1969,0.92,United Kingdom
+GBR,1970,0.94,United Kingdom
+GBR,1971,1.01,United Kingdom
+GBR,1972,1.05,United Kingdom
+GBR,1973,1.08,United Kingdom
+GBR,1974,1.1,United Kingdom
+GBR,1975,1.14,United Kingdom
+GBR,1976,1.16,United Kingdom
+GBR,1977,1.19,United Kingdom
+GBR,1978,1.22,United Kingdom
+GBR,1979,1.29,United Kingdom
+GBR,1980,1.32,United Kingdom
+GBR,1981,1.35,United Kingdom
+GBR,1982,1.34,United Kingdom
+GBR,1983,1.4,United Kingdom
+GBR,1984,1.41,United Kingdom
+GBR,1985,1.43,United Kingdom
+GBR,1986,1.44,United Kingdom
+GBR,1987,1.5,United Kingdom
+GBR,1988,1.53,United Kingdom
+GBR,1989,1.55,United Kingdom
+GBR,1990,1.62,United Kingdom
+GBR,1991,1.63,United Kingdom
+GBR,1992,1.64,United Kingdom
+GBR,1993,1.68,United Kingdom
+GBR,1994,1.7,United Kingdom
+GBR,1995,1.75,United Kingdom
+GBR,1996,1.8,United Kingdom
+GBR,1997,1.85,United Kingdom
+GBR,1998,1.9,United Kingdom
+GBR,1999,1.91,United Kingdom
+GBR,2000,1.98,United Kingdom
+GBR,2001,2.03,United Kingdom
+GBR,2002,2.1,United Kingdom
+GBR,2003,2.19,United Kingdom
+GBR,2004,2.32,United Kingdom
+GBR,2005,2.4,United Kingdom
+GBR,2006,2.45,United Kingdom
+GBR,2007,2.48,United Kingdom
+GBR,2008,2.57,United Kingdom
+GBR,2009,2.64,United Kingdom
+GBR,2010,2.65,United Kingdom
+GBR,2011,2.68,United Kingdom
+GBR,2012,2.7,United Kingdom
+GBR,2013,2.71,United Kingdom
+GBR,2014,2.74,United Kingdom
+GBR,2015,2.77,United Kingdom
+GBR,2016,2.78,United Kingdom
+GBR,2017,2.82,United Kingdom
+GBR,2018,2.85,United Kingdom
+GBR,2019,2.95,United Kingdom
+GBR,2020,3.05,United Kingdom
+GBR,2021,3.19,United Kingdom
+GBR,2022,3.26,United Kingdom
+GBR,2023,3.36,United Kingdom
+GBR,2024,3.49,United Kingdom
+ISR,1996,3.56,Israel
+ISR,1997,3.63,Israel
+ISR,1998,3.7,Israel
+ISR,1999,3.62,Israel
+ISR,2000,3.45,Israel
+ISR,2001,3.27,Israel
+ISR,2002,3.28,Israel
+ISR,2003,3.36,Israel
+ISR,2004,3.34,Israel
+ISR,2005,3.22,Israel
+ISR,2006,3.02,Israel
+ISR,2007,2.99,Israel
+ISR,2008,3.0,Israel
+ISR,2009,3.0,Israel
+ISR,2010,3.01,Israel
+ISR,2011,3.0,Israel
+ISR,2012,2.97,Israel
+ISR,2013,2.94,Israel
+ISR,2014,2.98,Israel
+ISR,2015,3.07,Israel
+ISR,2016,3.08,Israel
+ISR,2017,3.14,Israel
+ISR,2018,3.22,Israel
+ISR,2019,3.29,Israel
+ISR,2020,3.31,Israel
+ISR,2021,3.39,Israel
+ISR,2022,3.47,Israel
+ISR,2023,3.51,Israel
+ISR,2024,3.64,Israel
+ITA,2000,3.44,Italy
+ITA,2001,3.51,Italy
+ITA,2002,3.56,Italy
+ITA,2003,3.63,Italy
+ITA,2004,3.69,Italy
+ITA,2005,3.71,Italy
+ITA,2006,3.71,Italy
+ITA,2007,3.77,Italy
+ITA,2008,3.76,Italy
+ITA,2009,3.76,Italy
+ITA,2010,3.78,Italy
+ITA,2011,3.86,Italy
+ITA,2012,3.83,Italy
+ITA,2013,3.9,Italy
+ITA,2014,3.91,Italy
+ITA,2015,3.87,Italy
+ITA,2016,3.99,Italy
+ITA,2017,4.03,Italy
+ITA,2018,4.01,Italy
+ITA,2019,4.05,Italy
+ITA,2020,4.0,Italy
+ITA,2021,5.42,Italy
+ITA,2022,5.58,Italy
+ITA,2023,5.65,Italy
+ITA,2024,5.75,Italy
+JPN,1960,1.02,Japan
+JPN,1961,1.02,Japan
+JPN,1962,1.03,Japan
+JPN,1963,1.02,Japan
+JPN,1964,1.03,Japan
+JPN,1965,1.03,Japan
+JPN,1966,1.04,Japan
+JPN,1967,1.04,Japan
+JPN,1968,1.05,Japan
+JPN,1969,1.06,Japan
+JPN,1970,1.08,Japan
+JPN,1971,1.1,Japan
+JPN,1972,1.11,Japan
+JPN,1973,1.1,Japan
+JPN,1974,1.1,Japan
+JPN,1975,1.13,Japan
+JPN,1976,1.14,Japan
+JPN,1977,1.15,Japan
+JPN,1978,1.18,Japan
+JPN,1979,1.23,Japan
+JPN,1980,1.27,Japan
+JPN,1981,1.32,Japan
+JPN,1982,1.35,Japan
+JPN,1984,1.44,Japan
+JPN,1986,1.51,Japan
+JPN,1988,1.58,Japan
+JPN,1990,1.65,Japan
+JPN,1992,1.7,Japan
+JPN,1994,1.77,Japan
+JPN,1996,1.84,Japan
+JPN,1998,1.89,Japan
+JPN,2000,1.93,Japan
+JPN,2002,1.98,Japan
+JPN,2004,2.03,Japan
+JPN,2006,2.08,Japan
+JPN,2008,2.15,Japan
+JPN,2010,2.21,Japan
+JPN,2012,2.29,Japan
+JPN,2014,2.36,Japan
+JPN,2016,2.43,Japan
+JPN,2018,2.49,Japan
+JPN,2020,2.6,Japan
+JPN,2022,2.65,Japan
+JPN,2024,2.7,Japan
+KOR,1981,0.5,South Korea
+KOR,1982,0.55,South Korea
+KOR,1983,0.54,South Korea
+KOR,1984,0.57,South Korea
+KOR,1985,0.61,South Korea
+KOR,1986,0.65,South Korea
+KOR,1987,0.68,South Korea
+KOR,1988,0.74,South Korea
+KOR,1989,0.8,South Korea
+KOR,1990,0.83,South Korea
+KOR,1991,0.9,South Korea
+KOR,1992,0.97,South Korea
+KOR,1993,1.03,South Korea
+KOR,1994,1.07,South Korea
+KOR,1995,1.12,South Korea
+KOR,1996,1.17,South Korea
+KOR,1997,1.23,South Korea
+KOR,1998,1.27,South Korea
+KOR,1999,1.31,South Korea
+KOR,2000,1.3,South Korea
+KOR,2001,1.39,South Korea
+KOR,2002,1.49,South Korea
+KOR,2003,1.57,South Korea
+KOR,2004,1.56,South Korea
+KOR,2005,1.63,South Korea
+KOR,2006,1.69,South Korea
+KOR,2007,1.73,South Korea
+KOR,2008,1.85,South Korea
+KOR,2009,1.92,South Korea
+KOR,2010,1.98,South Korea
+KOR,2011,2.03,South Korea
+KOR,2012,2.07,South Korea
+KOR,2013,2.16,South Korea
+KOR,2014,2.2,South Korea
+KOR,2015,2.24,South Korea
+KOR,2016,2.29,South Korea
+KOR,2017,2.35,South Korea
+KOR,2018,2.39,South Korea
+KOR,2019,2.46,South Korea
+KOR,2020,2.51,South Korea
+KOR,2021,2.56,South Korea
+KOR,2022,2.62,South Korea
+KOR,2023,2.66,South Korea
+KOR,2024,2.57,South Korea
+NLD,2014,3.42,Netherlands
+NLD,2015,3.49,Netherlands
+NLD,2016,3.54,Netherlands
+NLD,2017,3.6,Netherlands
+NLD,2018,3.67,Netherlands
+NLD,2019,3.75,Netherlands
+NLD,2020,3.85,Netherlands
+NLD,2021,3.92,Netherlands
+NLD,2022,3.94,Netherlands
+NLD,2023,3.94,Netherlands
+NLD,2024,3.96,Netherlands
+NOR,1970,1.38,Norway
+NOR,1980,1.97,Norway
+NOR,1985,2.21,Norway
+NOR,1986,2.27,Norway
+NOR,1987,2.5,Norway
+NOR,1991,2.6,Norway
+NOR,1992,2.66,Norway
+NOR,1993,2.7,Norway
+NOR,1994,2.78,Norway
+NOR,1995,2.95,Norway
+NOR,1996,3.05,Norway
+NOR,1997,3.08,Norway
+NOR,1998,3.17,Norway
+NOR,1999,3.29,Norway
+NOR,2000,3.38,Norway
+NOR,2001,3.54,Norway
+NOR,2002,3.22,Norway
+NOR,2003,3.23,Norway
+NOR,2004,3.4,Norway
+NOR,2005,3.56,Norway
+NOR,2006,3.73,Norway
+NOR,2007,3.84,Norway
+NOR,2008,3.95,Norway
+NOR,2009,4.05,Norway
+NOR,2010,4.11,Norway
+NOR,2011,4.19,Norway
+NOR,2012,4.23,Norway
+NOR,2013,4.31,Norway
+NOR,2014,4.43,Norway
+NOR,2015,4.09,Norway
+NOR,2016,4.22,Norway
+NOR,2017,4.35,Norway
+NOR,2018,4.47,Norway
+NOR,2019,4.58,Norway
+NOR,2020,4.68,Norway
+NOR,2021,4.77,Norway
+NOR,2022,4.91,Norway
+NOR,2023,4.97,Norway
+NOR,2024,5.07,Norway
+NZL,2000,2.23,New Zealand
+NZL,2001,2.19,New Zealand
+NZL,2002,2.13,New Zealand
+NZL,2003,2.17,New Zealand
+NZL,2004,2.19,New Zealand
+NZL,2005,2.11,New Zealand
+NZL,2006,2.27,New Zealand
+NZL,2007,2.3,New Zealand
+NZL,2008,2.46,New Zealand
+NZL,2009,2.58,New Zealand
+NZL,2010,2.62,New Zealand
+NZL,2011,2.65,New Zealand
+NZL,2012,2.72,New Zealand
+NZL,2013,2.83,New Zealand
+NZL,2014,2.89,New Zealand
+NZL,2015,3.03,New Zealand
+NZL,2016,3.12,New Zealand
+NZL,2017,3.25,New Zealand
+NZL,2018,3.31,New Zealand
+NZL,2019,3.38,New Zealand
+NZL,2020,3.44,New Zealand
+NZL,2021,3.55,New Zealand
+NZL,2022,3.65,New Zealand
+NZL,2023,3.66,New Zealand
+NZL,2024,3.72,New Zealand
+NZL,2025,3.79,New Zealand
+SWE,1995,2.82,Sweden
+SWE,1996,2.84,Sweden
+SWE,1997,2.85,Sweden
+SWE,1998,2.92,Sweden
+SWE,1999,2.97,Sweden
+SWE,2000,3.03,Sweden
+SWE,2001,3.12,Sweden
+SWE,2002,3.21,Sweden
+SWE,2003,3.28,Sweden
+SWE,2004,3.37,Sweden
+SWE,2005,3.45,Sweden
+SWE,2006,3.54,Sweden
+SWE,2007,3.63,Sweden
+SWE,2008,3.68,Sweden
+SWE,2009,3.75,Sweden
+SWE,2010,3.81,Sweden
+SWE,2011,3.89,Sweden
+SWE,2012,3.97,Sweden
+SWE,2013,4.04,Sweden
+SWE,2014,4.11,Sweden
+SWE,2015,4.17,Sweden
+SWE,2016,4.23,Sweden
+SWE,2017,4.27,Sweden
+SWE,2018,4.32,Sweden
+SWE,2019,4.29,Sweden
+SWE,2020,4.32,Sweden
+SWE,2021,4.41,Sweden
+SWE,2022,4.55,Sweden
+SWE,2023,4.63,Sweden
+SWE,2024,4.66,Sweden
+USA,1993,2.12,United States
+USA,1994,2.14,United States
+USA,1995,2.19,United States
+USA,1996,2.22,United States
+USA,1997,2.28,United States
+USA,1998,2.25,United States
+USA,1999,2.24,United States
+USA,2000,2.29,United States
+USA,2001,2.35,United States
+USA,2002,2.35,United States
+USA,2003,2.38,United States
+USA,2004,2.39,United States
+USA,2005,2.43,United States
+USA,2006,2.42,United States
+USA,2007,2.43,United States
+USA,2008,2.44,United States
+USA,2009,2.44,United States
+USA,2010,2.43,United States
+USA,2011,2.46,United States
+USA,2012,2.5,United States
+USA,2013,2.56,United States
+USA,2014,2.57,United States
+USA,2015,2.57,United States
+USA,2016,2.58,United States
+USA,2017,2.6,United States
+USA,2018,2.59,United States
+USA,2019,2.62,United States
+USA,2020,2.63,United States
+USA,2021,2.67,United States
+USA,2022,2.71,United States

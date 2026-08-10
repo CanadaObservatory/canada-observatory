@@ -1,0 +1,14 @@
+{
+  "dataset_id": "statcan_substance_use_by_age",
+  "source": "Statistics Canada",
+  "source_table": "Table 13-10-0972-01 (CCHS, two-year period estimates)",
+  "frequency": "biennial",
+  "unit": "% of population (self-reported)",
+  "retrieved_at": "2026-06-10T21:11:48.378461+00:00",
+  "latest_observation_date": "2024",
+  "transformations": [
+    "Canada, both sexes, Percent; cannabis (past 12 mo) / current smoker (daily or occasional) / heavy drinking, by age group"
+  ],
+  "notes": null,
+  "row_count": 25
+}

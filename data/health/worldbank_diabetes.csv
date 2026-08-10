@@ -1,0 +1,36 @@
+country_code,country_name,year,diabetes_pct
+AUS,Australia,2000,0.0
+AUS,Australia,2011,6.6
+AUS,Australia,2024,7.4
+CAN,Canada,2011,8.4
+CAN,Canada,2024,7.7
+CHE,Switzerland,2011,5.9
+CHE,Switzerland,2024,5.3
+DEU,Germany,2011,5.3
+DEU,Germany,2024,7.8
+DNK,Denmark,2011,5.6
+DNK,Denmark,2024,6.4
+FIN,Finland,2011,5.8
+FIN,Finland,2024,6.9
+FRA,France,2011,5.4
+FRA,France,2024,6.5
+GBR,United Kingdom,2011,5.2
+GBR,United Kingdom,2024,7.4
+ISR,Israel,2011,7.4
+ISR,Israel,2024,10.1
+ITA,Italy,2011,5.1
+ITA,Italy,2024,7.7
+JPN,Japan,2011,7.7
+JPN,Japan,2024,8.1
+KOR,South Korea,2011,7.5
+KOR,South Korea,2024,9.6
+NLD,Netherlands,2011,5.3
+NLD,Netherlands,2024,5.0
+NOR,Norway,2011,4.7
+NOR,Norway,2024,4.8
+NZL,New Zealand,2011,8.6
+NZL,New Zealand,2024,6.7
+SWE,Sweden,2011,4.2
+SWE,Sweden,2024,5.8
+USA,United States,2011,9.4
+USA,United States,2024,13.7

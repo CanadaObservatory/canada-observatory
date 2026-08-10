@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_overweight",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "World Bank / WHO Global Health Observatory",
+  "frequency": "annual",
+  "unit": "% of adults",
+  "retrieved_at": "2026-08-10T15:07:31.300510+00:00",
+  "latest_observation_date": "2022",
+  "next_release_date": null,
+  "transformations": [
+    "World Bank indicator SH.STA.OWAD.ZS, filtered to 17 OECD peers"
+  ],
+  "notes": null,
+  "row_count": 391
+}

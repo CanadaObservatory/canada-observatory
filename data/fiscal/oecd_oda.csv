@@ -1,0 +1,97 @@
+country_code,country_name,year,oda_gni
+AUS,Australia,2018,0.23
+AUS,Australia,2019,0.22
+AUS,Australia,2020,0.21
+AUS,Australia,2021,0.22
+AUS,Australia,2022,0.19
+AUS,Australia,2023,0.19
+CAN,Canada,2018,0.28
+CAN,Canada,2019,0.27
+CAN,Canada,2020,0.31
+CAN,Canada,2021,0.32
+CAN,Canada,2022,0.37
+CAN,Canada,2023,0.38
+CHE,Switzerland,2018,0.44
+CHE,Switzerland,2019,0.44
+CHE,Switzerland,2020,0.49
+CHE,Switzerland,2021,0.5
+CHE,Switzerland,2022,0.56
+CHE,Switzerland,2023,0.6
+DEU,Germany,2018,0.61
+DEU,Germany,2019,0.61
+DEU,Germany,2020,0.73
+DEU,Germany,2021,0.76
+DEU,Germany,2022,0.85
+DEU,Germany,2023,0.82
+DNK,Denmark,2018,0.72
+DNK,Denmark,2019,0.72
+DNK,Denmark,2020,0.72
+DNK,Denmark,2021,0.71
+DNK,Denmark,2022,0.67
+DNK,Denmark,2023,0.73
+FIN,Finland,2018,0.36
+FIN,Finland,2019,0.42
+FIN,Finland,2020,0.47
+FIN,Finland,2021,0.47
+FIN,Finland,2022,0.57
+FIN,Finland,2023,0.54
+FRA,France,2018,0.43
+FRA,France,2019,0.44
+FRA,France,2020,0.53
+FRA,France,2021,0.51
+FRA,France,2022,0.56
+FRA,France,2023,0.48
+GBR,United Kingdom,2018,0.7
+GBR,United Kingdom,2019,0.7
+GBR,United Kingdom,2020,0.7
+GBR,United Kingdom,2021,0.5
+GBR,United Kingdom,2022,0.51
+GBR,United Kingdom,2023,0.58
+ITA,Italy,2018,0.25
+ITA,Italy,2019,0.22
+ITA,Italy,2020,0.22
+ITA,Italy,2021,0.29
+ITA,Italy,2022,0.33
+ITA,Italy,2023,0.27
+JPN,Japan,2018,0.28
+JPN,Japan,2019,0.29
+JPN,Japan,2020,0.31
+JPN,Japan,2021,0.34
+JPN,Japan,2022,0.39
+JPN,Japan,2023,0.44
+KOR,South Korea,2018,0.14
+KOR,South Korea,2019,0.15
+KOR,South Korea,2020,0.14
+KOR,South Korea,2021,0.16
+KOR,South Korea,2022,0.17
+KOR,South Korea,2023,0.17
+NLD,Netherlands,2018,0.62
+NLD,Netherlands,2019,0.59
+NLD,Netherlands,2020,0.59
+NLD,Netherlands,2021,0.52
+NLD,Netherlands,2022,0.67
+NLD,Netherlands,2023,0.66
+NOR,Norway,2018,0.94
+NOR,Norway,2019,1.03
+NOR,Norway,2020,1.11
+NOR,Norway,2021,0.93
+NOR,Norway,2022,0.86
+NOR,Norway,2023,1.09
+NZL,New Zealand,2018,0.28
+NZL,New Zealand,2019,0.28
+NZL,New Zealand,2020,0.26
+NZL,New Zealand,2021,0.28
+NZL,New Zealand,2022,0.22
+NZL,New Zealand,2023,0.31
+SWE,Sweden,2018,1.07
+SWE,Sweden,2019,0.96
+SWE,Sweden,2020,1.14
+SWE,Sweden,2021,0.91
+SWE,Sweden,2022,0.89
+SWE,Sweden,2023,0.93
+USA,United States,2018,0.16
+USA,United States,2019,0.15
+USA,United States,2020,0.17
+USA,United States,2021,0.2
+USA,United States,2022,0.23
+USA,United States,2023,0.24

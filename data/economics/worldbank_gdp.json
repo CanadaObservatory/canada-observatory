@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_gdp",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "NY.GDP.MKTP.CD",
+  "frequency": "annual",
+  "unit": "current US$",
+  "retrieved_at": "2026-08-10T15:03:38.751044+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "all countries (WB aggregates removed), most recent year each"
+  ],
+  "notes": null,
+  "row_count": 214
+}

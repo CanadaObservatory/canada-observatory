@@ -1,0 +1,52 @@
+year,country_code,country_name,skill,mean_score
+2023,FIN,Finland,Adaptive problem solving,276.5
+2023,JPN,Japan,Adaptive problem solving,276.3
+2023,SWE,Sweden,Adaptive problem solving,272.6
+2023,NOR,Norway,Adaptive problem solving,270.6
+2023,NLD,Netherlands,Adaptive problem solving,265.3
+2023,DNK,Denmark,Adaptive problem solving,264.4
+2023,DEU,Germany,Adaptive problem solving,261.0
+2023,CAN,Canada,Adaptive problem solving,259.4
+2023,GBR,United Kingdom (England),Adaptive problem solving,258.9
+2023,CHE,Switzerland,Adaptive problem solving,257.1
+2023,OECD,OECD average,Adaptive problem solving,250.6
+2023,NZL,New Zealand,Adaptive problem solving,249.4
+2023,FRA,France,Adaptive problem solving,247.9
+2023,USA,United States,Adaptive problem solving,247.5
+2023,KOR,South Korea,Adaptive problem solving,237.6
+2023,ISR,Israel,Adaptive problem solving,236.2
+2023,ITA,Italy,Adaptive problem solving,230.8
+2023,FIN,Finland,Literacy,296.5
+2023,JPN,Japan,Literacy,289.2
+2023,SWE,Sweden,Literacy,284.1
+2023,NOR,Norway,Literacy,280.8
+2023,NLD,Netherlands,Literacy,278.6
+2023,DNK,Denmark,Literacy,273.0
+2023,GBR,United Kingdom (England),Literacy,271.6
+2023,CAN,Canada,Literacy,270.8
+2023,CHE,Switzerland,Literacy,266.3
+2023,DEU,Germany,Literacy,266.1
+2023,OECD,OECD average,Literacy,260.0
+2023,NZL,New Zealand,Literacy,259.6
+2023,USA,United States,Literacy,258.2
+2023,FRA,France,Literacy,254.8
+2023,KOR,South Korea,Literacy,249.0
+2023,ITA,Italy,Literacy,245.5
+2023,ISR,Israel,Literacy,243.6
+2023,FIN,Finland,Numeracy,293.8
+2023,JPN,Japan,Numeracy,290.8
+2023,SWE,Sweden,Numeracy,285.2
+2023,NOR,Norway,Numeracy,284.8
+2023,NLD,Netherlands,Numeracy,283.9
+2023,DNK,Denmark,Numeracy,279.1
+2023,CHE,Switzerland,Numeracy,276.1
+2023,DEU,Germany,Numeracy,272.8
+2023,CAN,Canada,Numeracy,270.7
+2023,GBR,United Kingdom (England),Numeracy,268.4
+2023,OECD,OECD average,Numeracy,263.0
+2023,FRA,France,Numeracy,256.5
+2023,NZL,New Zealand,Numeracy,255.7
+2023,KOR,South Korea,Numeracy,252.7
+2023,USA,United States,Numeracy,248.8
+2023,ISR,Israel,Numeracy,245.8
+2023,ITA,Italy,Numeracy,244.3

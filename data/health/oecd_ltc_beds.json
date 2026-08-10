@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_ltc_beds",
+  "source": "OECD",
+  "source_table": "OECD Health Statistics (Long-Term Care Resources)",
+  "frequency": "annual",
+  "unit": "per 1,000 aged 65+",
+  "retrieved_at": "2026-08-10T15:07:43.390741+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Long-term care beds for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 472
+}

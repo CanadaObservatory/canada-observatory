@@ -1,0 +1,211 @@
+geo,mode,share
+Abbotsford - Mission,Bicycle,0.4
+Abbotsford - Mission,"Car, truck or van",92.0
+Abbotsford - Mission,Other,1.8
+Abbotsford - Mission,Public transit,2.4
+Abbotsford - Mission,Walked,3.4
+Barrie,Bicycle,0.4
+Barrie,"Car, truck or van",91.9
+Barrie,Other,1.9
+Barrie,Public transit,2.8
+Barrie,Walked,3.0
+Belleville - Quinte West,Bicycle,0.5
+Belleville - Quinte West,"Car, truck or van",91.8
+Belleville - Quinte West,Other,1.5
+Belleville - Quinte West,Public transit,1.8
+Belleville - Quinte West,Walked,4.4
+Brantford,Bicycle,0.4
+Brantford,"Car, truck or van",92.3
+Brantford,Other,1.5
+Brantford,Public transit,2.3
+Brantford,Walked,3.4
+Calgary,Bicycle,0.8
+Calgary,"Car, truck or van",84.4
+Calgary,Other,2.9
+Calgary,Public transit,7.9
+Calgary,Walked,4.0
+Canada,Bicycle,1.1
+Canada,"Car, truck or van",83.9
+Canada,Other,2.2
+Canada,Public transit,7.7
+Canada,Walked,5.2
+Chilliwack,Bicycle,1.1
+Chilliwack,"Car, truck or van",91.1
+Chilliwack,Other,2.0
+Chilliwack,Public transit,1.5
+Chilliwack,Walked,4.3
+Drummondville,Bicycle,0.9
+Drummondville,"Car, truck or van",92.5
+Drummondville,Other,1.4
+Drummondville,Public transit,1.2
+Drummondville,Walked,4.1
+Edmonton,Bicycle,0.7
+Edmonton,"Car, truck or van",87.4
+Edmonton,Other,2.4
+Edmonton,Public transit,6.1
+Edmonton,Walked,3.3
+Fredericton,Bicycle,0.9
+Fredericton,"Car, truck or van",89.9
+Fredericton,Other,1.8
+Fredericton,Public transit,2.3
+Fredericton,Walked,5.1
+Greater Sudbury,Bicycle,0.4
+Greater Sudbury,"Car, truck or van",89.9
+Greater Sudbury,Other,2.2
+Greater Sudbury,Public transit,4.0
+Greater Sudbury,Walked,3.5
+Guelph,Bicycle,1.0
+Guelph,"Car, truck or van",88.4
+Guelph,Other,1.8
+Guelph,Public transit,4.0
+Guelph,Walked,4.8
+Halifax,Bicycle,0.7
+Halifax,"Car, truck or van",82.3
+Halifax,Other,2.4
+Halifax,Public transit,7.7
+Halifax,Walked,6.9
+Hamilton,Bicycle,0.7
+Hamilton,"Car, truck or van",86.5
+Hamilton,Other,2.1
+Hamilton,Public transit,6.5
+Hamilton,Walked,4.3
+Kamloops,Bicycle,0.9
+Kamloops,"Car, truck or van",87.5
+Kamloops,Other,2.4
+Kamloops,Public transit,4.0
+Kamloops,Walked,5.2
+Kelowna,Bicycle,2.0
+Kelowna,"Car, truck or van",86.6
+Kelowna,Other,2.8
+Kelowna,Public transit,3.2
+Kelowna,Walked,5.4
+Kingston,Bicycle,1.2
+Kingston,"Car, truck or van",84.8
+Kingston,Other,2.1
+Kingston,Public transit,4.9
+Kingston,Walked,7.0
+Kitchener - Cambridge - Waterloo,Bicycle,0.7
+Kitchener - Cambridge - Waterloo,"Car, truck or van",89.1
+Kitchener - Cambridge - Waterloo,Other,2.0
+Kitchener - Cambridge - Waterloo,Public transit,4.6
+Kitchener - Cambridge - Waterloo,Walked,3.5
+Lethbridge,Bicycle,0.9
+Lethbridge,"Car, truck or van",92.1
+Lethbridge,Other,1.5
+Lethbridge,Public transit,1.9
+Lethbridge,Walked,3.5
+London,Bicycle,0.8
+London,"Car, truck or van",87.9
+London,Other,2.0
+London,Public transit,4.9
+London,Walked,4.3
+Moncton,Bicycle,0.5
+Moncton,"Car, truck or van",89.9
+Moncton,Other,2.3
+Moncton,Public transit,2.2
+Moncton,Walked,5.1
+Montréal,Bicycle,1.8
+Montréal,"Car, truck or van",75.6
+Montréal,Other,1.6
+Montréal,Public transit,15.3
+Montréal,Walked,5.7
+Nanaimo,Bicycle,1.3
+Nanaimo,"Car, truck or van",87.6
+Nanaimo,Other,2.5
+Nanaimo,Public transit,3.6
+Nanaimo,Walked,5.0
+Oshawa,Bicycle,0.2
+Oshawa,"Car, truck or van",89.6
+Oshawa,Other,2.4
+Oshawa,Public transit,5.1
+Oshawa,Walked,2.8
+Ottawa - Gatineau,Bicycle,1.3
+Ottawa - Gatineau,"Car, truck or van",80.1
+Ottawa - Gatineau,Other,3.0
+Ottawa - Gatineau,Public transit,9.7
+Ottawa - Gatineau,Walked,5.9
+Peterborough,Bicycle,1.0
+Peterborough,"Car, truck or van",88.7
+Peterborough,Other,2.0
+Peterborough,Public transit,2.5
+Peterborough,Walked,5.9
+Québec,Bicycle,1.1
+Québec,"Car, truck or van",83.6
+Québec,Other,1.5
+Québec,Public transit,7.8
+Québec,Walked,6.1
+Red Deer,Bicycle,0.7
+Red Deer,"Car, truck or van",92.0
+Red Deer,Other,1.5
+Red Deer,Public transit,2.5
+Red Deer,Walked,3.2
+Regina,Bicycle,0.6
+Regina,"Car, truck or van",90.6
+Regina,Other,2.0
+Regina,Public transit,3.3
+Regina,Walked,3.6
+Saguenay,Bicycle,0.4
+Saguenay,"Car, truck or van",92.3
+Saguenay,Other,1.9
+Saguenay,Public transit,1.8
+Saguenay,Walked,3.6
+Saint John,Bicycle,0.2
+Saint John,"Car, truck or van",90.6
+Saint John,Other,1.9
+Saint John,Public transit,2.7
+Saint John,Walked,4.6
+Saskatoon,Bicycle,1.2
+Saskatoon,"Car, truck or van",90.1
+Saskatoon,Other,2.0
+Saskatoon,Public transit,2.9
+Saskatoon,Walked,3.8
+Sherbrooke,Bicycle,0.8
+Sherbrooke,"Car, truck or van",88.6
+Sherbrooke,Other,1.4
+Sherbrooke,Public transit,3.9
+Sherbrooke,Walked,5.4
+St. Catharines - Niagara,Bicycle,0.7
+St. Catharines - Niagara,"Car, truck or van",92.0
+St. Catharines - Niagara,Other,2.1
+St. Catharines - Niagara,Public transit,1.9
+St. Catharines - Niagara,Walked,3.4
+St. John's,Bicycle,0.2
+St. John's,"Car, truck or van",88.7
+St. John's,Other,3.4
+St. John's,Public transit,3.2
+St. John's,Walked,4.6
+Thunder Bay,Bicycle,1.0
+Thunder Bay,"Car, truck or van",89.3
+Thunder Bay,Other,1.9
+Thunder Bay,Public transit,3.4
+Thunder Bay,Walked,4.3
+Toronto,Bicycle,1.0
+Toronto,"Car, truck or van",76.0
+Toronto,Other,2.7
+Toronto,Public transit,15.6
+Toronto,Walked,4.6
+Trois-Rivières,Bicycle,0.6
+Trois-Rivières,"Car, truck or van",91.3
+Trois-Rivières,Other,1.3
+Trois-Rivières,Public transit,2.1
+Trois-Rivières,Walked,4.7
+Vancouver,Bicycle,1.9
+Vancouver,"Car, truck or van",74.7
+Vancouver,Other,2.1
+Vancouver,Public transit,14.9
+Vancouver,Walked,6.4
+Victoria,Bicycle,5.3
+Victoria,"Car, truck or van",73.9
+Victoria,Other,3.1
+Victoria,Public transit,7.7
+Victoria,Walked,10.0
+Windsor,Bicycle,0.7
+Windsor,"Car, truck or van",93.1
+Windsor,Other,1.6
+Windsor,Public transit,2.0
+Windsor,Walked,2.6
+Winnipeg,Bicycle,1.2
+Winnipeg,"Car, truck or van",83.9
+Winnipeg,Other,2.0
+Winnipeg,Public transit,8.4
+Winnipeg,Walked,4.5

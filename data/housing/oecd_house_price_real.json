@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_house_price_real",
+  "source": "OECD",
+  "source_table": "OECD Analytical House Prices",
+  "frequency": "annual",
+  "unit": "index (2015=100)",
+  "retrieved_at": "2026-08-10T15:05:46.483990+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Real house price index for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 922
+}

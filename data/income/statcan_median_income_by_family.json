@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_median_income_by_family",
+  "source": "Statistics Canada",
+  "source_table": "11-10-0190-01",
+  "frequency": "annual",
+  "unit": "2024 constant dollars",
+  "retrieved_at": "2026-08-10T15:06:32.093002+00:00",
+  "latest_observation_date": "2024-01-01",
+  "next_release_date": null,
+  "transformations": [
+    "Canada; median after-tax income by recipient type (all / economic families / unattached individuals)"
+  ],
+  "notes": null,
+  "row_count": 49
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "income_deciles_avg",
+  "source": "Statistics Canada",
+  "source_table": "11-10-0193-01",
+  "frequency": "annual",
+  "unit": "average income by decile (constant 2024 $)",
+  "retrieved_at": "2026-08-10T15:06:38.058388+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "Canada; average before-tax (total) and after-tax income by decile, real $"
+  ],
+  "notes": null,
+  "row_count": 490
+}

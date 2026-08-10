@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_grads_by_field",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 37-10-0135-01",
+  "frequency": "annual",
+  "unit": "graduates / % women",
+  "retrieved_at": "2026-08-10T15:08:40.028051+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "PSIS graduates; Canada; all ages; by ISCED credential level (All/College/Bachelor's/Master's/Doctorate) and 11 broad CIP field groupings; women/men counts + women's share"
+  ],
+  "notes": null,
+  "row_count": 1734
+}

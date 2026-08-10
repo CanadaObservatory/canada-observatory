@@ -1,0 +1,15 @@
+{
+  "dataset_id": "boc_exchange_rates",
+  "source": "Bank of Canada",
+  "source_table": "Bank of Canada (daily average exchange rates)",
+  "frequency": "daily",
+  "unit": "CAD per unit",
+  "retrieved_at": "2026-08-10T15:04:36.111215+00:00",
+  "latest_observation_date": "2026-08-07",
+  "next_release_date": null,
+  "transformations": [
+    "BoC Valet series FXUSDCAD, FXEURCAD, FXJPYCAD -> wide CSV"
+  ],
+  "notes": null,
+  "row_count": 2395
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "income_top_bottom_share",
+  "source": "Statistics Canada",
+  "source_table": "11-10-0193-01",
+  "frequency": "annual",
+  "unit": "% share of income",
+  "retrieved_at": "2026-08-10T15:06:38.088460+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "Canada; top-10% (highest decile) and bottom-40% (4 lowest) shares; market + after-tax"
+  ],
+  "notes": null,
+  "row_count": 98
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_govt_interest",
+  "source": "OECD",
+  "source_table": "OECD Economic Outlook",
+  "frequency": "annual",
+  "unit": "% of GDP",
+  "retrieved_at": "2026-08-10T15:05:00.314388+00:00",
+  "latest_observation_date": "2026",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Government interest costs for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 937
+}

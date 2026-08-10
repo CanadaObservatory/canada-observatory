@@ -1,0 +1,239 @@
+year,sector,ghg_mt
+1990,Agriculture,50.7
+1991,Agriculture,50.8
+1992,Agriculture,53.0
+1993,Agriculture,54.3
+1994,Agriculture,55.9
+1995,Agriculture,58.5
+1996,Agriculture,60.1
+1997,Agriculture,60.9
+1998,Agriculture,61.0
+1999,Agriculture,61.2
+2000,Agriculture,62.2
+2001,Agriculture,61.9
+2002,Agriculture,61.8
+2003,Agriculture,63.6
+2004,Agriculture,64.7
+2005,Agriculture,65.7
+2006,Agriculture,64.3
+2007,Agriculture,64.2
+2008,Agriculture,63.6
+2009,Agriculture,60.6
+2010,Agriculture,60.6
+2011,Agriculture,61.5
+2012,Agriculture,63.4
+2013,Agriculture,65.2
+2014,Agriculture,64.3
+2015,Agriculture,65.7
+2016,Agriculture,66.7
+2017,Agriculture,67.3
+2018,Agriculture,69.0
+2019,Agriculture,69.3
+2020,Agriculture,70.1
+2021,Agriculture,69.3
+2022,Agriculture,70.1
+2023,Agriculture,69.4
+1990,Buildings,71.6
+1991,Buildings,70.9
+1992,Buildings,72.8
+1993,Buildings,76.4
+1994,Buildings,76.8
+1995,Buildings,77.6
+1996,Buildings,83.9
+1997,Buildings,81.4
+1998,Buildings,73.1
+1999,Buildings,77.0
+2000,Buildings,83.6
+2001,Buildings,80.3
+2002,Buildings,84.7
+2003,Buildings,89.9
+2004,Buildings,88.5
+2005,Buildings,84.6
+2006,Buildings,79.5
+2007,Buildings,85.3
+2008,Buildings,85.2
+2009,Buildings,83.6
+2010,Buildings,81.3
+2011,Buildings,85.7
+2012,Buildings,84.2
+2013,Buildings,85.2
+2014,Buildings,85.7
+2015,Buildings,84.7
+2016,Buildings,85.7
+2017,Buildings,87.9
+2018,Buildings,91.9
+2019,Buildings,93.8
+2020,Buildings,88.2
+2021,Buildings,84.8
+2022,Buildings,88.3
+2023,Buildings,82.7
+1990,Electricity,94.4
+1991,Electricity,95.7
+1992,Electricity,102.1
+1993,Electricity,92.9
+1994,Electricity,94.9
+1995,Electricity,98.0
+1996,Electricity,97.9
+1997,Electricity,109.1
+1998,Electricity,121.7
+1999,Electricity,118.8
+2000,Electricity,128.4
+2001,Electricity,128.7
+2002,Electricity,123.1
+2003,Electricity,126.9
+2004,Electricity,118.1
+2005,Electricity,115.9
+2006,Electricity,111.2
+2007,Electricity,117.9
+2008,Electricity,108.3
+2009,Electricity,93.2
+2010,Electricity,94.7
+2011,Electricity,85.9
+2012,Electricity,82.4
+2013,Electricity,79.8
+2014,Electricity,75.2
+2015,Electricity,74.5
+2016,Electricity,75.2
+2017,Electricity,72.5
+2018,Electricity,62.6
+2019,Electricity,61.6
+2020,Electricity,53.8
+2021,Electricity,52.5
+2022,Electricity,49.0
+2023,Electricity,48.8
+1990,Heavy industry,97.1
+1991,Heavy industry,96.9
+1992,Heavy industry,94.2
+1993,Heavy industry,93.6
+1994,Heavy industry,99.1
+1995,Heavy industry,100.0
+1996,Heavy industry,102.9
+1997,Heavy industry,102.8
+1998,Heavy industry,99.2
+1999,Heavy industry,97.0
+2000,Heavy industry,97.0
+2001,Heavy industry,91.7
+2002,Heavy industry,92.0
+2003,Heavy industry,90.6
+2004,Heavy industry,92.8
+2005,Heavy industry,87.8
+2006,Heavy industry,87.8
+2007,Heavy industry,85.9
+2008,Heavy industry,84.2
+2009,Heavy industry,71.1
+2010,Heavy industry,74.9
+2011,Heavy industry,81.1
+2012,Heavy industry,81.2
+2013,Heavy industry,79.9
+2014,Heavy industry,82.1
+2015,Heavy industry,79.7
+2016,Heavy industry,76.8
+2017,Heavy industry,77.6
+2018,Heavy industry,79.7
+2019,Heavy industry,79.3
+2020,Heavy industry,75.4
+2021,Heavy industry,78.1
+2022,Heavy industry,78.1
+2023,Heavy industry,78.3
+1990,Oil and gas,117.3
+1991,Oil and gas,118.6
+1992,Oil and gas,127.9
+1993,Oil and gas,136.5
+1994,Oil and gas,142.1
+1995,Oil and gas,149.6
+1996,Oil and gas,157.4
+1997,Oil and gas,158.7
+1998,Oil and gas,162.9
+1999,Oil and gas,169.8
+2000,Oil and gas,177.6
+2001,Oil and gas,180.7
+2002,Oil and gas,186.1
+2003,Oil and gas,189.7
+2004,Oil and gas,190.9
+2005,Oil and gas,194.5
+2006,Oil and gas,202.2
+2007,Oil and gas,206.5
+2008,Oil and gas,202.8
+2009,Oil and gas,197.9
+2010,Oil and gas,203.4
+2011,Oil and gas,210.1
+2012,Oil and gas,216.2
+2013,Oil and gas,223.0
+2014,Oil and gas,227.7
+2015,Oil and gas,226.0
+2016,Oil and gas,208.0
+2017,Oil and gas,216.5
+2018,Oil and gas,223.1
+2019,Oil and gas,222.4
+2020,Oil and gas,204.4
+2021,Oil and gas,211.1
+2022,Oil and gas,209.4
+2023,Oil and gas,208.0
+1990,Transport,117.9
+1991,Transport,113.3
+1992,Transport,115.3
+1993,Transport,118.3
+1994,Transport,124.4
+1995,Transport,126.5
+1996,Transport,129.2
+1997,Transport,133.4
+1998,Transport,136.5
+1999,Transport,140.5
+2000,Transport,141.6
+2001,Transport,141.8
+2002,Transport,143.9
+2003,Transport,149.0
+2004,Transport,153.7
+2005,Transport,156.2
+2006,Transport,157.1
+2007,Transport,162.0
+2008,Transport,162.6
+2009,Transport,161.5
+2010,Transport,165.0
+2011,Transport,163.9
+2012,Transport,164.1
+2013,Transport,166.7
+2014,Transport,164.3
+2015,Transport,162.3
+2016,Transport,161.9
+2017,Transport,164.9
+2018,Transport,168.9
+2019,Transport,169.0
+2020,Transport,142.1
+2021,Transport,148.6
+2022,Transport,155.1
+2023,Transport,156.6
+1990,Waste and others,57.5
+1991,Waste and others,55.3
+1992,Waste and others,54.0
+1993,Waste and others,52.1
+1994,Waste and others,52.9
+1995,Waste and others,54.7
+1996,Waste and others,54.4
+1997,Waste and others,55.2
+1998,Waste and others,53.6
+1999,Waste and others,54.1
+2000,Waste and others,55.7
+2001,Waste and others,53.8
+2002,Waste and others,54.1
+2003,Waste and others,53.9
+2004,Waste and others,54.9
+2005,Waste and others,54.0
+2006,Waste and others,52.8
+2007,Waste and others,52.6
+2008,Waste and others,51.1
+2009,Waste and others,46.4
+2010,Waste and others,48.1
+2011,Waste and others,49.5
+2012,Waste and others,49.6
+2013,Waste and others,50.3
+2014,Waste and others,48.2
+2015,Waste and others,49.2
+2016,Waste and others,50.5
+2017,Waste and others,51.0
+2018,Waste and others,51.8
+2019,Waste and others,52.0
+2020,Waste and others,48.2
+2021,Waste and others,49.2
+2022,Waste and others,49.9
+2023,Waste and others,50.2

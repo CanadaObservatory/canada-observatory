@@ -1,0 +1,643 @@
+year,dimension,category,employees
+2010,Age band,20-24,11986
+2010,Age band,25-29,25255
+2010,Age band,30-34,32369
+2010,Age band,35-39,34061
+2010,Age band,40-44,37238
+2010,Age band,45-49,46334
+2010,Age band,50-54,47368
+2010,Age band,55-59,31376
+2010,Age band,60-64,12580
+2010,Age band,65+,3680
+2010,Age band,<20,731
+2010,Age band,Unknown,2
+2011,Age band,20-24,10702
+2011,Age band,25-29,24786
+2011,Age band,30-34,32497
+2011,Age band,35-39,34897
+2011,Age band,40-44,37146
+2011,Age band,45-49,45272
+2011,Age band,50-54,47462
+2011,Age band,55-59,31600
+2011,Age band,60-64,13353
+2011,Age band,65+,4052
+2011,Age band,<20,584
+2011,Age band,Unknown,1
+2012,Age band,20-24,9225
+2012,Age band,25-29,22859
+2012,Age band,30-34,31644
+2012,Age band,35-39,35476
+2012,Age band,40-44,36997
+2012,Age band,45-49,43802
+2012,Age band,50-54,47241
+2012,Age band,55-59,32119
+2012,Age band,60-64,13732
+2012,Age band,65+,4451
+2012,Age band,<20,545
+2012,Age band,Unknown,1
+2013,Age band,20-24,7178
+2013,Age band,25-29,19395
+2013,Age band,30-34,29415
+2013,Age band,35-39,34669
+2013,Age band,40-44,36253
+2013,Age band,45-49,41011
+2013,Age band,50-54,45947
+2013,Age band,55-59,30662
+2013,Age band,60-64,13228
+2013,Age band,65+,4635
+2013,Age band,<20,424
+2014,Age band,20-24,7429
+2014,Age band,25-29,17675
+2014,Age band,30-34,28266
+2014,Age band,35-39,34755
+2014,Age band,40-44,35923
+2014,Age band,45-49,39187
+2014,Age band,50-54,44919
+2014,Age band,55-59,30407
+2014,Age band,60-64,13253
+2014,Age band,65+,4804
+2014,Age band,<20,520
+2015,Age band,20-24,8101
+2015,Age band,25-29,16878
+2015,Age band,30-34,27489
+2015,Age band,35-39,35088
+2015,Age band,40-44,36327
+2015,Age band,45-49,37859
+2015,Age band,50-54,44286
+2015,Age band,55-59,31476
+2015,Age band,60-64,13858
+2015,Age band,65+,5175
+2015,Age band,<20,496
+2015,Age band,Unknown,1
+2016,Age band,20-24,8887
+2016,Age band,25-29,16727
+2016,Age band,30-34,27083
+2016,Age band,35-39,35339
+2016,Age band,40-44,37180
+2016,Age band,45-49,37668
+2016,Age band,50-54,43236
+2016,Age band,55-59,32326
+2016,Age band,60-64,14467
+2016,Age band,65+,5563
+2016,Age band,<20,501
+2016,Age band,Unknown,2
+2017,Age band,20-24,9933
+2017,Age band,25-29,17370
+2017,Age band,30-34,26707
+2017,Age band,35-39,35633
+2017,Age band,40-44,38414
+2017,Age band,45-49,38304
+2017,Age band,50-54,42296
+2017,Age band,55-59,32943
+2017,Age band,60-64,14831
+2017,Age band,65+,5667
+2017,Age band,<20,594
+2017,Age band,Unknown,4
+2018,Age band,20-24,12293
+2018,Age band,25-29,20267
+2018,Age band,30-34,27506
+2018,Age band,35-39,36396
+2018,Age band,40-44,40131
+2018,Age band,45-49,39463
+2018,Age band,50-54,41379
+2018,Age band,55-59,33731
+2018,Age band,60-64,15547
+2018,Age band,65+,6092
+2018,Age band,<20,761
+2018,Age band,Unknown,5
+2019,Age band,20-24,14807
+2019,Age band,25-29,24313
+2019,Age band,30-34,28644
+2019,Age band,35-39,37713
+2019,Age band,40-44,42229
+2019,Age band,45-49,40803
+2019,Age band,50-54,40927
+2019,Age band,55-59,34581
+2019,Age band,60-64,16429
+2019,Age band,65+,6677
+2019,Age band,<20,854
+2019,Age band,Unknown,6
+2020,Age band,20-24,16298
+2020,Age band,25-29,27772
+2020,Age band,30-34,30046
+2020,Age band,35-39,38595
+2020,Age band,40-44,44141
+2020,Age band,45-49,42223
+2020,Age band,50-54,40704
+2020,Age band,55-59,35357
+2020,Age band,60-64,17199
+2020,Age band,65+,7216
+2020,Age band,<20,897
+2020,Age band,Unknown,2
+2021,Age band,20-24,16194
+2021,Age band,25-29,31653
+2021,Age band,30-34,32794
+2021,Age band,35-39,40929
+2021,Age band,40-44,46623
+2021,Age band,45-49,44677
+2021,Age band,50-54,41975
+2021,Age band,55-59,36737
+2021,Age band,60-64,19028
+2021,Age band,65+,8395
+2021,Age band,<20,593
+2021,Age band,Unknown,3
+2022,Age band,20-24,17590
+2022,Age band,25-29,35642
+2022,Age band,30-34,36715
+2022,Age band,35-39,42781
+2022,Age band,40-44,48693
+2022,Age band,45-49,46952
+2022,Age band,50-54,42912
+2022,Age band,55-59,36122
+2022,Age band,60-64,19158
+2022,Age band,65+,8609
+2022,Age band,<20,782
+2022,Age band,Unknown,1
+2023,Age band,20-24,17640
+2023,Age band,25-29,38926
+2023,Age band,30-34,41966
+2023,Age band,35-39,45502
+2023,Age band,40-44,51852
+2023,Age band,45-49,50223
+2023,Age band,50-54,45049
+2023,Age band,55-59,35942
+2023,Age band,60-64,20039
+2023,Age band,65+,9186
+2023,Age band,<20,921
+2023,Age band,Unknown,1
+2024,Age band,20-24,16798
+2024,Age band,25-29,39400
+2024,Age band,30-34,44713
+2024,Age band,35-39,46668
+2024,Age band,40-44,53493
+2024,Age band,45-49,52750
+2024,Age band,50-54,46276
+2024,Age band,55-59,35977
+2024,Age band,60-64,20994
+2024,Age band,65+,9824
+2024,Age band,<20,878
+2024,Age band,Unknown,1
+2025,Age band,20-24,13444
+2025,Age band,25-29,34987
+2025,Age band,30-34,44150
+2025,Age band,35-39,45591
+2025,Age band,40-44,52253
+2025,Age band,45-49,53408
+2025,Age band,50-54,46729
+2025,Age band,55-59,35569
+2025,Age band,60-64,21107
+2025,Age band,65+,10094
+2025,Age band,<20,632
+2025,Age band,Unknown,1
+2026,Age band,20-24,9919
+2026,Age band,25-29,29394
+2026,Age band,30-34,42423
+2026,Age band,35-39,44221
+2026,Age band,40-44,50796
+2026,Age band,45-49,53454
+2026,Age band,50-54,47121
+2026,Age band,55-59,35866
+2026,Age band,60-64,21180
+2026,Age band,65+,10420
+2026,Age band,<20,487
+2026,Age band,Unknown,1
+2010,First official language,English,198189
+2010,First official language,French,81081
+2010,First official language,Unknown,3710
+2011,First official language,English,197402
+2011,First official language,French,81316
+2011,First official language,Unknown,3634
+2012,First official language,English,195161
+2012,First official language,French,79519
+2012,First official language,Unknown,3412
+2013,First official language,English,184410
+2013,First official language,French,74985
+2013,First official language,Unknown,3422
+2014,First official language,English,180765
+2014,First official language,French,73626
+2014,First official language,Unknown,2747
+2015,First official language,English,181668
+2015,First official language,French,73157
+2015,First official language,Unknown,2209
+2016,First official language,English,183905
+2016,First official language,French,73417
+2016,First official language,Unknown,1657
+2017,First official language,English,184589
+2017,First official language,French,76126
+2017,First official language,Unknown,1981
+2018,First official language,English,192091
+2018,First official language,French,78832
+2018,First official language,Unknown,2648
+2019,First official language,English,202425
+2019,First official language,French,83005
+2019,First official language,Unknown,2553
+2020,First official language,English,210740
+2020,First official language,French,86441
+2020,First official language,Unknown,3269
+2021,First official language,English,225103
+2021,First official language,French,90726
+2021,First official language,Unknown,3772
+2022,First official language,English,238033
+2022,First official language,French,94109
+2022,First official language,Unknown,3815
+2023,First official language,English,253967
+2023,First official language,French,99975
+2023,First official language,Unknown,3305
+2024,First official language,English,261416
+2024,First official language,French,102752
+2024,First official language,Unknown,3604
+2025,First official language,English,252891
+2025,First official language,French,100931
+2025,First official language,Unknown,4143
+2026,First official language,English,243432
+2026,First official language,French,97343
+2026,First official language,Unknown,4507
+2010,Region,Alberta,16520
+2010,Region,British Columbia,26035
+2010,Region,Manitoba,11963
+2010,Region,National Capital Region (NCR),114950
+2010,Region,New Brunswick,8565
+2010,Region,Newfoundland and Labrador,5489
+2010,Region,Northwest Territories,768
+2010,Region,Nova Scotia,12088
+2010,Region,Nunavut,253
+2010,Region,Ontario (minus the NCR),40851
+2010,Region,Outside of Canada,1563
+2010,Region,Prince Edward Island,3381
+2010,Region,Quebec (minus the NCR),33446
+2010,Region,Saskatchewan,6683
+2010,Region,Yukon,425
+2011,Region,Alberta,16228
+2011,Region,British Columbia,25650
+2011,Region,Manitoba,11614
+2011,Region,National Capital Region (NCR),116357
+2011,Region,New Brunswick,8672
+2011,Region,Newfoundland and Labrador,5222
+2011,Region,Northwest Territories,746
+2011,Region,Nova Scotia,11844
+2011,Region,Nunavut,277
+2011,Region,Ontario (minus the NCR),40764
+2011,Region,Outside of Canada,1640
+2011,Region,Prince Edward Island,3257
+2011,Region,Quebec (minus the NCR),33043
+2011,Region,Saskatchewan,6597
+2011,Region,Yukon,441
+2012,Region,Alberta,15651
+2012,Region,British Columbia,25377
+2012,Region,Manitoba,11518
+2012,Region,National Capital Region (NCR),114656
+2012,Region,New Brunswick,8173
+2012,Region,Newfoundland and Labrador,5162
+2012,Region,Northwest Territories,680
+2012,Region,Nova Scotia,11630
+2012,Region,Nunavut,287
+2012,Region,Ontario (minus the NCR),40767
+2012,Region,Outside of Canada,1582
+2012,Region,Prince Edward Island,3289
+2012,Region,Quebec (minus the NCR),32421
+2012,Region,Saskatchewan,6476
+2012,Region,Yukon,423
+2013,Region,Alberta,14758
+2013,Region,British Columbia,23797
+2013,Region,Manitoba,10693
+2013,Region,National Capital Region (NCR),108433
+2013,Region,New Brunswick,7877
+2013,Region,Newfoundland and Labrador,4792
+2013,Region,Northwest Territories,612
+2013,Region,Nova Scotia,10807
+2013,Region,Nunavut,282
+2013,Region,Ontario (minus the NCR),38889
+2013,Region,Outside of Canada,1528
+2013,Region,Prince Edward Island,3216
+2013,Region,Quebec (minus the NCR),30683
+2013,Region,Saskatchewan,6072
+2013,Region,Yukon,378
+2014,Region,Alberta,14447
+2014,Region,British Columbia,22801
+2014,Region,Manitoba,10326
+2014,Region,National Capital Region (NCR),107247
+2014,Region,New Brunswick,7899
+2014,Region,Newfoundland and Labrador,4605
+2014,Region,Northwest Territories,487
+2014,Region,Nova Scotia,10598
+2014,Region,Nunavut,285
+2014,Region,Ontario (minus the NCR),37746
+2014,Region,Outside of Canada,1516
+2014,Region,Prince Edward Island,3119
+2014,Region,Quebec (minus the NCR),29742
+2014,Region,Saskatchewan,5957
+2014,Region,Yukon,363
+2015,Region,Alberta,14428
+2015,Region,British Columbia,22923
+2015,Region,Manitoba,10088
+2015,Region,National Capital Region (NCR),107288
+2015,Region,New Brunswick,8281
+2015,Region,Newfoundland and Labrador,4711
+2015,Region,Northwest Territories,472
+2015,Region,Nova Scotia,10549
+2015,Region,Nunavut,286
+2015,Region,Ontario (minus the NCR),37791
+2015,Region,Outside of Canada,1477
+2015,Region,Prince Edward Island,3115
+2015,Region,Quebec (minus the NCR),29374
+2015,Region,Saskatchewan,5884
+2015,Region,Yukon,367
+2016,Region,Alberta,14803
+2016,Region,British Columbia,22824
+2016,Region,Manitoba,10019
+2016,Region,National Capital Region (NCR),107375
+2016,Region,New Brunswick,8328
+2016,Region,Newfoundland and Labrador,4562
+2016,Region,Northwest Territories,491
+2016,Region,Nova Scotia,10436
+2016,Region,Nunavut,281
+2016,Region,Ontario (minus the NCR),37906
+2016,Region,Outside of Canada,1450
+2016,Region,Prince Edward Island,3135
+2016,Region,Quebec (minus the NCR),29548
+2016,Region,Saskatchewan,5902
+2016,Region,Unknown,1541
+2016,Region,Yukon,378
+2017,Region,Alberta,14912
+2017,Region,British Columbia,22383
+2017,Region,Manitoba,10085
+2017,Region,National Capital Region (NCR),107977
+2017,Region,New Brunswick,8352
+2017,Region,Newfoundland and Labrador,4783
+2017,Region,Northwest Territories,496
+2017,Region,Nova Scotia,10100
+2017,Region,Nunavut,285
+2017,Region,Ontario (minus the NCR),37419
+2017,Region,Outside of Canada,1341
+2017,Region,Prince Edward Island,3146
+2017,Region,Quebec (minus the NCR),28720
+2017,Region,Saskatchewan,5814
+2017,Region,Unknown,6537
+2017,Region,Yukon,346
+2018,Region,Alberta,15116
+2018,Region,British Columbia,22911
+2018,Region,Manitoba,10854
+2018,Region,National Capital Region (NCR),113028
+2018,Region,New Brunswick,9032
+2018,Region,Newfoundland and Labrador,5348
+2018,Region,Northwest Territories,483
+2018,Region,Nova Scotia,10244
+2018,Region,Nunavut,288
+2018,Region,Ontario (minus the NCR),38383
+2018,Region,Outside of Canada,1367
+2018,Region,Prince Edward Island,3201
+2018,Region,Quebec (minus the NCR),29719
+2018,Region,Saskatchewan,5796
+2018,Region,Unknown,7416
+2018,Region,Yukon,385
+2019,Region,Alberta,15559
+2019,Region,British Columbia,23890
+2019,Region,Manitoba,11366
+2019,Region,National Capital Region (NCR),121230
+2019,Region,New Brunswick,9638
+2019,Region,Newfoundland and Labrador,5438
+2019,Region,Northwest Territories,506
+2019,Region,Nova Scotia,10880
+2019,Region,Nunavut,296
+2019,Region,Ontario (minus the NCR),39619
+2019,Region,Outside of Canada,1413
+2019,Region,Prince Edward Island,3580
+2019,Region,Quebec (minus the NCR),30827
+2019,Region,Saskatchewan,5921
+2019,Region,Unknown,7422
+2019,Region,Yukon,398
+2020,Region,Alberta,16088
+2020,Region,British Columbia,24750
+2020,Region,Manitoba,11625
+2020,Region,National Capital Region (NCR),127092
+2020,Region,New Brunswick,10129
+2020,Region,Newfoundland and Labrador,5730
+2020,Region,Northwest Territories,515
+2020,Region,Nova Scotia,11148
+2020,Region,Nunavut,317
+2020,Region,Ontario (minus the NCR),41092
+2020,Region,Outside of Canada,1492
+2020,Region,Prince Edward Island,3667
+2020,Region,Quebec (minus the NCR),31767
+2020,Region,Saskatchewan,6088
+2020,Region,Unknown,8530
+2020,Region,Yukon,420
+2021,Region,Alberta,17511
+2021,Region,British Columbia,26464
+2021,Region,Manitoba,12156
+2021,Region,National Capital Region (NCR),134817
+2021,Region,New Brunswick,10881
+2021,Region,Newfoundland and Labrador,6852
+2021,Region,Northwest Territories,571
+2021,Region,Nova Scotia,11806
+2021,Region,Nunavut,334
+2021,Region,Ontario (minus the NCR),43503
+2021,Region,Outside of Canada,1323
+2021,Region,Prince Edward Island,3888
+2021,Region,Quebec (minus the NCR),33981
+2021,Region,Saskatchewan,6242
+2021,Region,Unknown,8845
+2021,Region,Yukon,427
+2022,Region,Alberta,18424
+2022,Region,British Columbia,27641
+2022,Region,Manitoba,13065
+2022,Region,National Capital Region (NCR),141747
+2022,Region,New Brunswick,11720
+2022,Region,Newfoundland and Labrador,7745
+2022,Region,Northwest Territories,575
+2022,Region,Nova Scotia,12181
+2022,Region,Nunavut,353
+2022,Region,Ontario (minus the NCR),45048
+2022,Region,Outside of Canada,1478
+2022,Region,Prince Edward Island,4010
+2022,Region,Quebec (minus the NCR),36298
+2022,Region,Saskatchewan,6328
+2022,Region,Unknown,8911
+2022,Region,Yukon,433
+2023,Region,Alberta,19479
+2023,Region,British Columbia,29257
+2023,Region,Manitoba,13403
+2023,Region,National Capital Region (NCR),151936
+2023,Region,New Brunswick,12431
+2023,Region,Newfoundland and Labrador,7852
+2023,Region,Northwest Territories,596
+2023,Region,Nova Scotia,13005
+2023,Region,Nunavut,366
+2023,Region,Ontario (minus the NCR),48749
+2023,Region,Outside of Canada,1540
+2023,Region,Prince Edward Island,4292
+2023,Region,Quebec (minus the NCR),38910
+2023,Region,Saskatchewan,6597
+2023,Region,Unknown,8357
+2023,Region,Yukon,477
+2024,Region,Alberta,19602
+2024,Region,British Columbia,29881
+2024,Region,Manitoba,13995
+2024,Region,National Capital Region (NCR),155505
+2024,Region,New Brunswick,13410
+2024,Region,Newfoundland and Labrador,7606
+2024,Region,Northwest Territories,601
+2024,Region,Nova Scotia,13446
+2024,Region,Nunavut,396
+2024,Region,Ontario (minus the NCR),50891
+2024,Region,Outside of Canada,1571
+2024,Region,Prince Edward Island,4342
+2024,Region,Quebec (minus the NCR),39926
+2024,Region,Saskatchewan,6803
+2024,Region,Unknown,9316
+2024,Region,Yukon,481
+2025,Region,Alberta,18880
+2025,Region,British Columbia,28901
+2025,Region,Manitoba,13235
+2025,Region,National Capital Region (NCR),153979
+2025,Region,New Brunswick,13108
+2025,Region,Newfoundland and Labrador,6995
+2025,Region,Northwest Territories,591
+2025,Region,Nova Scotia,12967
+2025,Region,Nunavut,408
+2025,Region,Ontario (minus the NCR),48886
+2025,Region,Outside of Canada,1584
+2025,Region,Prince Edward Island,4130
+2025,Region,Quebec (minus the NCR),38872
+2025,Region,Saskatchewan,6640
+2025,Region,Unknown,8315
+2025,Region,Yukon,474
+2026,Region,Alberta,18603
+2026,Region,British Columbia,27941
+2026,Region,Manitoba,12680
+2026,Region,National Capital Region (NCR),146149
+2026,Region,New Brunswick,12507
+2026,Region,Newfoundland and Labrador,6889
+2026,Region,Northwest Territories,594
+2026,Region,Nova Scotia,12875
+2026,Region,Nunavut,372
+2026,Region,Ontario (minus the NCR),47374
+2026,Region,Outside of Canada,1600
+2026,Region,Prince Edward Island,3953
+2026,Region,Quebec (minus the NCR),37894
+2026,Region,Saskatchewan,6381
+2026,Region,Unknown,9005
+2026,Region,Yukon,465
+2010,Sex,Men,126723
+2010,Sex,Women,156146
+2011,Sex,Men,126427
+2011,Sex,Women,155839
+2012,Sex,Men,124709
+2012,Sex,Women,153299
+2013,Sex,Men,118357
+2013,Sex,Women,144402
+2014,Sex,Men,115992
+2014,Sex,Women,141069
+2015,Sex,Men,115680
+2015,Sex,Women,141338
+2016,Sex,Men,116347
+2016,Sex,Unknown,11
+2016,Sex,Women,142614
+2017,Sex,Men,117791
+2017,Sex,Unknown,127
+2017,Sex,Women,144733
+2018,Sex,Men,122238
+2018,Sex,Unknown,120
+2018,Sex,Women,151189
+2019,Sex,Men,128727
+2019,Sex,Unknown,168
+2019,Sex,Women,159075
+2020,Sex,Men,133986
+2020,Sex,Unknown,202
+2020,Sex,Women,166243
+2021,Sex,Men,140791
+2021,Sex,Unknown,208
+2021,Sex,Women,178595
+2022,Sex,Men,146779
+2022,Sex,Unknown,187
+2022,Sex,Women,188982
+2023,Sex,Men,154256
+2023,Sex,Unknown,220
+2023,Sex,Women,202739
+2024,Sex,Men,158618
+2024,Sex,Unknown,238
+2024,Sex,Women,208899
+2025,Sex,Men,155361
+2025,Sex,Unknown,70
+2025,Sex,Women,202510
+2026,Sex,Men,151080
+2026,Sex,Unknown,118
+2026,Sex,Women,194063
+2010,Tenure,Casual,7292
+2010,Tenure,Indeterminate,243826
+2010,Tenure,Student,6128
+2010,Tenure,Term,25734
+2011,Tenure,Casual,7706
+2011,Tenure,Indeterminate,245157
+2011,Tenure,Student,5891
+2011,Tenure,Term,23598
+2012,Tenure,Casual,6743
+2012,Tenure,Indeterminate,243144
+2012,Tenure,Student,5418
+2012,Tenure,Term,22787
+2013,Tenure,Casual,6692
+2013,Tenure,Indeterminate,230283
+2013,Tenure,Student,4605
+2013,Tenure,Term,21237
+2014,Tenure,Casual,8002
+2014,Tenure,Indeterminate,222721
+2014,Tenure,Student,5189
+2014,Tenure,Term,21226
+2015,Tenure,Casual,8663
+2015,Tenure,Indeterminate,219668
+2015,Tenure,Student,5500
+2015,Tenure,Term,23203
+2016,Tenure,Casual,9251
+2016,Tenure,Indeterminate,218544
+2016,Tenure,Student,5712
+2016,Tenure,Term,25472
+2017,Tenure,Casual,7505
+2017,Tenure,Indeterminate,222474
+2017,Tenure,Student,6281
+2017,Tenure,Term,26389
+2017,Tenure,Unknown,47
+2018,Tenure,Casual,8397
+2018,Tenure,Indeterminate,228720
+2018,Tenure,Student,7426
+2018,Tenure,Term,28969
+2018,Tenure,Unknown,59
+2019,Tenure,Casual,8984
+2019,Tenure,Indeterminate,239645
+2019,Tenure,Student,8156
+2019,Tenure,Term,31145
+2019,Tenure,Unknown,53
+2020,Tenure,Casual,8573
+2020,Tenure,Indeterminate,249973
+2020,Tenure,Student,8852
+2020,Tenure,Term,33010
+2020,Tenure,Unknown,42
+2021,Tenure,Casual,9336
+2021,Tenure,Indeterminate,262667
+2021,Tenure,Student,8064
+2021,Tenure,Term,39505
+2021,Tenure,Unknown,29
+2022,Tenure,Casual,9648
+2022,Tenure,Indeterminate,271476
+2022,Tenure,Student,8926
+2022,Tenure,Term,45877
+2022,Tenure,Unknown,30
+2023,Tenure,Casual,8643
+2023,Tenure,Indeterminate,290981
+2023,Tenure,Student,9203
+2023,Tenure,Term,48361
+2023,Tenure,Unknown,59
+2024,Tenure,Casual,6990
+2024,Tenure,Indeterminate,304131
+2024,Tenure,Student,9120
+2024,Tenure,Term,47460
+2024,Tenure,Unknown,71
+2025,Tenure,Casual,4210
+2025,Tenure,Indeterminate,306872
+2025,Tenure,Student,7370
+2025,Tenure,Term,39468
+2025,Tenure,Unknown,45
+2026,Tenure,Casual,3221
+2026,Tenure,Indeterminate,300470
+2026,Tenure,Student,5907
+2026,Tenure,Term,35648
+2026,Tenure,Unknown,36

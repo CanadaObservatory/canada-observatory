@@ -1,0 +1,2307 @@
+country_code,year,age,employment_rate,country_name
+AUS,1979,Older (55–64),43.43592,Australia
+AUS,1980,Older (55–64),43.5891,Australia
+AUS,1981,Older (55–64),42.51108,Australia
+AUS,1982,Older (55–64),40.88751,Australia
+AUS,1983,Older (55–64),39.08059,Australia
+AUS,1984,Older (55–64),38.9337,Australia
+AUS,1985,Older (55–64),38.15841,Australia
+AUS,1986,Older (55–64),39.36725,Australia
+AUS,1987,Older (55–64),39.36246,Australia
+AUS,1988,Older (55–64),39.77102,Australia
+AUS,1989,Older (55–64),40.89209,Australia
+AUS,1990,Older (55–64),41.50192,Australia
+AUS,1991,Older (55–64),40.14863,Australia
+AUS,1992,Older (55–64),39.34028,Australia
+AUS,1993,Older (55–64),38.56488,Australia
+AUS,1994,Older (55–64),40.29091,Australia
+AUS,1995,Older (55–64),41.60622,Australia
+AUS,1996,Older (55–64),42.2831,Australia
+AUS,1997,Older (55–64),42.71225,Australia
+AUS,1998,Older (55–64),43.61793,Australia
+AUS,1999,Older (55–64),44.025,Australia
+AUS,2000,Older (55–64),46.0477,Australia
+AUS,2001,Older (55–64),46.71805,Australia
+AUS,2002,Older (55–64),48.46489,Australia
+AUS,2003,Older (55–64),50.27998,Australia
+AUS,2004,Older (55–64),51.6954,Australia
+AUS,2005,Older (55–64),53.46741,Australia
+AUS,2006,Older (55–64),55.41442,Australia
+AUS,2007,Older (55–64),56.50653,Australia
+AUS,2008,Older (55–64),57.31216,Australia
+AUS,2009,Older (55–64),59.01427,Australia
+AUS,2010,Older (55–64),60.60284,Australia
+AUS,2011,Older (55–64),61.15654,Australia
+AUS,2012,Older (55–64),61.42891,Australia
+AUS,2013,Older (55–64),61.39897,Australia
+AUS,2014,Older (55–64),61.41941,Australia
+AUS,2015,Older (55–64),62.11502,Australia
+AUS,2016,Older (55–64),62.45998,Australia
+AUS,2017,Older (55–64),63.59138,Australia
+AUS,2018,Older (55–64),63.88053,Australia
+AUS,2019,Older (55–64),64.67661,Australia
+AUS,2020,Older (55–64),63.56425,Australia
+AUS,2021,Older (55–64),65.24633,Australia
+AUS,2022,Older (55–64),66.95142,Australia
+AUS,2023,Older (55–64),66.92376,Australia
+AUS,2024,Older (55–64),67.38094,Australia
+AUS,2025,Older (55–64),66.88694,Australia
+AUS,1979,Prime-age (25–54),70.71983,Australia
+AUS,1980,Prime-age (25–54),71.19049,Australia
+AUS,1981,Prime-age (25–54),71.39142,Australia
+AUS,1982,Prime-age (25–54),70.63979,Australia
+AUS,1983,Prime-age (25–54),68.88377,Australia
+AUS,1984,Prime-age (25–54),70.02629,Australia
+AUS,1985,Prime-age (25–54),71.06119,Australia
+AUS,1986,Prime-age (25–54),72.67167,Australia
+AUS,1987,Prime-age (25–54),72.94643,Australia
+AUS,1988,Prime-age (25–54),74.20647,Australia
+AUS,1989,Prime-age (25–54),75.5411,Australia
+AUS,1990,Prime-age (25–54),76.03415,Australia
+AUS,1991,Prime-age (25–54),74.26691,Australia
+AUS,1992,Prime-age (25–54),73.28902,Australia
+AUS,1993,Prime-age (25–54),72.84747,Australia
+AUS,1994,Prime-age (25–54),73.6044,Australia
+AUS,1995,Prime-age (25–54),75.04407,Australia
+AUS,1996,Prime-age (25–54),74.98886,Australia
+AUS,1997,Prime-age (25–54),74.90452,Australia
+AUS,1998,Prime-age (25–54),75.13912,Australia
+AUS,1999,Prime-age (25–54),75.49137,Australia
+AUS,2000,Prime-age (25–54),76.22829,Australia
+AUS,2001,Prime-age (25–54),76.28022,Australia
+AUS,2002,Prime-age (25–54),76.7261,Australia
+AUS,2003,Prime-age (25–54),77.2747,Australia
+AUS,2004,Prime-age (25–54),77.45007,Australia
+AUS,2005,Prime-age (25–54),78.76469,Australia
+AUS,2006,Prime-age (25–54),79.17829,Australia
+AUS,2007,Prime-age (25–54),79.92666,Australia
+AUS,2008,Prime-age (25–54),80.31086,Australia
+AUS,2009,Prime-age (25–54),79.15042,Australia
+AUS,2010,Prime-age (25–54),79.46227,Australia
+AUS,2011,Prime-age (25–54),79.8016,Australia
+AUS,2012,Prime-age (25–54),79.45096,Australia
+AUS,2013,Prime-age (25–54),79.1446,Australia
+AUS,2014,Prime-age (25–54),78.79925,Australia
+AUS,2015,Prime-age (25–54),79.30939,Australia
+AUS,2016,Prime-age (25–54),79.63879,Australia
+AUS,2017,Prime-age (25–54),79.97004,Australia
+AUS,2018,Prime-age (25–54),80.60462,Australia
+AUS,2019,Prime-age (25–54),81.27307,Australia
+AUS,2020,Prime-age (25–54),79.73737,Australia
+AUS,2021,Prime-age (25–54),81.47801,Australia
+AUS,2022,Prime-age (25–54),83.18387,Australia
+AUS,2023,Prime-age (25–54),83.78296,Australia
+AUS,2024,Prime-age (25–54),83.80037,Australia
+AUS,2025,Prime-age (25–54),84.12206,Australia
+AUS,1979,Total (15–64),64.38335,Australia
+AUS,1980,Total (15–64),65.17445,Australia
+AUS,1981,Total (15–64),65.36742,Australia
+AUS,1982,Total (15–64),64.16441,Australia
+AUS,1983,Total (15–64),61.94022,Australia
+AUS,1984,Total (15–64),62.82397,Australia
+AUS,1985,Total (15–64),63.7218,Australia
+AUS,1986,Total (15–64),65.14481,Australia
+AUS,1987,Total (15–64),65.30288,Australia
+AUS,1988,Total (15–64),66.48173,Australia
+AUS,1989,Total (15–64),68.19857,Australia
+AUS,1990,Total (15–64),68.37136,Australia
+AUS,1991,Total (15–64),65.9215,Australia
+AUS,1992,Total (15–64),64.93269,Australia
+AUS,1993,Total (15–64),64.61858,Australia
+AUS,1994,Total (15–64),66.00251,Australia
+AUS,1995,Total (15–64),67.62838,Australia
+AUS,1996,Total (15–64),67.66373,Australia
+AUS,1997,Total (15–64),67.36479,Australia
+AUS,1998,Total (15–64),67.80048,Australia
+AUS,1999,Total (15–64),68.23203,Australia
+AUS,2000,Total (15–64),69.09614,Australia
+AUS,2001,Total (15–64),69.00098,Australia
+AUS,2002,Total (15–64),69.35914,Australia
+AUS,2003,Total (15–64),70.01125,Australia
+AUS,2004,Total (15–64),70.29926,Australia
+AUS,2005,Total (15–64),71.54403,Australia
+AUS,2006,Total (15–64),72.12262,Australia
+AUS,2007,Total (15–64),72.80006,Australia
+AUS,2008,Total (15–64),73.20431,Australia
+AUS,2009,Total (15–64),72.05107,Australia
+AUS,2010,Total (15–64),72.37024,Australia
+AUS,2011,Total (15–64),72.65694,Australia
+AUS,2012,Total (15–64),72.34558,Australia
+AUS,2013,Total (15–64),71.97044,Australia
+AUS,2014,Total (15–64),71.56635,Australia
+AUS,2015,Total (15–64),72.15796,Australia
+AUS,2016,Total (15–64),72.38454,Australia
+AUS,2017,Total (15–64),72.77106,Australia
+AUS,2018,Total (15–64),73.48926,Australia
+AUS,2019,Total (15–64),74.11063,Australia
+AUS,2020,Total (15–64),72.35858,Australia
+AUS,2021,Total (15–64),74.58321,Australia
+AUS,2022,Total (15–64),76.91293,Australia
+AUS,2023,Total (15–64),77.21012,Australia
+AUS,2024,Total (15–64),77.062,Australia
+AUS,2025,Total (15–64),77.2048,Australia
+AUS,1979,Youth (15–24),61.32872,Australia
+AUS,1980,Youth (15–24),63.1339,Australia
+AUS,1981,Youth (15–24),63.91809,Australia
+AUS,1982,Youth (15–24),61.81898,Australia
+AUS,1983,Youth (15–24),58.2422,Australia
+AUS,1984,Youth (15–24),59.10777,Australia
+AUS,1985,Youth (15–24),60.42351,Australia
+AUS,1986,Youth (15–24),61.17297,Australia
+AUS,1987,Youth (15–24),60.64837,Australia
+AUS,1988,Youth (15–24),61.50822,Australia
+AUS,1989,Youth (15–24),64.0514,Australia
+AUS,1990,Youth (15–24),62.71616,Australia
+AUS,1991,Youth (15–24),57.47632,Australia
+AUS,1992,Youth (15–24),56.00672,Australia
+AUS,1993,Youth (15–24),55.98206,Australia
+AUS,1994,Youth (15–24),58.66628,Australia
+AUS,1995,Youth (15–24),60.74919,Australia
+AUS,1996,Youth (15–24),60.44778,Australia
+AUS,1997,Youth (15–24),58.95333,Australia
+AUS,1998,Youth (15–24),59.76173,Australia
+AUS,1999,Youth (15–24),60.74959,Australia
+AUS,2000,Youth (15–24),61.69279,Australia
+AUS,2001,Youth (15–24),61.14346,Australia
+AUS,2002,Youth (15–24),61.0159,Australia
+AUS,2003,Youth (15–24),61.8184,Australia
+AUS,2004,Youth (15–24),62.16285,Australia
+AUS,2005,Youth (15–24),63.28848,Australia
+AUS,2006,Youth (15–24),63.69736,Australia
+AUS,2007,Youth (15–24),64.13256,Australia
+AUS,2008,Youth (15–24),64.51452,Australia
+AUS,2009,Youth (15–24),61.18265,Australia
+AUS,2010,Youth (15–24),60.52081,Australia
+AUS,2011,Youth (15–24),60.38575,Australia
+AUS,2012,Youth (15–24),59.60047,Australia
+AUS,2013,Youth (15–24),58.65664,Australia
+AUS,2014,Youth (15–24),57.70333,Australia
+AUS,2015,Youth (15–24),58.44546,Australia
+AUS,2016,Youth (15–24),58.25937,Australia
+AUS,2017,Youth (15–24),58.14388,Australia
+AUS,2018,Youth (15–24),59.49282,Australia
+AUS,2019,Youth (15–24),59.72261,Australia
+AUS,2020,Youth (15–24),56.34462,Australia
+AUS,2021,Youth (15–24),60.35534,Australia
+AUS,2022,Youth (15–24),65.46167,Australia
+AUS,2023,Youth (15–24),65.11491,Australia
+AUS,2024,Youth (15–24),63.86255,Australia
+AUS,2025,Youth (15–24),63.98808,Australia
+CAN,1976,Older (55–64),50.82504,Canada
+CAN,1977,Older (55–64),49.57801,Canada
+CAN,1978,Older (55–64),49.19756,Canada
+CAN,1979,Older (55–64),50.45618,Canada
+CAN,1980,Older (55–64),50.10405,Canada
+CAN,1981,Older (55–64),49.8343,Canada
+CAN,1982,Older (55–64),48.0094,Canada
+CAN,1983,Older (55–64),46.82079,Canada
+CAN,1984,Older (55–64),46.43158,Canada
+CAN,1985,Older (55–64),46.23146,Canada
+CAN,1986,Older (55–64),45.89264,Canada
+CAN,1987,Older (55–64),45.81949,Canada
+CAN,1988,Older (55–64),46.30912,Canada
+CAN,1989,Older (55–64),46.022,Canada
+CAN,1990,Older (55–64),46.16728,Canada
+CAN,1991,Older (55–64),44.47855,Canada
+CAN,1992,Older (55–64),43.73086,Canada
+CAN,1993,Older (55–64),43.028,Canada
+CAN,1994,Older (55–64),43.65039,Canada
+CAN,1995,Older (55–64),43.1855,Canada
+CAN,1996,Older (55–64),43.47093,Canada
+CAN,1997,Older (55–64),44.49408,Canada
+CAN,1998,Older (55–64),45.31283,Canada
+CAN,1999,Older (55–64),46.75072,Canada
+CAN,2000,Older (55–64),48.09698,Canada
+CAN,2001,Older (55–64),48.18778,Canada
+CAN,2002,Older (55–64),50.02547,Canada
+CAN,2003,Older (55–64),53.02614,Canada
+CAN,2004,Older (55–64),53.90778,Canada
+CAN,2005,Older (55–64),54.80051,Canada
+CAN,2006,Older (55–64),55.12395,Canada
+CAN,2007,Older (55–64),56.28838,Canada
+CAN,2008,Older (55–64),56.66791,Canada
+CAN,2009,Older (55–64),56.98613,Canada
+CAN,2010,Older (55–64),57.61163,Canada
+CAN,2011,Older (55–64),57.93619,Canada
+CAN,2012,Older (55–64),58.83211,Canada
+CAN,2013,Older (55–64),59.77877,Canada
+CAN,2014,Older (55–64),59.89488,Canada
+CAN,2015,Older (55–64),60.27258,Canada
+CAN,2016,Older (55–64),60.93071,Canada
+CAN,2017,Older (55–64),61.57945,Canada
+CAN,2018,Older (55–64),62.56298,Canada
+CAN,2019,Older (55–64),63.01475,Canada
+CAN,2020,Older (55–64),60.39407,Canada
+CAN,2021,Older (55–64),62.81318,Canada
+CAN,2022,Older (55–64),63.24239,Canada
+CAN,2023,Older (55–64),64.66301,Canada
+CAN,2024,Older (55–64),64.38299,Canada
+CAN,2025,Older (55–64),63.74889,Canada
+CAN,1976,Prime-age (25–54),69.61667,Canada
+CAN,1977,Prime-age (25–54),69.625,Canada
+CAN,1978,Prime-age (25–54),70.66666,Canada
+CAN,1979,Prime-age (25–54),72.0,Canada
+CAN,1980,Prime-age (25–54),72.84167,Canada
+CAN,1981,Prime-age (25–54),73.99167,Canada
+CAN,1982,Prime-age (25–54),71.6,Canada
+CAN,1983,Prime-age (25–54),71.45834,Canada
+CAN,1984,Prime-age (25–54),72.21667,Canada
+CAN,1985,Prime-age (25–54),73.69167,Canada
+CAN,1986,Prime-age (25–54),75.15833,Canada
+CAN,1987,Prime-age (25–54),76.25,Canada
+CAN,1988,Prime-age (25–54),77.55833,Canada
+CAN,1989,Prime-age (25–54),78.25,Canada
+CAN,1990,Prime-age (25–54),78.08334,Canada
+CAN,1991,Prime-age (25–54),76.35833,Canada
+CAN,1992,Prime-age (25–54),74.98333,Canada
+CAN,1993,Prime-age (25–54),74.93333,Canada
+CAN,1994,Prime-age (25–54),75.48333,Canada
+CAN,1995,Prime-age (25–54),76.2,Canada
+CAN,1996,Prime-age (25–54),76.16666,Canada
+CAN,1997,Prime-age (25–54),77.325,Canada
+CAN,1998,Prime-age (25–54),78.35833,Canada
+CAN,1999,Prime-age (25–54),79.175,Canada
+CAN,2000,Prime-age (25–54),79.88333,Canada
+CAN,2001,Prime-age (25–54),79.79166,Canada
+CAN,2002,Prime-age (25–54),80.25833,Canada
+CAN,2003,Prime-age (25–54),80.81667,Canada
+CAN,2004,Prime-age (25–54),81.34167,Canada
+CAN,2005,Prime-age (25–54),81.325,Canada
+CAN,2006,Prime-age (25–54),81.55833,Canada
+CAN,2007,Prime-age (25–54),82.03333,Canada
+CAN,2008,Prime-age (25–54),82.09167,Canada
+CAN,2009,Prime-age (25–54),80.24167,Canada
+CAN,2010,Prime-age (25–54),80.38333,Canada
+CAN,2011,Prime-age (25–54),80.85,Canada
+CAN,2012,Prime-age (25–54),81.275,Canada
+CAN,2013,Prime-age (25–54),81.5,Canada
+CAN,2014,Prime-age (25–54),81.18333,Canada
+CAN,2015,Prime-age (25–54),81.36667,Canada
+CAN,2016,Prime-age (25–54),81.23333,Canada
+CAN,2017,Prime-age (25–54),82.175,Canada
+CAN,2018,Prime-age (25–54),82.775,Canada
+CAN,2019,Prime-age (25–54),83.35833,Canada
+CAN,2020,Prime-age (25–54),79.59167,Canada
+CAN,2021,Prime-age (25–54),82.44167,Canada
+CAN,2022,Prime-age (25–54),84.65833,Canada
+CAN,2023,Prime-age (25–54),84.73333,Canada
+CAN,2024,Prime-age (25–54),83.8,Canada
+CAN,2025,Prime-age (25–54),83.33334,Canada
+CAN,1976,Total (15–64),63.075,Canada
+CAN,1977,Total (15–64),62.93333,Canada
+CAN,1978,Total (15–64),63.7,Canada
+CAN,1979,Total (15–64),65.38333,Canada
+CAN,1980,Total (15–64),66.13333,Canada
+CAN,1981,Total (15–64),67.0,Canada
+CAN,1982,Total (15–64),63.90833,Canada
+CAN,1983,Total (15–64),63.65833,Canada
+CAN,1984,Total (15–64),64.58334,Canada
+CAN,1985,Total (15–64),66.00833,Canada
+CAN,1986,Total (15–64),67.40833,Canada
+CAN,1987,Total (15–64),68.575,Canada
+CAN,1988,Total (15–64),69.98333,Canada
+CAN,1989,Total (15–64),70.76667,Canada
+CAN,1990,Total (15–64),70.35,Canada
+CAN,1991,Total (15–64),68.25833,Canada
+CAN,1992,Total (15–64),66.80833,Canada
+CAN,1993,Total (15–64),66.45834,Canada
+CAN,1994,Total (15–64),67.025,Canada
+CAN,1995,Total (15–64),67.525,Canada
+CAN,1996,Total (15–64),67.35,Canada
+CAN,1997,Total (15–64),67.98333,Canada
+CAN,1998,Total (15–64),68.95,Canada
+CAN,1999,Total (15–64),69.98333,Canada
+CAN,2000,Total (15–64),70.9,Canada
+CAN,2001,Total (15–64),70.79166,Canada
+CAN,2002,Total (15–64),71.41666,Canada
+CAN,2003,Total (15–64),72.18333,Canada
+CAN,2004,Total (15–64),72.45,Canada
+CAN,2005,Total (15–64),72.44167,Canada
+CAN,2006,Total (15–64),72.84167,Canada
+CAN,2007,Total (15–64),73.46667,Canada
+CAN,2008,Total (15–64),73.45834,Canada
+CAN,2009,Total (15–64),71.50833,Canada
+CAN,2010,Total (15–64),71.55833,Canada
+CAN,2011,Total (15–64),71.875,Canada
+CAN,2012,Total (15–64),72.16666,Canada
+CAN,2013,Total (15–64),72.575,Canada
+CAN,2014,Total (15–64),72.36667,Canada
+CAN,2015,Total (15–64),72.59167,Canada
+CAN,2016,Total (15–64),72.525,Canada
+CAN,2017,Total (15–64),73.48333,Canada
+CAN,2018,Total (15–64),74.025,Canada
+CAN,2019,Total (15–64),74.59167,Canada
+CAN,2020,Total (15–64),70.10833,Canada
+CAN,2021,Total (15–64),73.50833,Canada
+CAN,2022,Total (15–64),75.6,Canada
+CAN,2023,Total (15–64),75.89167,Canada
+CAN,2024,Total (15–64),74.675,Canada
+CAN,2025,Total (15–64),74.20834,Canada
+CAN,1976,Youth (15–24),55.66667,Canada
+CAN,1977,Youth (15–24),55.69167,Canada
+CAN,1978,Youth (15–24),56.40833,Canada
+CAN,1979,Youth (15–24),58.88334,Canada
+CAN,1980,Youth (15–24),59.75834,Canada
+CAN,1981,Youth (15–24),60.40833,Canada
+CAN,1982,Youth (15–24),55.03333,Canada
+CAN,1983,Youth (15–24),54.60833,Canada
+CAN,1984,Youth (15–24),56.16667,Canada
+CAN,1985,Youth (15–24),57.79167,Canada
+CAN,1986,Youth (15–24),59.53333,Canada
+CAN,1987,Youth (15–24),61.05,Canada
+CAN,1988,Youth (15–24),62.48333,Canada
+CAN,1989,Youth (15–24),63.38334,Canada
+CAN,1990,Youth (15–24),61.28333,Canada
+CAN,1991,Youth (15–24),57.325,Canada
+CAN,1992,Youth (15–24),54.75834,Canada
+CAN,1993,Youth (15–24),53.36666,Canada
+CAN,1994,Youth (15–24),53.75834,Canada
+CAN,1995,Youth (15–24),53.78333,Canada
+CAN,1996,Youth (15–24),52.66667,Canada
+CAN,1997,Youth (15–24),51.475,Canada
+CAN,1998,Youth (15–24),52.44167,Canada
+CAN,1999,Youth (15–24),54.54167,Canada
+CAN,2000,Youth (15–24),56.23333,Canada
+CAN,2001,Youth (15–24),56.34167,Canada
+CAN,2002,Youth (15–24),57.46667,Canada
+CAN,2003,Youth (15–24),58.15,Canada
+CAN,2004,Youth (15–24),57.83333,Canada
+CAN,2005,Youth (15–24),57.7,Canada
+CAN,2006,Youth (15–24),59.35833,Canada
+CAN,2007,Youth (15–24),60.5,Canada
+CAN,2008,Youth (15–24),60.50834,Canada
+CAN,2009,Youth (15–24),56.41667,Canada
+CAN,2010,Youth (15–24),56.00834,Canada
+CAN,2011,Youth (15–24),56.46667,Canada
+CAN,2012,Youth (15–24),55.90833,Canada
+CAN,2013,Youth (15–24),56.5,Canada
+CAN,2014,Youth (15–24),56.63334,Canada
+CAN,2015,Youth (15–24),57.0,Canada
+CAN,2016,Youth (15–24),56.625,Canada
+CAN,2017,Youth (15–24),58.09167,Canada
+CAN,2018,Youth (15–24),58.11666,Canada
+CAN,2019,Youth (15–24),58.775,Canada
+CAN,2020,Youth (15–24),49.71667,Canada
+CAN,2021,Youth (15–24),55.51667,Canada
+CAN,2022,Youth (15–24),58.725,Canada
+CAN,2023,Youth (15–24),58.05833,Canada
+CAN,2024,Youth (15–24),54.83333,Canada
+CAN,2025,Youth (15–24),54.29167,Canada
+CHE,2005,Older (55–64),65.1,Switzerland
+CHE,2006,Older (55–64),65.7,Switzerland
+CHE,2007,Older (55–64),67.2,Switzerland
+CHE,2008,Older (55–64),68.4,Switzerland
+CHE,2009,Older (55–64),68.3,Switzerland
+CHE,2010,Older (55–64),66.225,Switzerland
+CHE,2011,Older (55–64),67.425,Switzerland
+CHE,2012,Older (55–64),68.225,Switzerland
+CHE,2013,Older (55–64),69.25,Switzerland
+CHE,2014,Older (55–64),69.225,Switzerland
+CHE,2015,Older (55–64),70.3,Switzerland
+CHE,2016,Older (55–64),71.475,Switzerland
+CHE,2017,Older (55–64),72.175,Switzerland
+CHE,2018,Older (55–64),72.6,Switzerland
+CHE,2019,Older (55–64),73.025,Switzerland
+CHE,2020,Older (55–64),73.5,Switzerland
+CHE,2021,Older (55–64),72.55,Switzerland
+CHE,2022,Older (55–64),73.425,Switzerland
+CHE,2023,Older (55–64),74.9,Switzerland
+CHE,2024,Older (55–64),75.1,Switzerland
+CHE,2025,Older (55–64),75.3,Switzerland
+CHE,2005,Prime-age (25–54),85.1,Switzerland
+CHE,2006,Prime-age (25–54),85.2,Switzerland
+CHE,2007,Prime-age (25–54),86.1,Switzerland
+CHE,2008,Prime-age (25–54),87.2,Switzerland
+CHE,2009,Prime-age (25–54),86.7,Switzerland
+CHE,2010,Prime-age (25–54),84.325,Switzerland
+CHE,2011,Prime-age (25–54),85.425,Switzerland
+CHE,2012,Prime-age (25–54),85.75,Switzerland
+CHE,2013,Prime-age (25–54),85.225,Switzerland
+CHE,2014,Prime-age (25–54),85.775,Switzerland
+CHE,2015,Prime-age (25–54),86.275,Switzerland
+CHE,2016,Prime-age (25–54),86.3,Switzerland
+CHE,2017,Prime-age (25–54),86.175,Switzerland
+CHE,2018,Prime-age (25–54),86.7,Switzerland
+CHE,2019,Prime-age (25–54),87.575,Switzerland
+CHE,2020,Prime-age (25–54),87.0,Switzerland
+CHE,2021,Prime-age (25–54),86.55,Switzerland
+CHE,2022,Prime-age (25–54),86.75,Switzerland
+CHE,2023,Prime-age (25–54),87.225,Switzerland
+CHE,2024,Prime-age (25–54),87.025,Switzerland
+CHE,2025,Prime-age (25–54),86.325,Switzerland
+CHE,2005,Total (15–64),77.2,Switzerland
+CHE,2006,Total (15–64),77.9,Switzerland
+CHE,2007,Total (15–64),78.6,Switzerland
+CHE,2008,Total (15–64),79.5,Switzerland
+CHE,2009,Total (15–64),79.0,Switzerland
+CHE,2010,Total (15–64),77.325,Switzerland
+CHE,2011,Total (15–64),78.35,Switzerland
+CHE,2012,Total (15–64),78.475,Switzerland
+CHE,2013,Total (15–64),78.4,Switzerland
+CHE,2014,Total (15–64),78.75,Switzerland
+CHE,2015,Total (15–64),79.2,Switzerland
+CHE,2016,Total (15–64),79.6,Switzerland
+CHE,2017,Total (15–64),79.8,Switzerland
+CHE,2018,Total (15–64),80.1,Switzerland
+CHE,2019,Total (15–64),80.475,Switzerland
+CHE,2020,Total (15–64),79.925,Switzerland
+CHE,2021,Total (15–64),79.6,Switzerland
+CHE,2022,Total (15–64),80.1,Switzerland
+CHE,2023,Total (15–64),80.65,Switzerland
+CHE,2024,Total (15–64),80.375,Switzerland
+CHE,2025,Total (15–64),79.9,Switzerland
+CHE,2005,Youth (15–24),59.9,Switzerland
+CHE,2006,Youth (15–24),63.3,Switzerland
+CHE,2007,Youth (15–24),62.6,Switzerland
+CHE,2008,Youth (15–24),62.4,Switzerland
+CHE,2009,Youth (15–24),61.6,Switzerland
+CHE,2010,Youth (15–24),62.5,Switzerland
+CHE,2011,Youth (15–24),63.25,Switzerland
+CHE,2012,Youth (15–24),61.95,Switzerland
+CHE,2013,Youth (15–24),62.075,Switzerland
+CHE,2014,Youth (15–24),62.05,Switzerland
+CHE,2015,Youth (15–24),61.55,Switzerland
+CHE,2016,Youth (15–24),62.5,Switzerland
+CHE,2017,Youth (15–24),63.125,Switzerland
+CHE,2018,Youth (15–24),62.6,Switzerland
+CHE,2019,Youth (15–24),61.15,Switzerland
+CHE,2020,Youth (15–24),59.425,Switzerland
+CHE,2021,Youth (15–24),60.525,Switzerland
+CHE,2022,Youth (15–24),61.6,Switzerland
+CHE,2023,Youth (15–24),61.525,Switzerland
+CHE,2024,Youth (15–24),60.35,Switzerland
+CHE,2025,Youth (15–24),60.075,Switzerland
+DEU,2005,Older (55–64),45.475,Germany
+DEU,2006,Older (55–64),48.15,Germany
+DEU,2007,Older (55–64),51.3,Germany
+DEU,2008,Older (55–64),53.75,Germany
+DEU,2009,Older (55–64),55.275,Germany
+DEU,2010,Older (55–64),56.975,Germany
+DEU,2011,Older (55–64),59.15,Germany
+DEU,2012,Older (55–64),60.725,Germany
+DEU,2013,Older (55–64),62.7,Germany
+DEU,2014,Older (55–64),64.625,Germany
+DEU,2015,Older (55–64),65.275,Germany
+DEU,2016,Older (55–64),67.6,Germany
+DEU,2017,Older (55–64),69.175,Germany
+DEU,2018,Older (55–64),70.5,Germany
+DEU,2019,Older (55–64),71.7,Germany
+DEU,2020,Older (55–64),70.16459,Germany
+DEU,2021,Older (55–64),71.875,Germany
+DEU,2022,Older (55–64),73.35,Germany
+DEU,2023,Older (55–64),74.55,Germany
+DEU,2024,Older (55–64),75.0,Germany
+DEU,2025,Older (55–64),75.275,Germany
+DEU,2005,Prime-age (25–54),77.375,Germany
+DEU,2006,Prime-age (25–54),78.8,Germany
+DEU,2007,Prime-age (25–54),80.275,Germany
+DEU,2008,Prime-age (25–54),80.95,Germany
+DEU,2009,Prime-age (25–54),79.775,Germany
+DEU,2010,Prime-age (25–54),80.55,Germany
+DEU,2011,Prime-age (25–54),81.9,Germany
+DEU,2012,Prime-age (25–54),82.3,Germany
+DEU,2013,Prime-age (25–54),82.375,Germany
+DEU,2014,Prime-age (25–54),82.425,Germany
+DEU,2015,Prime-age (25–54),82.7,Germany
+DEU,2016,Prime-age (25–54),82.925,Germany
+DEU,2017,Prime-age (25–54),83.275,Germany
+DEU,2018,Prime-age (25–54),83.875,Germany
+DEU,2019,Prime-age (25–54),84.45,Germany
+DEU,2020,Prime-age (25–54),81.88147,Germany
+DEU,2021,Prime-age (25–54),84.45,Germany
+DEU,2022,Prime-age (25–54),85.275,Germany
+DEU,2023,Prime-age (25–54),85.3,Germany
+DEU,2024,Prime-age (25–54),85.05,Germany
+DEU,2025,Prime-age (25–54),84.925,Germany
+DEU,2005,Total (15–64),65.45,Germany
+DEU,2006,Total (15–64),67.15,Germany
+DEU,2007,Total (15–64),68.975,Germany
+DEU,2008,Total (15–64),70.1,Germany
+DEU,2009,Total (15–64),69.375,Germany
+DEU,2010,Total (15–64),70.3,Germany
+DEU,2011,Total (15–64),71.775,Germany
+DEU,2012,Total (15–64),72.05,Germany
+DEU,2013,Total (15–64),72.55,Germany
+DEU,2014,Total (15–64),72.85,Germany
+DEU,2015,Total (15–64),73.05,Germany
+DEU,2016,Total (15–64),73.75,Germany
+DEU,2017,Total (15–64),74.4,Germany
+DEU,2018,Total (15–64),75.075,Germany
+DEU,2019,Total (15–64),75.825,Germany
+DEU,2020,Total (15–64),73.47839,Germany
+DEU,2021,Total (15–64),75.825,Germany
+DEU,2022,Total (15–64),76.95,Germany
+DEU,2023,Total (15–64),77.275,Germany
+DEU,2024,Total (15–64),77.225,Germany
+DEU,2025,Total (15–64),77.15,Germany
+DEU,2005,Youth (15–24),41.9,Germany
+DEU,2006,Youth (15–24),43.525,Germany
+DEU,2007,Youth (15–24),45.425,Germany
+DEU,2008,Youth (15–24),46.65,Germany
+DEU,2009,Youth (15–24),45.375,Germany
+DEU,2010,Youth (15–24),45.625,Germany
+DEU,2011,Youth (15–24),47.3,Germany
+DEU,2012,Youth (15–24),46.0,Germany
+DEU,2013,Youth (15–24),46.275,Germany
+DEU,2014,Youth (15–24),45.475,Germany
+DEU,2015,Youth (15–24),44.7,Germany
+DEU,2016,Youth (15–24),45.175,Germany
+DEU,2017,Youth (15–24),45.95,Germany
+DEU,2018,Youth (15–24),46.6,Germany
+DEU,2019,Youth (15–24),47.85,Germany
+DEU,2020,Youth (15–24),46.18663,Germany
+DEU,2021,Youth (15–24),48.5,Germany
+DEU,2022,Youth (15–24),50.35,Germany
+DEU,2023,Youth (15–24),50.85,Germany
+DEU,2024,Youth (15–24),51.025,Germany
+DEU,2025,Youth (15–24),50.8,Germany
+DNK,1999,Older (55–64),54.525,Denmark
+DNK,2000,Older (55–64),55.725,Denmark
+DNK,2001,Older (55–64),57.975,Denmark
+DNK,2002,Older (55–64),57.875,Denmark
+DNK,2003,Older (55–64),60.2,Denmark
+DNK,2004,Older (55–64),60.3,Denmark
+DNK,2005,Older (55–64),59.5,Denmark
+DNK,2006,Older (55–64),60.7,Denmark
+DNK,2007,Older (55–64),58.95,Denmark
+DNK,2008,Older (55–64),56.025,Denmark
+DNK,2009,Older (55–64),54.675,Denmark
+DNK,2010,Older (55–64),55.525,Denmark
+DNK,2011,Older (55–64),56.975,Denmark
+DNK,2012,Older (55–64),57.925,Denmark
+DNK,2013,Older (55–64),58.825,Denmark
+DNK,2014,Older (55–64),60.725,Denmark
+DNK,2015,Older (55–64),63.025,Denmark
+DNK,2016,Older (55–64),65.825,Denmark
+DNK,2017,Older (55–64),68.225,Denmark
+DNK,2018,Older (55–64),69.175,Denmark
+DNK,2019,Older (55–64),71.3,Denmark
+DNK,2020,Older (55–64),71.425,Denmark
+DNK,2021,Older (55–64),72.3,Denmark
+DNK,2022,Older (55–64),72.95,Denmark
+DNK,2023,Older (55–64),74.175,Denmark
+DNK,2024,Older (55–64),75.025,Denmark
+DNK,2025,Older (55–64),74.75,Denmark
+DNK,1999,Prime-age (25–54),83.95,Denmark
+DNK,2000,Prime-age (25–54),84.125,Denmark
+DNK,2001,Prime-age (25–54),84.4,Denmark
+DNK,2002,Prime-age (25–54),84.05,Denmark
+DNK,2003,Prime-age (25–54),83.475,Denmark
+DNK,2004,Prime-age (25–54),83.725,Denmark
+DNK,2005,Prime-age (25–54),84.525,Denmark
+DNK,2006,Prime-age (25–54),86.075,Denmark
+DNK,2007,Prime-age (25–54),86.125,Denmark
+DNK,2008,Prime-age (25–54),86.9,Denmark
+DNK,2009,Prime-age (25–54),84.025,Denmark
+DNK,2010,Prime-age (25–54),82.525,Denmark
+DNK,2011,Prime-age (25–54),82.05,Denmark
+DNK,2012,Prime-age (25–54),81.4,Denmark
+DNK,2013,Prime-age (25–54),81.3,Denmark
+DNK,2014,Prime-age (25–54),81.175,Denmark
+DNK,2015,Prime-age (25–54),81.475,Denmark
+DNK,2016,Prime-age (25–54),81.475,Denmark
+DNK,2017,Prime-age (25–54),81.425,Denmark
+DNK,2018,Prime-age (25–54),82.25,Denmark
+DNK,2019,Prime-age (25–54),82.625,Denmark
+DNK,2020,Prime-age (25–54),82.1,Denmark
+DNK,2021,Prime-age (25–54),83.35,Denmark
+DNK,2022,Prime-age (25–54),84.575,Denmark
+DNK,2023,Prime-age (25–54),83.55,Denmark
+DNK,2024,Prime-age (25–54),83.675,Denmark
+DNK,2025,Prime-age (25–54),82.9,Denmark
+DNK,1999,Total (15–64),76.05,Denmark
+DNK,2000,Total (15–64),76.25,Denmark
+DNK,2001,Total (15–64),76.2,Denmark
+DNK,2002,Total (15–64),75.875,Denmark
+DNK,2003,Total (15–64),75.125,Denmark
+DNK,2004,Total (15–64),75.675,Denmark
+DNK,2005,Total (15–64),75.9,Denmark
+DNK,2006,Total (15–64),77.375,Denmark
+DNK,2007,Total (15–64),77.0,Denmark
+DNK,2008,Total (15–64),76.325,Denmark
+DNK,2009,Total (15–64),73.525,Denmark
+DNK,2010,Total (15–64),71.8,Denmark
+DNK,2011,Total (15–64),71.625,Denmark
+DNK,2012,Total (15–64),71.025,Denmark
+DNK,2013,Total (15–64),70.775,Denmark
+DNK,2014,Total (15–64),71.1,Denmark
+DNK,2015,Total (15–64),71.975,Denmark
+DNK,2016,Total (15–64),72.675,Denmark
+DNK,2017,Total (15–64),73.225,Denmark
+DNK,2018,Total (15–64),74.125,Denmark
+DNK,2019,Total (15–64),75.0,Denmark
+DNK,2020,Total (15–64),74.425,Denmark
+DNK,2021,Total (15–64),75.475,Denmark
+DNK,2022,Total (15–64),76.775,Denmark
+DNK,2023,Total (15–64),76.575,Denmark
+DNK,2024,Total (15–64),77.225,Denmark
+DNK,2025,Total (15–64),76.925,Denmark
+DNK,1999,Youth (15–24),65.45,Denmark
+DNK,2000,Youth (15–24),65.975,Denmark
+DNK,2001,Youth (15–24),62.275,Denmark
+DNK,2002,Youth (15–24),63.525,Denmark
+DNK,2003,Youth (15–24),59.575,Denmark
+DNK,2004,Youth (15–24),62.3,Denmark
+DNK,2005,Youth (15–24),62.275,Denmark
+DNK,2006,Youth (15–24),64.55,Denmark
+DNK,2007,Youth (15–24),65.325,Denmark
+DNK,2008,Youth (15–24),62.525,Denmark
+DNK,2009,Youth (15–24),58.75,Denmark
+DNK,2010,Youth (15–24),54.0,Denmark
+DNK,2011,Youth (15–24),53.0,Denmark
+DNK,2012,Youth (15–24),51.375,Denmark
+DNK,2013,Youth (15–24),49.525,Denmark
+DNK,2014,Youth (15–24),49.975,Denmark
+DNK,2015,Youth (15–24),51.35,Denmark
+DNK,2016,Youth (15–24),52.3,Denmark
+DNK,2017,Youth (15–24),52.9,Denmark
+DNK,2018,Youth (15–24),53.75,Denmark
+DNK,2019,Youth (15–24),55.0,Denmark
+DNK,2020,Youth (15–24),53.225,Denmark
+DNK,2021,Youth (15–24),53.875,Denmark
+DNK,2022,Youth (15–24),56.125,Denmark
+DNK,2023,Youth (15–24),57.025,Denmark
+DNK,2024,Youth (15–24),59.025,Denmark
+DNK,2025,Youth (15–24),60.3,Denmark
+FIN,1998,Older (55–64),36.275,Finland
+FIN,1999,Older (55–64),38.8,Finland
+FIN,2000,Older (55–64),41.675,Finland
+FIN,2001,Older (55–64),45.725,Finland
+FIN,2002,Older (55–64),47.85,Finland
+FIN,2003,Older (55–64),49.625,Finland
+FIN,2004,Older (55–64),50.95,Finland
+FIN,2005,Older (55–64),52.725,Finland
+FIN,2006,Older (55–64),54.55,Finland
+FIN,2007,Older (55–64),55.05,Finland
+FIN,2008,Older (55–64),56.45,Finland
+FIN,2009,Older (55–64),54.8,Finland
+FIN,2010,Older (55–64),55.4,Finland
+FIN,2011,Older (55–64),56.15,Finland
+FIN,2012,Older (55–64),57.4,Finland
+FIN,2013,Older (55–64),57.85,Finland
+FIN,2014,Older (55–64),58.475,Finland
+FIN,2015,Older (55–64),59.125,Finland
+FIN,2016,Older (55–64),60.65,Finland
+FIN,2017,Older (55–64),61.725,Finland
+FIN,2018,Older (55–64),64.6,Finland
+FIN,2019,Older (55–64),65.875,Finland
+FIN,2020,Older (55–64),66.625,Finland
+FIN,2021,Older (55–64),68.35,Finland
+FIN,2022,Older (55–64),71.225,Finland
+FIN,2023,Older (55–64),71.725,Finland
+FIN,2024,Older (55–64),71.7,Finland
+FIN,2025,Older (55–64),72.25,Finland
+FIN,1998,Prime-age (25–54),78.725,Finland
+FIN,1999,Prime-age (25–54),80.325,Finland
+FIN,2000,Prime-age (25–54),80.85,Finland
+FIN,2001,Prime-age (25–54),81.425,Finland
+FIN,2002,Prime-age (25–54),81.525,Finland
+FIN,2003,Prime-age (25–54),81.125,Finland
+FIN,2004,Prime-age (25–54),81.025,Finland
+FIN,2005,Prime-age (25–54),81.7,Finland
+FIN,2006,Prime-age (25–54),82.45,Finland
+FIN,2007,Prime-age (25–54),83.35,Finland
+FIN,2008,Prime-age (25–54),84.3,Finland
+FIN,2009,Prime-age (25–54),81.4,Finland
+FIN,2010,Prime-age (25–54),80.375,Finland
+FIN,2011,Prime-age (25–54),81.075,Finland
+FIN,2012,Prime-age (25–54),80.9,Finland
+FIN,2013,Prime-age (25–54),80.075,Finland
+FIN,2014,Prime-age (25–54),79.55,Finland
+FIN,2015,Prime-age (25–54),78.825,Finland
+FIN,2016,Prime-age (25–54),78.9,Finland
+FIN,2017,Prime-age (25–54),79.6,Finland
+FIN,2018,Prime-age (25–54),81.4,Finland
+FIN,2019,Prime-age (25–54),82.125,Finland
+FIN,2020,Prime-age (25–54),81.375,Finland
+FIN,2021,Prime-age (25–54),82.325,Finland
+FIN,2022,Prime-age (25–54),83.275,Finland
+FIN,2023,Prime-age (25–54),82.8,Finland
+FIN,2024,Prime-age (25–54),81.225,Finland
+FIN,2025,Prime-age (25–54),80.275,Finland
+FIN,1998,Total (15–64),64.05,Finland
+FIN,1999,Total (15–64),66.275,Finland
+FIN,2000,Total (15–64),67.15,Finland
+FIN,2001,Total (15–64),68.125,Finland
+FIN,2002,Total (15–64),68.075,Finland
+FIN,2003,Total (15–64),67.7,Finland
+FIN,2004,Total (15–64),67.65,Finland
+FIN,2005,Total (15–64),68.375,Finland
+FIN,2006,Total (15–64),69.35,Finland
+FIN,2007,Total (15–64),70.3,Finland
+FIN,2008,Total (15–64),71.05,Finland
+FIN,2009,Total (15–64),67.9,Finland
+FIN,2010,Total (15–64),67.15,Finland
+FIN,2011,Total (15–64),68.0,Finland
+FIN,2012,Total (15–64),68.45,Finland
+FIN,2013,Total (15–64),68.075,Finland
+FIN,2014,Total (15–64),67.95,Finland
+FIN,2015,Total (15–64),67.55,Finland
+FIN,2016,Total (15–64),68.225,Finland
+FIN,2017,Total (15–64),69.075,Finland
+FIN,2018,Total (15–64),71.15,Finland
+FIN,2019,Total (15–64),72.0,Finland
+FIN,2020,Total (15–64),71.175,Finland
+FIN,2021,Total (15–64),72.65,Finland
+FIN,2022,Total (15–64),74.3,Finland
+FIN,2023,Total (15–64),74.025,Finland
+FIN,2024,Total (15–64),72.575,Finland
+FIN,2025,Total (15–64),71.9,Finland
+FIN,1998,Youth (15–24),34.3,Finland
+FIN,1999,Youth (15–24),40.0,Finland
+FIN,2000,Youth (15–24),41.1,Finland
+FIN,2001,Youth (15–24),41.8,Finland
+FIN,2002,Youth (15–24),40.675,Finland
+FIN,2003,Youth (15–24),39.625,Finland
+FIN,2004,Youth (15–24),39.4,Finland
+FIN,2005,Youth (15–24),40.5,Finland
+FIN,2006,Youth (15–24),42.1,Finland
+FIN,2007,Youth (15–24),44.6,Finland
+FIN,2008,Youth (15–24),44.7,Finland
+FIN,2009,Youth (15–24),39.1,Finland
+FIN,2010,Youth (15–24),38.175,Finland
+FIN,2011,Youth (15–24),39.8,Finland
+FIN,2012,Youth (15–24),41.125,Finland
+FIN,2013,Youth (15–24),40.9,Finland
+FIN,2014,Youth (15–24),41.2,Finland
+FIN,2015,Youth (15–24),39.975,Finland
+FIN,2016,Youth (15–24),41.275,Finland
+FIN,2017,Youth (15–24),42.475,Finland
+FIN,2018,Youth (15–24),43.6,Finland
+FIN,2019,Youth (15–24),44.15,Finland
+FIN,2020,Youth (15–24),40.95,Finland
+FIN,2021,Youth (15–24),43.825,Finland
+FIN,2022,Youth (15–24),46.3,Finland
+FIN,2023,Youth (15–24),45.9,Finland
+FIN,2024,Youth (15–24),43.275,Finland
+FIN,2025,Youth (15–24),42.225,Finland
+FRA,2003,Older (55–64),38.225,France
+FRA,2004,Older (55–64),39.075,France
+FRA,2005,Older (55–64),39.775,France
+FRA,2006,Older (55–64),39.375,France
+FRA,2007,Older (55–64),39.55,France
+FRA,2008,Older (55–64),39.45,France
+FRA,2009,Older (55–64),40.225,France
+FRA,2010,Older (55–64),41.025,France
+FRA,2011,Older (55–64),42.7,France
+FRA,2012,Older (55–64),45.8,France
+FRA,2013,Older (55–64),46.875,France
+FRA,2014,Older (55–64),48.25,France
+FRA,2015,Older (55–64),50.1,France
+FRA,2016,Older (55–64),51.15,France
+FRA,2017,Older (55–64),52.6,France
+FRA,2018,Older (55–64),53.6,France
+FRA,2019,Older (55–64),54.475,France
+FRA,2020,Older (55–64),55.225,France
+FRA,2021,Older (55–64),55.95,France
+FRA,2022,Older (55–64),56.85,France
+FRA,2023,Older (55–64),58.425,France
+FRA,2024,Older (55–64),60.375,France
+FRA,2025,Older (55–64),61.8,France
+FRA,2003,Prime-age (25–54),80.65,France
+FRA,2004,Prime-age (25–54),80.7,France
+FRA,2005,Prime-age (25–54),80.9,France
+FRA,2006,Prime-age (25–54),81.375,France
+FRA,2007,Prime-age (25–54),82.175,France
+FRA,2008,Prime-age (25–54),83.225,France
+FRA,2009,Prime-age (25–54),82.1,France
+FRA,2010,Prime-age (25–54),82.0,France
+FRA,2011,Prime-age (25–54),81.5,France
+FRA,2012,Prime-age (25–54),80.925,France
+FRA,2013,Prime-age (25–54),80.6,France
+FRA,2014,Prime-age (25–54),80.475,France
+FRA,2015,Prime-age (25–54),80.05,France
+FRA,2016,Prime-age (25–54),80.325,France
+FRA,2017,Prime-age (25–54),80.625,France
+FRA,2018,Prime-age (25–54),81.075,France
+FRA,2019,Prime-age (25–54),81.45,France
+FRA,2020,Prime-age (25–54),81.325,France
+FRA,2021,Prime-age (25–54),82.075,France
+FRA,2022,Prime-age (25–54),82.725,France
+FRA,2023,Prime-age (25–54),82.675,France
+FRA,2024,Prime-age (25–54),83.025,France
+FRA,2025,Prime-age (25–54),83.15,France
+FRA,2003,Total (15–64),64.425,France
+FRA,2004,Total (15–64),64.225,France
+FRA,2005,Total (15–64),64.15,France
+FRA,2006,Total (15–64),64.15,France
+FRA,2007,Total (15–64),64.725,France
+FRA,2008,Total (15–64),65.3,France
+FRA,2009,Total (15–64),64.425,France
+FRA,2010,Total (15–64),64.375,France
+FRA,2011,Total (15–64),64.3,France
+FRA,2012,Total (15–64),64.375,France
+FRA,2013,Total (15–64),64.375,France
+FRA,2014,Total (15–64),64.525,France
+FRA,2015,Total (15–64),64.7,France
+FRA,2016,Total (15–64),65.0,France
+FRA,2017,Total (15–64),65.55,France
+FRA,2018,Total (15–64),66.15,France
+FRA,2019,Total (15–64),66.375,France
+FRA,2020,Total (15–64),66.1,France
+FRA,2021,Total (15–64),67.25,France
+FRA,2022,Total (15–64),68.125,France
+FRA,2023,Total (15–64),68.45,France
+FRA,2024,Total (15–64),68.95,France
+FRA,2025,Total (15–64),69.425,France
+FRA,2003,Youth (15–24),31.175,France
+FRA,2004,Youth (15–24),30.675,France
+FRA,2005,Youth (15–24),30.4,France
+FRA,2006,Youth (15–24),29.95,France
+FRA,2007,Youth (15–24),31.175,France
+FRA,2008,Youth (15–24),31.45,France
+FRA,2009,Youth (15–24),30.425,France
+FRA,2010,Youth (15–24),30.05,France
+FRA,2011,Youth (15–24),29.55,France
+FRA,2012,Youth (15–24),28.525,France
+FRA,2013,Youth (15–24),28.35,France
+FRA,2014,Youth (15–24),28.1,France
+FRA,2015,Youth (15–24),28.45,France
+FRA,2016,Youth (15–24),28.4,France
+FRA,2017,Youth (15–24),29.175,France
+FRA,2018,Youth (15–24),30.225,France
+FRA,2019,Youth (15–24),30.1,France
+FRA,2020,Youth (15–24),28.9,France
+FRA,2021,Youth (15–24),32.225,France
+FRA,2022,Youth (15–24),34.9,France
+FRA,2023,Youth (15–24),35.175,France
+FRA,2024,Youth (15–24),34.575,France
+FRA,2025,Youth (15–24),34.675,France
+GBR,2000,Older (55–64),52.41169,United Kingdom
+GBR,2001,Older (55–64),52.325,United Kingdom
+GBR,2002,Older (55–64),53.55,United Kingdom
+GBR,2003,Older (55–64),55.5,United Kingdom
+GBR,2004,Older (55–64),56.225,United Kingdom
+GBR,2005,Older (55–64),56.825,United Kingdom
+GBR,2006,Older (55–64),57.3,United Kingdom
+GBR,2007,Older (55–64),57.375,United Kingdom
+GBR,2008,Older (55–64),57.925,United Kingdom
+GBR,2009,Older (55–64),57.525,United Kingdom
+GBR,2010,Older (55–64),57.15,United Kingdom
+GBR,2011,Older (55–64),56.675,United Kingdom
+GBR,2012,Older (55–64),58.1,United Kingdom
+GBR,2013,Older (55–64),59.775,United Kingdom
+GBR,2014,Older (55–64),60.95,United Kingdom
+GBR,2015,Older (55–64),62.2,United Kingdom
+GBR,2016,Older (55–64),63.35,United Kingdom
+GBR,2017,Older (55–64),64.05,United Kingdom
+GBR,2018,Older (55–64),65.3,United Kingdom
+GBR,2019,Older (55–64),66.3,United Kingdom
+GBR,2020,Older (55–64),65.55,United Kingdom
+GBR,2021,Older (55–64),64.75,United Kingdom
+GBR,2022,Older (55–64),64.55,United Kingdom
+GBR,2023,Older (55–64),64.9,United Kingdom
+GBR,2024,Older (55–64),66.05,United Kingdom
+GBR,2025,Older (55–64),66.425,United Kingdom
+GBR,2000,Prime-age (25–54),81.1597,United Kingdom
+GBR,2001,Prime-age (25–54),80.3,United Kingdom
+GBR,2002,Prime-age (25–54),80.475,United Kingdom
+GBR,2003,Prime-age (25–54),80.675,United Kingdom
+GBR,2004,Prime-age (25–54),80.9,United Kingdom
+GBR,2005,Prime-age (25–54),81.225,United Kingdom
+GBR,2006,Prime-age (25–54),81.175,United Kingdom
+GBR,2007,Prime-age (25–54),81.3,United Kingdom
+GBR,2008,Prime-age (25–54),81.3,United Kingdom
+GBR,2009,Prime-age (25–54),80.075,United Kingdom
+GBR,2010,Prime-age (25–54),79.75,United Kingdom
+GBR,2011,Prime-age (25–54),80.025,United Kingdom
+GBR,2012,Prime-age (25–54),80.45,United Kingdom
+GBR,2013,Prime-age (25–54),80.825,United Kingdom
+GBR,2014,Prime-age (25–54),82.05,United Kingdom
+GBR,2015,Prime-age (25–54),82.375,United Kingdom
+GBR,2016,Prime-age (25–54),82.95,United Kingdom
+GBR,2017,Prime-age (25–54),83.775,United Kingdom
+GBR,2018,Prime-age (25–54),84.3,United Kingdom
+GBR,2019,Prime-age (25–54),84.75,United Kingdom
+GBR,2020,Prime-age (25–54),84.15,United Kingdom
+GBR,2021,Prime-age (25–54),84.075,United Kingdom
+GBR,2022,Prime-age (25–54),84.225,United Kingdom
+GBR,2023,Prime-age (25–54),84.35,United Kingdom
+GBR,2024,Prime-age (25–54),84.2,United Kingdom
+GBR,2025,Prime-age (25–54),84.425,United Kingdom
+GBR,1993,Total (15–64),68.425,United Kingdom
+GBR,1994,Total (15–64),68.925,United Kingdom
+GBR,1995,Total (15–64),69.55,United Kingdom
+GBR,1996,Total (15–64),70.05,United Kingdom
+GBR,1997,Total (15–64),71.0,United Kingdom
+GBR,1998,Total (15–64),71.45,United Kingdom
+GBR,1999,Total (15–64),72.025,United Kingdom
+GBR,2000,Total (15–64),72.475,United Kingdom
+GBR,2001,Total (15–64),72.6,United Kingdom
+GBR,2002,Total (15–64),72.65,United Kingdom
+GBR,2003,Total (15–64),72.775,United Kingdom
+GBR,2004,Total (15–64),72.975,United Kingdom
+GBR,2005,Total (15–64),72.925,United Kingdom
+GBR,2006,Total (15–64),72.825,United Kingdom
+GBR,2007,Total (15–64),72.7,United Kingdom
+GBR,2008,Total (15–64),72.6,United Kingdom
+GBR,2009,Total (15–64),70.9,United Kingdom
+GBR,2010,Total (15–64),70.45,United Kingdom
+GBR,2011,Total (15–64),70.325,United Kingdom
+GBR,2012,Total (15–64),70.975,United Kingdom
+GBR,2013,Total (15–64),71.55,United Kingdom
+GBR,2014,Total (15–64),72.875,United Kingdom
+GBR,2015,Total (15–64),73.675,United Kingdom
+GBR,2016,Total (15–64),74.375,United Kingdom
+GBR,2017,Total (15–64),75.0,United Kingdom
+GBR,2018,Total (15–64),75.625,United Kingdom
+GBR,2019,Total (15–64),76.1,United Kingdom
+GBR,2020,Total (15–64),75.075,United Kingdom
+GBR,2021,Total (15–64),74.8,United Kingdom
+GBR,2022,Total (15–64),75.075,United Kingdom
+GBR,2023,Total (15–64),75.05,United Kingdom
+GBR,2024,Total (15–64),74.75,United Kingdom
+GBR,2025,Total (15–64),75.075,United Kingdom
+GBR,1993,Youth (15–24),59.95,United Kingdom
+GBR,1994,Youth (15–24),59.85,United Kingdom
+GBR,1995,Youth (15–24),60.625,United Kingdom
+GBR,1996,Youth (15–24),61.25,United Kingdom
+GBR,1997,Youth (15–24),62.275,United Kingdom
+GBR,1998,Youth (15–24),62.45,United Kingdom
+GBR,1999,Youth (15–24),62.65,United Kingdom
+GBR,2000,Youth (15–24),62.525,United Kingdom
+GBR,2001,Youth (15–24),62.45,United Kingdom
+GBR,2002,Youth (15–24),62.025,United Kingdom
+GBR,2003,Youth (15–24),61.075,United Kingdom
+GBR,2004,Youth (15–24),61.1,United Kingdom
+GBR,2005,Youth (15–24),59.5,United Kingdom
+GBR,2006,Youth (15–24),58.875,United Kingdom
+GBR,2007,Youth (15–24),57.85,United Kingdom
+GBR,2008,Youth (15–24),56.85,United Kingdom
+GBR,2009,Youth (15–24),52.2,United Kingdom
+GBR,2010,Youth (15–24),50.975,United Kingdom
+GBR,2011,Youth (15–24),49.8,United Kingdom
+GBR,2012,Youth (15–24),50.3,United Kingdom
+GBR,2013,Youth (15–24),50.175,United Kingdom
+GBR,2014,Youth (15–24),52.05,United Kingdom
+GBR,2015,Youth (15–24),54.05,United Kingdom
+GBR,2016,Youth (15–24),54.75,United Kingdom
+GBR,2017,Youth (15–24),54.5,United Kingdom
+GBR,2018,Youth (15–24),54.775,United Kingdom
+GBR,2019,Youth (15–24),54.575,United Kingdom
+GBR,2020,Youth (15–24),52.0,United Kingdom
+GBR,2021,Youth (15–24),52.05,United Kingdom
+GBR,2022,Youth (15–24),53.675,United Kingdom
+GBR,2023,Youth (15–24),52.9,United Kingdom
+GBR,2024,Youth (15–24),50.575,United Kingdom
+GBR,2025,Youth (15–24),51.575,United Kingdom
+ISR,1995,Older (55–64),47.65911,Israel
+ISR,1996,Older (55–64),46.86406,Israel
+ISR,1997,Older (55–64),45.51742,Israel
+ISR,1998,Older (55–64),45.15942,Israel
+ISR,1999,Older (55–64),45.93065,Israel
+ISR,2000,Older (55–64),46.65303,Israel
+ISR,2001,Older (55–64),48.35743,Israel
+ISR,2002,Older (55–64),49.13788,Israel
+ISR,2003,Older (55–64),50.39474,Israel
+ISR,2004,Older (55–64),51.52903,Israel
+ISR,2005,Older (55–64),52.39838,Israel
+ISR,2006,Older (55–64),54.84153,Israel
+ISR,2007,Older (55–64),57.15639,Israel
+ISR,2008,Older (55–64),58.42922,Israel
+ISR,2009,Older (55–64),58.78157,Israel
+ISR,2010,Older (55–64),59.80819,Israel
+ISR,2011,Older (55–64),61.25464,Israel
+ISR,2012,Older (55–64),63.10833,Israel
+ISR,2013,Older (55–64),64.63333,Israel
+ISR,2014,Older (55–64),65.13333,Israel
+ISR,2015,Older (55–64),66.24167,Israel
+ISR,2016,Older (55–64),66.54166,Israel
+ISR,2017,Older (55–64),66.75,Israel
+ISR,2018,Older (55–64),67.26667,Israel
+ISR,2019,Older (55–64),67.93333,Israel
+ISR,2020,Older (55–64),67.90833,Israel
+ISR,2021,Older (55–64),67.39167,Israel
+ISR,2022,Older (55–64),69.86667,Israel
+ISR,2023,Older (55–64),71.16666,Israel
+ISR,2024,Older (55–64),70.775,Israel
+ISR,2025,Older (55–64),70.76667,Israel
+ISR,1995,Prime-age (25–54),71.238,Israel
+ISR,1996,Prime-age (25–54),70.96096,Israel
+ISR,1997,Prime-age (25–54),70.22652,Israel
+ISR,1998,Prime-age (25–54),69.95987,Israel
+ISR,1999,Prime-age (25–54),70.00645,Israel
+ISR,2000,Prime-age (25–54),70.43904,Israel
+ISR,2001,Prime-age (25–54),69.63156,Israel
+ISR,2002,Prime-age (25–54),69.1787,Israel
+ISR,2003,Prime-age (25–54),69.26619,Israel
+ISR,2004,Prime-age (25–54),69.70048,Israel
+ISR,2005,Prime-age (25–54),70.61085,Israel
+ISR,2006,Prime-age (25–54),71.46591,Israel
+ISR,2007,Prime-age (25–54),72.97219,Israel
+ISR,2008,Prime-age (25–54),73.90294,Israel
+ISR,2009,Prime-age (25–54),72.80259,Israel
+ISR,2010,Prime-age (25–54),73.93655,Israel
+ISR,2011,Prime-age (25–54),74.82671,Israel
+ISR,2012,Prime-age (25–54),76.80833,Israel
+ISR,2013,Prime-age (25–54),77.05833,Israel
+ISR,2014,Prime-age (25–54),78.225,Israel
+ISR,2015,Prime-age (25–54),78.73333,Israel
+ISR,2016,Prime-age (25–54),79.19167,Israel
+ISR,2017,Prime-age (25–54),79.70834,Israel
+ISR,2018,Prime-age (25–54),80.06667,Israel
+ISR,2019,Prime-age (25–54),80.16666,Israel
+ISR,2020,Prime-age (25–54),78.25833,Israel
+ISR,2021,Prime-age (25–54),77.79166,Israel
+ISR,2022,Prime-age (25–54),80.78333,Israel
+ISR,2023,Prime-age (25–54),80.84167,Israel
+ISR,2024,Prime-age (25–54),80.33334,Israel
+ISR,2025,Prime-age (25–54),80.76667,Israel
+ISR,1995,Total (15–64),56.51433,Israel
+ISR,1996,Total (15–64),56.36247,Israel
+ISR,1997,Total (15–64),55.70263,Israel
+ISR,1998,Total (15–64),55.23224,Israel
+ISR,1999,Total (15–64),55.46907,Israel
+ISR,2000,Total (15–64),56.07549,Israel
+ISR,2001,Total (15–64),55.56511,Israel
+ISR,2002,Total (15–64),54.80782,Israel
+ISR,2003,Total (15–64),54.97932,Israel
+ISR,2004,Total (15–64),55.6702,Israel
+ISR,2005,Total (15–64),56.70815,Israel
+ISR,2006,Total (15–64),57.55732,Israel
+ISR,2007,Total (15–64),58.94432,Israel
+ISR,2008,Total (15–64),59.82737,Israel
+ISR,2009,Total (15–64),59.21324,Israel
+ISR,2010,Total (15–64),60.1636,Israel
+ISR,2011,Total (15–64),60.87873,Israel
+ISR,2012,Total (15–64),66.5,Israel
+ISR,2013,Total (15–64),67.05833,Israel
+ISR,2014,Total (15–64),67.86667,Israel
+ISR,2015,Total (15–64),68.31667,Israel
+ISR,2016,Total (15–64),68.575,Israel
+ISR,2017,Total (15–64),69.025,Israel
+ISR,2018,Total (15–64),69.03333,Israel
+ISR,2019,Total (15–64),68.94167,Israel
+ISR,2020,Total (15–64),66.78333,Israel
+ISR,2021,Total (15–64),66.6,Israel
+ISR,2022,Total (15–64),69.19167,Israel
+ISR,2023,Total (15–64),69.775,Israel
+ISR,2024,Total (15–64),69.25,Israel
+ISR,2025,Total (15–64),69.375,Israel
+ISR,1995,Youth (15–24),29.67581,Israel
+ISR,1996,Youth (15–24),29.55635,Israel
+ISR,1997,Youth (15–24),28.84205,Israel
+ISR,1998,Youth (15–24),27.78444,Israel
+ISR,1999,Youth (15–24),27.75638,Israel
+ISR,2000,Youth (15–24),28.18493,Israel
+ISR,2001,Youth (15–24),27.03508,Israel
+ISR,2002,Youth (15–24),24.69327,Israel
+ISR,2003,Youth (15–24),24.4208,Israel
+ISR,2004,Youth (15–24),25.30166,Israel
+ISR,2005,Youth (15–24),26.60246,Israel
+ISR,2006,Youth (15–24),26.61701,Israel
+ISR,2007,Youth (15–24),27.19463,Israel
+ISR,2008,Youth (15–24),27.6344,Israel
+ISR,2009,Youth (15–24),26.79578,Israel
+ISR,2010,Youth (15–24),26.98367,Israel
+ISR,2011,Youth (15–24),26.57189,Israel
+ISR,2012,Youth (15–24),43.48333,Israel
+ISR,2013,Youth (15–24),44.4,Israel
+ISR,2014,Youth (15–24),44.46667,Israel
+ISR,2015,Youth (15–24),44.40833,Israel
+ISR,2016,Youth (15–24),44.28333,Israel
+ISR,2017,Youth (15–24),44.775,Israel
+ISR,2018,Youth (15–24),43.71667,Israel
+ISR,2019,Youth (15–24),42.925,Israel
+ISR,2020,Youth (15–24),38.95833,Israel
+ISR,2021,Youth (15–24),39.85,Israel
+ISR,2022,Youth (15–24),41.63334,Israel
+ISR,2023,Youth (15–24),42.875,Israel
+ISR,2024,Youth (15–24),42.4,Israel
+ISR,2025,Youth (15–24),42.50834,Israel
+ITA,1998,Older (55–64),27.7,Italy
+ITA,1999,Older (55–64),27.625,Italy
+ITA,2000,Older (55–64),27.675,Italy
+ITA,2001,Older (55–64),27.95,Italy
+ITA,2002,Older (55–64),28.9,Italy
+ITA,2003,Older (55–64),30.225,Italy
+ITA,2004,Older (55–64),30.55,Italy
+ITA,2005,Older (55–64),31.4,Italy
+ITA,2006,Older (55–64),32.425,Italy
+ITA,2007,Older (55–64),33.675,Italy
+ITA,2008,Older (55–64),34.3,Italy
+ITA,2009,Older (55–64),35.35,Italy
+ITA,2010,Older (55–64),36.2,Italy
+ITA,2011,Older (55–64),37.55,Italy
+ITA,2012,Older (55–64),39.9,Italy
+ITA,2013,Older (55–64),42.225,Italy
+ITA,2014,Older (55–64),45.85,Italy
+ITA,2015,Older (55–64),47.85,Italy
+ITA,2016,Older (55–64),49.925,Italy
+ITA,2017,Older (55–64),51.875,Italy
+ITA,2018,Older (55–64),53.6,Italy
+ITA,2019,Older (55–64),54.2,Italy
+ITA,2020,Older (55–64),53.425,Italy
+ITA,2021,Older (55–64),53.375,Italy
+ITA,2022,Older (55–64),55.0,Italy
+ITA,2023,Older (55–64),57.275,Italy
+ITA,2024,Older (55–64),58.975,Italy
+ITA,2025,Older (55–64),61.15,Italy
+ITA,1998,Prime-age (25–54),66.25,Italy
+ITA,1999,Prime-age (25–54),67.025,Italy
+ITA,2000,Prime-age (25–54),67.95,Italy
+ITA,2001,Prime-age (25–54),69.15,Italy
+ITA,2002,Prime-age (25–54),70.075,Italy
+ITA,2003,Prime-age (25–54),70.75,Italy
+ITA,2004,Prime-age (25–54),72.325,Italy
+ITA,2005,Prime-age (25–54),72.3,Italy
+ITA,2006,Prime-age (25–54),73.25,Italy
+ITA,2007,Prime-age (25–54),73.4,Italy
+ITA,2008,Prime-age (25–54),73.45,Italy
+ITA,2009,Prime-age (25–54),71.275,Italy
+ITA,2010,Prime-age (25–54),70.475,Italy
+ITA,2011,Prime-age (25–54),70.55,Italy
+ITA,2012,Prime-age (25–54),69.7,Italy
+ITA,2013,Prime-age (25–54),67.85,Italy
+ITA,2014,Prime-age (25–54),67.375,Italy
+ITA,2015,Prime-age (25–54),67.95,Italy
+ITA,2016,Prime-age (25–54),68.775,Italy
+ITA,2017,Prime-age (25–54),69.375,Italy
+ITA,2018,Prime-age (25–54),69.875,Italy
+ITA,2019,Prime-age (25–54),70.5,Italy
+ITA,2020,Prime-age (25–54),68.9,Italy
+ITA,2021,Prime-age (25–54),70.175,Italy
+ITA,2022,Prime-age (25–54),72.375,Italy
+ITA,2023,Prime-age (25–54),73.75,Italy
+ITA,2024,Prime-age (25–54),74.5,Italy
+ITA,2025,Prime-age (25–54),74.85,Italy
+ITA,1998,Total (15–64),51.925,Italy
+ITA,1999,Total (15–64),52.675,Italy
+ITA,2000,Total (15–64),53.7,Italy
+ITA,2001,Total (15–64),54.8,Italy
+ITA,2002,Total (15–64),55.55,Italy
+ITA,2003,Total (15–64),56.1,Italy
+ITA,2004,Total (15–64),57.725,Italy
+ITA,2005,Total (15–64),57.575,Italy
+ITA,2006,Total (15–64),58.325,Italy
+ITA,2007,Total (15–64),58.575,Italy
+ITA,2008,Total (15–64),58.65,Italy
+ITA,2009,Total (15–64),56.9,Italy
+ITA,2010,Total (15–64),56.25,Italy
+ITA,2011,Total (15–64),56.35,Italy
+ITA,2012,Total (15–64),56.075,Italy
+ITA,2013,Total (15–64),54.95,Italy
+ITA,2014,Total (15–64),55.275,Italy
+ITA,2015,Total (15–64),56.025,Italy
+ITA,2016,Total (15–64),57.05,Italy
+ITA,2017,Total (15–64),57.875,Italy
+ITA,2018,Total (15–64),58.5,Italy
+ITA,2019,Total (15–64),59.05,Italy
+ITA,2020,Total (15–64),57.45,Italy
+ITA,2021,Total (15–64),58.25,Italy
+ITA,2022,Total (15–64),60.15,Italy
+ITA,2023,Total (15–64),61.475,Italy
+ITA,2024,Total (15–64),62.2,Italy
+ITA,2025,Total (15–64),62.525,Italy
+ITA,1998,Youth (15–24),25.675,Italy
+ITA,1999,Youth (15–24),25.75,Italy
+ITA,2000,Youth (15–24),26.475,Italy
+ITA,2001,Youth (15–24),26.3,Italy
+ITA,2002,Youth (15–24),25.8,Italy
+ITA,2003,Youth (15–24),25.2,Italy
+ITA,2004,Youth (15–24),27.7,Italy
+ITA,2005,Youth (15–24),25.675,Italy
+ITA,2006,Youth (15–24),25.3,Italy
+ITA,2007,Youth (15–24),24.55,Italy
+ITA,2008,Youth (15–24),24.225,Italy
+ITA,2009,Youth (15–24),21.475,Italy
+ITA,2010,Youth (15–24),20.175,Italy
+ITA,2011,Youth (15–24),19.175,Italy
+ITA,2012,Youth (15–24),18.45,Italy
+ITA,2013,Youth (15–24),16.275,Italy
+ITA,2014,Youth (15–24),15.55,Italy
+ITA,2015,Youth (15–24),15.6,Italy
+ITA,2016,Youth (15–24),16.525,Italy
+ITA,2017,Youth (15–24),17.075,Italy
+ITA,2018,Youth (15–24),17.575,Italy
+ITA,2019,Youth (15–24),18.375,Italy
+ITA,2020,Youth (15–24),16.625,Italy
+ITA,2021,Youth (15–24),17.525,Italy
+ITA,2022,Youth (15–24),19.8,Italy
+ITA,2023,Youth (15–24),20.425,Italy
+ITA,2024,Youth (15–24),19.725,Italy
+ITA,2025,Youth (15–24),17.925,Italy
+JPN,1968,Older (55–64),64.12716,Japan
+JPN,1969,Older (55–64),64.03001,Japan
+JPN,1970,Older (55–64),63.32438,Japan
+JPN,1971,Older (55–64),63.56691,Japan
+JPN,1972,Older (55–64),62.15306,Japan
+JPN,1973,Older (55–64),62.90499,Japan
+JPN,1974,Older (55–64),62.10728,Japan
+JPN,1975,Older (55–64),61.32166,Japan
+JPN,1976,Older (55–64),61.21395,Japan
+JPN,1977,Older (55–64),60.72324,Japan
+JPN,1978,Older (55–64),60.9962,Japan
+JPN,1979,Older (55–64),61.25425,Japan
+JPN,1980,Older (55–64),61.49192,Japan
+JPN,1981,Older (55–64),60.92319,Japan
+JPN,1982,Older (55–64),61.0953,Japan
+JPN,1983,Older (55–64),61.51831,Japan
+JPN,1984,Older (55–64),60.64046,Japan
+JPN,1985,Older (55–64),60.78712,Japan
+JPN,1986,Older (55–64),60.38293,Japan
+JPN,1987,Older (55–64),60.57196,Japan
+JPN,1988,Older (55–64),60.9641,Japan
+JPN,1989,Older (55–64),61.95972,Japan
+JPN,1990,Older (55–64),63.19415,Japan
+JPN,1991,Older (55–64),64.58622,Japan
+JPN,1992,Older (55–64),64.6979,Japan
+JPN,1993,Older (55–64),64.56381,Japan
+JPN,1994,Older (55–64),63.77378,Japan
+JPN,1995,Older (55–64),63.81514,Japan
+JPN,1996,Older (55–64),63.69111,Japan
+JPN,1997,Older (55–64),64.2102,Japan
+JPN,1998,Older (55–64),63.73965,Japan
+JPN,1999,Older (55–64),63.54458,Japan
+JPN,2000,Older (55–64),62.82273,Japan
+JPN,2001,Older (55–64),62.01558,Japan
+JPN,2002,Older (55–64),61.69248,Japan
+JPN,2003,Older (55–64),62.16685,Japan
+JPN,2004,Older (55–64),63.1165,Japan
+JPN,2005,Older (55–64),63.85571,Japan
+JPN,2006,Older (55–64),64.75383,Japan
+JPN,2007,Older (55–64),66.18838,Japan
+JPN,2008,Older (55–64),66.47401,Japan
+JPN,2009,Older (55–64),65.72754,Japan
+JPN,2010,Older (55–64),65.51681,Japan
+JPN,2011,Older (55–64),65.86323,Japan
+JPN,2012,Older (55–64),65.48658,Japan
+JPN,2013,Older (55–64),66.95205,Japan
+JPN,2014,Older (55–64),68.76302,Japan
+JPN,2015,Older (55–64),70.18129,Japan
+JPN,2016,Older (55–64),71.57703,Japan
+JPN,2017,Older (55–64),73.47368,Japan
+JPN,2018,Older (55–64),75.31404,Japan
+JPN,2019,Older (55–64),76.50506,Japan
+JPN,2020,Older (55–64),76.82234,Japan
+JPN,2021,Older (55–64),77.10837,Japan
+JPN,2022,Older (55–64),78.12254,Japan
+JPN,2023,Older (55–64),78.795,Japan
+JPN,2024,Older (55–64),79.20078,Japan
+JPN,2025,Older (55–64),79.77967,Japan
+JPN,1968,Prime-age (25–54),75.54747,Japan
+JPN,1969,Prime-age (25–54),75.30238,Japan
+JPN,1970,Prime-age (25–54),75.10728,Japan
+JPN,1971,Prime-age (25–54),74.56988,Japan
+JPN,1972,Prime-age (25–54),74.40448,Japan
+JPN,1973,Prime-age (25–54),75.02218,Japan
+JPN,1974,Prime-age (25–54),74.30463,Japan
+JPN,1975,Prime-age (25–54),73.62291,Japan
+JPN,1976,Prime-age (25–54),73.89534,Japan
+JPN,1977,Prime-age (25–54),74.59365,Japan
+JPN,1978,Prime-age (25–54),75.07214,Japan
+JPN,1979,Prime-age (25–54),75.67846,Japan
+JPN,1980,Prime-age (25–54),75.91253,Japan
+JPN,1981,Prime-age (25–54),76.04043,Japan
+JPN,1982,Prime-age (25–54),76.48513,Japan
+JPN,1983,Prime-age (25–54),77.01715,Japan
+JPN,1984,Prime-age (25–54),77.27563,Japan
+JPN,1985,Prime-age (25–54),77.43624,Japan
+JPN,1986,Prime-age (25–54),77.57819,Japan
+JPN,1987,Prime-age (25–54),77.82688,Japan
+JPN,1988,Prime-age (25–54),78.52099,Japan
+JPN,1989,Prime-age (25–54),79.28429,Japan
+JPN,1990,Prime-age (25–54),79.84399,Japan
+JPN,1991,Prime-age (25–54),80.3047,Japan
+JPN,1992,Prime-age (25–54),80.40922,Japan
+JPN,1993,Prime-age (25–54),79.99109,Japan
+JPN,1994,Prime-age (25–54),79.59103,Japan
+JPN,1995,Prime-age (25–54),79.38168,Japan
+JPN,1996,Prime-age (25–54),79.62688,Japan
+JPN,1997,Prime-age (25–54),80.00901,Japan
+JPN,1998,Prime-age (25–54),79.33263,Japan
+JPN,1999,Prime-age (25–54),78.78868,Japan
+JPN,2000,Prime-age (25–54),78.71351,Japan
+JPN,2001,Prime-age (25–54),78.6327,Japan
+JPN,2002,Prime-age (25–54),78.12025,Japan
+JPN,2003,Prime-age (25–54),78.41104,Japan
+JPN,2004,Prime-age (25–54),78.7685,Japan
+JPN,2005,Prime-age (25–54),79.14825,Japan
+JPN,2006,Prime-age (25–54),79.72435,Japan
+JPN,2007,Prime-age (25–54),80.3187,Japan
+JPN,2008,Prime-age (25–54),80.28988,Japan
+JPN,2009,Prime-age (25–54),79.72167,Japan
+JPN,2010,Prime-age (25–54),80.06264,Japan
+JPN,2011,Prime-age (25–54),80.55741,Japan
+JPN,2012,Prime-age (25–54),80.50455,Japan
+JPN,2013,Prime-age (25–54),81.40961,Japan
+JPN,2014,Prime-age (25–54),82.19639,Japan
+JPN,2015,Prime-age (25–54),82.64799,Japan
+JPN,2016,Prime-age (25–54),83.44488,Japan
+JPN,2017,Prime-age (25–54),84.22426,Japan
+JPN,2018,Prime-age (25–54),85.3399,Japan
+JPN,2019,Prime-age (25–54),85.97877,Japan
+JPN,2020,Prime-age (25–54),85.57095,Japan
+JPN,2021,Prime-age (25–54),85.99577,Japan
+JPN,2022,Prime-age (25–54),86.50793,Japan
+JPN,2023,Prime-age (25–54),86.82867,Japan
+JPN,2024,Prime-age (25–54),87.3203,Japan
+JPN,2025,Prime-age (25–54),88.06728,Japan
+JPN,1968,Total (15–64),68.34715,Japan
+JPN,1969,Total (15–64),68.05464,Japan
+JPN,1970,Total (15–64),68.02609,Japan
+JPN,1971,Total (15–64),67.8151,Japan
+JPN,1972,Total (15–64),67.32407,Japan
+JPN,1973,Total (15–64),67.76276,Japan
+JPN,1974,Total (15–64),66.85671,Japan
+JPN,1975,Total (15–64),66.05473,Japan
+JPN,1976,Total (15–64),66.08424,Japan
+JPN,1977,Total (15–64),66.41894,Japan
+JPN,1978,Total (15–64),66.70863,Japan
+JPN,1979,Total (15–64),67.0548,Japan
+JPN,1980,Total (15–64),67.09999,Japan
+JPN,1981,Total (15–64),67.13415,Japan
+JPN,1982,Total (15–64),67.30173,Japan
+JPN,1983,Total (15–64),67.72694,Japan
+JPN,1984,Total (15–64),67.51933,Japan
+JPN,1985,Total (15–64),67.35564,Japan
+JPN,1986,Total (15–64),67.23186,Japan
+JPN,1987,Total (15–64),67.12411,Japan
+JPN,1988,Total (15–64),67.46243,Japan
+JPN,1989,Total (15–64),68.10777,Japan
+JPN,1990,Total (15–64),68.8105,Japan
+JPN,1991,Total (15–64),69.46976,Japan
+JPN,1992,Total (15–64),69.75673,Japan
+JPN,1993,Total (15–64),69.56595,Japan
+JPN,1994,Total (15–64),69.33826,Japan
+JPN,1995,Total (15–64),69.24825,Japan
+JPN,1996,Total (15–64),69.56193,Japan
+JPN,1997,Total (15–64),70.06789,Japan
+JPN,1998,Total (15–64),69.57001,Japan
+JPN,1999,Total (15–64),69.02783,Japan
+JPN,2000,Total (15–64),68.99153,Japan
+JPN,2001,Total (15–64),68.85491,Japan
+JPN,2002,Total (15–64),68.31975,Japan
+JPN,2003,Total (15–64),68.46236,Japan
+JPN,2004,Total (15–64),68.81226,Japan
+JPN,2005,Total (15–64),69.36958,Japan
+JPN,2006,Total (15–64),70.03133,Japan
+JPN,2007,Total (15–64),70.77465,Japan
+JPN,2008,Total (15–64),70.87483,Japan
+JPN,2009,Total (15–64),70.17558,Japan
+JPN,2010,Total (15–64),70.28753,Japan
+JPN,2011,Total (15–64),70.81879,Japan
+JPN,2012,Total (15–64),70.61563,Japan
+JPN,2013,Total (15–64),71.7623,Japan
+JPN,2014,Total (15–64),72.76458,Japan
+JPN,2015,Total (15–64),73.39706,Japan
+JPN,2016,Total (15–64),74.46338,Japan
+JPN,2017,Total (15–64),75.36579,Japan
+JPN,2018,Total (15–64),76.94645,Japan
+JPN,2019,Total (15–64),77.81501,Japan
+JPN,2020,Total (15–64),77.45217,Japan
+JPN,2021,Total (15–64),77.88137,Japan
+JPN,2022,Total (15–64),78.45472,Japan
+JPN,2023,Total (15–64),78.94055,Japan
+JPN,2024,Total (15–64),79.43888,Japan
+JPN,2025,Total (15–64),80.11329,Japan
+JPN,1968,Youth (15–24),54.85041,Japan
+JPN,1969,Youth (15–24),54.03028,Japan
+JPN,1970,Youth (15–24),54.53885,Japan
+JPN,1971,Youth (15–24),54.9148,Japan
+JPN,1972,Youth (15–24),52.97972,Japan
+JPN,1973,Youth (15–24),51.63481,Japan
+JPN,1974,Youth (15–24),48.85429,Japan
+JPN,1975,Youth (15–24),46.53977,Japan
+JPN,1976,Youth (15–24),44.89447,Japan
+JPN,1977,Youth (15–24),43.78318,Japan
+JPN,1978,Youth (15–24),43.14025,Japan
+JPN,1979,Youth (15–24),42.5262,Japan
+JPN,1980,Youth (15–24),41.93337,Japan
+JPN,1981,Youth (15–24),41.96443,Japan
+JPN,1982,Youth (15–24),41.5924,Japan
+JPN,1983,Youth (15–24),42.30343,Japan
+JPN,1984,Youth (15–24),41.73718,Japan
+JPN,1985,Youth (15–24),40.9913,Japan
+JPN,1986,Youth (15–24),41.06621,Japan
+JPN,1987,Youth (15–24),40.56313,Japan
+JPN,1988,Youth (15–24),40.6877,Japan
+JPN,1989,Youth (15–24),41.37964,Japan
+JPN,1990,Youth (15–24),42.37455,Japan
+JPN,1991,Youth (15–24),43.61412,Japan
+JPN,1992,Youth (15–24),44.62915,Japan
+JPN,1993,Youth (15–24),44.81816,Japan
+JPN,1994,Youth (15–24),45.06632,Japan
+JPN,1995,Youth (15–24),44.77672,Japan
+JPN,1996,Youth (15–24),45.16323,Japan
+JPN,1997,Youth (15–24),45.36362,Japan
+JPN,1998,Youth (15–24),44.59783,Japan
+JPN,1999,Youth (15–24),43.02462,Japan
+JPN,2000,Youth (15–24),42.83065,Japan
+JPN,2001,Youth (15–24),42.05816,Japan
+JPN,2002,Youth (15–24),41.02214,Japan
+JPN,2003,Youth (15–24),40.3587,Japan
+JPN,2004,Youth (15–24),40.0905,Japan
+JPN,2005,Youth (15–24),40.90949,Japan
+JPN,2006,Youth (15–24),41.32814,Japan
+JPN,2007,Youth (15–24),41.39838,Japan
+JPN,2008,Youth (15–24),41.21931,Japan
+JPN,2009,Youth (15–24),39.51468,Japan
+JPN,2010,Youth (15–24),38.76087,Japan
+JPN,2011,Youth (15–24),39.03961,Japan
+JPN,2012,Youth (15–24),38.35372,Japan
+JPN,2013,Youth (15–24),39.51796,Japan
+JPN,2014,Youth (15–24),40.0653,Japan
+JPN,2015,Youth (15–24),40.32683,Japan
+JPN,2016,Youth (15–24),42.14072,Japan
+JPN,2017,Youth (15–24),42.46119,Japan
+JPN,2018,Youth (15–24),45.82547,Japan
+JPN,2019,Youth (15–24),47.30335,Japan
+JPN,2020,Youth (15–24),46.22409,Japan
+JPN,2021,Youth (15–24),46.53971,Japan
+JPN,2022,Youth (15–24),46.66373,Japan
+JPN,2023,Youth (15–24),47.91145,Japan
+JPN,2024,Youth (15–24),48.81648,Japan
+JPN,2025,Youth (15–24),49.6075,Japan
+KOR,2000,Older (55–64),57.84345,South Korea
+KOR,2001,Older (55–64),58.37568,South Korea
+KOR,2002,Older (55–64),59.5045,South Korea
+KOR,2003,Older (55–64),57.73093,South Korea
+KOR,2004,Older (55–64),58.80132,South Korea
+KOR,2005,Older (55–64),58.70692,South Korea
+KOR,2006,Older (55–64),59.30368,South Korea
+KOR,2007,Older (55–64),60.57109,South Korea
+KOR,2008,Older (55–64),60.58504,South Korea
+KOR,2009,Older (55–64),60.29242,South Korea
+KOR,2010,Older (55–64),60.83335,South Korea
+KOR,2011,Older (55–64),62.13849,South Korea
+KOR,2012,Older (55–64),63.10845,South Korea
+KOR,2013,Older (55–64),64.33751,South Korea
+KOR,2014,Older (55–64),65.74533,South Korea
+KOR,2015,Older (55–64),65.99236,South Korea
+KOR,2016,Older (55–64),66.16142,South Korea
+KOR,2017,Older (55–64),67.44261,South Korea
+KOR,2018,Older (55–64),66.83384,South Korea
+KOR,2019,Older (55–64),66.86108,South Korea
+KOR,2020,Older (55–64),66.5691,South Korea
+KOR,2021,Older (55–64),66.3069,South Korea
+KOR,2022,Older (55–64),68.78388,South Korea
+KOR,2023,Older (55–64),69.87646,South Korea
+KOR,2024,Older (55–64),69.91159,South Korea
+KOR,2025,Older (55–64),70.46218,South Korea
+KOR,2000,Prime-age (25–54),72.26382,South Korea
+KOR,2001,Prime-age (25–54),72.62009,South Korea
+KOR,2002,Prime-age (25–54),73.46822,South Korea
+KOR,2003,Prime-age (25–54),73.11387,South Korea
+KOR,2004,Prime-age (25–54),73.53618,South Korea
+KOR,2005,Prime-age (25–54),73.48127,South Korea
+KOR,2006,Prime-age (25–54),73.97989,South Korea
+KOR,2007,Prime-age (25–54),74.10313,South Korea
+KOR,2008,Prime-age (25–54),74.26202,South Korea
+KOR,2009,Prime-age (25–54),73.26693,South Korea
+KOR,2010,Prime-age (25–54),73.78532,South Korea
+KOR,2011,Prime-age (25–54),74.4157,South Korea
+KOR,2012,Prime-age (25–54),74.73511,South Korea
+KOR,2013,Prime-age (25–54),75.05659,South Korea
+KOR,2014,Prime-age (25–54),75.76822,South Korea
+KOR,2015,Prime-age (25–54),75.98916,South Korea
+KOR,2016,Prime-age (25–54),76.16335,South Korea
+KOR,2017,Prime-age (25–54),76.34902,South Korea
+KOR,2018,Prime-age (25–54),76.42686,South Korea
+KOR,2019,Prime-age (25–54),76.37587,South Korea
+KOR,2020,Prime-age (25–54),74.92442,South Korea
+KOR,2021,Prime-age (25–54),75.34994,South Korea
+KOR,2022,Prime-age (25–54),76.99941,South Korea
+KOR,2023,Prime-age (25–54),77.86385,South Korea
+KOR,2024,Prime-age (25–54),78.36578,South Korea
+KOR,2025,Prime-age (25–54),78.79098,South Korea
+KOR,2000,Total (15–64),61.51276,South Korea
+KOR,2001,Total (15–64),62.2052,South Korea
+KOR,2002,Total (15–64),63.40555,South Korea
+KOR,2003,Total (15–64),63.0346,South Korea
+KOR,2004,Total (15–64),63.76704,South Korea
+KOR,2005,Total (15–64),63.74775,South Korea
+KOR,2006,Total (15–64),63.97321,South Korea
+KOR,2007,Total (15–64),64.14521,South Korea
+KOR,2008,Total (15–64),63.9557,South Korea
+KOR,2009,Total (15–64),63.0171,South Korea
+KOR,2010,Total (15–64),63.38788,South Korea
+KOR,2011,Total (15–64),63.91484,South Korea
+KOR,2012,Total (15–64),64.34369,South Korea
+KOR,2013,Total (15–64),64.62727,South Korea
+KOR,2014,Total (15–64),65.56622,South Korea
+KOR,2015,Total (15–64),65.90981,South Korea
+KOR,2016,Total (15–64),66.07566,South Korea
+KOR,2017,Total (15–64),66.62926,South Korea
+KOR,2018,Total (15–64),66.61324,South Korea
+KOR,2019,Total (15–64),66.82268,South Korea
+KOR,2020,Total (15–64),65.86022,South Korea
+KOR,2021,Total (15–64),66.52686,South Korea
+KOR,2022,Total (15–64),68.51241,South Korea
+KOR,2023,Total (15–64),69.22884,South Korea
+KOR,2024,Total (15–64),69.5437,South Korea
+KOR,2025,Total (15–64),69.8482,South Korea
+KOR,2000,Youth (15–24),29.45086,South Korea
+KOR,2001,Youth (15–24),30.16432,South Korea
+KOR,2002,Youth (15–24),31.54843,South Korea
+KOR,2003,Youth (15–24),30.97331,South Korea
+KOR,2004,Youth (15–24),31.44232,South Korea
+KOR,2005,Youth (15–24),30.23128,South Korea
+KOR,2006,Youth (15–24),27.78982,South Korea
+KOR,2007,Youth (15–24),26.28399,South Korea
+KOR,2008,Youth (15–24),23.82574,South Korea
+KOR,2009,Youth (15–24),22.62508,South Korea
+KOR,2010,Youth (15–24),22.78072,South Korea
+KOR,2011,Youth (15–24),23.04995,South Korea
+KOR,2012,Youth (15–24),24.06912,South Korea
+KOR,2013,Youth (15–24),23.93399,South Korea
+KOR,2014,Youth (15–24),25.59885,South Korea
+KOR,2015,Youth (15–24),26.72864,South Korea
+KOR,2016,Youth (15–24),26.93667,South Korea
+KOR,2017,Youth (15–24),27.1594,South Korea
+KOR,2018,Youth (15–24),26.17167,South Korea
+KOR,2019,Youth (15–24),26.5183,South Korea
+KOR,2020,Youth (15–24),25.19947,South Korea
+KOR,2021,Youth (15–24),27.05123,South Korea
+KOR,2022,Youth (15–24),28.8135,South Korea
+KOR,2023,Youth (15–24),27.92389,South Korea
+KOR,2024,Youth (15–24),26.76913,South Korea
+KOR,2025,Youth (15–24),25.26242,South Korea
+NLD,2000,Older (55–64),38.175,Netherlands
+NLD,2001,Older (55–64),39.6,Netherlands
+NLD,2002,Older (55–64),42.35,Netherlands
+NLD,2003,Older (55–64),44.325,Netherlands
+NLD,2004,Older (55–64),45.25,Netherlands
+NLD,2005,Older (55–64),43.225,Netherlands
+NLD,2006,Older (55–64),44.025,Netherlands
+NLD,2007,Older (55–64),47.775,Netherlands
+NLD,2008,Older (55–64),50.0,Netherlands
+NLD,2009,Older (55–64),51.6,Netherlands
+NLD,2010,Older (55–64),52.625,Netherlands
+NLD,2011,Older (55–64),54.95,Netherlands
+NLD,2012,Older (55–64),57.4,Netherlands
+NLD,2013,Older (55–64),58.975,Netherlands
+NLD,2014,Older (55–64),59.65,Netherlands
+NLD,2015,Older (55–64),61.5,Netherlands
+NLD,2016,Older (55–64),63.25,Netherlands
+NLD,2017,Older (55–64),65.45,Netherlands
+NLD,2018,Older (55–64),67.45,Netherlands
+NLD,2019,Older (55–64),69.475,Netherlands
+NLD,2020,Older (55–64),70.775,Netherlands
+NLD,2021,Older (55–64),71.425,Netherlands
+NLD,2022,Older (55–64),73.15,Netherlands
+NLD,2023,Older (55–64),75.0,Netherlands
+NLD,2024,Older (55–64),75.3,Netherlands
+NLD,2025,Older (55–64),75.825,Netherlands
+NLD,2000,Prime-age (25–54),81.65,Netherlands
+NLD,2001,Prime-age (25–54),82.775,Netherlands
+NLD,2002,Prime-age (25–54),82.825,Netherlands
+NLD,2003,Prime-age (25–54),82.575,Netherlands
+NLD,2004,Prime-age (25–54),82.525,Netherlands
+NLD,2005,Prime-age (25–54),81.3,Netherlands
+NLD,2006,Prime-age (25–54),82.5,Netherlands
+NLD,2007,Prime-age (25–54),83.925,Netherlands
+NLD,2008,Prime-age (25–54),85.5,Netherlands
+NLD,2009,Prime-age (25–54),85.2,Netherlands
+NLD,2010,Prime-age (25–54),84.6,Netherlands
+NLD,2011,Prime-age (25–54),84.15,Netherlands
+NLD,2012,Prime-age (25–54),83.75,Netherlands
+NLD,2013,Prime-age (25–54),82.35,Netherlands
+NLD,2014,Prime-age (25–54),81.9,Netherlands
+NLD,2015,Prime-age (25–54),82.425,Netherlands
+NLD,2016,Prime-age (25–54),83.125,Netherlands
+NLD,2017,Prime-age (25–54),83.65,Netherlands
+NLD,2018,Prime-age (25–54),84.8,Netherlands
+NLD,2019,Prime-age (25–54),85.4,Netherlands
+NLD,2020,Prime-age (25–54),85.25,Netherlands
+NLD,2021,Prime-age (25–54),85.95,Netherlands
+NLD,2022,Prime-age (25–54),86.85,Netherlands
+NLD,2023,Prime-age (25–54),87.0,Netherlands
+NLD,2024,Prime-age (25–54),86.9,Netherlands
+NLD,2025,Prime-age (25–54),86.7,Netherlands
+NLD,2000,Total (15–64),72.95,Netherlands
+NLD,2001,Total (15–64),74.125,Netherlands
+NLD,2002,Total (15–64),74.4,Netherlands
+NLD,2003,Total (15–64),73.65,Netherlands
+NLD,2004,Total (15–64),73.125,Netherlands
+NLD,2005,Total (15–64),70.625,Netherlands
+NLD,2006,Total (15–64),71.575,Netherlands
+NLD,2007,Total (15–64),73.45,Netherlands
+NLD,2008,Total (15–64),74.925,Netherlands
+NLD,2009,Total (15–64),76.175,Netherlands
+NLD,2010,Total (15–64),75.45,Netherlands
+NLD,2011,Total (15–64),75.7,Netherlands
+NLD,2012,Total (15–64),75.9,Netherlands
+NLD,2013,Total (15–64),75.1,Netherlands
+NLD,2014,Total (15–64),74.65,Netherlands
+NLD,2015,Total (15–64),75.65,Netherlands
+NLD,2016,Total (15–64),76.375,Netherlands
+NLD,2017,Total (15–64),77.375,Netherlands
+NLD,2018,Total (15–64),78.7,Netherlands
+NLD,2019,Total (15–64),79.7,Netherlands
+NLD,2020,Total (15–64),79.3,Netherlands
+NLD,2021,Total (15–64),80.15,Netherlands
+NLD,2022,Total (15–64),81.775,Netherlands
+NLD,2023,Total (15–64),82.425,Netherlands
+NLD,2024,Total (15–64),82.325,Netherlands
+NLD,2025,Total (15–64),82.3,Netherlands
+NLD,2000,Youth (15–24),68.725,Netherlands
+NLD,2001,Youth (15–24),70.4,Netherlands
+NLD,2002,Youth (15–24),70.05,Netherlands
+NLD,2003,Youth (15–24),68.35,Netherlands
+NLD,2004,Youth (15–24),65.85,Netherlands
+NLD,2005,Youth (15–24),59.325,Netherlands
+NLD,2006,Youth (15–24),60.45,Netherlands
+NLD,2007,Youth (15–24),63.075,Netherlands
+NLD,2008,Youth (15–24),64.275,Netherlands
+NLD,2009,Youth (15–24),70.9,Netherlands
+NLD,2010,Youth (15–24),68.675,Netherlands
+NLD,2011,Youth (15–24),69.25,Netherlands
+NLD,2012,Youth (15–24),69.025,Netherlands
+NLD,2013,Youth (15–24),67.925,Netherlands
+NLD,2014,Youth (15–24),66.6,Netherlands
+NLD,2015,Youth (15–24),68.575,Netherlands
+NLD,2016,Youth (15–24),68.55,Netherlands
+NLD,2017,Youth (15–24),69.95,Netherlands
+NLD,2018,Youth (15–24),71.55,Netherlands
+NLD,2019,Youth (15–24),72.85,Netherlands
+NLD,2020,Youth (15–24),69.975,Netherlands
+NLD,2021,Youth (15–24),71.7,Netherlands
+NLD,2022,Youth (15–24),75.5,Netherlands
+NLD,2023,Youth (15–24),76.475,Netherlands
+NLD,2024,Youth (15–24),76.025,Netherlands
+NLD,2025,Youth (15–24),75.975,Netherlands
+NOR,2000,Older (55–64),65.15,Norway
+NOR,2001,Older (55–64),65.9,Norway
+NOR,2002,Older (55–64),66.25,Norway
+NOR,2003,Older (55–64),66.925,Norway
+NOR,2004,Older (55–64),65.825,Norway
+NOR,2005,Older (55–64),65.5,Norway
+NOR,2006,Older (55–64),67.425,Norway
+NOR,2007,Older (55–64),68.95,Norway
+NOR,2008,Older (55–64),69.2,Norway
+NOR,2009,Older (55–64),69.525,Norway
+NOR,2010,Older (55–64),69.2,Norway
+NOR,2011,Older (55–64),70.775,Norway
+NOR,2012,Older (55–64),71.4,Norway
+NOR,2013,Older (55–64),72.025,Norway
+NOR,2014,Older (55–64),72.775,Norway
+NOR,2015,Older (55–64),73.225,Norway
+NOR,2016,Older (55–64),73.6,Norway
+NOR,2017,Older (55–64),72.875,Norway
+NOR,2018,Older (55–64),72.6,Norway
+NOR,2019,Older (55–64),73.4,Norway
+NOR,2020,Older (55–64),73.5,Norway
+NOR,2021,Older (55–64),74.6,Norway
+NOR,2022,Older (55–64),74.525,Norway
+NOR,2023,Older (55–64),73.75,Norway
+NOR,2024,Older (55–64),73.625,Norway
+NOR,2025,Older (55–64),72.575,Norway
+NOR,2000,Prime-age (25–54),85.35,Norway
+NOR,2001,Prime-age (25–54),85.15,Norway
+NOR,2002,Prime-age (25–54),84.625,Norway
+NOR,2003,Prime-age (25–54),83.025,Norway
+NOR,2004,Prime-age (25–54),83.125,Norway
+NOR,2005,Prime-age (25–54),83.25,Norway
+NOR,2006,Prime-age (25–54),84.375,Norway
+NOR,2007,Prime-age (25–54),85.725,Norway
+NOR,2008,Prime-age (25–54),86.775,Norway
+NOR,2009,Prime-age (25–54),85.85,Norway
+NOR,2010,Prime-age (25–54),84.875,Norway
+NOR,2011,Prime-age (25–54),85.0,Norway
+NOR,2012,Prime-age (25–54),84.8,Norway
+NOR,2013,Prime-age (25–54),84.275,Norway
+NOR,2014,Prime-age (25–54),84.025,Norway
+NOR,2015,Prime-age (25–54),83.2,Norway
+NOR,2016,Prime-age (25–54),83.075,Norway
+NOR,2017,Prime-age (25–54),83.05,Norway
+NOR,2018,Prime-age (25–54),83.9,Norway
+NOR,2019,Prime-age (25–54),84.15,Norway
+NOR,2020,Prime-age (25–54),83.325,Norway
+NOR,2021,Prime-age (25–54),83.525,Norway
+NOR,2022,Prime-age (25–54),84.5,Norway
+NOR,2023,Prime-age (25–54),84.0,Norway
+NOR,2024,Prime-age (25–54),83.675,Norway
+NOR,2025,Prime-age (25–54),83.275,Norway
+NOR,2000,Total (15–64),77.5,Norway
+NOR,2001,Total (15–64),77.175,Norway
+NOR,2002,Total (15–64),76.825,Norway
+NOR,2003,Total (15–64),75.5,Norway
+NOR,2004,Total (15–64),75.125,Norway
+NOR,2005,Total (15–64),74.825,Norway
+NOR,2006,Total (15–64),75.375,Norway
+NOR,2007,Total (15–64),76.825,Norway
+NOR,2008,Total (15–64),77.95,Norway
+NOR,2009,Total (15–64),76.85,Norway
+NOR,2010,Total (15–64),75.8,Norway
+NOR,2011,Total (15–64),76.175,Norway
+NOR,2012,Total (15–64),76.35,Norway
+NOR,2013,Total (15–64),76.05,Norway
+NOR,2014,Total (15–64),75.775,Norway
+NOR,2015,Total (15–64),75.4,Norway
+NOR,2016,Total (15–64),75.1,Norway
+NOR,2017,Total (15–64),74.925,Norway
+NOR,2018,Total (15–64),75.7,Norway
+NOR,2019,Total (15–64),76.175,Norway
+NOR,2020,Total (15–64),75.625,Norway
+NOR,2021,Total (15–64),76.3,Norway
+NOR,2022,Total (15–64),77.725,Norway
+NOR,2023,Total (15–64),77.4,Norway
+NOR,2024,Total (15–64),77.075,Norway
+NOR,2025,Total (15–64),76.625,Norway
+NOR,2000,Youth (15–24),57.675,Norway
+NOR,2001,Youth (15–24),56.55,Norway
+NOR,2002,Youth (15–24),56.825,Norway
+NOR,2003,Youth (15–24),55.15,Norway
+NOR,2004,Youth (15–24),54.575,Norway
+NOR,2005,Youth (15–24),53.425,Norway
+NOR,2006,Youth (15–24),52.425,Norway
+NOR,2007,Youth (15–24),54.45,Norway
+NOR,2008,Youth (15–24),57.325,Norway
+NOR,2009,Youth (15–24),54.675,Norway
+NOR,2010,Youth (15–24),52.925,Norway
+NOR,2011,Youth (15–24),53.2,Norway
+NOR,2012,Youth (15–24),54.175,Norway
+NOR,2013,Youth (15–24),53.575,Norway
+NOR,2014,Youth (15–24),52.225,Norway
+NOR,2015,Youth (15–24),52.175,Norway
+NOR,2016,Youth (15–24),50.55,Norway
+NOR,2017,Youth (15–24),50.175,Norway
+NOR,2018,Youth (15–24),51.35,Norway
+NOR,2019,Youth (15–24),52.25,Norway
+NOR,2020,Youth (15–24),51.5,Norway
+NOR,2021,Youth (15–24),53.325,Norway
+NOR,2022,Youth (15–24),57.85,Norway
+NOR,2023,Youth (15–24),58.525,Norway
+NOR,2024,Youth (15–24),58.125,Norway
+NOR,2025,Youth (15–24),58.275,Norway
+NZL,1986,Older (55–64),48.98965,New Zealand
+NZL,1987,Older (55–64),47.13005,New Zealand
+NZL,1988,Older (55–64),45.08999,New Zealand
+NZL,1989,Older (55–64),41.81145,New Zealand
+NZL,1990,Older (55–64),41.60226,New Zealand
+NZL,1991,Older (55–64),41.48932,New Zealand
+NZL,1992,Older (55–64),41.46276,New Zealand
+NZL,1993,Older (55–64),44.4326,New Zealand
+NZL,1994,Older (55–64),47.11211,New Zealand
+NZL,1995,Older (55–64),50.16106,New Zealand
+NZL,1996,Older (55–64),53.60572,New Zealand
+NZL,1997,Older (55–64),54.31452,New Zealand
+NZL,1998,Older (55–64),55.36273,New Zealand
+NZL,1999,Older (55–64),56.55822,New Zealand
+NZL,2000,Older (55–64),56.82678,New Zealand
+NZL,2001,Older (55–64),60.33003,New Zealand
+NZL,2002,Older (55–64),63.21299,New Zealand
+NZL,2003,Older (55–64),64.32468,New Zealand
+NZL,2004,Older (55–64),67.04724,New Zealand
+NZL,2005,Older (55–64),69.4878,New Zealand
+NZL,2006,Older (55–64),70.03976,New Zealand
+NZL,2007,Older (55–64),71.79884,New Zealand
+NZL,2008,Older (55–64),71.60672,New Zealand
+NZL,2009,Older (55–64),71.98905,New Zealand
+NZL,2010,Older (55–64),73.14348,New Zealand
+NZL,2011,Older (55–64),73.58389,New Zealand
+NZL,2012,Older (55–64),73.79611,New Zealand
+NZL,2013,Older (55–64),74.26994,New Zealand
+NZL,2014,Older (55–64),76.10221,New Zealand
+NZL,2015,Older (55–64),75.13509,New Zealand
+NZL,2016,Older (55–64),76.02927,New Zealand
+NZL,2017,Older (55–64),78.17587,New Zealand
+NZL,2018,Older (55–64),77.91452,New Zealand
+NZL,2019,Older (55–64),76.18608,New Zealand
+NZL,2020,Older (55–64),76.75384,New Zealand
+NZL,2021,Older (55–64),77.9152,New Zealand
+NZL,2022,Older (55–64),78.41447,New Zealand
+NZL,2023,Older (55–64),78.45929,New Zealand
+NZL,2024,Older (55–64),77.74433,New Zealand
+NZL,2025,Older (55–64),77.19439,New Zealand
+NZL,1986,Prime-age (25–54),79.19051,New Zealand
+NZL,1987,Prime-age (25–54),79.60733,New Zealand
+NZL,1988,Prime-age (25–54),77.94927,New Zealand
+NZL,1989,Prime-age (25–54),76.36601,New Zealand
+NZL,1990,Prime-age (25–54),75.93064,New Zealand
+NZL,1991,Prime-age (25–54),74.47482,New Zealand
+NZL,1992,Prime-age (25–54),74.28414,New Zealand
+NZL,1993,Prime-age (25–54),74.51833,New Zealand
+NZL,1994,Prime-age (25–54),75.71932,New Zealand
+NZL,1995,Prime-age (25–54),77.23007,New Zealand
+NZL,1996,Prime-age (25–54),77.93824,New Zealand
+NZL,1997,Prime-age (25–54),77.3511,New Zealand
+NZL,1998,Prime-age (25–54),76.26383,New Zealand
+NZL,1999,Prime-age (25–54),77.10667,New Zealand
+NZL,2000,Prime-age (25–54),78.21373,New Zealand
+NZL,2001,Prime-age (25–54),78.86012,New Zealand
+NZL,2002,Prime-age (25–54),79.28945,New Zealand
+NZL,2003,Prime-age (25–54),79.41892,New Zealand
+NZL,2004,Prime-age (25–54),80.3717,New Zealand
+NZL,2005,Prime-age (25–54),81.50401,New Zealand
+NZL,2006,Prime-age (25–54),81.69869,New Zealand
+NZL,2007,Prime-age (25–54),81.82578,New Zealand
+NZL,2008,Prime-age (25–54),81.74596,New Zealand
+NZL,2009,Prime-age (25–54),80.39901,New Zealand
+NZL,2010,Prime-age (25–54),79.77089,New Zealand
+NZL,2011,Prime-age (25–54),80.27888,New Zealand
+NZL,2012,Prime-age (25–54),79.56903,New Zealand
+NZL,2013,Prime-age (25–54),80.68491,New Zealand
+NZL,2014,Prime-age (25–54),81.64516,New Zealand
+NZL,2015,Prime-age (25–54),81.57829,New Zealand
+NZL,2016,Prime-age (25–54),83.02531,New Zealand
+NZL,2017,Prime-age (25–54),84.04606,New Zealand
+NZL,2018,Prime-age (25–54),84.47285,New Zealand
+NZL,2019,Prime-age (25–54),84.72108,New Zealand
+NZL,2020,Prime-age (25–54),83.72794,New Zealand
+NZL,2021,Prime-age (25–54),84.80731,New Zealand
+NZL,2022,Prime-age (25–54),85.78951,New Zealand
+NZL,2023,Prime-age (25–54),86.34145,New Zealand
+NZL,2024,Prime-age (25–54),85.67123,New Zealand
+NZL,2025,Prime-age (25–54),84.60643,New Zealand
+NZL,1986,Total (15–64),72.15318,New Zealand
+NZL,1987,Total (15–64),71.97916,New Zealand
+NZL,1988,Total (15–64),69.43733,New Zealand
+NZL,1989,Total (15–64),67.16886,New Zealand
+NZL,1990,Total (15–64),67.10247,New Zealand
+NZL,1991,Total (15–64),65.26609,New Zealand
+NZL,1992,Total (15–64),64.92945,New Zealand
+NZL,1993,Total (15–64),65.62728,New Zealand
+NZL,1994,Total (15–64),67.49545,New Zealand
+NZL,1995,Total (15–64),69.65571,New Zealand
+NZL,1996,Total (15–64),70.60989,New Zealand
+NZL,1997,Total (15–64),70.1252,New Zealand
+NZL,1998,Total (15–64),69.07514,New Zealand
+NZL,1999,Total (15–64),69.55356,New Zealand
+NZL,2000,Total (15–64),70.33273,New Zealand
+NZL,2001,Total (15–64),71.37629,New Zealand
+NZL,2002,Total (15–64),72.09379,New Zealand
+NZL,2003,Total (15–64),72.15541,New Zealand
+NZL,2004,Total (15–64),73.16463,New Zealand
+NZL,2005,Total (15–64),74.21869,New Zealand
+NZL,2006,Total (15–64),74.76456,New Zealand
+NZL,2007,Total (15–64),75.10442,New Zealand
+NZL,2008,Total (15–64),74.55002,New Zealand
+NZL,2009,Total (15–64),72.72729,New Zealand
+NZL,2010,Total (15–64),72.10973,New Zealand
+NZL,2011,Total (15–64),72.40391,New Zealand
+NZL,2012,Total (15–64),71.85777,New Zealand
+NZL,2013,Total (15–64),72.72184,New Zealand
+NZL,2014,Total (15–64),74.17313,New Zealand
+NZL,2015,Total (15–64),74.24967,New Zealand
+NZL,2016,Total (15–64),75.57751,New Zealand
+NZL,2017,Total (15–64),76.91602,New Zealand
+NZL,2018,Total (15–64),77.49399,New Zealand
+NZL,2019,Total (15–64),77.45027,New Zealand
+NZL,2020,Total (15–64),76.75866,New Zealand
+NZL,2021,Total (15–64),78.27825,New Zealand
+NZL,2022,Total (15–64),79.58669,New Zealand
+NZL,2023,Total (15–64),79.96558,New Zealand
+NZL,2024,Total (15–64),78.45765,New Zealand
+NZL,2025,Total (15–64),77.23849,New Zealand
+NZL,1986,Youth (15–24),68.49432,New Zealand
+NZL,1987,Youth (15–24),67.4436,New Zealand
+NZL,1988,Youth (15–24),62.19793,New Zealand
+NZL,1989,Youth (15–24),58.31278,New Zealand
+NZL,1990,Youth (15–24),58.58052,New Zealand
+NZL,1991,Youth (15–24),54.35513,New Zealand
+NZL,1992,Youth (15–24),52.9661,New Zealand
+NZL,1993,Youth (15–24),53.13518,New Zealand
+NZL,1994,Youth (15–24),55.81016,New Zealand
+NZL,1995,Youth (15–24),58.86101,New Zealand
+NZL,1996,Youth (15–24),58.78666,New Zealand
+NZL,1997,Youth (15–24),57.63948,New Zealand
+NZL,1998,Youth (15–24),55.18742,New Zealand
+NZL,1999,Youth (15–24),54.01125,New Zealand
+NZL,2000,Youth (15–24),54.20114,New Zealand
+NZL,2001,Youth (15–24),55.33973,New Zealand
+NZL,2002,Youth (15–24),56.15985,New Zealand
+NZL,2003,Youth (15–24),55.86916,New Zealand
+NZL,2004,Youth (15–24),56.1777,New Zealand
+NZL,2005,Youth (15–24),56.26131,New Zealand
+NZL,2006,Youth (15–24),58.00466,New Zealand
+NZL,2007,Youth (15–24),57.95829,New Zealand
+NZL,2008,Youth (15–24),55.76686,New Zealand
+NZL,2009,Youth (15–24),50.96881,New Zealand
+NZL,2010,Youth (15–24),49.2164,New Zealand
+NZL,2011,Youth (15–24),49.00301,New Zealand
+NZL,2012,Youth (15–24),48.45407,New Zealand
+NZL,2013,Youth (15–24),49.02097,New Zealand
+NZL,2014,Youth (15–24),51.59349,New Zealand
+NZL,2015,Youth (15–24),52.91188,New Zealand
+NZL,2016,Youth (15–24),53.98805,New Zealand
+NZL,2017,Youth (15–24),55.00819,New Zealand
+NZL,2018,Youth (15–24),56.19257,New Zealand
+NZL,2019,Youth (15–24),56.35797,New Zealand
+NZL,2020,Youth (15–24),55.02117,New Zealand
+NZL,2021,Youth (15–24),57.90965,New Zealand
+NZL,2022,Youth (15–24),60.98042,New Zealand
+NZL,2023,Youth (15–24),61.03495,New Zealand
+NZL,2024,Youth (15–24),56.23429,New Zealand
+NZL,2025,Youth (15–24),54.13208,New Zealand
+SWE,2001,Older (55–64),66.7,Sweden
+SWE,2002,Older (55–64),68.025,Sweden
+SWE,2003,Older (55–64),68.55,Sweden
+SWE,2004,Older (55–64),69.125,Sweden
+SWE,2005,Older (55–64),68.675,Sweden
+SWE,2006,Older (55–64),68.85,Sweden
+SWE,2007,Older (55–64),69.175,Sweden
+SWE,2008,Older (55–64),69.3,Sweden
+SWE,2009,Older (55–64),69.1,Sweden
+SWE,2010,Older (55–64),69.575,Sweden
+SWE,2011,Older (55–64),71.225,Sweden
+SWE,2012,Older (55–64),72.15,Sweden
+SWE,2013,Older (55–64),72.8,Sweden
+SWE,2014,Older (55–64),73.275,Sweden
+SWE,2015,Older (55–64),73.725,Sweden
+SWE,2016,Older (55–64),74.65,Sweden
+SWE,2017,Older (55–64),75.675,Sweden
+SWE,2018,Older (55–64),77.3,Sweden
+SWE,2019,Older (55–64),77.0,Sweden
+SWE,2020,Older (55–64),76.75,Sweden
+SWE,2021,Older (55–64),76.375,Sweden
+SWE,2022,Older (55–64),77.025,Sweden
+SWE,2023,Older (55–64),78.0,Sweden
+SWE,2024,Older (55–64),78.125,Sweden
+SWE,2025,Older (55–64),78.35,Sweden
+SWE,2001,Prime-age (25–54),84.575,Sweden
+SWE,2002,Prime-age (25–54),84.15,Sweden
+SWE,2003,Prime-age (25–54),83.5,Sweden
+SWE,2004,Prime-age (25–54),82.95,Sweden
+SWE,2005,Prime-age (25–54),83.325,Sweden
+SWE,2006,Prime-age (25–54),84.175,Sweden
+SWE,2007,Prime-age (25–54),85.55,Sweden
+SWE,2008,Prime-age (25–54),86.0,Sweden
+SWE,2009,Prime-age (25–54),83.95,Sweden
+SWE,2010,Prime-age (25–54),83.525,Sweden
+SWE,2011,Prime-age (25–54),84.65,Sweden
+SWE,2012,Prime-age (25–54),84.775,Sweden
+SWE,2013,Prime-age (25–54),84.9,Sweden
+SWE,2014,Prime-age (25–54),84.9,Sweden
+SWE,2015,Prime-age (25–54),85.15,Sweden
+SWE,2016,Prime-age (25–54),85.45,Sweden
+SWE,2017,Prime-age (25–54),85.85,Sweden
+SWE,2018,Prime-age (25–54),86.075,Sweden
+SWE,2019,Prime-age (25–54),85.925,Sweden
+SWE,2020,Prime-age (25–54),84.35,Sweden
+SWE,2021,Prime-age (25–54),84.525,Sweden
+SWE,2022,Prime-age (25–54),86.275,Sweden
+SWE,2023,Prime-age (25–54),86.7,Sweden
+SWE,2024,Prime-age (25–54),86.125,Sweden
+SWE,2025,Prime-age (25–54),85.725,Sweden
+SWE,2001,Total (15–64),74.05,Sweden
+SWE,2002,Total (15–64),73.625,Sweden
+SWE,2003,Total (15–64),72.875,Sweden
+SWE,2004,Total (15–64),72.05,Sweden
+SWE,2005,Total (15–64),72.1,Sweden
+SWE,2006,Total (15–64),72.725,Sweden
+SWE,2007,Total (15–64),73.825,Sweden
+SWE,2008,Total (15–64),73.975,Sweden
+SWE,2009,Total (15–64),71.85,Sweden
+SWE,2010,Total (15–64),71.775,Sweden
+SWE,2011,Total (15–64),73.25,Sweden
+SWE,2012,Total (15–64),73.45,Sweden
+SWE,2013,Total (15–64),74.125,Sweden
+SWE,2014,Total (15–64),74.55,Sweden
+SWE,2015,Total (15–64),75.2,Sweden
+SWE,2016,Total (15–64),75.875,Sweden
+SWE,2017,Total (15–64),76.525,Sweden
+SWE,2018,Total (15–64),77.0,Sweden
+SWE,2019,Total (15–64),76.75,Sweden
+SWE,2020,Total (15–64),74.95,Sweden
+SWE,2021,Total (15–64),75.1,Sweden
+SWE,2022,Total (15–64),76.975,Sweden
+SWE,2023,Total (15–64),77.4,Sweden
+SWE,2024,Total (15–64),76.675,Sweden
+SWE,2025,Total (15–64),76.425,Sweden
+SWE,2001,Youth (15–24),44.175,Sweden
+SWE,2002,Youth (15–24),42.775,Sweden
+SWE,2003,Youth (15–24),41.25,Sweden
+SWE,2004,Youth (15–24),39.125,Sweden
+SWE,2005,Youth (15–24),39.2,Sweden
+SWE,2006,Youth (15–24),40.65,Sweden
+SWE,2007,Youth (15–24),42.625,Sweden
+SWE,2008,Youth (15–24),42.55,Sweden
+SWE,2009,Youth (15–24),38.65,Sweden
+SWE,2010,Youth (15–24),39.25,Sweden
+SWE,2011,Youth (15–24),41.4,Sweden
+SWE,2012,Youth (15–24),40.65,Sweden
+SWE,2013,Youth (15–24),42.15,Sweden
+SWE,2014,Youth (15–24),43.25,Sweden
+SWE,2015,Youth (15–24),44.375,Sweden
+SWE,2016,Youth (15–24),44.925,Sweden
+SWE,2017,Youth (15–24),45.35,Sweden
+SWE,2018,Youth (15–24),45.05,Sweden
+SWE,2019,Youth (15–24),44.35,Sweden
+SWE,2020,Youth (15–24),39.775,Sweden
+SWE,2021,Youth (15–24),40.7,Sweden
+SWE,2022,Youth (15–24),44.475,Sweden
+SWE,2023,Youth (15–24),44.775,Sweden
+SWE,2024,Youth (15–24),43.0,Sweden
+SWE,2025,Youth (15–24),43.35,Sweden
+USA,1955,Older (55–64),57.00017,United States
+USA,1956,Older (55–64),58.68433,United States
+USA,1957,Older (55–64),58.07466,United States
+USA,1958,Older (55–64),57.34931,United States
+USA,1959,Older (55–64),58.28258,United States
+USA,1960,Older (55–64),58.33343,United States
+USA,1961,Older (55–64),58.1783,United States
+USA,1962,Older (55–64),58.87207,United States
+USA,1963,Older (55–64),59.45409,United States
+USA,1964,Older (55–64),59.62,United States
+USA,1965,Older (55–64),59.94807,United States
+USA,1966,Older (55–64),60.61648,United States
+USA,1967,Older (55–64),60.85712,United States
+USA,1968,Older (55–64),60.99564,United States
+USA,1969,Older (55–64),60.89451,United States
+USA,1970,Older (55–64),60.12932,United States
+USA,1971,Older (55–64),59.23735,United States
+USA,1972,Older (55–64),58.10341,United States
+USA,1973,Older (55–64),56.87283,United States
+USA,1974,Older (55–64),56.17423,United States
+USA,1975,Older (55–64),54.55823,United States
+USA,1976,Older (55–64),54.06102,United States
+USA,1977,Older (55–64),54.1255,United States
+USA,1978,Older (55–64),54.60492,United States
+USA,1979,Older (55–64),54.6199,United States
+USA,1980,Older (55–64),53.83836,United States
+USA,1981,Older (55–64),52.97338,United States
+USA,1982,Older (55–64),52.09811,United States
+USA,1983,Older (55–64),51.42358,United States
+USA,1984,Older (55–64),51.67029,United States
+USA,1985,Older (55–64),51.82479,United States
+USA,1986,Older (55–64),51.81475,United States
+USA,1987,Older (55–64),52.50756,United States
+USA,1988,Older (55–64),52.8298,United States
+USA,1989,Older (55–64),53.75276,United States
+USA,1990,Older (55–64),54.00095,United States
+USA,1991,Older (55–64),53.20819,United States
+USA,1992,Older (55–64),53.37768,United States
+USA,1993,Older (55–64),53.74734,United States
+USA,1994,Older (55–64),54.41189,United States
+USA,1995,Older (55–64),55.146,United States
+USA,1996,Older (55–64),55.92462,United States
+USA,1997,Older (55–64),57.17223,United States
+USA,1998,Older (55–64),57.73208,United States
+USA,1999,Older (55–64),57.73042,United States
+USA,2000,Older (55–64),57.78587,United States
+USA,2001,Older (55–64),58.55196,United States
+USA,2002,Older (55–64),59.49021,United States
+USA,2003,Older (55–64),59.85929,United States
+USA,2004,Older (55–64),59.92963,United States
+USA,2005,Older (55–64),60.82557,United States
+USA,2006,Older (55–64),61.79658,United States
+USA,2007,Older (55–64),61.80577,United States
+USA,2008,Older (55–64),62.14368,United States
+USA,2009,Older (55–64),60.62915,United States
+USA,2010,Older (55–64),60.29404,United States
+USA,2011,Older (55–64),59.98019,United States
+USA,2012,Older (55–64),60.64771,United States
+USA,2013,Older (55–64),60.9304,United States
+USA,2014,Older (55–64),61.34781,United States
+USA,2015,Older (55–64),61.52417,United States
+USA,2016,Older (55–64),61.78946,United States
+USA,2017,Older (55–64),62.51775,United States
+USA,2018,Older (55–64),63.07812,United States
+USA,2019,Older (55–64),63.66526,United States
+USA,2020,Older (55–64),60.32893,United States
+USA,2021,Older (55–64),61.86636,United States
+USA,2022,Older (55–64),63.49785,United States
+USA,2023,Older (55–64),64.1571,United States
+USA,2024,Older (55–64),64.05804,United States
+USA,1955,Prime-age (25–54),65.2446,United States
+USA,1956,Prime-age (25–54),65.8946,United States
+USA,1957,Prime-age (25–54),65.96951,United States
+USA,1958,Prime-age (25–54),64.62547,United States
+USA,1959,Prime-age (25–54),65.65218,United States
+USA,1960,Prime-age (25–54),65.81903,United States
+USA,1961,Prime-age (25–54),65.29864,United States
+USA,1962,Prime-age (25–54),65.99744,United States
+USA,1963,Prime-age (25–54),66.44264,United States
+USA,1964,Prime-age (25–54),66.96754,United States
+USA,1965,Prime-age (25–54),67.65842,United States
+USA,1966,Prime-age (25–54),68.46783,United States
+USA,1967,Prime-age (25–54),68.96984,United States
+USA,1968,Prime-age (25–54),69.45882,United States
+USA,1969,Prime-age (25–54),69.96863,United States
+USA,1970,Prime-age (25–54),69.6046,United States
+USA,1971,Prime-age (25–54),69.02011,United States
+USA,1972,Prime-age (25–54),69.51879,United States
+USA,1973,Prime-age (25–54),70.5099,United States
+USA,1974,Prime-age (25–54),70.80537,United States
+USA,1975,Prime-age (25–54),69.33621,United States
+USA,1976,Prime-age (25–54),70.60496,United States
+USA,1977,Prime-age (25–54),71.86903,United States
+USA,1978,Prime-age (25–54),73.60542,United States
+USA,1979,Prime-age (25–54),74.60213,United States
+USA,1980,Prime-age (25–54),74.33554,United States
+USA,1981,Prime-age (25–54),74.66693,United States
+USA,1982,Prime-age (25–54),73.50237,United States
+USA,1983,Prime-age (25–54),73.71217,United States
+USA,1984,Prime-age (25–54),75.82619,United States
+USA,1985,Prime-age (25–54),76.69023,United States
+USA,1986,Prime-age (25–54),77.31669,United States
+USA,1987,Prime-age (25–54),78.36794,United States
+USA,1988,Prime-age (25–54),79.17963,United States
+USA,1989,Prime-age (25–54),79.91461,United States
+USA,1990,Prime-age (25–54),79.67451,United States
+USA,1991,Prime-age (25–54),78.62824,United States
+USA,1992,Prime-age (25–54),78.30109,United States
+USA,1993,Prime-age (25–54),78.54217,United States
+USA,1994,Prime-age (25–54),79.2347,United States
+USA,1995,Prime-age (25–54),79.74972,United States
+USA,1996,Prime-age (25–54),80.20246,United States
+USA,1997,Prime-age (25–54),80.85052,United States
+USA,1998,Prime-age (25–54),81.1053,United States
+USA,1999,Prime-age (25–54),81.41203,United States
+USA,2000,Prime-age (25–54),81.46412,United States
+USA,2001,Prime-age (25–54),80.54707,United States
+USA,2002,Prime-age (25–54),79.31309,United States
+USA,2003,Prime-age (25–54),78.82092,United States
+USA,2004,Prime-age (25–54),78.98165,United States
+USA,2005,Prime-age (25–54),79.33595,United States
+USA,2006,Prime-age (25–54),79.81139,United States
+USA,2007,Prime-age (25–54),79.91457,United States
+USA,2008,Prime-age (25–54),79.08375,United States
+USA,2009,Prime-age (25–54),75.77327,United States
+USA,2010,Prime-age (25–54),75.09118,United States
+USA,2011,Prime-age (25–54),75.11697,United States
+USA,2012,Prime-age (25–54),75.73579,United States
+USA,2013,Prime-age (25–54),75.89228,United States
+USA,2014,Prime-age (25–54),76.69785,United States
+USA,2015,Prime-age (25–54),77.24269,United States
+USA,2016,Prime-age (25–54),77.92879,United States
+USA,2017,Prime-age (25–54),78.62778,United States
+USA,2018,Prime-age (25–54),79.36824,United States
+USA,2019,Prime-age (25–54),79.96117,United States
+USA,2020,Prime-age (25–54),75.63313,United States
+USA,2021,Prime-age (25–54),77.60513,United States
+USA,2022,Prime-age (25–54),79.88082,United States
+USA,2023,Prime-age (25–54),80.6801,United States
+USA,2024,Prime-age (25–54),80.71349,United States
+USA,1955,Total (15–64),61.46822,United States
+USA,1956,Total (15–64),62.4337,United States
+USA,1957,Total (15–64),62.20108,United States
+USA,1958,Total (15–64),60.5542,United States
+USA,1959,Total (15–64),61.39219,United States
+USA,1960,Total (15–64),61.52728,United States
+USA,1961,Total (15–64),60.87849,United States
+USA,1962,Total (15–64),61.47677,United States
+USA,1963,Total (15–64),61.48097,United States
+USA,1964,Total (15–64),61.79631,United States
+USA,1965,Total (15–64),62.41243,United States
+USA,1966,Total (15–64),63.37987,United States
+USA,1967,Total (15–64),63.80169,United States
+USA,1968,Total (15–64),64.08068,United States
+USA,1969,Total (15–64),64.61467,United States
+USA,1970,Total (15–64),63.99263,United States
+USA,1971,Total (15–64),63.17525,United States
+USA,1972,Total (15–64),63.7738,United States
+USA,1973,Total (15–64),64.85249,United States
+USA,1974,Total (15–64),64.99554,United States
+USA,1975,Total (15–64),63.08882,United States
+USA,1976,Total (15–64),64.14752,United States
+USA,1977,Total (15–64),65.39526,United States
+USA,1978,Total (15–64),67.09882,United States
+USA,1979,Total (15–64),67.91239,United States
+USA,1980,Total (15–64),67.18594,United States
+USA,1981,Total (15–64),67.07856,United States
+USA,1982,Total (15–64),65.76852,United States
+USA,1983,Total (15–64),66.00588,United States
+USA,1984,Total (15–64),68.13399,United States
+USA,1985,Total (15–64),69.00044,United States
+USA,1986,Total (15–64),69.68153,United States
+USA,1987,Total (15–64),70.74065,United States
+USA,1988,Total (15–64),71.64634,United States
+USA,1989,Total (15–64),72.4952,United States
+USA,1990,Total (15–64),72.19167,United States
+USA,1991,Total (15–64),70.96761,United States
+USA,1992,Total (15–64),70.80585,United States
+USA,1993,Total (15–64),71.20782,United States
+USA,1994,Total (15–64),72.00175,United States
+USA,1995,Total (15–64),72.5349,United States
+USA,1996,Total (15–64),72.85875,United States
+USA,1997,Total (15–64),73.50204,United States
+USA,1998,Total (15–64),73.84345,United States
+USA,1999,Total (15–64),73.94605,United States
+USA,2000,Total (15–64),74.09456,United States
+USA,2001,Total (15–64),73.13562,United States
+USA,2002,Total (15–64),71.92931,United States
+USA,2003,Total (15–64),71.22334,United States
+USA,2004,Total (15–64),71.22248,United States
+USA,2005,Total (15–64),71.53017,United States
+USA,2006,Total (15–64),71.99708,United States
+USA,2007,Total (15–64),71.78132,United States
+USA,2008,Total (15–64),70.88825,United States
+USA,2009,Total (15–64),67.62595,United States
+USA,2010,Total (15–64),66.68977,United States
+USA,2011,Total (15–64),66.64754,United States
+USA,2012,Total (15–64),67.13661,United States
+USA,2013,Total (15–64),67.35994,United States
+USA,2014,Total (15–64),68.14875,United States
+USA,2015,Total (15–64),68.70962,United States
+USA,2016,Total (15–64),69.35136,United States
+USA,2017,Total (15–64),70.11017,United States
+USA,2018,Total (15–64),70.72614,United States
+USA,2019,Total (15–64),71.35841,United States
+USA,2020,Total (15–64),67.06998,United States
+USA,2021,Total (15–64),69.40365,United States
+USA,2022,Total (15–64),71.27018,United States
+USA,2023,Total (15–64),71.95479,United States
+USA,2024,Total (15–64),71.86034,United States
+USA,1955,Youth (15–24),51.20199,United States
+USA,1956,Youth (15–24),52.86832,United States
+USA,1957,Youth (15–24),52.02966,United States
+USA,1958,Youth (15–24),48.87822,United States
+USA,1959,Youth (15–24),49.52064,United States
+USA,1960,Youth (15–24),50.07655,United States
+USA,1961,Youth (15–24),48.96936,United States
+USA,1962,Youth (15–24),49.48196,United States
+USA,1963,Youth (15–24),48.45137,United States
+USA,1964,Youth (15–24),48.95921,United States
+USA,1965,Youth (15–24),50.17193,United States
+USA,1966,Youth (15–24),52.1538,United States
+USA,1967,Youth (15–24),52.70056,United States
+USA,1968,Youth (15–24),52.70082,United States
+USA,1969,Youth (15–24),53.99015,United States
+USA,1970,Youth (15–24),53.1882,United States
+USA,1971,Youth (15–24),52.2924,United States
+USA,1972,Youth (15–24),54.32703,United States
+USA,1973,Youth (15–24),56.97075,United States
+USA,1974,Youth (15–24),57.20119,United States
+USA,1975,Youth (15–24),54.22214,United States
+USA,1976,Youth (15–24),55.71786,United States
+USA,1977,Youth (15–24),57.57201,United States
+USA,1978,Youth (15–24),59.81789,United States
+USA,1979,Youth (15–24),60.54963,United States
+USA,1980,Youth (15–24),58.62714,United States
+USA,1981,Youth (15–24),57.6432,United States
+USA,1982,Youth (15–24),55.28709,United States
+USA,1983,Youth (15–24),55.62901,United States
+USA,1984,Youth (15–24),58.30947,United States
+USA,1985,Youth (15–24),59.0015,United States
+USA,1986,Youth (15–24),59.48774,United States
+USA,1987,Youth (15–24),60.05712,United States
+USA,1988,Youth (15–24),60.82959,United States
+USA,1989,Youth (15–24),61.11715,United States
+USA,1990,Youth (15–24),59.78778,United States
+USA,1991,Youth (15–24),57.15594,United States
+USA,1992,Youth (15–24),56.72354,United States
+USA,1993,Youth (15–24),57.23212,United States
+USA,1994,Youth (15–24),58.12646,United States
+USA,1995,Youth (15–24),58.25953,United States
+USA,1996,Youth (15–24),57.62483,United States
+USA,1997,Youth (15–24),58.03733,United States
+USA,1998,Youth (15–24),58.98952,United States
+USA,1999,Youth (15–24),58.99432,United States
+USA,2000,Youth (15–24),59.65937,United States
+USA,2001,Youth (15–24),57.71646,United States
+USA,2002,Youth (15–24),55.6932,United States
+USA,2003,Youth (15–24),53.90615,United States
+USA,2004,Youth (15–24),53.89894,United States
+USA,2005,Youth (15–24),53.90497,United States
+USA,2006,Youth (15–24),54.24495,United States
+USA,2007,Youth (15–24),53.12725,United States
+USA,2008,Youth (15–24),51.2261,United States
+USA,2009,Youth (15–24),46.85199,United States
+USA,2010,Youth (15–24),45.00231,United States
+USA,2011,Youth (15–24),45.45388,United States
+USA,2012,Youth (15–24),45.9838,United States
+USA,2013,Youth (15–24),46.49167,United States
+USA,2014,Youth (15–24),47.63922,United States
+USA,2015,Youth (15–24),48.60504,United States
+USA,2016,Youth (15–24),49.413,United States
+USA,2017,Youth (15–24),50.34262,United States
+USA,2018,Youth (15–24),50.46012,United States
+USA,2019,Youth (15–24),51.18781,United States
+USA,2020,Youth (15–24),45.8646,United States
+USA,2021,Youth (15–24),50.11889,United States
+USA,2022,Youth (15–24),51.05246,United States
+USA,2023,Youth (15–24),51.78579,United States
+USA,2024,Youth (15–24),50.89007,United States

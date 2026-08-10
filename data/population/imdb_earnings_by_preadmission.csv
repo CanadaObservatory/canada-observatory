@@ -1,0 +1,276 @@
+admission_year,pre_admission,years_since,tax_year,median_employment_income
+2013,Asylum claimant,1,2014,24700
+2013,Asylum claimant,2,2015,26300
+2013,Asylum claimant,3,2016,27700
+2013,Asylum claimant,4,2017,29300
+2013,Asylum claimant,5,2018,31600
+2013,Asylum claimant,6,2019,32300
+2013,Asylum claimant,7,2020,29000
+2013,Asylum claimant,8,2021,34400
+2013,Asylum claimant,9,2022,35400
+2013,Asylum claimant,10,2023,36500
+2013,No prior Canadian experience,1,2014,19900
+2013,No prior Canadian experience,2,2015,23000
+2013,No prior Canadian experience,3,2016,25000
+2013,No prior Canadian experience,4,2017,27500
+2013,No prior Canadian experience,5,2018,30200
+2013,No prior Canadian experience,6,2019,31400
+2013,No prior Canadian experience,7,2020,29700
+2013,No prior Canadian experience,8,2021,35600
+2013,No prior Canadian experience,9,2022,37100
+2013,No prior Canadian experience,10,2023,39100
+2013,Studied in Canada,1,2014,12700
+2013,Studied in Canada,2,2015,15500
+2013,Studied in Canada,3,2016,18400
+2013,Studied in Canada,4,2017,21700
+2013,Studied in Canada,5,2018,25300
+2013,Studied in Canada,6,2019,26900
+2013,Studied in Canada,7,2020,25700
+2013,Studied in Canada,8,2021,31400
+2013,Studied in Canada,9,2022,34800
+2013,Studied in Canada,10,2023,38500
+2013,Worked and studied in Canada,1,2014,44200
+2013,Worked and studied in Canada,2,2015,49100
+2013,Worked and studied in Canada,3,2016,52500
+2013,Worked and studied in Canada,4,2017,56100
+2013,Worked and studied in Canada,5,2018,59800
+2013,Worked and studied in Canada,6,2019,63200
+2013,Worked and studied in Canada,7,2020,66900
+2013,Worked and studied in Canada,8,2021,71700
+2013,Worked and studied in Canada,9,2022,72800
+2013,Worked and studied in Canada,10,2023,74500
+2013,Worked in Canada,1,2014,44400
+2013,Worked in Canada,2,2015,46600
+2013,Worked in Canada,3,2016,47400
+2013,Worked in Canada,4,2017,50100
+2013,Worked in Canada,5,2018,52500
+2013,Worked in Canada,6,2019,54100
+2013,Worked in Canada,7,2020,54000
+2013,Worked in Canada,8,2021,57800
+2013,Worked in Canada,9,2022,58100
+2013,Worked in Canada,10,2023,59200
+2014,Asylum claimant,1,2015,25900
+2014,Asylum claimant,2,2016,27300
+2014,Asylum claimant,3,2017,28600
+2014,Asylum claimant,4,2018,30700
+2014,Asylum claimant,5,2019,31400
+2014,Asylum claimant,6,2020,28300
+2014,Asylum claimant,7,2021,34500
+2014,Asylum claimant,8,2022,35100
+2014,Asylum claimant,9,2023,37000
+2014,No prior Canadian experience,1,2015,21500
+2014,No prior Canadian experience,2,2016,24300
+2014,No prior Canadian experience,3,2017,26700
+2014,No prior Canadian experience,4,2018,29700
+2014,No prior Canadian experience,5,2019,31400
+2014,No prior Canadian experience,6,2020,30200
+2014,No prior Canadian experience,7,2021,35500
+2014,No prior Canadian experience,8,2022,37100
+2014,No prior Canadian experience,9,2023,38700
+2014,Studied in Canada,1,2015,13000
+2014,Studied in Canada,2,2016,14700
+2014,Studied in Canada,3,2017,18100
+2014,Studied in Canada,4,2018,21200
+2014,Studied in Canada,5,2019,24000
+2014,Studied in Canada,6,2020,23500
+2014,Studied in Canada,7,2021,29300
+2014,Studied in Canada,8,2022,31200
+2014,Studied in Canada,9,2023,34300
+2014,Worked and studied in Canada,1,2015,46500
+2014,Worked and studied in Canada,2,2016,50400
+2014,Worked and studied in Canada,3,2017,54900
+2014,Worked and studied in Canada,4,2018,59000
+2014,Worked and studied in Canada,5,2019,62300
+2014,Worked and studied in Canada,6,2020,65600
+2014,Worked and studied in Canada,7,2021,69800
+2014,Worked and studied in Canada,8,2022,71600
+2014,Worked and studied in Canada,9,2023,74000
+2014,Worked in Canada,1,2015,43700
+2014,Worked in Canada,2,2016,45400
+2014,Worked in Canada,3,2017,47900
+2014,Worked in Canada,4,2018,50600
+2014,Worked in Canada,5,2019,52400
+2014,Worked in Canada,6,2020,52600
+2014,Worked in Canada,7,2021,56400
+2014,Worked in Canada,8,2022,56500
+2014,Worked in Canada,9,2023,57900
+2015,Asylum claimant,1,2016,24900
+2015,Asylum claimant,2,2017,26500
+2015,Asylum claimant,3,2018,29200
+2015,Asylum claimant,4,2019,30000
+2015,Asylum claimant,5,2020,26100
+2015,Asylum claimant,6,2021,31900
+2015,Asylum claimant,7,2022,33700
+2015,Asylum claimant,8,2023,35100
+2015,No prior Canadian experience,1,2016,23600
+2015,No prior Canadian experience,2,2017,27200
+2015,No prior Canadian experience,3,2018,30600
+2015,No prior Canadian experience,4,2019,32300
+2015,No prior Canadian experience,5,2020,30500
+2015,No prior Canadian experience,6,2021,36000
+2015,No prior Canadian experience,7,2022,37500
+2015,No prior Canadian experience,8,2023,39400
+2015,Studied in Canada,1,2016,15100
+2015,Studied in Canada,2,2017,18000
+2015,Studied in Canada,3,2018,21800
+2015,Studied in Canada,4,2019,24700
+2015,Studied in Canada,5,2020,23100
+2015,Studied in Canada,6,2021,30300
+2015,Studied in Canada,7,2022,32300
+2015,Studied in Canada,8,2023,34200
+2015,Worked and studied in Canada,1,2016,45800
+2015,Worked and studied in Canada,2,2017,51200
+2015,Worked and studied in Canada,3,2018,56100
+2015,Worked and studied in Canada,4,2019,59300
+2015,Worked and studied in Canada,5,2020,62500
+2015,Worked and studied in Canada,6,2021,68000
+2015,Worked and studied in Canada,7,2022,70000
+2015,Worked and studied in Canada,8,2023,72100
+2015,Worked in Canada,1,2016,42900
+2015,Worked in Canada,2,2017,45800
+2015,Worked in Canada,3,2018,48800
+2015,Worked in Canada,4,2019,50800
+2015,Worked in Canada,5,2020,50800
+2015,Worked in Canada,6,2021,55000
+2015,Worked in Canada,7,2022,55300
+2015,Worked in Canada,8,2023,56500
+2016,Asylum claimant,1,2017,25100
+2016,Asylum claimant,2,2018,27500
+2016,Asylum claimant,3,2019,28400
+2016,Asylum claimant,4,2020,24500
+2016,Asylum claimant,5,2021,30000
+2016,Asylum claimant,6,2022,32700
+2016,Asylum claimant,7,2023,33200
+2016,No prior Canadian experience,1,2017,23400
+2016,No prior Canadian experience,2,2018,28000
+2016,No prior Canadian experience,3,2019,29600
+2016,No prior Canadian experience,4,2020,27500
+2016,No prior Canadian experience,5,2021,33000
+2016,No prior Canadian experience,6,2022,34700
+2016,No prior Canadian experience,7,2023,36400
+2016,Studied in Canada,1,2017,15100
+2016,Studied in Canada,2,2018,17700
+2016,Studied in Canada,3,2019,20100
+2016,Studied in Canada,4,2020,20000
+2016,Studied in Canada,5,2021,25900
+2016,Studied in Canada,6,2022,28800
+2016,Studied in Canada,7,2023,32500
+2016,Worked and studied in Canada,1,2017,47700
+2016,Worked and studied in Canada,2,2018,53500
+2016,Worked and studied in Canada,3,2019,57200
+2016,Worked and studied in Canada,4,2020,59600
+2016,Worked and studied in Canada,5,2021,65300
+2016,Worked and studied in Canada,6,2022,67100
+2016,Worked and studied in Canada,7,2023,69800
+2016,Worked in Canada,1,2017,45400
+2016,Worked in Canada,2,2018,48700
+2016,Worked in Canada,3,2019,51100
+2016,Worked in Canada,4,2020,51500
+2016,Worked in Canada,5,2021,55500
+2016,Worked in Canada,6,2022,56300
+2016,Worked in Canada,7,2023,58000
+2017,Asylum claimant,1,2018,26700
+2017,Asylum claimant,2,2019,26800
+2017,Asylum claimant,3,2020,23100
+2017,Asylum claimant,4,2021,28400
+2017,Asylum claimant,5,2022,31200
+2017,Asylum claimant,6,2023,32200
+2017,No prior Canadian experience,1,2018,25900
+2017,No prior Canadian experience,2,2019,29000
+2017,No prior Canadian experience,3,2020,27500
+2017,No prior Canadian experience,4,2021,33100
+2017,No prior Canadian experience,5,2022,35000
+2017,No prior Canadian experience,6,2023,37000
+2017,Studied in Canada,1,2018,16700
+2017,Studied in Canada,2,2019,19700
+2017,Studied in Canada,3,2020,19900
+2017,Studied in Canada,4,2021,26100
+2017,Studied in Canada,5,2022,28300
+2017,Studied in Canada,6,2023,31500
+2017,Worked and studied in Canada,1,2018,51500
+2017,Worked and studied in Canada,2,2019,57000
+2017,Worked and studied in Canada,3,2020,60600
+2017,Worked and studied in Canada,4,2021,66200
+2017,Worked and studied in Canada,5,2022,68400
+2017,Worked and studied in Canada,6,2023,71300
+2017,Worked in Canada,1,2018,45500
+2017,Worked in Canada,2,2019,48500
+2017,Worked in Canada,3,2020,49300
+2017,Worked in Canada,4,2021,53800
+2017,Worked in Canada,5,2022,54600
+2017,Worked in Canada,6,2023,56600
+2018,Asylum claimant,1,2019,24300
+2018,Asylum claimant,2,2020,20200
+2018,Asylum claimant,3,2021,25200
+2018,Asylum claimant,4,2022,29400
+2018,Asylum claimant,5,2023,30300
+2018,No prior Canadian experience,1,2019,28400
+2018,No prior Canadian experience,2,2020,29900
+2018,No prior Canadian experience,3,2021,36100
+2018,No prior Canadian experience,4,2022,38700
+2018,No prior Canadian experience,5,2023,40900
+2018,Studied in Canada,1,2019,17700
+2018,Studied in Canada,2,2020,18100
+2018,Studied in Canada,3,2021,24300
+2018,Studied in Canada,4,2022,30500
+2018,Studied in Canada,5,2023,33400
+2018,Worked and studied in Canada,1,2019,51000
+2018,Worked and studied in Canada,2,2020,54900
+2018,Worked and studied in Canada,3,2021,60500
+2018,Worked and studied in Canada,4,2022,63800
+2018,Worked and studied in Canada,5,2023,66800
+2018,Worked in Canada,1,2019,44500
+2018,Worked in Canada,2,2020,45600
+2018,Worked in Canada,3,2021,50800
+2018,Worked in Canada,4,2022,52100
+2018,Worked in Canada,5,2023,54400
+2019,Asylum claimant,1,2020,18100
+2019,Asylum claimant,2,2021,24000
+2019,Asylum claimant,3,2022,27800
+2019,Asylum claimant,4,2023,28900
+2019,No prior Canadian experience,1,2020,25300
+2019,No prior Canadian experience,2,2021,34500
+2019,No prior Canadian experience,3,2022,38300
+2019,No prior Canadian experience,4,2023,41100
+2019,Studied in Canada,1,2020,14900
+2019,Studied in Canada,2,2021,20700
+2019,Studied in Canada,3,2022,24300
+2019,Studied in Canada,4,2023,25800
+2019,Worked and studied in Canada,1,2020,48200
+2019,Worked and studied in Canada,2,2021,55100
+2019,Worked and studied in Canada,3,2022,58400
+2019,Worked and studied in Canada,4,2023,61500
+2019,Worked in Canada,1,2020,42700
+2019,Worked in Canada,2,2021,48900
+2019,Worked in Canada,3,2022,50700
+2019,Worked in Canada,4,2023,52900
+2020,Asylum claimant,1,2021,23000
+2020,Asylum claimant,2,2022,26500
+2020,Asylum claimant,3,2023,28300
+2020,No prior Canadian experience,1,2021,30700
+2020,No prior Canadian experience,2,2022,36300
+2020,No prior Canadian experience,3,2023,39300
+2020,Studied in Canada,1,2021,19100
+2020,Studied in Canada,2,2022,23300
+2020,Studied in Canada,3,2023,24800
+2020,Worked and studied in Canada,1,2021,53700
+2020,Worked and studied in Canada,2,2022,58800
+2020,Worked and studied in Canada,3,2023,62500
+2020,Worked in Canada,1,2021,51700
+2020,Worked in Canada,2,2022,54800
+2020,Worked in Canada,3,2023,57100
+2021,Asylum claimant,1,2022,28400
+2021,Asylum claimant,2,2023,29400
+2021,No prior Canadian experience,1,2022,27900
+2021,No prior Canadian experience,2,2023,31800
+2021,Studied in Canada,1,2022,18300
+2021,Studied in Canada,2,2023,20300
+2021,Worked and studied in Canada,1,2022,49800
+2021,Worked and studied in Canada,2,2023,54200
+2021,Worked in Canada,1,2022,53100
+2021,Worked in Canada,2,2023,56300
+2022,Asylum claimant,1,2023,29900
+2022,No prior Canadian experience,1,2023,31200
+2022,Studied in Canada,1,2023,19600
+2022,Worked and studied in Canada,1,2023,47400
+2022,Worked in Canada,1,2023,48500

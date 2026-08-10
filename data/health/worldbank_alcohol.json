@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_alcohol",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "World Bank / WHO Global Health Observatory",
+  "frequency": "annual",
+  "unit": "litres per capita",
+  "retrieved_at": "2026-08-09T14:44:49.641185+00:00",
+  "latest_observation_date": "2020",
+  "next_release_date": null,
+  "transformations": [
+    "World Bank indicator SH.ALC.PCAP.LI, filtered to 17 OECD peers"
+  ],
+  "notes": null,
+  "row_count": 357
+}

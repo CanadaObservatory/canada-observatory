@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_govt_employment",
+  "source": "OECD",
+  "source_table": "OECD Government at a Glance 2025",
+  "frequency": "annual",
+  "unit": "% of total employment",
+  "retrieved_at": "2026-08-10T15:05:20.609553+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Government employment for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 231
+}

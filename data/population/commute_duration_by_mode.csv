@@ -1,0 +1,211 @@
+geo,mode,avg_min
+Abbotsford - Mission,All modes,25.2
+Abbotsford - Mission,Bicycle,23.3
+Abbotsford - Mission,Car,25.3
+Abbotsford - Mission,Public transit,39.9
+Abbotsford - Mission,Walked,12.8
+Barrie,All modes,29.4
+Barrie,Bicycle,19.4
+Barrie,Car,29.6
+Barrie,Public transit,45.8
+Barrie,Walked,13.8
+Belleville - Quinte West,All modes,20.0
+Belleville - Quinte West,Bicycle,17.4
+Belleville - Quinte West,Car,20.2
+Belleville - Quinte West,Public transit,28.8
+Belleville - Quinte West,Walked,14.1
+Brantford,All modes,23.2
+Brantford,Bicycle,20.5
+Brantford,Car,23.4
+Brantford,Public transit,36.6
+Brantford,Walked,13.3
+Calgary,All modes,24.2
+Calgary,Bicycle,23.2
+Calgary,Car,22.7
+Calgary,Public transit,43.2
+Calgary,Walked,13.6
+Canada,All modes,23.7
+Canada,Bicycle,20.0
+Canada,Car,22.8
+Canada,Public transit,42.9
+Canada,Walked,12.5
+Chilliwack,All modes,24.2
+Chilliwack,Bicycle,14.8
+Chilliwack,Car,24.9
+Chilliwack,Public transit,32.6
+Chilliwack,Walked,11.4
+Drummondville,All modes,17.3
+Drummondville,Bicycle,13.8
+Drummondville,Car,17.4
+Drummondville,Public transit,26.6
+Drummondville,Walked,9.9
+Edmonton,All modes,23.9
+Edmonton,Bicycle,22.0
+Edmonton,Car,23.0
+Edmonton,Public transit,40.7
+Edmonton,Walked,13.1
+Fredericton,All modes,17.4
+Fredericton,Bicycle,16.1
+Fredericton,Car,17.4
+Fredericton,Public transit,28.7
+Fredericton,Walked,14.5
+Greater Sudbury,All modes,21.0
+Greater Sudbury,Bicycle,16.9
+Greater Sudbury,Car,20.6
+Greater Sudbury,Public transit,33.6
+Greater Sudbury,Walked,13.8
+Guelph,All modes,22.3
+Guelph,Bicycle,19.3
+Guelph,Car,22.3
+Guelph,Public transit,36.6
+Guelph,Walked,15.1
+Halifax,All modes,21.8
+Halifax,Bicycle,19.2
+Halifax,Car,21.1
+Halifax,Public transit,35.8
+Halifax,Walked,15.1
+Hamilton,All modes,24.9
+Hamilton,Bicycle,20.7
+Hamilton,Car,24.5
+Hamilton,Public transit,42.1
+Hamilton,Walked,13.0
+Kamloops,All modes,19.0
+Kamloops,Bicycle,16.8
+Kamloops,Car,18.9
+Kamloops,Public transit,28.9
+Kamloops,Walked,13.1
+Kelowna,All modes,19.5
+Kelowna,Bicycle,17.5
+Kelowna,Car,19.4
+Kelowna,Public transit,30.0
+Kelowna,Walked,11.7
+Kingston,All modes,19.5
+Kingston,Bicycle,15.7
+Kingston,Car,19.6
+Kingston,Public transit,29.1
+Kingston,Walked,14.2
+Kitchener - Cambridge - Waterloo,All modes,22.2
+Kitchener - Cambridge - Waterloo,Bicycle,19.7
+Kitchener - Cambridge - Waterloo,Car,21.9
+Kitchener - Cambridge - Waterloo,Public transit,39.8
+Kitchener - Cambridge - Waterloo,Walked,13.0
+Lethbridge,All modes,16.8
+Lethbridge,Bicycle,18.9
+Lethbridge,Car,16.3
+Lethbridge,Public transit,38.2
+Lethbridge,Walked,12.3
+London,All modes,20.8
+London,Bicycle,19.0
+London,Car,20.6
+London,Public transit,34.3
+London,Walked,13.8
+Moncton,All modes,16.6
+Moncton,Bicycle,16.1
+Moncton,Car,16.4
+Moncton,Public transit,32.5
+Moncton,Walked,14.0
+Montréal,All modes,27.0
+Montréal,Bicycle,21.3
+Montréal,Car,24.9
+Montréal,Public transit,43.2
+Montréal,Walked,13.8
+Nanaimo,All modes,19.5
+Nanaimo,Bicycle,22.6
+Nanaimo,Car,19.0
+Nanaimo,Public transit,31.9
+Nanaimo,Walked,13.4
+Oshawa,All modes,29.3
+Oshawa,Bicycle,23.7
+Oshawa,Car,28.7
+Oshawa,Public transit,56.1
+Oshawa,Walked,11.9
+Ottawa - Gatineau,All modes,23.8
+Ottawa - Gatineau,Bicycle,21.3
+Ottawa - Gatineau,Car,22.8
+Ottawa - Gatineau,Public transit,41.3
+Ottawa - Gatineau,Walked,14.0
+Peterborough,All modes,22.4
+Peterborough,Bicycle,17.0
+Peterborough,Car,22.9
+Peterborough,Public transit,30.4
+Peterborough,Walked,14.8
+Québec,All modes,20.1
+Québec,Bicycle,17.6
+Québec,Car,19.5
+Québec,Public transit,32.2
+Québec,Walked,13.3
+Red Deer,All modes,18.4
+Red Deer,Bicycle,18.5
+Red Deer,Car,18.0
+Red Deer,Public transit,29.0
+Red Deer,Walked,14.6
+Regina,All modes,17.2
+Regina,Bicycle,17.0
+Regina,Car,17.0
+Regina,Public transit,30.9
+Regina,Walked,11.9
+Saguenay,All modes,17.6
+Saguenay,Bicycle,15.1
+Saguenay,Car,17.1
+Saguenay,Public transit,27.7
+Saguenay,Walked,10.7
+Saint John,All modes,19.2
+Saint John,Bicycle,25.4
+Saint John,Car,19.4
+Saint John,Public transit,26.6
+Saint John,Walked,12.2
+Saskatoon,All modes,18.6
+Saskatoon,Bicycle,19.2
+Saskatoon,Car,17.9
+Saskatoon,Public transit,33.7
+Saskatoon,Walked,14.4
+Sherbrooke,All modes,18.8
+Sherbrooke,Bicycle,16.7
+Sherbrooke,Car,18.7
+Sherbrooke,Public transit,29.2
+Sherbrooke,Walked,13.6
+St. Catharines - Niagara,All modes,21.3
+St. Catharines - Niagara,Bicycle,16.9
+St. Catharines - Niagara,Car,21.6
+St. Catharines - Niagara,Public transit,35.3
+St. Catharines - Niagara,Walked,12.1
+St. John's,All modes,17.6
+St. John's,Bicycle,24.4
+St. John's,Car,16.2
+St. John's,Public transit,33.4
+St. John's,Walked,12.5
+Thunder Bay,All modes,17.0
+Thunder Bay,Bicycle,17.9
+Thunder Bay,Car,16.4
+Thunder Bay,Public transit,30.5
+Thunder Bay,Walked,13.3
+Toronto,All modes,29.8
+Toronto,Bicycle,23.0
+Toronto,Car,27.6
+Toronto,Public transit,47.7
+Toronto,Walked,14.6
+Trois-Rivières,All modes,18.2
+Trois-Rivières,Bicycle,15.5
+Trois-Rivières,Car,18.2
+Trois-Rivières,Public transit,29.7
+Trois-Rivières,Walked,11.5
+Vancouver,All modes,27.3
+Vancouver,Bicycle,23.6
+Vancouver,Car,25.6
+Vancouver,Public transit,42.6
+Vancouver,Walked,14.7
+Victoria,All modes,20.2
+Victoria,Bicycle,20.5
+Victoria,Car,19.8
+Victoria,Public transit,31.8
+Victoria,Walked,14.8
+Windsor,All modes,19.0
+Windsor,Bicycle,17.9
+Windsor,Car,18.9
+Windsor,Public transit,34.5
+Windsor,Walked,11.6
+Winnipeg,All modes,22.3
+Winnipeg,Bicycle,22.4
+Winnipeg,Car,21.5
+Winnipeg,Public transit,35.8
+Winnipeg,Walked,13.2

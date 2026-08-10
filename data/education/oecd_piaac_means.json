@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_piaac_means",
+  "source": "OECD",
+  "source_table": "OECD Survey of Adult Skills 2023 (PIAAC Cycle 2), report data annex Tables 2.1-2.3",
+  "frequency": "per assessment cycle (~decadal); one-time build",
+  "unit": "mean proficiency score (0\u2013500 scale), adults 16\u201365",
+  "retrieved_at": "2026-08-09T15:22:13.587668+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "16 of the 17 site peers (Australia did not participate) + the OECD average; United Kingdom = England only; immutable scores fetched once from https://stat.link/qi3pwc"
+  ],
+  "notes": null,
+  "row_count": 51
+}

@@ -1,0 +1,641 @@
+cma,year,bedroom,avg_rent
+Bay Roberts,2025,1 bedroom,0.0
+East Hants,2025,1 bedroom,0.0
+Yarmouth,2025,1 bedroom,0.0
+Roberval,2025,1 bedroom,0.0
+Saint-Jean-sur-Richelieu,2025,1 bedroom,0.0
+Saint-Lin--Laurentides,2025,1 bedroom,0.0
+Essex,2025,1 bedroom,0.0
+Leamington,2025,1 bedroom,0.0
+Mississippi Mills,2025,1 bedroom,0.0
+North Grenville,2025,1 bedroom,0.0
+Temiskaming Shores,2025,1 bedroom,0.0
+Yellowhead County,2025,1 bedroom,0.0
+Dolbeau-Mistassini,2025,1 bedroom,484.0
+La Tuque,2025,1 bedroom,523.0
+Saint-Félicien,2025,1 bedroom,542.0
+Alma,2025,1 bedroom,583.0
+Mont-Laurier,2025,1 bedroom,598.0
+Matane,2025,1 bedroom,613.0
+Saint-Georges,2025,1 bedroom,617.0
+Grand Falls-Windsor,2025,1 bedroom,620.0
+Montmagny,2025,1 bedroom,654.0
+Shawinigan,2025,1 bedroom,658.0
+Miramichi,2025,1 bedroom,662.0
+Thetford Mines,2025,1 bedroom,663.0
+Sorel-Tracy,2025,1 bedroom,677.0
+Rouyn-Noranda,2025,1 bedroom,681.0
+Gaspé,2025,1 bedroom,688.0
+Rivière-du-Loup,2025,1 bedroom,693.0
+Edmundston,2025,1 bedroom,716.0
+Baie-Comeau,2025,1 bedroom,728.0
+Rawdon,2025,1 bedroom,743.0
+Prévost,2025,1 bedroom,747.0
+Rimouski,2025,1 bedroom,756.0
+Saguenay,2025,1 bedroom,762.0
+Sainte-Adèle,2025,1 bedroom,773.0
+Salaberry-de-Valleyfield,2025,1 bedroom,773.0
+Corner Brook,2025,1 bedroom,776.0
+Bathurst,2025,1 bedroom,776.0
+Les Îles-de-la-Madeleine,2025,1 bedroom,780.0
+Elliot Lake,2025,1 bedroom,789.0
+Val-d'Or,2025,1 bedroom,793.0
+Cowansville,2025,1 bedroom,796.0
+Joliette,2025,1 bedroom,796.0
+Lachute,2025,1 bedroom,806.0
+Brandon,2025,1 bedroom,810.0
+Victoriaville,2025,1 bedroom,817.0
+Sept-Îles,2025,1 bedroom,819.0
+Kings Subdivision,2025,1 bedroom,823.0
+Trois-Rivières,2025,1 bedroom,828.0
+Portage La Prairie,2025,1 bedroom,829.0
+Swift Current,2025,1 bedroom,830.0
+Cape Breton,2025,1 bedroom,840.0
+New Glasgow,2025,1 bedroom,842.0
+Gander,2025,1 bedroom,849.0
+Sainte-Marie,2025,1 bedroom,851.0
+West Nipissing,2025,1 bedroom,852.0
+Estevan,2025,1 bedroom,863.0
+Granby,2025,1 bedroom,884.0
+Quesnel,2025,1 bedroom,889.0
+Drummondville,2025,1 bedroom,904.0
+Sherbrooke,2025,1 bedroom,905.0
+Fort St. John,2025,1 bedroom,917.0
+Meaford,2025,1 bedroom,919.0
+North Battleford,2025,1 bedroom,924.0
+Amos,2025,1 bedroom,930.0
+Steinbach,2025,1 bedroom,944.0
+Pembroke,2025,1 bedroom,953.0
+Powell River,2025,1 bedroom,957.0
+Dawson Creek,2025,1 bedroom,959.0
+Summerside,2025,1 bedroom,963.0
+Saint-Hyacinthe,2025,1 bedroom,964.0
+Wetaskiwin,2025,1 bedroom,984.0
+Port Alberni,2025,1 bedroom,994.0
+Sainte- Sophie,2025,1 bedroom,997.0
+Moose Jaw,2025,1 bedroom,997.0
+Saint John,2025,1 bedroom,1001.0
+Norfolk,2025,1 bedroom,1004.0
+Kenora,2025,1 bedroom,1005.0
+Thompson,2025,1 bedroom,1007.0
+Truro,2025,1 bedroom,1011.0
+Brock,2025,1 bedroom,1030.0
+Kentville,2025,1 bedroom,1044.0
+Cranbrook,2025,1 bedroom,1052.0
+The Nation,2025,1 bedroom,1062.0
+St. John's,2025,1 bedroom,1064.0
+Charlottetown,2025,1 bedroom,1066.0
+Greater Napanee,2025,1 bedroom,1066.0
+Prince Albert,2025,1 bedroom,1073.0
+Yorkton,2025,1 bedroom,1076.0
+North Bay,2025,1 bedroom,1078.0
+Petawawa,2025,1 bedroom,1079.0
+Cornwall,2025,1 bedroom,1082.0
+Williams Lake,2025,1 bedroom,1082.0
+Cold Lake,2025,1 bedroom,1092.0
+High River,2025,1 bedroom,1106.0
+Québec,2025,1 bedroom,1107.0
+Scugog,2025,1 bedroom,1117.0
+Medicine Hat,2025,1 bedroom,1120.0
+Ingersoll,2025,1 bedroom,1124.0
+Owen Sound,2025,1 bedroom,1130.0
+Montréal,2025,1 bedroom,1131.0
+Haldimand County,2025,1 bedroom,1132.0
+Brockville,2025,1 bedroom,1140.0
+Prince Rupert,2025,1 bedroom,1143.0
+Salmon Arm,2025,1 bedroom,1151.0
+Lacombe,2025,1 bedroom,1157.0
+Moncton,2025,1 bedroom,1164.0
+Bracebridge,2025,1 bedroom,1165.0
+Sault Ste. Marie,2025,1 bedroom,1167.0
+Thunder Bay,2025,1 bedroom,1173.0
+Brooks,2025,1 bedroom,1176.0
+Saugeen Shores,2025,1 bedroom,1177.0
+Timmins,2025,1 bedroom,1177.0
+Windsor,2025,1 bedroom,1193.0
+Tillsonburg,2025,1 bedroom,1195.0
+Penticton,2025,1 bedroom,1197.0
+Wood Buffalo,2025,1 bedroom,1199.0
+Chatham-Kent,2025,1 bedroom,1203.0
+Fredericton,2025,1 bedroom,1208.0
+Prince George,2025,1 bedroom,1214.0
+Red Deer,2025,1 bedroom,1220.0
+Chilliwack,2025,1 bedroom,1222.0
+Grande Prairie,2025,1 bedroom,1223.0
+Camrose,2025,1 bedroom,1228.0
+Peterborough,2025,1 bedroom,1232.0
+Winnipeg,2025,1 bedroom,1232.0
+Vernon,2025,1 bedroom,1234.0
+Sarnia,2025,1 bedroom,1235.0
+Regina,2025,1 bedroom,1240.0
+Greater Sudbury,2025,1 bedroom,1244.0
+Gravenhurst,2025,1 bedroom,1269.0
+Abbotsford-Mission,2025,1 bedroom,1278.0
+Saskatoon,2025,1 bedroom,1281.0
+Campbell River,2025,1 bedroom,1282.0
+Strathmore,2025,1 bedroom,1283.0
+Duncan,2025,1 bedroom,1283.0
+Midland,2025,1 bedroom,1290.0
+Centre Wellington,2025,1 bedroom,1298.0
+Edmonton,2025,1 bedroom,1301.0
+Kawartha Lakes,2025,1 bedroom,1311.0
+St. Catharines-Niagara,2025,1 bedroom,1318.0
+Cobourg,2025,1 bedroom,1320.0
+Prince Edward,2025,1 bedroom,1337.0
+Kamloops,2025,1 bedroom,1345.0
+Summerland,2025,1 bedroom,1349.0
+Sylvan Lake,2025,1 bedroom,1355.0
+Lethbridge,2025,1 bedroom,1370.0
+London,2025,1 bedroom,1371.0
+North Perth,2025,1 bedroom,1398.0
+Hamilton,2025,1 bedroom,1402.0
+Woodstock,2025,1 bedroom,1409.0
+Collingwood,2025,1 bedroom,1418.0
+Brantford,2025,1 bedroom,1448.0
+Courtenay,2025,1 bedroom,1459.0
+Orillia,2025,1 bedroom,1475.0
+Kingston,2025,1 bedroom,1503.0
+Stratford,2025,1 bedroom,1508.0
+Huntsville,2025,1 bedroom,1514.0
+Nanaimo,2025,1 bedroom,1527.0
+Port Hope,2025,1 bedroom,1536.0
+Halifax,2025,1 bedroom,1539.0
+Ottawa-Gatineau,2025,1 bedroom,1542.0
+Kitchener-Cambridge-Waterloo,2025,1 bedroom,1546.0
+Parksville,2025,1 bedroom,1546.0
+Calgary,2025,1 bedroom,1581.0
+Barrie,2025,1 bedroom,1583.0
+Oshawa,2025,1 bedroom,1586.0
+Kelowna,2025,1 bedroom,1597.0
+Victoria,2025,1 bedroom,1624.0
+Squamish,2025,1 bedroom,1626.0
+Guelph,2025,1 bedroom,1627.0
+Yellowknife,2025,1 bedroom,1757.0
+Toronto,2025,1 bedroom,1761.0
+Vancouver,2025,1 bedroom,1807.0
+Canmore,2025,1 bedroom,1858.0
+Bay Roberts,2025,2 bedroom,0.0
+East Hants,2025,2 bedroom,0.0
+Yarmouth,2025,2 bedroom,0.0
+Roberval,2025,2 bedroom,0.0
+Saint-Jean-sur-Richelieu,2025,2 bedroom,0.0
+Saint-Lin--Laurentides,2025,2 bedroom,0.0
+Essex,2025,2 bedroom,0.0
+Leamington,2025,2 bedroom,0.0
+Mississippi Mills,2025,2 bedroom,0.0
+North Grenville,2025,2 bedroom,0.0
+Temiskaming Shores,2025,2 bedroom,0.0
+Yellowhead County,2025,2 bedroom,0.0
+La Tuque,2025,2 bedroom,600.0
+Dolbeau-Mistassini,2025,2 bedroom,677.0
+Matane,2025,2 bedroom,786.0
+Mont-Laurier,2025,2 bedroom,788.0
+Saint-Georges,2025,2 bedroom,798.0
+Saint-Félicien,2025,2 bedroom,812.0
+Thetford Mines,2025,2 bedroom,819.0
+Alma,2025,2 bedroom,828.0
+Shawinigan,2025,2 bedroom,830.0
+Baie-Comeau,2025,2 bedroom,855.0
+Rivière-du-Loup,2025,2 bedroom,857.0
+Montmagny,2025,2 bedroom,865.0
+Elliot Lake,2025,2 bedroom,871.0
+Gaspé,2025,2 bedroom,918.0
+Les Îles-de-la-Madeleine,2025,2 bedroom,921.0
+Rimouski,2025,2 bedroom,935.0
+Sorel-Tracy,2025,2 bedroom,943.0
+Grand Falls-Windsor,2025,2 bedroom,945.0
+Corner Brook,2025,2 bedroom,949.0
+Sept-Îles,2025,2 bedroom,956.0
+Sainte-Marie,2025,2 bedroom,965.0
+Saguenay,2025,2 bedroom,986.0
+Norfolk,2025,2 bedroom,988.0
+Victoriaville,2025,2 bedroom,991.0
+Steinbach,2025,2 bedroom,991.0
+Edmundston,2025,2 bedroom,995.0
+Swift Current,2025,2 bedroom,999.0
+Amos,2025,2 bedroom,1002.0
+Gander,2025,2 bedroom,1005.0
+Estevan,2025,2 bedroom,1005.0
+Rouyn-Noranda,2025,2 bedroom,1007.0
+Trois-Rivières,2025,2 bedroom,1017.0
+Kings Subdivision,2025,2 bedroom,1020.0
+Sainte-Adèle,2025,2 bedroom,1034.0
+Drummondville,2025,2 bedroom,1044.0
+West Grey,2025,2 bedroom,1055.0
+Sherbrooke,2025,2 bedroom,1062.0
+Rawdon,2025,2 bedroom,1069.0
+New Glasgow,2025,2 bedroom,1070.0
+Val-d'Or,2025,2 bedroom,1071.0
+Brandon,2025,2 bedroom,1096.0
+Bathurst,2025,2 bedroom,1108.0
+Queens,2025,2 bedroom,1114.0
+Joliette,2025,2 bedroom,1114.0
+Salaberry-de-Valleyfield,2025,2 bedroom,1125.0
+Kentville,2025,2 bedroom,1128.0
+Miramichi,2025,2 bedroom,1132.0
+Cape Breton,2025,2 bedroom,1134.0
+Lachute,2025,2 bedroom,1134.0
+Thompson,2025,2 bedroom,1136.0
+Haldimand County,2025,2 bedroom,1137.0
+Cowansville,2025,2 bedroom,1147.0
+West Nipissing,2025,2 bedroom,1151.0
+Granby,2025,2 bedroom,1154.0
+Prince Rupert,2025,2 bedroom,1154.0
+North Battleford,2025,2 bedroom,1159.0
+Powell River,2025,2 bedroom,1182.0
+Meaford,2025,2 bedroom,1192.0
+Ingersoll,2025,2 bedroom,1194.0
+Fort St. John,2025,2 bedroom,1196.0
+Sainte- Sophie,2025,2 bedroom,1198.0
+Pembroke,2025,2 bedroom,1200.0
+Dawson Creek,2025,2 bedroom,1202.0
+Saint-Hyacinthe,2025,2 bedroom,1203.0
+Terrace,2025,2 bedroom,1205.0
+Prince Albert,2025,2 bedroom,1213.0
+Yorkton,2025,2 bedroom,1217.0
+Medicine Hat,2025,2 bedroom,1217.0
+Petawawa,2025,2 bedroom,1225.0
+Quesnel,2025,2 bedroom,1226.0
+Summerside,2025,2 bedroom,1241.0
+Greater Napanee,2025,2 bedroom,1244.0
+Portage La Prairie,2025,2 bedroom,1257.0
+Truro,2025,2 bedroom,1273.0
+Québec,2025,2 bedroom,1276.0
+Cornwall,2025,2 bedroom,1276.0
+Port Alberni,2025,2 bedroom,1279.0
+North Perth,2025,2 bedroom,1282.0
+High River,2025,2 bedroom,1286.0
+Saint John,2025,2 bedroom,1290.0
+Timmins,2025,2 bedroom,1291.0
+Wetaskiwin,2025,2 bedroom,1294.0
+Brock,2025,2 bedroom,1296.0
+Tillsonburg,2025,2 bedroom,1308.0
+Prévost,2025,2 bedroom,1322.0
+Cold Lake,2025,2 bedroom,1328.0
+Salmon Arm,2025,2 bedroom,1336.0
+Moose Jaw,2025,2 bedroom,1337.0
+Brockville,2025,2 bedroom,1339.0
+Montréal,2025,2 bedroom,1346.0
+Camrose,2025,2 bedroom,1346.0
+St. John's,2025,2 bedroom,1348.0
+Charlottetown,2025,2 bedroom,1354.0
+Owen Sound,2025,2 bedroom,1361.0
+Chatham-Kent,2025,2 bedroom,1365.0
+Sault Ste. Marie,2025,2 bedroom,1394.0
+Brighton,2025,2 bedroom,1403.0
+North Bay,2025,2 bedroom,1404.0
+Prince Edward,2025,2 bedroom,1405.0
+Brooks,2025,2 bedroom,1406.0
+Red Deer,2025,2 bedroom,1418.0
+Prince George,2025,2 bedroom,1422.0
+Grande Prairie,2025,2 bedroom,1427.0
+Fredericton,2025,2 bedroom,1431.0
+Windsor,2025,2 bedroom,1451.0
+Lacombe,2025,2 bedroom,1451.0
+Moncton,2025,2 bedroom,1452.0
+Scugog,2025,2 bedroom,1452.0
+Williams Lake,2025,2 bedroom,1455.0
+Wood Buffalo,2025,2 bedroom,1457.0
+Sylvan Lake,2025,2 bedroom,1467.0
+Cranbrook,2025,2 bedroom,1472.0
+Lambton Shores,2025,2 bedroom,1473.0
+Regina,2025,2 bedroom,1478.0
+Thunder Bay,2025,2 bedroom,1493.0
+Sarnia,2025,2 bedroom,1502.0
+Penticton,2025,2 bedroom,1511.0
+Bracebridge,2025,2 bedroom,1513.0
+Peterborough,2025,2 bedroom,1513.0
+Strathmore,2025,2 bedroom,1520.0
+Chilliwack,2025,2 bedroom,1523.0
+St. Catharines-Niagara,2025,2 bedroom,1527.0
+Midland,2025,2 bedroom,1541.0
+Orillia,2025,2 bedroom,1553.0
+Gravenhurst,2025,2 bedroom,1555.0
+Greater Sudbury,2025,2 bedroom,1555.0
+Saskatoon,2025,2 bedroom,1559.0
+Centre Wellington,2025,2 bedroom,1562.0
+Parksville,2025,2 bedroom,1563.0
+Winnipeg,2025,2 bedroom,1570.0
+Huntsville,2025,2 bedroom,1581.0
+Port Hope,2025,2 bedroom,1588.0
+Kawartha Lakes,2025,2 bedroom,1591.0
+Lethbridge,2025,2 bedroom,1593.0
+Edmonton,2025,2 bedroom,1598.0
+Brantford,2025,2 bedroom,1604.0
+Vernon,2025,2 bedroom,1607.0
+Cobourg,2025,2 bedroom,1610.0
+Abbotsford-Mission,2025,2 bedroom,1623.0
+Duncan,2025,2 bedroom,1624.0
+Collingwood,2025,2 bedroom,1634.0
+London,2025,2 bedroom,1645.0
+Woodstock,2025,2 bedroom,1645.0
+Campbell River,2025,2 bedroom,1656.0
+Hamilton,2025,2 bedroom,1659.0
+Stratford,2025,2 bedroom,1663.0
+Summerland,2025,2 bedroom,1671.0
+Kamloops,2025,2 bedroom,1673.0
+Courtenay,2025,2 bedroom,1691.0
+The Nation,2025,2 bedroom,1692.0
+Red Deer County,2025,2 bedroom,1703.0
+Barrie,2025,2 bedroom,1749.0
+Ottawa-Gatineau,2025,2 bedroom,1757.0
+Oshawa,2025,2 bedroom,1762.0
+Kingston,2025,2 bedroom,1763.0
+Kincardine,2025,2 bedroom,1767.0
+Okotoks,2025,2 bedroom,1778.0
+Saugeen Shores,2025,2 bedroom,1790.0
+Guelph,2025,2 bedroom,1803.0
+Kitchener-Cambridge-Waterloo,2025,2 bedroom,1816.0
+Halifax,2025,2 bedroom,1828.0
+Nanaimo,2025,2 bedroom,1895.0
+Calgary,2025,2 bedroom,1908.0
+Toronto,2025,2 bedroom,2045.0
+Kelowna,2025,2 bedroom,2098.0
+Yellowknife,2025,2 bedroom,2109.0
+Victoria,2025,2 bedroom,2121.0
+Squamish,2025,2 bedroom,2179.0
+Vancouver,2025,2 bedroom,2364.0
+Canmore,2025,2 bedroom,2438.0
+Bay Roberts,2025,3 bedroom +,0.0
+East Hants,2025,3 bedroom +,0.0
+Yarmouth,2025,3 bedroom +,0.0
+Roberval,2025,3 bedroom +,0.0
+Saint-Jean-sur-Richelieu,2025,3 bedroom +,0.0
+Saint-Lin--Laurentides,2025,3 bedroom +,0.0
+Essex,2025,3 bedroom +,0.0
+Leamington,2025,3 bedroom +,0.0
+Mississippi Mills,2025,3 bedroom +,0.0
+North Grenville,2025,3 bedroom +,0.0
+Temiskaming Shores,2025,3 bedroom +,0.0
+Yellowhead County,2025,3 bedroom +,0.0
+Dolbeau-Mistassini,2025,3 bedroom +,681.0
+La Tuque,2025,3 bedroom +,703.0
+Alma,2025,3 bedroom +,771.0
+Mont-Laurier,2025,3 bedroom +,849.0
+Gaspé,2025,3 bedroom +,859.0
+Saint-Félicien,2025,3 bedroom +,860.0
+Saint-Georges,2025,3 bedroom +,882.0
+Baie-Comeau,2025,3 bedroom +,904.0
+Shawinigan,2025,3 bedroom +,904.0
+Montmagny,2025,3 bedroom +,911.0
+Rouyn-Noranda,2025,3 bedroom +,911.0
+Thetford Mines,2025,3 bedroom +,927.0
+Matane,2025,3 bedroom +,962.0
+Victoriaville,2025,3 bedroom +,987.0
+Saguenay,2025,3 bedroom +,997.0
+Gander,2025,3 bedroom +,999.0
+Edmundston,2025,3 bedroom +,1005.0
+Amos,2025,3 bedroom +,1011.0
+Val-d'Or,2025,3 bedroom +,1011.0
+Elliot Lake,2025,3 bedroom +,1044.0
+Summerside,2025,3 bedroom +,1057.0
+Rivière-du-Loup,2025,3 bedroom +,1057.0
+Corner Brook,2025,3 bedroom +,1071.0
+Les Îles-de-la-Madeleine,2025,3 bedroom +,1073.0
+Joliette,2025,3 bedroom +,1080.0
+Sainte-Marie,2025,3 bedroom +,1084.0
+Sept-Îles,2025,3 bedroom +,1088.0
+Estevan,2025,3 bedroom +,1090.0
+Rimouski,2025,3 bedroom +,1091.0
+Petawawa,2025,3 bedroom +,1104.0
+Trois-Rivières,2025,3 bedroom +,1111.0
+Kentville,2025,3 bedroom +,1129.0
+Salaberry-de-Valleyfield,2025,3 bedroom +,1130.0
+Quesnel,2025,3 bedroom +,1130.0
+Thompson,2025,3 bedroom +,1163.0
+Sorel-Tracy,2025,3 bedroom +,1165.0
+Lachute,2025,3 bedroom +,1171.0
+Chatham-Kent,2025,3 bedroom +,1199.0
+Prince Rupert,2025,3 bedroom +,1207.0
+Cowansville,2025,3 bedroom +,1224.0
+Powell River,2025,3 bedroom +,1225.0
+Camrose,2025,3 bedroom +,1244.0
+Brockville,2025,3 bedroom +,1247.0
+North Battleford,2025,3 bedroom +,1247.0
+Swift Current,2025,3 bedroom +,1273.0
+Saint John,2025,3 bedroom +,1283.0
+New Glasgow,2025,3 bedroom +,1291.0
+Prince Albert,2025,3 bedroom +,1300.0
+Drummondville,2025,3 bedroom +,1306.0
+St. John's,2025,3 bedroom +,1327.0
+Brandon,2025,3 bedroom +,1327.0
+Dawson Creek,2025,3 bedroom +,1331.0
+Bathurst,2025,3 bedroom +,1346.0
+Fort St. John,2025,3 bedroom +,1351.0
+Cornwall,2025,3 bedroom +,1352.0
+Portage La Prairie,2025,3 bedroom +,1359.0
+Sherbrooke,2025,3 bedroom +,1375.0
+Owen Sound,2025,3 bedroom +,1376.0
+Granby,2025,3 bedroom +,1393.0
+Steinbach,2025,3 bedroom +,1402.0
+Sainte-Adèle,2025,3 bedroom +,1414.0
+Cape Breton,2025,3 bedroom +,1432.0
+North Perth,2025,3 bedroom +,1434.0
+Yorkton,2025,3 bedroom +,1444.0
+Strathmore,2025,3 bedroom +,1463.0
+Québec,2025,3 bedroom +,1464.0
+Medicine Hat,2025,3 bedroom +,1468.0
+Cold Lake,2025,3 bedroom +,1472.0
+Sainte- Sophie,2025,3 bedroom +,1473.0
+Saint-Hyacinthe,2025,3 bedroom +,1484.0
+North Bay,2025,3 bedroom +,1491.0
+Sylvan Lake,2025,3 bedroom +,1505.0
+Rawdon,2025,3 bedroom +,1522.0
+Timmins,2025,3 bedroom +,1528.0
+High River,2025,3 bedroom +,1538.0
+Charlottetown,2025,3 bedroom +,1548.0
+Prévost,2025,3 bedroom +,1549.0
+Prince George,2025,3 bedroom +,1553.0
+Lacombe,2025,3 bedroom +,1561.0
+St. Catharines-Niagara,2025,3 bedroom +,1567.0
+Bracebridge,2025,3 bedroom +,1584.0
+Port Alberni,2025,3 bedroom +,1601.0
+Sault Ste. Marie,2025,3 bedroom +,1604.0
+Woodstock,2025,3 bedroom +,1604.0
+Grande Prairie,2025,3 bedroom +,1604.0
+Wetaskiwin,2025,3 bedroom +,1605.0
+Moncton,2025,3 bedroom +,1607.0
+Brantford,2025,3 bedroom +,1618.0
+Terrace,2025,3 bedroom +,1619.0
+Montréal,2025,3 bedroom +,1625.0
+Sarnia,2025,3 bedroom +,1626.0
+Centre Wellington,2025,3 bedroom +,1637.0
+Brooks,2025,3 bedroom +,1638.0
+Orillia,2025,3 bedroom +,1648.0
+Red Deer,2025,3 bedroom +,1677.0
+Lethbridge,2025,3 bedroom +,1683.0
+Peterborough,2025,3 bedroom +,1736.0
+Truro,2025,3 bedroom +,1753.0
+Pembroke,2025,3 bedroom +,1766.0
+Fredericton,2025,3 bedroom +,1774.0
+Stratford,2025,3 bedroom +,1776.0
+Duncan,2025,3 bedroom +,1787.0
+Saskatoon,2025,3 bedroom +,1792.0
+Thunder Bay,2025,3 bedroom +,1794.0
+Edmonton,2025,3 bedroom +,1802.0
+Cranbrook,2025,3 bedroom +,1805.0
+Vernon,2025,3 bedroom +,1826.0
+Saugeen Shores,2025,3 bedroom +,1828.0
+Greater Sudbury,2025,3 bedroom +,1839.0
+Winnipeg,2025,3 bedroom +,1849.0
+Courtenay,2025,3 bedroom +,1860.0
+Kitchener-Cambridge-Waterloo,2025,3 bedroom +,1861.0
+Moose Jaw,2025,3 bedroom +,1863.0
+Hamilton,2025,3 bedroom +,1866.0
+London,2025,3 bedroom +,1872.0
+Cobourg,2025,3 bedroom +,1885.0
+Regina,2025,3 bedroom +,1900.0
+Williams Lake,2025,3 bedroom +,1906.0
+Kamloops,2025,3 bedroom +,1913.0
+Ottawa-Gatineau,2025,3 bedroom +,1919.0
+Barrie,2025,3 bedroom +,1953.0
+Campbell River,2025,3 bedroom +,1979.0
+Wood Buffalo,2025,3 bedroom +,2026.0
+Okotoks,2025,3 bedroom +,2039.0
+Nanaimo,2025,3 bedroom +,2057.0
+Squamish,2025,3 bedroom +,2086.0
+Guelph,2025,3 bedroom +,2099.0
+Penticton,2025,3 bedroom +,2117.0
+Calgary,2025,3 bedroom +,2118.0
+Oshawa,2025,3 bedroom +,2131.0
+Parksville,2025,3 bedroom +,2143.0
+Chilliwack,2025,3 bedroom +,2250.0
+Halifax,2025,3 bedroom +,2254.0
+Toronto,2025,3 bedroom +,2294.0
+Abbotsford-Mission,2025,3 bedroom +,2294.0
+Gravenhurst,2025,3 bedroom +,2386.0
+Yellowknife,2025,3 bedroom +,2449.0
+Kingston,2025,3 bedroom +,2593.0
+Kelowna,2025,3 bedroom +,2713.0
+Victoria,2025,3 bedroom +,2742.0
+Vancouver,2025,3 bedroom +,2820.0
+Canmore,2025,3 bedroom +,3676.0
+Bay Roberts,2025,Bachelor,0.0
+East Hants,2025,Bachelor,0.0
+Yarmouth,2025,Bachelor,0.0
+Roberval,2025,Bachelor,0.0
+Saint-Jean-sur-Richelieu,2025,Bachelor,0.0
+Saint-Lin--Laurentides,2025,Bachelor,0.0
+Essex,2025,Bachelor,0.0
+Leamington,2025,Bachelor,0.0
+Mississippi Mills,2025,Bachelor,0.0
+North Grenville,2025,Bachelor,0.0
+Temiskaming Shores,2025,Bachelor,0.0
+Yellowhead County,2025,Bachelor,0.0
+Dolbeau-Mistassini,2025,Bachelor,424.0
+Saint-Félicien,2025,Bachelor,454.0
+Shawinigan,2025,Bachelor,474.0
+Saint-Georges,2025,Bachelor,482.0
+Sorel-Tracy,2025,Bachelor,500.0
+Matane,2025,Bachelor,524.0
+Gaspé,2025,Bachelor,526.0
+La Tuque,2025,Bachelor,554.0
+Rouyn-Noranda,2025,Bachelor,559.0
+Mont-Laurier,2025,Bachelor,560.0
+Corner Brook,2025,Bachelor,562.0
+Baie-Comeau,2025,Bachelor,566.0
+Bathurst,2025,Bachelor,580.0
+Thetford Mines,2025,Bachelor,585.0
+Victoriaville,2025,Bachelor,587.0
+Montmagny,2025,Bachelor,589.0
+Alma,2025,Bachelor,597.0
+Rivière-du-Loup,2025,Bachelor,598.0
+Cowansville,2025,Bachelor,614.0
+Edmundston,2025,Bachelor,618.0
+Estevan,2025,Bachelor,625.0
+Lachute,2025,Bachelor,627.0
+Val-d'Or,2025,Bachelor,647.0
+Brandon,2025,Bachelor,652.0
+Portage La Prairie,2025,Bachelor,656.0
+West Nipissing,2025,Bachelor,657.0
+Saguenay,2025,Bachelor,658.0
+Joliette,2025,Bachelor,662.0
+Sainte-Marie,2025,Bachelor,664.0
+Kentville,2025,Bachelor,667.0
+Norfolk,2025,Bachelor,667.0
+Salaberry-de-Valleyfield,2025,Bachelor,677.0
+Rimouski,2025,Bachelor,681.0
+Swift Current,2025,Bachelor,685.0
+Trois-Rivières,2025,Bachelor,699.0
+North Battleford,2025,Bachelor,706.0
+Drummondville,2025,Bachelor,712.0
+Sherbrooke,2025,Bachelor,712.0
+Sept-Îles,2025,Bachelor,727.0
+Prince Albert,2025,Bachelor,759.0
+Saint-Hyacinthe,2025,Bachelor,762.0
+Prince Rupert,2025,Bachelor,766.0
+Elliot Lake,2025,Bachelor,769.0
+Steinbach,2025,Bachelor,792.0
+Moose Jaw,2025,Bachelor,792.0
+Truro,2025,Bachelor,796.0
+Fort St. John,2025,Bachelor,805.0
+North Bay,2025,Bachelor,827.0
+Cranbrook,2025,Bachelor,828.0
+Cape Breton,2025,Bachelor,830.0
+Dawson Creek,2025,Bachelor,835.0
+Saint John,2025,Bachelor,838.0
+Vernon,2025,Bachelor,846.0
+Québec,2025,Bachelor,855.0
+Pembroke,2025,Bachelor,855.0
+Timmins,2025,Bachelor,859.0
+Thompson,2025,Bachelor,866.0
+Duncan,2025,Bachelor,876.0
+Chilliwack,2025,Bachelor,885.0
+Port Alberni,2025,Bachelor,886.0
+Regina,2025,Bachelor,901.0
+Yorkton,2025,Bachelor,903.0
+Greater Sudbury,2025,Bachelor,904.0
+Granby,2025,Bachelor,905.0
+Winnipeg,2025,Bachelor,914.0
+Orillia,2025,Bachelor,923.0
+Penticton,2025,Bachelor,933.0
+Owen Sound,2025,Bachelor,935.0
+Prince George,2025,Bachelor,940.0
+Sault Ste. Marie,2025,Bachelor,942.0
+St. John's,2025,Bachelor,945.0
+Windsor,2025,Bachelor,948.0
+Greater Napanee,2025,Bachelor,955.0
+Cornwall,2025,Bachelor,956.0
+Sarnia,2025,Bachelor,971.0
+Brockville,2025,Bachelor,976.0
+Thunder Bay,2025,Bachelor,976.0
+Saskatoon,2025,Bachelor,981.0
+Charlottetown,2025,Bachelor,984.0
+Peterborough,2025,Bachelor,990.0
+Brooks,2025,Bachelor,1003.0
+Montréal,2025,Bachelor,1005.0
+Wood Buffalo,2025,Bachelor,1010.0
+Medicine Hat,2025,Bachelor,1011.0
+Moncton,2025,Bachelor,1028.0
+Red Deer,2025,Bachelor,1036.0
+Fredericton,2025,Bachelor,1046.0
+London,2025,Bachelor,1066.0
+Grande Prairie,2025,Bachelor,1069.0
+Stratford,2025,Bachelor,1074.0
+Abbotsford-Mission,2025,Bachelor,1077.0
+Hamilton,2025,Bachelor,1078.0
+Edmonton,2025,Bachelor,1108.0
+Barrie,2025,Bachelor,1111.0
+North Perth,2025,Bachelor,1117.0
+Parksville,2025,Bachelor,1133.0
+Tillsonburg,2025,Bachelor,1184.0
+Chatham-Kent,2025,Bachelor,1188.0
+St. Catharines-Niagara,2025,Bachelor,1189.0
+Kingston,2025,Bachelor,1198.0
+Brantford,2025,Bachelor,1204.0
+Nanaimo,2025,Bachelor,1244.0
+Kitchener-Cambridge-Waterloo,2025,Bachelor,1255.0
+Campbell River,2025,Bachelor,1258.0
+Ottawa-Gatineau,2025,Bachelor,1295.0
+Courtenay,2025,Bachelor,1328.0
+Kamloops,2025,Bachelor,1328.0
+Guelph,2025,Bachelor,1331.0
+Oshawa,2025,Bachelor,1334.0
+Victoria,2025,Bachelor,1349.0
+Halifax,2025,Bachelor,1362.0
+Kelowna,2025,Bachelor,1394.0
+Calgary,2025,Bachelor,1438.0
+Toronto,2025,Bachelor,1491.0
+Squamish,2025,Bachelor,1516.0
+Yellowknife,2025,Bachelor,1606.0
+Vancouver,2025,Bachelor,1667.0

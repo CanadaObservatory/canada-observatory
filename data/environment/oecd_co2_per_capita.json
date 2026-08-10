@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_co2_per_capita",
+  "source": "OECD",
+  "source_table": "OECD Green Growth Indicators",
+  "frequency": "annual",
+  "unit": "tonnes CO2 per capita",
+  "retrieved_at": "2026-08-10T15:08:43.747750+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to CO2 emissions per capita for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 595
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_population_components",
+  "source": "Statistics Canada",
+  "source_table": "17-10-0008-01",
+  "frequency": "quarterly",
+  "unit": "persons",
+  "retrieved_at": "2026-08-10T15:03:12.789682+00:00",
+  "latest_observation_date": "2025-01-01",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to date, geography, component, value columns"
+  ],
+  "notes": null,
+  "row_count": 7003
+}

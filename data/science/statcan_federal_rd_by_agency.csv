@@ -1,0 +1,453 @@
+year,fiscal_year,agency,agency_full,nominal
+2000,2000/01,National Research Council,National Research Council Canada,591.0
+2000,2000/01,NSERC,Natural Sciences and Engineering Research Council of Canada,500.0
+2000,2000/01,Natural Resources Canada,Natural Resources Canada,388.0
+2000,2000/01,CIHR,Canadian Institutes of Health Research,384.0
+2000,2000/01,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,354.0
+2000,2000/01,Canadian Space Agency,Canadian Space Agency,298.0
+2000,2000/01,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",288.0
+2000,2000/01,National Defence,National Defence,274.0
+2000,2000/01,Other departments & agencies,Other departments and agencies,236.0
+2000,2000/01,CFI,Canada Foundation for Innovation,188.0
+2000,2000/01,Environment & Climate Change,Environment and Climate Change Canada,144.0
+2000,2000/01,Atomic Energy of Canada,Atomic Energy of Canada Limited,136.0
+2000,2000/01,Fisheries & Oceans,Fisheries and Oceans Canada,130.0
+2000,2000/01,SSHRC,Social Sciences and Humanities Research Council of Canada,105.0
+2000,2000/01,Health Canada,Health Canada,65.0
+2000,2000/01,Cdn Int'l Development Agency,Canadian International Development Agency,57.0
+2000,2000/01,Statistics Canada,Statistics Canada,13.0
+2001,2001/02,National Research Council,National Research Council Canada,644.0
+2001,2001/02,CIHR,Canadian Institutes of Health Research,522.0
+2001,2001/02,NSERC,Natural Sciences and Engineering Research Council of Canada,517.0
+2001,2001/02,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",503.0
+2001,2001/02,Natural Resources Canada,Natural Resources Canada,335.0
+2001,2001/02,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,329.0
+2001,2001/02,SSHRC,Social Sciences and Humanities Research Council of Canada,325.0
+2001,2001/02,Canadian Space Agency,Canadian Space Agency,317.0
+2001,2001/02,National Defence,National Defence,281.0
+2001,2001/02,Other departments & agencies,Other departments and agencies,280.0
+2001,2001/02,CFI,Canada Foundation for Innovation,239.0
+2001,2001/02,Environment & Climate Change,Environment and Climate Change Canada,222.0
+2001,2001/02,Atomic Energy of Canada,Atomic Energy of Canada Limited,178.0
+2001,2001/02,Fisheries & Oceans,Fisheries and Oceans Canada,123.0
+2001,2001/02,Health Canada,Health Canada,102.0
+2001,2001/02,Cdn Int'l Development Agency,Canadian International Development Agency,56.0
+2001,2001/02,Statistics Canada,Statistics Canada,16.0
+2002,2002/03,National Research Council,National Research Council Canada,718.0
+2002,2002/03,CIHR,Canadian Institutes of Health Research,622.0
+2002,2002/03,NSERC,Natural Sciences and Engineering Research Council of Canada,573.0
+2002,2002/03,Other departments & agencies,Other departments and agencies,515.0
+2002,2002/03,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",371.0
+2002,2002/03,CFI,Canada Foundation for Innovation,332.0
+2002,2002/03,Canadian Space Agency,Canadian Space Agency,309.0
+2002,2002/03,Natural Resources Canada,Natural Resources Canada,285.0
+2002,2002/03,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,267.0
+2002,2002/03,National Defence,National Defence,261.0
+2002,2002/03,Environment & Climate Change,Environment and Climate Change Canada,207.0
+2002,2002/03,SSHRC,Social Sciences and Humanities Research Council of Canada,148.0
+2002,2002/03,Fisheries & Oceans,Fisheries and Oceans Canada,140.0
+2002,2002/03,Health Canada,Health Canada,105.0
+2002,2002/03,Cdn Int'l Development Agency,Canadian International Development Agency,53.0
+2002,2002/03,Statistics Canada,Statistics Canada,19.0
+2003,2003/04,National Research Council,National Research Council Canada,698.0
+2003,2003/04,CIHR,Canadian Institutes of Health Research,687.0
+2003,2003/04,NSERC,Natural Sciences and Engineering Research Council of Canada,638.0
+2003,2003/04,Natural Resources Canada,Natural Resources Canada,420.0
+2003,2003/04,SSHRC,Social Sciences and Humanities Research Council of Canada,402.0
+2003,2003/04,Other departments & agencies,Other departments and agencies,389.0
+2003,2003/04,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",375.0
+2003,2003/04,CFI,Canada Foundation for Innovation,365.0
+2003,2003/04,National Defence,National Defence,282.0
+2003,2003/04,Environment & Climate Change,Environment and Climate Change Canada,264.0
+2003,2003/04,Canadian Space Agency,Canadian Space Agency,256.0
+2003,2003/04,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,252.0
+2003,2003/04,Atomic Energy of Canada,Atomic Energy of Canada Limited,179.0
+2003,2003/04,Health Canada,Health Canada,103.0
+2003,2003/04,Fisheries & Oceans,Fisheries and Oceans Canada,71.0
+2003,2003/04,Cdn Int'l Development Agency,Canadian International Development Agency,62.0
+2003,2003/04,Statistics Canada,Statistics Canada,20.0
+2004,2004/05,CIHR,Canadian Institutes of Health Research,749.0
+2004,2004/05,NSERC,Natural Sciences and Engineering Research Council of Canada,706.0
+2004,2004/05,National Research Council,National Research Council Canada,691.0
+2004,2004/05,Other departments & agencies,Other departments and agencies,639.0
+2004,2004/05,SSHRC,Social Sciences and Humanities Research Council of Canada,444.0
+2004,2004/05,Natural Resources Canada,Natural Resources Canada,378.0
+2004,2004/05,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",327.0
+2004,2004/05,National Defence,National Defence,296.0
+2004,2004/05,CFI,Canada Foundation for Innovation,271.0
+2004,2004/05,Canadian Space Agency,Canadian Space Agency,263.0
+2004,2004/05,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,247.0
+2004,2004/05,Environment & Climate Change,Environment and Climate Change Canada,209.0
+2004,2004/05,Cdn Int'l Development Agency,Canadian International Development Agency,85.0
+2004,2004/05,Fisheries & Oceans,Fisheries and Oceans Canada,74.0
+2004,2004/05,Health Canada,Health Canada,56.0
+2004,2004/05,Statistics Canada,Statistics Canada,21.0
+2005,2005/06,CIHR,Canadian Institutes of Health Research,795.0
+2005,2005/06,National Research Council,National Research Council Canada,756.0
+2005,2005/06,NSERC,Natural Sciences and Engineering Research Council of Canada,755.0
+2005,2005/06,Other departments & agencies,Other departments and agencies,663.0
+2005,2005/06,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",478.0
+2005,2005/06,SSHRC,Social Sciences and Humanities Research Council of Canada,478.0
+2005,2005/06,CFI,Canada Foundation for Innovation,437.0
+2005,2005/06,National Defence,National Defence,349.0
+2005,2005/06,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,327.0
+2005,2005/06,Natural Resources Canada,Natural Resources Canada,281.0
+2005,2005/06,Canadian Space Agency,Canadian Space Agency,267.0
+2005,2005/06,Environment & Climate Change,Environment and Climate Change Canada,253.0
+2005,2005/06,Fisheries & Oceans,Fisheries and Oceans Canada,77.0
+2005,2005/06,Cdn Int'l Development Agency,Canadian International Development Agency,58.0
+2005,2005/06,Health Canada,Health Canada,49.0
+2005,2005/06,Statistics Canada,Statistics Canada,19.0
+2006,2006/07,CIHR,Canadian Institutes of Health Research,838.0
+2006,2006/07,NSERC,Natural Sciences and Engineering Research Council of Canada,788.0
+2006,2006/07,National Research Council,National Research Council Canada,700.0
+2006,2006/07,SSHRC,Social Sciences and Humanities Research Council of Canada,523.0
+2006,2006/07,Other departments & agencies,Other departments and agencies,475.0
+2006,2006/07,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",372.0
+2006,2006/07,CFI,Canada Foundation for Innovation,367.0
+2006,2006/07,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,359.0
+2006,2006/07,National Defence,National Defence,343.0
+2006,2006/07,Canadian Space Agency,Canadian Space Agency,290.0
+2006,2006/07,Atomic Energy of Canada,Atomic Energy of Canada Limited,289.0
+2006,2006/07,Natural Resources Canada,Natural Resources Canada,259.0
+2006,2006/07,Environment & Climate Change,Environment and Climate Change Canada,214.0
+2006,2006/07,Fisheries & Oceans,Fisheries and Oceans Canada,85.0
+2006,2006/07,Cdn Int'l Development Agency,Canadian International Development Agency,71.0
+2006,2006/07,Statistics Canada,Statistics Canada,51.0
+2006,2006/07,Health Canada,Health Canada,49.0
+2007,2007/08,CIHR,Canadian Institutes of Health Research,970.0
+2007,2007/08,NSERC,Natural Sciences and Engineering Research Council of Canada,891.0
+2007,2007/08,National Research Council,National Research Council Canada,772.0
+2007,2007/08,Other departments & agencies,Other departments and agencies,563.0
+2007,2007/08,SSHRC,Social Sciences and Humanities Research Council of Canada,540.0
+2007,2007/08,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",477.0
+2007,2007/08,Atomic Energy of Canada,Atomic Energy of Canada Limited,329.0
+2007,2007/08,CFI,Canada Foundation for Innovation,310.0
+2007,2007/08,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,307.0
+2007,2007/08,National Defence,National Defence,307.0
+2007,2007/08,Canadian Space Agency,Canadian Space Agency,276.0
+2007,2007/08,Natural Resources Canada,Natural Resources Canada,276.0
+2007,2007/08,Environment & Climate Change,Environment and Climate Change Canada,240.0
+2007,2007/08,Health Canada,Health Canada,80.0
+2007,2007/08,Fisheries & Oceans,Fisheries and Oceans Canada,75.0
+2007,2007/08,Statistics Canada,Statistics Canada,57.0
+2007,2007/08,Cdn Int'l Development Agency,Canadian International Development Agency,51.0
+2008,2008/09,CIHR,Canadian Institutes of Health Research,957.0
+2008,2008/09,NSERC,Natural Sciences and Engineering Research Council of Canada,896.0
+2008,2008/09,National Research Council,National Research Council Canada,719.0
+2008,2008/09,Other departments & agencies,Other departments and agencies,591.0
+2008,2008/09,SSHRC,Social Sciences and Humanities Research Council of Canada,559.0
+2008,2008/09,Atomic Energy of Canada,Atomic Energy of Canada Limited,393.0
+2008,2008/09,CFI,Canada Foundation for Innovation,385.0
+2008,2008/09,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",384.0
+2008,2008/09,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,329.0
+2008,2008/09,National Defence,National Defence,326.0
+2008,2008/09,Canadian Space Agency,Canadian Space Agency,285.0
+2008,2008/09,Natural Resources Canada,Natural Resources Canada,282.0
+2008,2008/09,Environment & Climate Change,Environment and Climate Change Canada,270.0
+2008,2008/09,Health Canada,Health Canada,73.0
+2008,2008/09,Statistics Canada,Statistics Canada,62.0
+2008,2008/09,Cdn Int'l Development Agency,Canadian International Development Agency,48.0
+2008,2008/09,Fisheries & Oceans,Fisheries and Oceans Canada,12.0
+2009,2009/10,National Research Council,National Research Council Canada,967.0
+2009,2009/10,CIHR,Canadian Institutes of Health Research,957.0
+2009,2009/10,NSERC,Natural Sciences and Engineering Research Council of Canada,911.0
+2009,2009/10,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",737.0
+2009,2009/10,Other departments & agencies,Other departments and agencies,667.0
+2009,2009/10,SSHRC,Social Sciences and Humanities Research Council of Canada,555.0
+2009,2009/10,Atomic Energy of Canada,Atomic Energy of Canada Limited,470.0
+2009,2009/10,CFI,Canada Foundation for Innovation,392.0
+2009,2009/10,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,363.0
+2009,2009/10,Natural Resources Canada,Natural Resources Canada,338.0
+2009,2009/10,National Defence,National Defence,288.0
+2009,2009/10,Environment & Climate Change,Environment and Climate Change Canada,266.0
+2009,2009/10,Canadian Space Agency,Canadian Space Agency,208.0
+2009,2009/10,Cdn Int'l Development Agency,Canadian International Development Agency,91.0
+2009,2009/10,Health Canada,Health Canada,85.0
+2009,2009/10,Statistics Canada,Statistics Canada,67.0
+2009,2009/10,Fisheries & Oceans,Fisheries and Oceans Canada,13.0
+2010,2010/11,CIHR,Canadian Institutes of Health Research,989.0
+2010,2010/11,NSERC,Natural Sciences and Engineering Research Council of Canada,938.0
+2010,2010/11,National Research Council,National Research Council Canada,925.0
+2010,2010/11,Atomic Energy of Canada,Atomic Energy of Canada Limited,640.0
+2010,2010/11,Other departments & agencies,Other departments and agencies,628.0
+2010,2010/11,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",617.0
+2010,2010/11,SSHRC,Social Sciences and Humanities Research Council of Canada,555.0
+2010,2010/11,CFI,Canada Foundation for Innovation,473.0
+2010,2010/11,Natural Resources Canada,Natural Resources Canada,457.0
+2010,2010/11,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,338.0
+2010,2010/11,National Defence,National Defence,332.0
+2010,2010/11,Environment & Climate Change,Environment and Climate Change Canada,248.0
+2010,2010/11,Canadian Space Agency,Canadian Space Agency,235.0
+2010,2010/11,Statistics Canada,Statistics Canada,94.0
+2010,2010/11,Health Canada,Health Canada,81.0
+2010,2010/11,Cdn Int'l Development Agency,Canadian International Development Agency,40.0
+2010,2010/11,Fisheries & Oceans,Fisheries and Oceans Canada,11.0
+2011,2011/12,CIHR,Canadian Institutes of Health Research,975.0
+2011,2011/12,NSERC,Natural Sciences and Engineering Research Council of Canada,959.0
+2011,2011/12,National Research Council,National Research Council Canada,740.0
+2011,2011/12,Other departments & agencies,Other departments and agencies,696.0
+2011,2011/12,SSHRC,Social Sciences and Humanities Research Council of Canada,566.0
+2011,2011/12,Atomic Energy of Canada,Atomic Energy of Canada Limited,462.0
+2011,2011/12,CFI,Canada Foundation for Innovation,441.0
+2011,2011/12,Natural Resources Canada,Natural Resources Canada,404.0
+2011,2011/12,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",383.0
+2011,2011/12,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,328.0
+2011,2011/12,Canadian Space Agency,Canadian Space Agency,275.0
+2011,2011/12,National Defence,National Defence,268.0
+2011,2011/12,Environment & Climate Change,Environment and Climate Change Canada,223.0
+2011,2011/12,Statistics Canada,Statistics Canada,69.0
+2011,2011/12,Health Canada,Health Canada,65.0
+2011,2011/12,Cdn Int'l Development Agency,Canadian International Development Agency,36.0
+2011,2011/12,Fisheries & Oceans,Fisheries and Oceans Canada,11.0
+2012,2012/13,CIHR,Canadian Institutes of Health Research,968.0
+2012,2012/13,NSERC,Natural Sciences and Engineering Research Council of Canada,956.0
+2012,2012/13,National Research Council,National Research Council Canada,711.0
+2012,2012/13,SSHRC,Social Sciences and Humanities Research Council of Canada,573.0
+2012,2012/13,CFI,Canada Foundation for Innovation,563.0
+2012,2012/13,Other departments & agencies,Other departments and agencies,547.0
+2012,2012/13,Atomic Energy of Canada,Atomic Energy of Canada Limited,491.0
+2012,2012/13,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",413.0
+2012,2012/13,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,396.0
+2012,2012/13,National Defence,National Defence,309.0
+2012,2012/13,Natural Resources Canada,Natural Resources Canada,280.0
+2012,2012/13,Int'l Development Research Centre,International Development Research Centre,217.0
+2012,2012/13,Canadian Space Agency,Canadian Space Agency,200.0
+2012,2012/13,Environment & Climate Change,Environment and Climate Change Canada,112.0
+2012,2012/13,Statistics Canada,Statistics Canada,65.0
+2012,2012/13,Health Canada,Health Canada,56.0
+2012,2012/13,Cdn Int'l Development Agency,Canadian International Development Agency,45.0
+2012,2012/13,Fisheries & Oceans,Fisheries and Oceans Canada,10.0
+2013,2013/14,CIHR,Canadian Institutes of Health Research,969.0
+2013,2013/14,NSERC,Natural Sciences and Engineering Research Council of Canada,951.0
+2013,2013/14,National Research Council,National Research Council Canada,895.0
+2013,2013/14,Other departments & agencies,Other departments and agencies,705.0
+2013,2013/14,SSHRC,Social Sciences and Humanities Research Council of Canada,571.0
+2013,2013/14,Atomic Energy of Canada,Atomic Energy of Canada Limited,490.0
+2013,2013/14,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,454.0
+2013,2013/14,CFI,Canada Foundation for Innovation,420.0
+2013,2013/14,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",387.0
+2013,2013/14,Natural Resources Canada,Natural Resources Canada,291.0
+2013,2013/14,Canadian Space Agency,Canadian Space Agency,283.0
+2013,2013/14,National Defence,National Defence,280.0
+2013,2013/14,Environment & Climate Change,Environment and Climate Change Canada,116.0
+2013,2013/14,Statistics Canada,Statistics Canada,74.0
+2013,2013/14,Health Canada,Health Canada,49.0
+2013,2013/14,Global Affairs Canada,Global Affairs Canada,32.0
+2013,2013/14,Fisheries & Oceans,Fisheries and Oceans Canada,11.0
+2014,2014/15,CIHR,Canadian Institutes of Health Research,991.0
+2014,2014/15,NSERC,Natural Sciences and Engineering Research Council of Canada,972.0
+2014,2014/15,National Research Council,National Research Council Canada,952.0
+2014,2014/15,SSHRC,Social Sciences and Humanities Research Council of Canada,588.0
+2014,2014/15,Other departments & agencies,Other departments and agencies,563.0
+2014,2014/15,Atomic Energy of Canada,Atomic Energy of Canada Limited,495.0
+2014,2014/15,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,414.0
+2014,2014/15,CFI,Canada Foundation for Innovation,404.0
+2014,2014/15,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",295.0
+2014,2014/15,Natural Resources Canada,Natural Resources Canada,288.0
+2014,2014/15,National Defence,National Defence,263.0
+2014,2014/15,Canadian Space Agency,Canadian Space Agency,250.0
+2014,2014/15,Environment & Climate Change,Environment and Climate Change Canada,116.0
+2014,2014/15,Statistics Canada,Statistics Canada,86.0
+2014,2014/15,Health Canada,Health Canada,51.0
+2014,2014/15,Global Affairs Canada,Global Affairs Canada,21.0
+2014,2014/15,Fisheries & Oceans,Fisheries and Oceans Canada,10.0
+2015,2015/16,NSERC,Natural Sciences and Engineering Research Council of Canada,1001.0
+2015,2015/16,CIHR,Canadian Institutes of Health Research,999.0
+2015,2015/16,National Research Council,National Research Council Canada,940.0
+2015,2015/16,SSHRC,Social Sciences and Humanities Research Council of Canada,594.0
+2015,2015/16,Other departments & agencies,Other departments and agencies,566.0
+2015,2015/16,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,439.0
+2015,2015/16,Atomic Energy of Canada,Atomic Energy of Canada Limited,389.0
+2015,2015/16,CFI,Canada Foundation for Innovation,341.0
+2015,2015/16,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",293.0
+2015,2015/16,Canadian Space Agency,Canadian Space Agency,275.0
+2015,2015/16,Natural Resources Canada,Natural Resources Canada,240.0
+2015,2015/16,National Defence,National Defence,233.0
+2015,2015/16,Environment & Climate Change,Environment and Climate Change Canada,125.0
+2015,2015/16,Statistics Canada,Statistics Canada,112.0
+2015,2015/16,Health Canada,Health Canada,50.0
+2015,2015/16,Global Affairs Canada,Global Affairs Canada,23.0
+2016,2016/17,NSERC,Natural Sciences and Engineering Research Council of Canada,1082.0
+2016,2016/17,National Research Council,National Research Council Canada,1058.0
+2016,2016/17,CIHR,Canadian Institutes of Health Research,1042.0
+2016,2016/17,SSHRC,Social Sciences and Humanities Research Council of Canada,646.0
+2016,2016/17,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",613.0
+2016,2016/17,Other departments & agencies,Other departments and agencies,563.0
+2016,2016/17,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,425.0
+2016,2016/17,Atomic Energy of Canada,Atomic Energy of Canada Limited,369.0
+2016,2016/17,CFI,Canada Foundation for Innovation,335.0
+2016,2016/17,Natural Resources Canada,Natural Resources Canada,263.0
+2016,2016/17,Canadian Space Agency,Canadian Space Agency,249.0
+2016,2016/17,National Defence,National Defence,206.0
+2016,2016/17,Environment & Climate Change,Environment and Climate Change Canada,136.0
+2016,2016/17,Health Canada,Health Canada,47.0
+2016,2016/17,Statistics Canada,Statistics Canada,39.0
+2016,2016/17,Global Affairs Canada,Global Affairs Canada,19.0
+2017,2017/18,NSERC,Natural Sciences and Engineering Research Council of Canada,1106.0
+2017,2017/18,CIHR,Canadian Institutes of Health Research,1057.0
+2017,2017/18,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",989.0
+2017,2017/18,National Research Council,National Research Council Canada,964.0
+2017,2017/18,SSHRC,Social Sciences and Humanities Research Council of Canada,656.0
+2017,2017/18,Other departments & agencies,Other departments and agencies,578.0
+2017,2017/18,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,440.0
+2017,2017/18,CFI,Canada Foundation for Innovation,385.0
+2017,2017/18,Natural Resources Canada,Natural Resources Canada,355.0
+2017,2017/18,Atomic Energy of Canada,Atomic Energy of Canada Limited,354.0
+2017,2017/18,National Defence,National Defence,315.0
+2017,2017/18,Canadian Space Agency,Canadian Space Agency,195.0
+2017,2017/18,Environment & Climate Change,Environment and Climate Change Canada,165.0
+2017,2017/18,Health Canada,Health Canada,128.0
+2017,2017/18,Statistics Canada,Statistics Canada,46.0
+2017,2017/18,Global Affairs Canada,Global Affairs Canada,10.0
+2018,2018/19,NSERC,Natural Sciences and Engineering Research Council of Canada,1213.0
+2018,2018/19,National Research Council,National Research Council Canada,1170.0
+2018,2018/19,CIHR,Canadian Institutes of Health Research,1113.0
+2018,2018/19,SSHRC,Social Sciences and Humanities Research Council of Canada,742.0
+2018,2018/19,Other departments & agencies,Other departments and agencies,520.0
+2018,2018/19,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",511.0
+2018,2018/19,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,427.0
+2018,2018/19,CFI,Canada Foundation for Innovation,401.0
+2018,2018/19,National Defence,National Defence,352.0
+2018,2018/19,Natural Resources Canada,Natural Resources Canada,284.0
+2018,2018/19,Atomic Energy of Canada,Atomic Energy of Canada Limited,269.0
+2018,2018/19,Environment & Climate Change,Environment and Climate Change Canada,173.0
+2018,2018/19,Canadian Space Agency,Canadian Space Agency,156.0
+2018,2018/19,Health Canada,Health Canada,133.0
+2018,2018/19,Public Health Agency,Public Health Agency of Canada,46.0
+2018,2018/19,Statistics Canada,Statistics Canada,32.0
+2018,2018/19,Global Affairs Canada,Global Affairs Canada,12.0
+2019,2019/20,NSERC,Natural Sciences and Engineering Research Council of Canada,1243.0
+2019,2019/20,National Research Council,National Research Council Canada,1162.0
+2019,2019/20,CIHR,Canadian Institutes of Health Research,1157.0
+2019,2019/20,SSHRC,Social Sciences and Humanities Research Council of Canada,804.0
+2019,2019/20,Other departments & agencies,Other departments and agencies,577.0
+2019,2019/20,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",517.0
+2019,2019/20,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,462.0
+2019,2019/20,CFI,Canada Foundation for Innovation,374.0
+2019,2019/20,National Defence,National Defence,347.0
+2019,2019/20,Natural Resources Canada,Natural Resources Canada,330.0
+2019,2019/20,Atomic Energy of Canada,Atomic Energy of Canada Limited,276.0
+2019,2019/20,Environment & Climate Change,Environment and Climate Change Canada,190.0
+2019,2019/20,Canadian Space Agency,Canadian Space Agency,172.0
+2019,2019/20,Public Health Agency,Public Health Agency of Canada,77.0
+2019,2019/20,Health Canada,Health Canada,48.0
+2019,2019/20,Statistics Canada,Statistics Canada,48.0
+2019,2019/20,Global Affairs Canada,Global Affairs Canada,24.0
+2020,2020/21,National Research Council,National Research Council Canada,1674.0
+2020,2020/21,CIHR,Canadian Institutes of Health Research,1457.0
+2020,2020/21,SSHRC,Social Sciences and Humanities Research Council of Canada,1271.0
+2020,2020/21,NSERC,Natural Sciences and Engineering Research Council of Canada,1256.0
+2020,2020/21,Other departments & agencies,Other departments and agencies,910.0
+2020,2020/21,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",709.0
+2020,2020/21,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,450.0
+2020,2020/21,CFI,Canada Foundation for Innovation,389.0
+2020,2020/21,National Defence,National Defence,360.0
+2020,2020/21,Natural Resources Canada,Natural Resources Canada,355.0
+2020,2020/21,Environment & Climate Change,Environment and Climate Change Canada,186.0
+2020,2020/21,Canadian Space Agency,Canadian Space Agency,173.0
+2020,2020/21,Health Canada,Health Canada,49.0
+2020,2020/21,Statistics Canada,Statistics Canada,49.0
+2020,2020/21,Global Affairs Canada,Global Affairs Canada,25.0
+2021,2021/22,National Research Council,National Research Council Canada,1362.0
+2021,2021/22,CIHR,Canadian Institutes of Health Research,1337.0
+2021,2021/22,NSERC,Natural Sciences and Engineering Research Council of Canada,1264.0
+2021,2021/22,Other departments & agencies,Other departments and agencies,894.0
+2021,2021/22,SSHRC,Social Sciences and Humanities Research Council of Canada,873.0
+2021,2021/22,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",735.0
+2021,2021/22,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,469.0
+2021,2021/22,Natural Resources Canada,Natural Resources Canada,450.0
+2021,2021/22,National Defence,National Defence,395.0
+2021,2021/22,CFI,Canada Foundation for Innovation,376.0
+2021,2021/22,Canadian Space Agency,Canadian Space Agency,196.0
+2021,2021/22,Environment & Climate Change,Environment and Climate Change Canada,187.0
+2021,2021/22,Health Canada,Health Canada,51.0
+2021,2021/22,Public Health Agency,Public Health Agency of Canada,51.0
+2021,2021/22,Statistics Canada,Statistics Canada,45.0
+2021,2021/22,Global Affairs Canada,Global Affairs Canada,35.0
+2021,2021/22,Fisheries & Oceans,Fisheries and Oceans Canada,9.0
+2022,2022/23,National Research Council,National Research Council Canada,1396.0
+2022,2022/23,CIHR,Canadian Institutes of Health Research,1268.0
+2022,2022/23,NSERC,Natural Sciences and Engineering Research Council of Canada,1234.0
+2022,2022/23,Other departments & agencies,Other departments and agencies,985.0
+2022,2022/23,SSHRC,Social Sciences and Humanities Research Council of Canada,916.0
+2022,2022/23,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",781.0
+2022,2022/23,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,473.0
+2022,2022/23,CFI,Canada Foundation for Innovation,401.0
+2022,2022/23,Natural Resources Canada,Natural Resources Canada,373.0
+2022,2022/23,National Defence,National Defence,367.0
+2022,2022/23,Canadian Space Agency,Canadian Space Agency,306.0
+2022,2022/23,Environment & Climate Change,Environment and Climate Change Canada,253.0
+2022,2022/23,Public Health Agency,Public Health Agency of Canada,71.0
+2022,2022/23,Health Canada,Health Canada,56.0
+2022,2022/23,Global Affairs Canada,Global Affairs Canada,40.0
+2022,2022/23,Statistics Canada,Statistics Canada,39.0
+2022,2022/23,Fisheries & Oceans,Fisheries and Oceans Canada,14.0
+2023,2023/24,National Research Council,National Research Council Canada,1444.0
+2023,2023/24,CIHR,Canadian Institutes of Health Research,1272.0
+2023,2023/24,NSERC,Natural Sciences and Engineering Research Council of Canada,1233.0
+2023,2023/24,SSHRC,Social Sciences and Humanities Research Council of Canada,1018.0
+2023,2023/24,Other departments & agencies,Other departments and agencies,1003.0
+2023,2023/24,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",779.0
+2023,2023/24,CFI,Canada Foundation for Innovation,512.0
+2023,2023/24,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,480.0
+2023,2023/24,National Defence,National Defence,350.0
+2023,2023/24,Natural Resources Canada,Natural Resources Canada,328.0
+2023,2023/24,Canadian Space Agency,Canadian Space Agency,237.0
+2023,2023/24,Environment & Climate Change,Environment and Climate Change Canada,217.0
+2023,2023/24,Public Health Agency,Public Health Agency of Canada,86.0
+2023,2023/24,Health Canada,Health Canada,64.0
+2023,2023/24,Fisheries & Oceans,Fisheries and Oceans Canada,45.0
+2023,2023/24,Global Affairs Canada,Global Affairs Canada,45.0
+2023,2023/24,Statistics Canada,Statistics Canada,22.0
+2024,2024/25,National Research Council,National Research Council Canada,1602.0
+2024,2024/25,CIHR,Canadian Institutes of Health Research,1320.0
+2024,2024/25,NSERC,Natural Sciences and Engineering Research Council of Canada,1290.0
+2024,2024/25,SSHRC,Social Sciences and Humanities Research Council of Canada,1105.0
+2024,2024/25,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",1027.0
+2024,2024/25,Other departments & agencies,Other departments and agencies,1016.0
+2024,2024/25,CFI,Canada Foundation for Innovation,567.0
+2024,2024/25,National Defence,National Defence,513.0
+2024,2024/25,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,508.0
+2024,2024/25,Canadian Space Agency,Canadian Space Agency,401.0
+2024,2024/25,Natural Resources Canada,Natural Resources Canada,386.0
+2024,2024/25,Environment & Climate Change,Environment and Climate Change Canada,234.0
+2024,2024/25,Public Health Agency,Public Health Agency of Canada,134.0
+2024,2024/25,Health Canada,Health Canada,127.0
+2024,2024/25,Statistics Canada,Statistics Canada,51.0
+2024,2024/25,Fisheries & Oceans,Fisheries and Oceans Canada,41.0
+2024,2024/25,Global Affairs Canada,Global Affairs Canada,18.0
+2025,2025/26,National Research Council,National Research Council Canada,1657.0
+2025,2025/26,NSERC,Natural Sciences and Engineering Research Council of Canada,1323.0
+2025,2025/26,CIHR,Canadian Institutes of Health Research,1276.0
+2025,2025/26,Other departments & agencies,Other departments and agencies,1167.0
+2025,2025/26,SSHRC,Social Sciences and Humanities Research Council of Canada,1133.0
+2025,2025/26,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",1050.0
+2025,2025/26,National Defence,National Defence,620.0
+2025,2025/26,CFI,Canada Foundation for Innovation,575.0
+2025,2025/26,Canadian Space Agency,Canadian Space Agency,568.0
+2025,2025/26,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,510.0
+2025,2025/26,Natural Resources Canada,Natural Resources Canada,469.0
+2025,2025/26,Environment & Climate Change,Environment and Climate Change Canada,163.0
+2025,2025/26,Health Canada,Health Canada,152.0
+2025,2025/26,Public Health Agency,Public Health Agency of Canada,101.0
+2025,2025/26,Statistics Canada,Statistics Canada,57.0
+2025,2025/26,Fisheries & Oceans,Fisheries and Oceans Canada,39.0
+2025,2025/26,Global Affairs Canada,Global Affairs Canada,18.0
+2026,2026/27,National Research Council,National Research Council Canada,1611.0
+2026,2026/27,Other departments & agencies,Other departments and agencies,1365.0
+2026,2026/27,NSERC,Natural Sciences and Engineering Research Council of Canada,1341.0
+2026,2026/27,CIHR,Canadian Institutes of Health Research,1332.0
+2026,2026/27,SSHRC,Social Sciences and Humanities Research Council of Canada,1164.0
+2026,2026/27,"Innovation, Science & Econ. Dev.","Innovation, Science and Economic Development Canada",828.0
+2026,2026/27,National Defence,National Defence,629.0
+2026,2026/27,CFI,Canada Foundation for Innovation,620.0
+2026,2026/27,Canadian Space Agency,Canadian Space Agency,536.0
+2026,2026/27,Agriculture & Agri-Food,Agriculture and Agri-Food Canada,475.0
+2026,2026/27,Natural Resources Canada,Natural Resources Canada,433.0
+2026,2026/27,Environment & Climate Change,Environment and Climate Change Canada,161.0
+2026,2026/27,Health Canada,Health Canada,113.0
+2026,2026/27,Public Health Agency,Public Health Agency of Canada,108.0
+2026,2026/27,Statistics Canada,Statistics Canada,71.0
+2026,2026/27,Fisheries & Oceans,Fisheries and Oceans Canada,39.0
+2026,2026/27,Global Affairs Canada,Global Affairs Canada,14.0

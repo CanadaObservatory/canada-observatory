@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_wages_by_province",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 14-10-0064-01",
+  "frequency": "annual",
+  "unit": "weekly wage ($)",
+  "retrieved_at": "2026-08-10T15:06:54.178418+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "Canada + provinces; all industries; both genders; 15+; both full/part-time; average and median weekly wage"
+  ],
+  "notes": null,
+  "row_count": 319
+}

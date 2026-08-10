@@ -1,0 +1,15 @@
+{
+  "dataset_id": "voter_turnout_by_age",
+  "source": "Elections Canada (Turnout by Age, Gender and Province)",
+  "source_table": "open.canada.ca b545fe25",
+  "frequency": "per election",
+  "unit": "% of eligible electors",
+  "retrieved_at": "2026-08-10T15:03:41.328851+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "Canada, all genders, 7 standard age groups, 2004\u2013"
+  ],
+  "notes": null,
+  "row_count": 56
+}

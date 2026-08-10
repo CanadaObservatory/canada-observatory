@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_health_spending_gdp",
+  "source": "OECD",
+  "source_table": "OECD Health Expenditure (SHA)",
+  "frequency": "annual",
+  "unit": "% of GDP",
+  "retrieved_at": "2026-08-10T15:07:03.352690+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Health spending for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 908
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_cpi_trim",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 18-10-0256-01",
+  "frequency": "monthly",
+  "unit": "% (year-over-year)",
+  "retrieved_at": "2026-08-10T15:04:27.543415+00:00",
+  "latest_observation_date": "2026-06-01",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to {'GEO': 'Canada', 'Alternative measures': 'Measure of core inflation based on a trimmed mean approach, CPI-trim (year-over-year percent change)'}"
+  ],
+  "notes": null,
+  "row_count": 438
+}

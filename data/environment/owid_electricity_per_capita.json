@@ -1,0 +1,15 @@
+{
+  "dataset_id": "owid_electricity_per_capita",
+  "source": "Our World in Data (Energy Institute, Ember, EIA)",
+  "source_table": "owid-energy-data (per_capita_electricity)",
+  "frequency": "annual",
+  "unit": "kWh per person",
+  "retrieved_at": "2026-08-10T15:08:54.968447+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "electricity generation per capita; OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 697
+}

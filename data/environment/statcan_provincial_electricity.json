@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_provincial_electricity",
+  "source": "Statistics Canada",
+  "source_table": "25-10-0015-01, 25-10-0084-01",
+  "frequency": "annual",
+  "unit": "% of provincial electricity generation",
+  "retrieved_at": "2026-08-10T15:08:55.956895+00:00",
+  "latest_observation_date": "2026-05",
+  "next_release_date": null,
+  "transformations": [
+    "base mix 25-10-0015-01 latest 12 months (2025-06\u20132026-05); fossil split into Coal/Natural gas/Oil by 25-10-0084-01 fuel shares (2024)"
+  ],
+  "notes": null,
+  "row_count": 80
+}

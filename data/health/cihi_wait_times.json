@@ -1,0 +1,15 @@
+{
+  "dataset_id": "cihi_wait_times",
+  "source": "Canadian Institute for Health Information (CIHI)",
+  "source_table": "CIHI Wait Times for Priority Procedures in Canada (data tables)",
+  "frequency": "annual",
+  "unit": "% of patients treated within the pan-Canadian benchmark",
+  "retrieved_at": "2026-08-09T20:57:45.624996+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "national, % Meeting Benchmark, April\u2013September window (pure-year rows), selected priority procedures"
+  ],
+  "notes": null,
+  "row_count": 81
+}

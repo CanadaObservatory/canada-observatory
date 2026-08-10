@@ -1,0 +1,274 @@
+year,country,count
+2015,China,1465
+2015,Pakistan,835
+2015,Nigeria,755
+2015,Colombia,675
+2015,Ukraine,335
+2015,India,330
+2015,Haiti,280
+2015,DR Congo,260
+2015,Ethiopia,240
+2015,Turkey,230
+2015,Venezuela,225
+2015,Sri Lanka,200
+2015,Bangladesh,185
+2015,Cameroon,170
+2015,United States of America,115
+2015,Iran,100
+2015,Mexico,65
+2015,Nepal,65
+2015,Algeria,30
+2015,Senegal,25
+2015,Ghana,15
+2015,"Guinea, Republic of",10
+2015,"Ivory Coast, Republic of",10
+2016,Nigeria,1435
+2016,China,1145
+2016,Pakistan,1100
+2016,Turkey,1075
+2016,Colombia,815
+2016,Haiti,610
+2016,India,525
+2016,Venezuela,520
+2016,DR Congo,380
+2016,Ethiopia,345
+2016,United States of America,310
+2016,Iran,250
+2016,Ukraine,250
+2016,Bangladesh,245
+2016,Mexico,205
+2016,Nepal,170
+2016,Sri Lanka,160
+2016,Cameroon,140
+2016,Romania,100
+2016,Algeria,95
+2016,Ghana,70
+2016,Chile,25
+2016,"Guinea, Republic of",15
+2016,"Ivory Coast, Republic of",10
+2016,Senegal,10
+2017,Haiti,7765
+2017,Nigeria,5965
+2017,United States of America,2480
+2017,Turkey,2180
+2017,Pakistan,1715
+2017,Mexico,1495
+2017,India,1450
+2017,Colombia,1370
+2017,Venezuela,1215
+2017,China,1025
+2017,Iran,650
+2017,DR Congo,580
+2017,Ethiopia,580
+2017,Bangladesh,465
+2017,Sri Lanka,355
+2017,Cameroon,210
+2017,Ukraine,205
+2017,Algeria,185
+2017,Ghana,185
+2017,Romania,155
+2017,Nepal,105
+2017,"Guinea, Republic of",85
+2017,Chile,60
+2017,"Ivory Coast, Republic of",50
+2017,Senegal,15
+2018,Nigeria,8830
+2018,India,4505
+2018,Mexico,3300
+2018,Colombia,2575
+2018,Iran,2520
+2018,Pakistan,2015
+2018,China,1805
+2018,Turkey,1805
+2018,United States of America,1625
+2018,Romania,1420
+2018,Venezuela,1280
+2018,Haiti,1230
+2018,DR Congo,1135
+2018,Bangladesh,775
+2018,Ethiopia,675
+2018,Sri Lanka,520
+2018,Algeria,410
+2018,Cameroon,350
+2018,"Guinea, Republic of",185
+2018,Senegal,180
+2018,Ukraine,170
+2018,Nepal,155
+2018,Ghana,85
+2018,"Ivory Coast, Republic of",85
+2018,Chile,55
+2019,India,7305
+2019,Mexico,6310
+2019,Iran,5620
+2019,Nigeria,4090
+2019,Colombia,3360
+2019,Pakistan,2635
+2019,China,2020
+2019,Turkey,1980
+2019,Haiti,1620
+2019,United States of America,1450
+2019,DR Congo,1440
+2019,Venezuela,1420
+2019,Sri Lanka,975
+2019,Bangladesh,870
+2019,Algeria,660
+2019,Romania,590
+2019,Ethiopia,585
+2019,Cameroon,490
+2019,Nepal,225
+2019,Ghana,215
+2019,"Guinea, Republic of",190
+2019,Senegal,185
+2019,Chile,175
+2019,Ukraine,165
+2019,"Ivory Coast, Republic of",135
+2020,India,3000
+2020,Mexico,2855
+2020,Iran,2495
+2020,Colombia,1155
+2020,Haiti,1130
+2020,Pakistan,805
+2020,China,640
+2020,Nigeria,635
+2020,Sri Lanka,520
+2020,Turkey,520
+2020,Venezuela,430
+2020,United States of America,395
+2020,DR Congo,370
+2020,Bangladesh,280
+2020,Algeria,205
+2020,Ethiopia,195
+2020,Chile,180
+2020,Cameroon,160
+2020,Ghana,110
+2020,Romania,100
+2020,Senegal,45
+2020,Ukraine,45
+2020,"Guinea, Republic of",40
+2020,"Ivory Coast, Republic of",40
+2020,Nepal,40
+2021,Mexico,3120
+2021,Colombia,2065
+2021,Iran,1925
+2021,Haiti,1760
+2021,Turkey,1725
+2021,India,1470
+2021,Pakistan,755
+2021,China,570
+2021,Nigeria,540
+2021,Venezuela,540
+2021,DR Congo,460
+2021,Sri Lanka,405
+2021,Ethiopia,320
+2021,Bangladesh,315
+2021,Chile,315
+2021,United States of America,305
+2021,Algeria,180
+2021,Romania,145
+2021,Cameroon,100
+2021,Ghana,60
+2021,"Guinea, Republic of",55
+2021,Nepal,30
+2021,"Ivory Coast, Republic of",25
+2021,Senegal,10
+2021,Ukraine,5
+2022,Mexico,16385
+2022,Haiti,11470
+2022,Turkey,9440
+2022,Colombia,7970
+2022,Iran,4655
+2022,India,4060
+2022,Pakistan,2585
+2022,Venezuela,1970
+2022,Nigeria,1755
+2022,Chile,1700
+2022,DR Congo,1350
+2022,Sri Lanka,1150
+2022,United States of America,1090
+2022,China,945
+2022,Romania,945
+2022,Bangladesh,825
+2022,Ethiopia,630
+2022,Ghana,420
+2022,Cameroon,400
+2022,Algeria,370
+2022,Ukraine,325
+2022,Senegal,200
+2022,Nepal,190
+2022,"Guinea, Republic of",150
+2022,"Ivory Coast, Republic of",65
+2023,Mexico,23695
+2023,India,11235
+2023,Nigeria,9020
+2023,Turkey,6320
+2023,Colombia,6025
+2023,Iran,5870
+2023,Haiti,5495
+2023,Pakistan,5190
+2023,Bangladesh,4375
+2023,DR Congo,3605
+2023,Venezuela,2950
+2023,Sri Lanka,2645
+2023,Ethiopia,2225
+2023,Ghana,1855
+2023,Senegal,1845
+2023,China,1800
+2023,Cameroon,1795
+2023,Romania,1560
+2023,Algeria,1080
+2023,Chile,995
+2023,"Guinea, Republic of",835
+2023,"Ivory Coast, Republic of",620
+2023,United States of America,620
+2023,Nepal,510
+2023,Ukraine,230
+2024,India,32215
+2024,Bangladesh,15635
+2024,Nigeria,13085
+2024,Sri Lanka,9775
+2024,Mexico,8815
+2024,Haiti,7940
+2024,Ghana,6960
+2024,Iran,6715
+2024,Pakistan,5495
+2024,Colombia,4260
+2024,China,3855
+2024,Algeria,3270
+2024,Turkey,2655
+2024,"Guinea, Republic of",2575
+2024,DR Congo,2570
+2024,Cameroon,1955
+2024,Romania,1670
+2024,Ethiopia,1585
+2024,Senegal,1400
+2024,Venezuela,1125
+2024,"Ivory Coast, Republic of",1000
+2024,Chile,875
+2024,Nepal,835
+2024,Ukraine,665
+2024,United States of America,635
+2025,Haiti,17540
+2025,India,17135
+2025,Iran,6880
+2025,Nigeria,6330
+2025,Mexico,4810
+2025,China,4335
+2025,Pakistan,3565
+2025,Bangladesh,3550
+2025,Ghana,2820
+2025,Colombia,2365
+2025,Sri Lanka,2350
+2025,Algeria,2080
+2025,United States of America,1780
+2025,"Guinea, Republic of",1750
+2025,Romania,1695
+2025,DR Congo,1650
+2025,Nepal,1645
+2025,Venezuela,1415
+2025,Cameroon,1265
+2025,Turkey,1250
+2025,"Ivory Coast, Republic of",1185
+2025,Senegal,1115
+2025,Ethiopia,915
+2025,Chile,870
+2025,Ukraine,750

@@ -1,0 +1,551 @@
+year,sector,employment
+1987,Accommodation and food services,2000.0
+1987,"Business, building and other support services",2000.0
+1987,Construction,41100.0
+1987,Educational services,698700.0
+1987,"Finance, insurance, real estate, rental and leasing",37400.0
+1987,"Forestry, fishing, mining, quarrying, oil and gas",15200.0
+1987,Health care and social assistance,635000.0
+1987,"Information, culture and recreation",86900.0
+1987,Manufacturing,11500.0
+1987,Other services (except public administration),3300.0
+1987,"Professional, scientific and technical services",6100.0
+1987,Public administration,756700.0
+1987,Transportation and warehousing,208900.0
+1987,Utilities,97100.0
+1987,Wholesale and retail trade,22400.0
+1988,Accommodation and food services,2700.0
+1988,Agriculture,1900.0
+1988,"Business, building and other support services",2700.0
+1988,Construction,38300.0
+1988,Educational services,727300.0
+1988,"Finance, insurance, real estate, rental and leasing",40200.0
+1988,"Forestry, fishing, mining, quarrying, oil and gas",14100.0
+1988,Health care and social assistance,637600.0
+1988,"Information, culture and recreation",86500.0
+1988,Manufacturing,9600.0
+1988,Other services (except public administration),2500.0
+1988,"Professional, scientific and technical services",6700.0
+1988,Public administration,768900.0
+1988,Transportation and warehousing,210000.0
+1988,Utilities,104800.0
+1988,Wholesale and retail trade,26300.0
+1989,Accommodation and food services,1900.0
+1989,Agriculture,2000.0
+1989,"Business, building and other support services",3100.0
+1989,Construction,35700.0
+1989,Educational services,732300.0
+1989,"Finance, insurance, real estate, rental and leasing",38300.0
+1989,"Forestry, fishing, mining, quarrying, oil and gas",14000.0
+1989,Health care and social assistance,658900.0
+1989,"Information, culture and recreation",77000.0
+1989,Manufacturing,8800.0
+1989,Other services (except public administration),3500.0
+1989,"Professional, scientific and technical services",6800.0
+1989,Public administration,788800.0
+1989,Transportation and warehousing,201800.0
+1989,Utilities,108700.0
+1989,Wholesale and retail trade,24000.0
+1990,Accommodation and food services,2100.0
+1990,Agriculture,1600.0
+1990,"Business, building and other support services",4300.0
+1990,Construction,34700.0
+1990,Educational services,741100.0
+1990,"Finance, insurance, real estate, rental and leasing",42300.0
+1990,"Forestry, fishing, mining, quarrying, oil and gas",15000.0
+1990,Health care and social assistance,683900.0
+1990,"Information, culture and recreation",83500.0
+1990,Manufacturing,8400.0
+1990,Other services (except public administration),3100.0
+1990,"Professional, scientific and technical services",8900.0
+1990,Public administration,824100.0
+1990,Transportation and warehousing,174100.0
+1990,Utilities,103800.0
+1990,Wholesale and retail trade,22000.0
+1991,Accommodation and food services,1500.0
+1991,"Business, building and other support services",6400.0
+1991,Construction,33700.0
+1991,Educational services,758400.0
+1991,"Finance, insurance, real estate, rental and leasing",43900.0
+1991,"Forestry, fishing, mining, quarrying, oil and gas",16000.0
+1991,Health care and social assistance,706500.0
+1991,"Information, culture and recreation",74500.0
+1991,Manufacturing,6600.0
+1991,Other services (except public administration),3100.0
+1991,"Professional, scientific and technical services",8600.0
+1991,Public administration,834500.0
+1991,Transportation and warehousing,152000.0
+1991,Utilities,112100.0
+1991,Wholesale and retail trade,21800.0
+1992,"Business, building and other support services",5500.0
+1992,Construction,32800.0
+1992,Educational services,775100.0
+1992,"Finance, insurance, real estate, rental and leasing",47400.0
+1992,"Forestry, fishing, mining, quarrying, oil and gas",16900.0
+1992,Health care and social assistance,697800.0
+1992,"Information, culture and recreation",82100.0
+1992,Manufacturing,7500.0
+1992,Other services (except public administration),2300.0
+1992,"Professional, scientific and technical services",6300.0
+1992,Public administration,848700.0
+1992,Transportation and warehousing,160500.0
+1992,Utilities,109400.0
+1992,Wholesale and retail trade,20200.0
+1993,Accommodation and food services,1700.0
+1993,"Business, building and other support services",5400.0
+1993,Construction,27900.0
+1993,Educational services,787900.0
+1993,"Finance, insurance, real estate, rental and leasing",44500.0
+1993,"Forestry, fishing, mining, quarrying, oil and gas",14800.0
+1993,Health care and social assistance,709200.0
+1993,"Information, culture and recreation",69200.0
+1993,Manufacturing,7600.0
+1993,Other services (except public administration),3100.0
+1993,"Professional, scientific and technical services",8400.0
+1993,Public administration,845100.0
+1993,Transportation and warehousing,159200.0
+1993,Utilities,105200.0
+1993,Wholesale and retail trade,20600.0
+1994,"Business, building and other support services",5300.0
+1994,Construction,28000.0
+1994,Educational services,797300.0
+1994,"Finance, insurance, real estate, rental and leasing",46700.0
+1994,"Forestry, fishing, mining, quarrying, oil and gas",12600.0
+1994,Health care and social assistance,705900.0
+1994,"Information, culture and recreation",82600.0
+1994,Manufacturing,5800.0
+1994,Other services (except public administration),2500.0
+1994,"Professional, scientific and technical services",6900.0
+1994,Public administration,819900.0
+1994,Transportation and warehousing,163200.0
+1994,Utilities,93400.0
+1994,Wholesale and retail trade,21800.0
+1995,"Business, building and other support services",5800.0
+1995,Construction,26300.0
+1995,Educational services,786200.0
+1995,"Finance, insurance, real estate, rental and leasing",43300.0
+1995,"Forestry, fishing, mining, quarrying, oil and gas",12200.0
+1995,Health care and social assistance,707500.0
+1995,"Information, culture and recreation",86800.0
+1995,Manufacturing,7300.0
+1995,Other services (except public administration),2400.0
+1995,"Professional, scientific and technical services",6800.0
+1995,Public administration,796400.0
+1995,Transportation and warehousing,158900.0
+1995,Utilities,90000.0
+1995,Wholesale and retail trade,18800.0
+1996,Accommodation and food services,2300.0
+1996,"Business, building and other support services",5500.0
+1996,Construction,20800.0
+1996,Educational services,764100.0
+1996,"Finance, insurance, real estate, rental and leasing",43100.0
+1996,"Forestry, fishing, mining, quarrying, oil and gas",11200.0
+1996,Health care and social assistance,696500.0
+1996,"Information, culture and recreation",85600.0
+1996,Manufacturing,6900.0
+1996,Other services (except public administration),3500.0
+1996,"Professional, scientific and technical services",7500.0
+1996,Public administration,783700.0
+1996,Transportation and warehousing,154500.0
+1996,Utilities,88500.0
+1996,Wholesale and retail trade,20800.0
+1997,Accommodation and food services,2900.0
+1997,"Business, building and other support services",5000.0
+1997,Construction,20900.0
+1997,Educational services,772400.0
+1997,"Finance, insurance, real estate, rental and leasing",39300.0
+1997,"Forestry, fishing, mining, quarrying, oil and gas",12400.0
+1997,Health care and social assistance,677800.0
+1997,"Information, culture and recreation",79300.0
+1997,Manufacturing,9400.0
+1997,Other services (except public administration),3800.0
+1997,"Professional, scientific and technical services",9100.0
+1997,Public administration,777500.0
+1997,Transportation and warehousing,135800.0
+1997,Utilities,80600.0
+1997,Wholesale and retail trade,23400.0
+1998,Accommodation and food services,2400.0
+1998,"Business, building and other support services",5100.0
+1998,Construction,20900.0
+1998,Educational services,775100.0
+1998,"Finance, insurance, real estate, rental and leasing",38800.0
+1998,"Forestry, fishing, mining, quarrying, oil and gas",10800.0
+1998,Health care and social assistance,700000.0
+1998,"Information, culture and recreation",75900.0
+1998,Manufacturing,5400.0
+1998,Other services (except public administration),2900.0
+1998,"Professional, scientific and technical services",6500.0
+1998,Public administration,762900.0
+1998,Transportation and warehousing,144300.0
+1998,Utilities,79900.0
+1998,Wholesale and retail trade,18800.0
+1999,"Business, building and other support services",3800.0
+1999,Construction,12500.0
+1999,Educational services,837600.0
+1999,"Finance, insurance, real estate, rental and leasing",40800.0
+1999,"Forestry, fishing, mining, quarrying, oil and gas",9600.0
+1999,Health care and social assistance,703300.0
+1999,"Information, culture and recreation",82700.0
+1999,Manufacturing,4900.0
+1999,"Professional, scientific and technical services",5700.0
+1999,Public administration,768800.0
+1999,Transportation and warehousing,131000.0
+1999,Utilities,83600.0
+1999,Wholesale and retail trade,17000.0
+2000,"Business, building and other support services",4000.0
+2000,Construction,19300.0
+2000,Educational services,849800.0
+2000,"Finance, insurance, real estate, rental and leasing",50000.0
+2000,"Forestry, fishing, mining, quarrying, oil and gas",13400.0
+2000,Health care and social assistance,741800.0
+2000,"Information, culture and recreation",92500.0
+2000,Manufacturing,3000.0
+2000,"Professional, scientific and technical services",8000.0
+2000,Public administration,771400.0
+2000,Transportation and warehousing,138300.0
+2000,Utilities,85400.0
+2000,Wholesale and retail trade,19100.0
+2001,"Business, building and other support services",5900.0
+2001,Construction,19200.0
+2001,Educational services,847500.0
+2001,"Finance, insurance, real estate, rental and leasing",49900.0
+2001,"Forestry, fishing, mining, quarrying, oil and gas",10400.0
+2001,Health care and social assistance,762700.0
+2001,"Information, culture and recreation",96300.0
+2001,Manufacturing,3300.0
+2001,"Professional, scientific and technical services",8700.0
+2001,Public administration,783400.0
+2001,Transportation and warehousing,142900.0
+2001,Utilities,93400.0
+2001,Wholesale and retail trade,19700.0
+2002,"Business, building and other support services",6100.0
+2002,Construction,21000.0
+2002,Educational services,878100.0
+2002,"Finance, insurance, real estate, rental and leasing",46800.0
+2002,"Forestry, fishing, mining, quarrying, oil and gas",12000.0
+2002,Health care and social assistance,791400.0
+2002,"Information, culture and recreation",89200.0
+2002,Manufacturing,2900.0
+2002,"Professional, scientific and technical services",8600.0
+2002,Public administration,792400.0
+2002,Transportation and warehousing,137600.0
+2002,Utilities,93100.0
+2002,Wholesale and retail trade,20000.0
+2003,"Business, building and other support services",5900.0
+2003,Construction,21100.0
+2003,Educational services,897100.0
+2003,"Finance, insurance, real estate, rental and leasing",39100.0
+2003,"Forestry, fishing, mining, quarrying, oil and gas",9700.0
+2003,Health care and social assistance,796000.0
+2003,"Information, culture and recreation",92800.0
+2003,Manufacturing,3600.0
+2003,"Professional, scientific and technical services",7500.0
+2003,Public administration,821000.0
+2003,Transportation and warehousing,132300.0
+2003,Utilities,97000.0
+2003,Wholesale and retail trade,18000.0
+2004,"Business, building and other support services",6500.0
+2004,Construction,22100.0
+2004,Educational services,905900.0
+2004,"Finance, insurance, real estate, rental and leasing",47000.0
+2004,"Forestry, fishing, mining, quarrying, oil and gas",10600.0
+2004,Health care and social assistance,821500.0
+2004,"Information, culture and recreation",103800.0
+2004,Manufacturing,4200.0
+2004,"Professional, scientific and technical services",9800.0
+2004,Public administration,830400.0
+2004,Transportation and warehousing,151200.0
+2004,Utilities,100600.0
+2004,Wholesale and retail trade,22300.0
+2005,"Business, building and other support services",6600.0
+2005,Construction,17100.0
+2005,Educational services,964400.0
+2005,"Finance, insurance, real estate, rental and leasing",46800.0
+2005,"Forestry, fishing, mining, quarrying, oil and gas",13000.0
+2005,Health care and social assistance,841000.0
+2005,"Information, culture and recreation",101300.0
+2005,Manufacturing,3600.0
+2005,"Professional, scientific and technical services",9600.0
+2005,Public administration,835700.0
+2005,Transportation and warehousing,155000.0
+2005,Utilities,96100.0
+2005,Wholesale and retail trade,19900.0
+2006,Accommodation and food services,4300.0
+2006,"Business, building and other support services",7400.0
+2006,Construction,14100.0
+2006,Educational services,1018300.0
+2006,"Finance, insurance, real estate, rental and leasing",40100.0
+2006,"Forestry, fishing, mining, quarrying, oil and gas",10300.0
+2006,Health care and social assistance,836300.0
+2006,"Information, culture and recreation",104100.0
+2006,Manufacturing,3100.0
+2006,"Professional, scientific and technical services",7600.0
+2006,Public administration,832900.0
+2006,Transportation and warehousing,148600.0
+2006,Utilities,90700.0
+2006,Wholesale and retail trade,20500.0
+2007,Accommodation and food services,5100.0
+2007,"Business, building and other support services",6800.0
+2007,Construction,16800.0
+2007,Educational services,1011800.0
+2007,"Finance, insurance, real estate, rental and leasing",44500.0
+2007,"Forestry, fishing, mining, quarrying, oil and gas",11300.0
+2007,Health care and social assistance,856700.0
+2007,"Information, culture and recreation",108900.0
+2007,Manufacturing,4100.0
+2007,"Professional, scientific and technical services",6100.0
+2007,Public administration,858900.0
+2007,Transportation and warehousing,157800.0
+2007,Utilities,99900.0
+2007,Wholesale and retail trade,19600.0
+2008,Accommodation and food services,5400.0
+2008,"Business, building and other support services",7600.0
+2008,Construction,17000.0
+2008,Educational services,1003400.0
+2008,"Finance, insurance, real estate, rental and leasing",44000.0
+2008,"Forestry, fishing, mining, quarrying, oil and gas",10100.0
+2008,Health care and social assistance,899100.0
+2008,"Information, culture and recreation",98800.0
+2008,Manufacturing,3200.0
+2008,"Professional, scientific and technical services",8700.0
+2008,Public administration,899100.0
+2008,Transportation and warehousing,159600.0
+2008,Utilities,115000.0
+2008,Wholesale and retail trade,22900.0
+2009,Accommodation and food services,4900.0
+2009,"Business, building and other support services",6400.0
+2009,Construction,16600.0
+2009,Educational services,1006600.0
+2009,"Finance, insurance, real estate, rental and leasing",49100.0
+2009,"Forestry, fishing, mining, quarrying, oil and gas",11500.0
+2009,Health care and social assistance,917400.0
+2009,"Information, culture and recreation",102500.0
+2009,Manufacturing,4100.0
+2009,"Professional, scientific and technical services",9200.0
+2009,Public administration,924600.0
+2009,Transportation and warehousing,156600.0
+2009,Utilities,118400.0
+2009,Wholesale and retail trade,18400.0
+2010,Accommodation and food services,3100.0
+2010,"Business, building and other support services",7200.0
+2010,Construction,18700.0
+2010,Educational services,1011100.0
+2010,"Finance, insurance, real estate, rental and leasing",47000.0
+2010,"Forestry, fishing, mining, quarrying, oil and gas",9300.0
+2010,Health care and social assistance,948100.0
+2010,"Information, culture and recreation",111900.0
+2010,Manufacturing,1700.0
+2010,"Professional, scientific and technical services",9300.0
+2010,Public administration,932500.0
+2010,Transportation and warehousing,153000.0
+2010,Utilities,118100.0
+2010,Wholesale and retail trade,20300.0
+2011,Accommodation and food services,4300.0
+2011,"Business, building and other support services",7800.0
+2011,Construction,20400.0
+2011,Educational services,1007000.0
+2011,"Finance, insurance, real estate, rental and leasing",48900.0
+2011,"Forestry, fishing, mining, quarrying, oil and gas",10700.0
+2011,Health care and social assistance,968200.0
+2011,"Information, culture and recreation",110000.0
+2011,Manufacturing,2200.0
+2011,"Professional, scientific and technical services",8300.0
+2011,Public administration,931100.0
+2011,Transportation and warehousing,156500.0
+2011,Utilities,108700.0
+2011,Wholesale and retail trade,17500.0
+2012,Accommodation and food services,5900.0
+2012,"Business, building and other support services",7000.0
+2012,Construction,16400.0
+2012,Educational services,1041700.0
+2012,"Finance, insurance, real estate, rental and leasing",49400.0
+2012,"Forestry, fishing, mining, quarrying, oil and gas",9300.0
+2012,Health care and social assistance,968200.0
+2012,"Information, culture and recreation",103200.0
+2012,Manufacturing,3400.0
+2012,"Professional, scientific and technical services",8600.0
+2012,Public administration,917200.0
+2012,Transportation and warehousing,150200.0
+2012,Utilities,107400.0
+2012,Wholesale and retail trade,16200.0
+2013,Accommodation and food services,4700.0
+2013,"Business, building and other support services",7500.0
+2013,Construction,15000.0
+2013,Educational services,1067500.0
+2013,"Finance, insurance, real estate, rental and leasing",48100.0
+2013,"Forestry, fishing, mining, quarrying, oil and gas",8600.0
+2013,Health care and social assistance,993500.0
+2013,"Information, culture and recreation",106500.0
+2013,Manufacturing,2300.0
+2013,"Professional, scientific and technical services",9100.0
+2013,Public administration,911000.0
+2013,Transportation and warehousing,149100.0
+2013,Utilities,107100.0
+2013,Wholesale and retail trade,21600.0
+2014,Accommodation and food services,3800.0
+2014,"Business, building and other support services",7600.0
+2014,Construction,18700.0
+2014,Educational services,1057000.0
+2014,"Finance, insurance, real estate, rental and leasing",42400.0
+2014,"Forestry, fishing, mining, quarrying, oil and gas",7500.0
+2014,Health care and social assistance,1011200.0
+2014,"Information, culture and recreation",113600.0
+2014,Manufacturing,1600.0
+2014,"Professional, scientific and technical services",8100.0
+2014,Public administration,904800.0
+2014,Transportation and warehousing,149400.0
+2014,Utilities,111300.0
+2014,Wholesale and retail trade,19700.0
+2015,Accommodation and food services,6600.0
+2015,"Business, building and other support services",11000.0
+2015,Construction,17000.0
+2015,Educational services,1081100.0
+2015,"Finance, insurance, real estate, rental and leasing",49400.0
+2015,"Forestry, fishing, mining, quarrying, oil and gas",9700.0
+2015,Health care and social assistance,1034300.0
+2015,"Information, culture and recreation",99800.0
+2015,Manufacturing,2700.0
+2015,"Professional, scientific and technical services",8600.0
+2015,Public administration,899500.0
+2015,Transportation and warehousing,160200.0
+2015,Utilities,112800.0
+2015,Wholesale and retail trade,20800.0
+2016,Accommodation and food services,5300.0
+2016,"Business, building and other support services",8900.0
+2016,Construction,14200.0
+2016,Educational services,1071300.0
+2016,"Finance, insurance, real estate, rental and leasing",51000.0
+2016,"Forestry, fishing, mining, quarrying, oil and gas",9500.0
+2016,Health care and social assistance,1044400.0
+2016,"Information, culture and recreation",100900.0
+2016,Manufacturing,2100.0
+2016,"Professional, scientific and technical services",9900.0
+2016,Public administration,897400.0
+2016,Transportation and warehousing,159200.0
+2016,Utilities,117500.0
+2016,Wholesale and retail trade,20100.0
+2017,Accommodation and food services,8200.0
+2017,"Business, building and other support services",12400.0
+2017,Construction,17700.0
+2017,Educational services,1083000.0
+2017,"Finance, insurance, real estate, rental and leasing",53100.0
+2017,"Forestry, fishing, mining, quarrying, oil and gas",9800.0
+2017,Health care and social assistance,1060400.0
+2017,"Information, culture and recreation",111000.0
+2017,Manufacturing,3400.0
+2017,"Professional, scientific and technical services",7100.0
+2017,Public administration,922600.0
+2017,Transportation and warehousing,156100.0
+2017,Utilities,112900.0
+2017,Wholesale and retail trade,23500.0
+2018,Accommodation and food services,4700.0
+2018,"Business, building and other support services",9500.0
+2018,Construction,18700.0
+2018,Educational services,1095400.0
+2018,"Finance, insurance, real estate, rental and leasing",56300.0
+2018,"Forestry, fishing, mining, quarrying, oil and gas",7500.0
+2018,Health care and social assistance,1092600.0
+2018,"Information, culture and recreation",110300.0
+2018,Manufacturing,2800.0
+2018,"Professional, scientific and technical services",8300.0
+2018,Public administration,936900.0
+2018,Transportation and warehousing,170400.0
+2018,Utilities,119100.0
+2018,Wholesale and retail trade,21900.0
+2019,Accommodation and food services,3800.0
+2019,"Business, building and other support services",9500.0
+2019,Construction,19400.0
+2019,Educational services,1121900.0
+2019,"Finance, insurance, real estate, rental and leasing",60100.0
+2019,"Forestry, fishing, mining, quarrying, oil and gas",7400.0
+2019,Health care and social assistance,1092500.0
+2019,"Information, culture and recreation",115700.0
+2019,Manufacturing,2900.0
+2019,"Professional, scientific and technical services",14600.0
+2019,Public administration,982700.0
+2019,Transportation and warehousing,164100.0
+2019,Utilities,115800.0
+2019,Wholesale and retail trade,22100.0
+2020,Accommodation and food services,1600.0
+2020,"Business, building and other support services",9900.0
+2020,Construction,15200.0
+2020,Educational services,1132200.0
+2020,"Finance, insurance, real estate, rental and leasing",57500.0
+2020,"Forestry, fishing, mining, quarrying, oil and gas",7200.0
+2020,Health care and social assistance,1104400.0
+2020,"Information, culture and recreation",89300.0
+2020,Manufacturing,2800.0
+2020,"Professional, scientific and technical services",12100.0
+2020,Public administration,996000.0
+2020,Transportation and warehousing,159000.0
+2020,Utilities,119300.0
+2020,Wholesale and retail trade,22500.0
+2021,"Business, building and other support services",12500.0
+2021,Construction,19800.0
+2021,Educational services,1257900.0
+2021,"Finance, insurance, real estate, rental and leasing",67900.0
+2021,"Forestry, fishing, mining, quarrying, oil and gas",6300.0
+2021,Health care and social assistance,1174900.0
+2021,"Information, culture and recreation",83700.0
+2021,Manufacturing,2100.0
+2021,"Professional, scientific and technical services",11900.0
+2021,Public administration,1074600.0
+2021,Transportation and warehousing,165700.0
+2021,Utilities,126300.0
+2021,Wholesale and retail trade,24900.0
+2022,Accommodation and food services,2300.0
+2022,"Business, building and other support services",11400.0
+2022,Construction,19800.0
+2022,Educational services,1267600.0
+2022,"Finance, insurance, real estate, rental and leasing",64300.0
+2022,"Forestry, fishing, mining, quarrying, oil and gas",8000.0
+2022,Health care and social assistance,1225700.0
+2022,"Information, culture and recreation",109400.0
+2022,Manufacturing,3700.0
+2022,"Professional, scientific and technical services",16100.0
+2022,Public administration,1139300.0
+2022,Transportation and warehousing,175900.0
+2022,Utilities,129300.0
+2022,Wholesale and retail trade,30700.0
+2023,Accommodation and food services,3300.0
+2023,"Business, building and other support services",9900.0
+2023,Construction,15200.0
+2023,Educational services,1269400.0
+2023,"Finance, insurance, real estate, rental and leasing",64600.0
+2023,"Forestry, fishing, mining, quarrying, oil and gas",6800.0
+2023,Health care and social assistance,1253200.0
+2023,"Information, culture and recreation",122700.0
+2023,Manufacturing,3400.0
+2023,"Professional, scientific and technical services",15300.0
+2023,Public administration,1184500.0
+2023,Transportation and warehousing,196400.0
+2023,Utilities,130600.0
+2023,Wholesale and retail trade,27800.0
+2024,Accommodation and food services,3900.0
+2024,"Business, building and other support services",12600.0
+2024,Construction,17900.0
+2024,Educational services,1318200.0
+2024,"Finance, insurance, real estate, rental and leasing",66100.0
+2024,"Forestry, fishing, mining, quarrying, oil and gas",6900.0
+2024,Health care and social assistance,1316800.0
+2024,"Information, culture and recreation",130200.0
+2024,Manufacturing,2300.0
+2024,"Professional, scientific and technical services",15000.0
+2024,Public administration,1224400.0
+2024,Transportation and warehousing,198200.0
+2024,Utilities,128200.0
+2024,Wholesale and retail trade,23300.0
+2025,Accommodation and food services,2800.0
+2025,"Business, building and other support services",12900.0
+2025,Construction,17200.0
+2025,Educational services,1362200.0
+2025,"Finance, insurance, real estate, rental and leasing",69500.0
+2025,"Forestry, fishing, mining, quarrying, oil and gas",6900.0
+2025,Health care and social assistance,1349500.0
+2025,"Information, culture and recreation",132600.0
+2025,Manufacturing,1500.0
+2025,"Professional, scientific and technical services",12600.0
+2025,Public administration,1244600.0
+2025,Transportation and warehousing,185300.0
+2025,Utilities,126600.0
+2025,Wholesale and retail trade,24200.0

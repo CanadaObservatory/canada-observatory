@@ -1,0 +1,2371 @@
+year,geo,age_group,gender,level,pct
+2000,Canada,25–34,Men,Bachelor's,16.0
+2001,Canada,25–34,Men,Bachelor's,17.0
+2002,Canada,25–34,Men,Bachelor's,18.0
+2003,Canada,25–34,Men,Bachelor's,19.0
+2004,Canada,25–34,Men,Bachelor's,18.0
+2005,Canada,25–34,Men,Bachelor's,18.0
+2006,Canada,25–34,Men,Bachelor's,19.0
+2007,Canada,25–34,Men,Bachelor's,19.0
+2008,Canada,25–34,Men,Bachelor's,19.0
+2009,Canada,25–34,Men,Bachelor's,19.0
+2010,Canada,25–34,Men,Bachelor's,19.0
+2011,Canada,25–34,Men,Bachelor's,19.0
+2012,Canada,25–34,Men,Bachelor's,19.0
+2013,Canada,25–34,Men,Bachelor's,20.0
+2014,Canada,25–34,Men,Bachelor's,20.0
+2015,Canada,25–34,Men,Bachelor's,21.0
+2016,Canada,25–34,Men,Bachelor's,21.0
+2017,Canada,25–34,Men,Bachelor's,22.0
+2018,Canada,25–34,Men,Bachelor's,22.0
+2019,Canada,25–34,Men,Bachelor's,24.0
+2020,Canada,25–34,Men,Bachelor's,24.0
+2021,Canada,25–34,Men,Bachelor's,26.0
+2022,Canada,25–34,Men,Bachelor's,26.0
+2023,Canada,25–34,Men,Bachelor's,26.0
+2024,Canada,25–34,Men,Bachelor's,28.0
+2025,Canada,25–34,Men,Bachelor's,26.0
+2000,Canada,25–34,Men,College/CEGEP,21.0
+2001,Canada,25–34,Men,College/CEGEP,22.0
+2002,Canada,25–34,Men,College/CEGEP,22.0
+2003,Canada,25–34,Men,College/CEGEP,23.0
+2004,Canada,25–34,Men,College/CEGEP,23.0
+2005,Canada,25–34,Men,College/CEGEP,23.0
+2006,Canada,25–34,Men,College/CEGEP,23.0
+2007,Canada,25–34,Men,College/CEGEP,23.0
+2008,Canada,25–34,Men,College/CEGEP,23.0
+2009,Canada,25–34,Men,College/CEGEP,23.0
+2010,Canada,25–34,Men,College/CEGEP,22.0
+2011,Canada,25–34,Men,College/CEGEP,22.0
+2012,Canada,25–34,Men,College/CEGEP,22.0
+2013,Canada,25–34,Men,College/CEGEP,21.0
+2014,Canada,25–34,Men,College/CEGEP,21.0
+2015,Canada,25–34,Men,College/CEGEP,22.0
+2016,Canada,25–34,Men,College/CEGEP,22.0
+2017,Canada,25–34,Men,College/CEGEP,22.0
+2018,Canada,25–34,Men,College/CEGEP,22.0
+2019,Canada,25–34,Men,College/CEGEP,22.0
+2020,Canada,25–34,Men,College/CEGEP,21.0
+2021,Canada,25–34,Men,College/CEGEP,22.0
+2022,Canada,25–34,Men,College/CEGEP,22.0
+2023,Canada,25–34,Men,College/CEGEP,22.0
+2024,Canada,25–34,Men,College/CEGEP,21.0
+2025,Canada,25–34,Men,College/CEGEP,20.0
+2000,Canada,25–34,Men,Master's/Doctoral,6.0
+2001,Canada,25–34,Men,Master's/Doctoral,6.0
+2002,Canada,25–34,Men,Master's/Doctoral,6.0
+2003,Canada,25–34,Men,Master's/Doctoral,7.0
+2004,Canada,25–34,Men,Master's/Doctoral,6.0
+2005,Canada,25–34,Men,Master's/Doctoral,7.0
+2006,Canada,25–34,Men,Master's/Doctoral,6.0
+2007,Canada,25–34,Men,Master's/Doctoral,7.0
+2008,Canada,25–34,Men,Master's/Doctoral,6.0
+2009,Canada,25–34,Men,Master's/Doctoral,7.0
+2010,Canada,25–34,Men,Master's/Doctoral,7.0
+2011,Canada,25–34,Men,Master's/Doctoral,7.0
+2012,Canada,25–34,Men,Master's/Doctoral,7.0
+2013,Canada,25–34,Men,Master's/Doctoral,8.0
+2014,Canada,25–34,Men,Master's/Doctoral,8.0
+2015,Canada,25–34,Men,Master's/Doctoral,8.0
+2016,Canada,25–34,Men,Master's/Doctoral,8.0
+2017,Canada,25–34,Men,Master's/Doctoral,8.0
+2018,Canada,25–34,Men,Master's/Doctoral,9.0
+2019,Canada,25–34,Men,Master's/Doctoral,9.0
+2020,Canada,25–34,Men,Master's/Doctoral,10.0
+2021,Canada,25–34,Men,Master's/Doctoral,10.0
+2022,Canada,25–34,Men,Master's/Doctoral,10.0
+2023,Canada,25–34,Men,Master's/Doctoral,11.0
+2024,Canada,25–34,Men,Master's/Doctoral,12.0
+2025,Canada,25–34,Men,Master's/Doctoral,13.0
+2000,Canada,25–34,Men,Tertiary (all),43.0
+2001,Canada,25–34,Men,Tertiary (all),46.0
+2002,Canada,25–34,Men,Tertiary (all),46.0
+2003,Canada,25–34,Men,Tertiary (all),48.0
+2004,Canada,25–34,Men,Tertiary (all),47.0
+2005,Canada,25–34,Men,Tertiary (all),47.0
+2006,Canada,25–34,Men,Tertiary (all),48.0
+2007,Canada,25–34,Men,Tertiary (all),48.0
+2008,Canada,25–34,Men,Tertiary (all),48.0
+2009,Canada,25–34,Men,Tertiary (all),49.0
+2010,Canada,25–34,Men,Tertiary (all),49.0
+2011,Canada,25–34,Men,Tertiary (all),49.0
+2012,Canada,25–34,Men,Tertiary (all),48.0
+2013,Canada,25–34,Men,Tertiary (all),49.0
+2014,Canada,25–34,Men,Tertiary (all),50.0
+2015,Canada,25–34,Men,Tertiary (all),51.0
+2016,Canada,25–34,Men,Tertiary (all),52.0
+2017,Canada,25–34,Men,Tertiary (all),52.0
+2018,Canada,25–34,Men,Tertiary (all),53.0
+2019,Canada,25–34,Men,Tertiary (all),55.0
+2020,Canada,25–34,Men,Tertiary (all),56.0
+2021,Canada,25–34,Men,Tertiary (all),58.0
+2022,Canada,25–34,Men,Tertiary (all),58.0
+2023,Canada,25–34,Men,Tertiary (all),58.0
+2024,Canada,25–34,Men,Tertiary (all),61.0
+2025,Canada,25–34,Men,Tertiary (all),60.0
+2000,Canada,25–34,Total,Bachelor's,18.0
+2001,Canada,25–34,Total,Bachelor's,19.0
+2002,Canada,25–34,Total,Bachelor's,20.0
+2003,Canada,25–34,Total,Bachelor's,21.0
+2004,Canada,25–34,Total,Bachelor's,21.0
+2005,Canada,25–34,Total,Bachelor's,21.0
+2006,Canada,25–34,Total,Bachelor's,22.0
+2007,Canada,25–34,Total,Bachelor's,22.0
+2008,Canada,25–34,Total,Bachelor's,22.0
+2009,Canada,25–34,Total,Bachelor's,22.0
+2010,Canada,25–34,Total,Bachelor's,23.0
+2011,Canada,25–34,Total,Bachelor's,23.0
+2012,Canada,25–34,Total,Bachelor's,23.0
+2013,Canada,25–34,Total,Bachelor's,24.0
+2014,Canada,25–34,Total,Bachelor's,24.0
+2015,Canada,25–34,Total,Bachelor's,25.0
+2016,Canada,25–34,Total,Bachelor's,25.0
+2017,Canada,25–34,Total,Bachelor's,26.0
+2018,Canada,25–34,Total,Bachelor's,26.0
+2019,Canada,25–34,Total,Bachelor's,28.0
+2020,Canada,25–34,Total,Bachelor's,29.0
+2021,Canada,25–34,Total,Bachelor's,30.0
+2022,Canada,25–34,Total,Bachelor's,30.0
+2023,Canada,25–34,Total,Bachelor's,29.0
+2024,Canada,25–34,Total,Bachelor's,31.0
+2025,Canada,25–34,Total,Bachelor's,30.0
+2000,Canada,25–34,Total,College/CEGEP,24.0
+2001,Canada,25–34,Total,College/CEGEP,25.0
+2002,Canada,25–34,Total,College/CEGEP,25.0
+2003,Canada,25–34,Total,College/CEGEP,25.0
+2004,Canada,25–34,Total,College/CEGEP,26.0
+2005,Canada,25–34,Total,College/CEGEP,26.0
+2006,Canada,25–34,Total,College/CEGEP,25.0
+2007,Canada,25–34,Total,College/CEGEP,26.0
+2008,Canada,25–34,Total,College/CEGEP,26.0
+2009,Canada,25–34,Total,College/CEGEP,26.0
+2010,Canada,25–34,Total,College/CEGEP,26.0
+2011,Canada,25–34,Total,College/CEGEP,26.0
+2012,Canada,25–34,Total,College/CEGEP,25.0
+2013,Canada,25–34,Total,College/CEGEP,25.0
+2014,Canada,25–34,Total,College/CEGEP,24.0
+2015,Canada,25–34,Total,College/CEGEP,25.0
+2016,Canada,25–34,Total,College/CEGEP,25.0
+2017,Canada,25–34,Total,College/CEGEP,25.0
+2018,Canada,25–34,Total,College/CEGEP,25.0
+2019,Canada,25–34,Total,College/CEGEP,24.0
+2020,Canada,25–34,Total,College/CEGEP,24.0
+2021,Canada,25–34,Total,College/CEGEP,24.0
+2022,Canada,25–34,Total,College/CEGEP,24.0
+2023,Canada,25–34,Total,College/CEGEP,25.0
+2024,Canada,25–34,Total,College/CEGEP,23.0
+2025,Canada,25–34,Total,College/CEGEP,22.0
+2000,Canada,25–34,Total,Master's/Doctoral,6.0
+2001,Canada,25–34,Total,Master's/Doctoral,7.0
+2002,Canada,25–34,Total,Master's/Doctoral,7.0
+2003,Canada,25–34,Total,Master's/Doctoral,7.0
+2004,Canada,25–34,Total,Master's/Doctoral,6.0
+2005,Canada,25–34,Total,Master's/Doctoral,7.0
+2006,Canada,25–34,Total,Master's/Doctoral,7.0
+2007,Canada,25–34,Total,Master's/Doctoral,8.0
+2008,Canada,25–34,Total,Master's/Doctoral,8.0
+2009,Canada,25–34,Total,Master's/Doctoral,8.0
+2010,Canada,25–34,Total,Master's/Doctoral,8.0
+2011,Canada,25–34,Total,Master's/Doctoral,8.0
+2012,Canada,25–34,Total,Master's/Doctoral,9.0
+2013,Canada,25–34,Total,Master's/Doctoral,9.0
+2014,Canada,25–34,Total,Master's/Doctoral,9.0
+2015,Canada,25–34,Total,Master's/Doctoral,10.0
+2016,Canada,25–34,Total,Master's/Doctoral,10.0
+2017,Canada,25–34,Total,Master's/Doctoral,10.0
+2018,Canada,25–34,Total,Master's/Doctoral,11.0
+2019,Canada,25–34,Total,Master's/Doctoral,11.0
+2020,Canada,25–34,Total,Master's/Doctoral,12.0
+2021,Canada,25–34,Total,Master's/Doctoral,12.0
+2022,Canada,25–34,Total,Master's/Doctoral,12.0
+2023,Canada,25–34,Total,Master's/Doctoral,13.0
+2024,Canada,25–34,Total,Master's/Doctoral,14.0
+2025,Canada,25–34,Total,Master's/Doctoral,15.0
+2000,Canada,25–34,Total,Tertiary (all),48.0
+2001,Canada,25–34,Total,Tertiary (all),51.0
+2002,Canada,25–34,Total,Tertiary (all),52.0
+2003,Canada,25–34,Total,Tertiary (all),53.0
+2004,Canada,25–34,Total,Tertiary (all),53.0
+2005,Canada,25–34,Total,Tertiary (all),54.0
+2006,Canada,25–34,Total,Tertiary (all),55.0
+2007,Canada,25–34,Total,Tertiary (all),56.0
+2008,Canada,25–34,Total,Tertiary (all),56.0
+2009,Canada,25–34,Total,Tertiary (all),56.0
+2010,Canada,25–34,Total,Tertiary (all),57.0
+2011,Canada,25–34,Total,Tertiary (all),57.0
+2012,Canada,25–34,Total,Tertiary (all),57.0
+2013,Canada,25–34,Total,Tertiary (all),58.0
+2014,Canada,25–34,Total,Tertiary (all),58.0
+2015,Canada,25–34,Total,Tertiary (all),59.0
+2016,Canada,25–34,Total,Tertiary (all),61.0
+2017,Canada,25–34,Total,Tertiary (all),61.0
+2018,Canada,25–34,Total,Tertiary (all),62.0
+2019,Canada,25–34,Total,Tertiary (all),63.0
+2020,Canada,25–34,Total,Tertiary (all),64.0
+2021,Canada,25–34,Total,Tertiary (all),66.0
+2022,Canada,25–34,Total,Tertiary (all),67.0
+2023,Canada,25–34,Total,Tertiary (all),67.0
+2024,Canada,25–34,Total,Tertiary (all),69.0
+2025,Canada,25–34,Total,Tertiary (all),68.0
+2000,Canada,25–34,Women,Bachelor's,21.0
+2001,Canada,25–34,Women,Bachelor's,21.0
+2002,Canada,25–34,Women,Bachelor's,22.0
+2003,Canada,25–34,Women,Bachelor's,23.0
+2004,Canada,25–34,Women,Bachelor's,24.0
+2005,Canada,25–34,Women,Bachelor's,24.0
+2006,Canada,25–34,Women,Bachelor's,26.0
+2007,Canada,25–34,Women,Bachelor's,26.0
+2008,Canada,25–34,Women,Bachelor's,25.0
+2009,Canada,25–34,Women,Bachelor's,26.0
+2010,Canada,25–34,Women,Bachelor's,26.0
+2011,Canada,25–34,Women,Bachelor's,27.0
+2012,Canada,25–34,Women,Bachelor's,27.0
+2013,Canada,25–34,Women,Bachelor's,28.0
+2014,Canada,25–34,Women,Bachelor's,28.0
+2015,Canada,25–34,Women,Bachelor's,29.0
+2016,Canada,25–34,Women,Bachelor's,29.0
+2017,Canada,25–34,Women,Bachelor's,30.0
+2018,Canada,25–34,Women,Bachelor's,31.0
+2019,Canada,25–34,Women,Bachelor's,31.0
+2020,Canada,25–34,Women,Bachelor's,33.0
+2021,Canada,25–34,Women,Bachelor's,34.0
+2022,Canada,25–34,Women,Bachelor's,34.0
+2023,Canada,25–34,Women,Bachelor's,33.0
+2024,Canada,25–34,Women,Bachelor's,35.0
+2025,Canada,25–34,Women,Bachelor's,34.0
+2000,Canada,25–34,Women,College/CEGEP,26.0
+2001,Canada,25–34,Women,College/CEGEP,28.0
+2002,Canada,25–34,Women,College/CEGEP,28.0
+2003,Canada,25–34,Women,College/CEGEP,28.0
+2004,Canada,25–34,Women,College/CEGEP,29.0
+2005,Canada,25–34,Women,College/CEGEP,28.0
+2006,Canada,25–34,Women,College/CEGEP,28.0
+2007,Canada,25–34,Women,College/CEGEP,30.0
+2008,Canada,25–34,Women,College/CEGEP,29.0
+2009,Canada,25–34,Women,College/CEGEP,29.0
+2010,Canada,25–34,Women,College/CEGEP,29.0
+2011,Canada,25–34,Women,College/CEGEP,29.0
+2012,Canada,25–34,Women,College/CEGEP,29.0
+2013,Canada,25–34,Women,College/CEGEP,28.0
+2014,Canada,25–34,Women,College/CEGEP,28.0
+2015,Canada,25–34,Women,College/CEGEP,28.0
+2016,Canada,25–34,Women,College/CEGEP,28.0
+2017,Canada,25–34,Women,College/CEGEP,27.0
+2018,Canada,25–34,Women,College/CEGEP,28.0
+2019,Canada,25–34,Women,College/CEGEP,27.0
+2020,Canada,25–34,Women,College/CEGEP,27.0
+2021,Canada,25–34,Women,College/CEGEP,27.0
+2022,Canada,25–34,Women,College/CEGEP,27.0
+2023,Canada,25–34,Women,College/CEGEP,28.0
+2024,Canada,25–34,Women,College/CEGEP,26.0
+2025,Canada,25–34,Women,College/CEGEP,24.0
+2000,Canada,25–34,Women,Master's/Doctoral,7.0
+2001,Canada,25–34,Women,Master's/Doctoral,7.0
+2002,Canada,25–34,Women,Master's/Doctoral,7.0
+2003,Canada,25–34,Women,Master's/Doctoral,7.0
+2004,Canada,25–34,Women,Master's/Doctoral,7.0
+2005,Canada,25–34,Women,Master's/Doctoral,8.0
+2006,Canada,25–34,Women,Master's/Doctoral,8.0
+2007,Canada,25–34,Women,Master's/Doctoral,8.0
+2008,Canada,25–34,Women,Master's/Doctoral,9.0
+2009,Canada,25–34,Women,Master's/Doctoral,9.0
+2010,Canada,25–34,Women,Master's/Doctoral,9.0
+2011,Canada,25–34,Women,Master's/Doctoral,10.0
+2012,Canada,25–34,Women,Master's/Doctoral,11.0
+2013,Canada,25–34,Women,Master's/Doctoral,11.0
+2014,Canada,25–34,Women,Master's/Doctoral,10.0
+2015,Canada,25–34,Women,Master's/Doctoral,11.0
+2016,Canada,25–34,Women,Master's/Doctoral,13.0
+2017,Canada,25–34,Women,Master's/Doctoral,12.0
+2018,Canada,25–34,Women,Master's/Doctoral,12.0
+2019,Canada,25–34,Women,Master's/Doctoral,13.0
+2020,Canada,25–34,Women,Master's/Doctoral,13.0
+2021,Canada,25–34,Women,Master's/Doctoral,14.0
+2022,Canada,25–34,Women,Master's/Doctoral,15.0
+2023,Canada,25–34,Women,Master's/Doctoral,16.0
+2024,Canada,25–34,Women,Master's/Doctoral,17.0
+2025,Canada,25–34,Women,Master's/Doctoral,18.0
+2000,Canada,25–34,Women,Tertiary (all),54.0
+2001,Canada,25–34,Women,Tertiary (all),56.0
+2002,Canada,25–34,Women,Tertiary (all),57.0
+2003,Canada,25–34,Women,Tertiary (all),59.0
+2004,Canada,25–34,Women,Tertiary (all),60.0
+2005,Canada,25–34,Women,Tertiary (all),60.0
+2006,Canada,25–34,Women,Tertiary (all),62.0
+2007,Canada,25–34,Women,Tertiary (all),64.0
+2008,Canada,25–34,Women,Tertiary (all),64.0
+2009,Canada,25–34,Women,Tertiary (all),63.0
+2010,Canada,25–34,Women,Tertiary (all),64.0
+2011,Canada,25–34,Women,Tertiary (all),65.0
+2012,Canada,25–34,Women,Tertiary (all),66.0
+2013,Canada,25–34,Women,Tertiary (all),67.0
+2014,Canada,25–34,Women,Tertiary (all),66.0
+2015,Canada,25–34,Women,Tertiary (all),68.0
+2016,Canada,25–34,Women,Tertiary (all),70.0
+2017,Canada,25–34,Women,Tertiary (all),70.0
+2018,Canada,25–34,Women,Tertiary (all),71.0
+2019,Canada,25–34,Women,Tertiary (all),71.0
+2020,Canada,25–34,Women,Tertiary (all),73.0
+2021,Canada,25–34,Women,Tertiary (all),75.0
+2022,Canada,25–34,Women,Tertiary (all),76.0
+2023,Canada,25–34,Women,Tertiary (all),76.0
+2024,Canada,25–34,Women,Tertiary (all),77.0
+2025,Canada,25–34,Women,Tertiary (all),76.0
+2000,Canada,25–64 (all),Men,Bachelor's,13.0
+2001,Canada,25–64 (all),Men,Bachelor's,14.0
+2002,Canada,25–64 (all),Men,Bachelor's,14.0
+2003,Canada,25–64 (all),Men,Bachelor's,15.0
+2004,Canada,25–64 (all),Men,Bachelor's,15.0
+2005,Canada,25–64 (all),Men,Bachelor's,15.0
+2006,Canada,25–64 (all),Men,Bachelor's,16.0
+2007,Canada,25–64 (all),Men,Bachelor's,16.0
+2008,Canada,25–64 (all),Men,Bachelor's,16.0
+2009,Canada,25–64 (all),Men,Bachelor's,16.0
+2010,Canada,25–64 (all),Men,Bachelor's,16.0
+2011,Canada,25–64 (all),Men,Bachelor's,17.0
+2012,Canada,25–64 (all),Men,Bachelor's,17.0
+2013,Canada,25–64 (all),Men,Bachelor's,17.0
+2014,Canada,25–64 (all),Men,Bachelor's,17.0
+2015,Canada,25–64 (all),Men,Bachelor's,18.0
+2016,Canada,25–64 (all),Men,Bachelor's,18.0
+2017,Canada,25–64 (all),Men,Bachelor's,19.0
+2018,Canada,25–64 (all),Men,Bachelor's,19.0
+2019,Canada,25–64 (all),Men,Bachelor's,20.0
+2020,Canada,25–64 (all),Men,Bachelor's,21.0
+2021,Canada,25–64 (all),Men,Bachelor's,22.0
+2022,Canada,25–64 (all),Men,Bachelor's,22.0
+2023,Canada,25–64 (all),Men,Bachelor's,22.0
+2024,Canada,25–64 (all),Men,Bachelor's,23.0
+2025,Canada,25–64 (all),Men,Bachelor's,22.0
+2000,Canada,25–64 (all),Men,College/CEGEP,17.0
+2001,Canada,25–64 (all),Men,College/CEGEP,18.0
+2002,Canada,25–64 (all),Men,College/CEGEP,18.0
+2003,Canada,25–64 (all),Men,College/CEGEP,19.0
+2004,Canada,25–64 (all),Men,College/CEGEP,19.0
+2005,Canada,25–64 (all),Men,College/CEGEP,19.0
+2006,Canada,25–64 (all),Men,College/CEGEP,19.0
+2007,Canada,25–64 (all),Men,College/CEGEP,20.0
+2008,Canada,25–64 (all),Men,College/CEGEP,20.0
+2009,Canada,25–64 (all),Men,College/CEGEP,20.0
+2010,Canada,25–64 (all),Men,College/CEGEP,20.0
+2011,Canada,25–64 (all),Men,College/CEGEP,21.0
+2012,Canada,25–64 (all),Men,College/CEGEP,21.0
+2013,Canada,25–64 (all),Men,College/CEGEP,21.0
+2014,Canada,25–64 (all),Men,College/CEGEP,21.0
+2015,Canada,25–64 (all),Men,College/CEGEP,22.0
+2016,Canada,25–64 (all),Men,College/CEGEP,22.0
+2017,Canada,25–64 (all),Men,College/CEGEP,22.0
+2018,Canada,25–64 (all),Men,College/CEGEP,22.0
+2019,Canada,25–64 (all),Men,College/CEGEP,23.0
+2020,Canada,25–64 (all),Men,College/CEGEP,22.0
+2021,Canada,25–64 (all),Men,College/CEGEP,23.0
+2022,Canada,25–64 (all),Men,College/CEGEP,23.0
+2023,Canada,25–64 (all),Men,College/CEGEP,23.0
+2024,Canada,25–64 (all),Men,College/CEGEP,22.0
+2025,Canada,25–64 (all),Men,College/CEGEP,21.0
+2000,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2001,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2002,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2003,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2004,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2005,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2006,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2007,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2008,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2009,Canada,25–64 (all),Men,Master's/Doctoral,8.0
+2010,Canada,25–64 (all),Men,Master's/Doctoral,9.0
+2011,Canada,25–64 (all),Men,Master's/Doctoral,9.0
+2012,Canada,25–64 (all),Men,Master's/Doctoral,9.0
+2013,Canada,25–64 (all),Men,Master's/Doctoral,9.0
+2014,Canada,25–64 (all),Men,Master's/Doctoral,9.0
+2015,Canada,25–64 (all),Men,Master's/Doctoral,9.0
+2016,Canada,25–64 (all),Men,Master's/Doctoral,10.0
+2017,Canada,25–64 (all),Men,Master's/Doctoral,9.0
+2018,Canada,25–64 (all),Men,Master's/Doctoral,10.0
+2019,Canada,25–64 (all),Men,Master's/Doctoral,10.0
+2020,Canada,25–64 (all),Men,Master's/Doctoral,11.0
+2021,Canada,25–64 (all),Men,Master's/Doctoral,11.0
+2022,Canada,25–64 (all),Men,Master's/Doctoral,11.0
+2023,Canada,25–64 (all),Men,Master's/Doctoral,11.0
+2024,Canada,25–64 (all),Men,Master's/Doctoral,13.0
+2025,Canada,25–64 (all),Men,Master's/Doctoral,13.0
+2000,Canada,25–64 (all),Men,Tertiary (all),38.0
+2001,Canada,25–64 (all),Men,Tertiary (all),39.0
+2002,Canada,25–64 (all),Men,Tertiary (all),40.0
+2003,Canada,25–64 (all),Men,Tertiary (all),42.0
+2004,Canada,25–64 (all),Men,Tertiary (all),41.0
+2005,Canada,25–64 (all),Men,Tertiary (all),43.0
+2006,Canada,25–64 (all),Men,Tertiary (all),43.0
+2007,Canada,25–64 (all),Men,Tertiary (all),44.0
+2008,Canada,25–64 (all),Men,Tertiary (all),44.0
+2009,Canada,25–64 (all),Men,Tertiary (all),45.0
+2010,Canada,25–64 (all),Men,Tertiary (all),45.0
+2011,Canada,25–64 (all),Men,Tertiary (all),46.0
+2012,Canada,25–64 (all),Men,Tertiary (all),47.0
+2013,Canada,25–64 (all),Men,Tertiary (all),47.0
+2014,Canada,25–64 (all),Men,Tertiary (all),48.0
+2015,Canada,25–64 (all),Men,Tertiary (all),49.0
+2016,Canada,25–64 (all),Men,Tertiary (all),50.0
+2017,Canada,25–64 (all),Men,Tertiary (all),50.0
+2018,Canada,25–64 (all),Men,Tertiary (all),51.0
+2019,Canada,25–64 (all),Men,Tertiary (all),53.0
+2020,Canada,25–64 (all),Men,Tertiary (all),53.0
+2021,Canada,25–64 (all),Men,Tertiary (all),55.0
+2022,Canada,25–64 (all),Men,Tertiary (all),56.0
+2023,Canada,25–64 (all),Men,Tertiary (all),56.0
+2024,Canada,25–64 (all),Men,Tertiary (all),58.0
+2025,Canada,25–64 (all),Men,Tertiary (all),57.0
+2000,Canada,25–64 (all),Total,Bachelor's,13.0
+2001,Canada,25–64 (all),Total,Bachelor's,14.0
+2002,Canada,25–64 (all),Total,Bachelor's,14.0
+2003,Canada,25–64 (all),Total,Bachelor's,15.0
+2004,Canada,25–64 (all),Total,Bachelor's,15.0
+2005,Canada,25–64 (all),Total,Bachelor's,16.0
+2006,Canada,25–64 (all),Total,Bachelor's,17.0
+2007,Canada,25–64 (all),Total,Bachelor's,17.0
+2008,Canada,25–64 (all),Total,Bachelor's,17.0
+2009,Canada,25–64 (all),Total,Bachelor's,17.0
+2010,Canada,25–64 (all),Total,Bachelor's,18.0
+2011,Canada,25–64 (all),Total,Bachelor's,18.0
+2012,Canada,25–64 (all),Total,Bachelor's,19.0
+2013,Canada,25–64 (all),Total,Bachelor's,19.0
+2014,Canada,25–64 (all),Total,Bachelor's,19.0
+2015,Canada,25–64 (all),Total,Bachelor's,20.0
+2016,Canada,25–64 (all),Total,Bachelor's,20.0
+2017,Canada,25–64 (all),Total,Bachelor's,21.0
+2018,Canada,25–64 (all),Total,Bachelor's,21.0
+2019,Canada,25–64 (all),Total,Bachelor's,22.0
+2020,Canada,25–64 (all),Total,Bachelor's,23.0
+2021,Canada,25–64 (all),Total,Bachelor's,24.0
+2022,Canada,25–64 (all),Total,Bachelor's,24.0
+2023,Canada,25–64 (all),Total,Bachelor's,25.0
+2024,Canada,25–64 (all),Total,Bachelor's,26.0
+2025,Canada,25–64 (all),Total,Bachelor's,25.0
+2000,Canada,25–64 (all),Total,College/CEGEP,20.0
+2001,Canada,25–64 (all),Total,College/CEGEP,21.0
+2002,Canada,25–64 (all),Total,College/CEGEP,22.0
+2003,Canada,25–64 (all),Total,College/CEGEP,22.0
+2004,Canada,25–64 (all),Total,College/CEGEP,22.0
+2005,Canada,25–64 (all),Total,College/CEGEP,23.0
+2006,Canada,25–64 (all),Total,College/CEGEP,23.0
+2007,Canada,25–64 (all),Total,College/CEGEP,24.0
+2008,Canada,25–64 (all),Total,College/CEGEP,24.0
+2009,Canada,25–64 (all),Total,College/CEGEP,24.0
+2010,Canada,25–64 (all),Total,College/CEGEP,24.0
+2011,Canada,25–64 (all),Total,College/CEGEP,24.0
+2012,Canada,25–64 (all),Total,College/CEGEP,25.0
+2013,Canada,25–64 (all),Total,College/CEGEP,25.0
+2014,Canada,25–64 (all),Total,College/CEGEP,25.0
+2015,Canada,25–64 (all),Total,College/CEGEP,26.0
+2016,Canada,25–64 (all),Total,College/CEGEP,26.0
+2017,Canada,25–64 (all),Total,College/CEGEP,26.0
+2018,Canada,25–64 (all),Total,College/CEGEP,26.0
+2019,Canada,25–64 (all),Total,College/CEGEP,26.0
+2020,Canada,25–64 (all),Total,College/CEGEP,26.0
+2021,Canada,25–64 (all),Total,College/CEGEP,26.0
+2022,Canada,25–64 (all),Total,College/CEGEP,26.0
+2023,Canada,25–64 (all),Total,College/CEGEP,26.0
+2024,Canada,25–64 (all),Total,College/CEGEP,26.0
+2025,Canada,25–64 (all),Total,College/CEGEP,25.0
+2000,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2001,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2002,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2003,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2004,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2005,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2006,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2007,Canada,25–64 (all),Total,Master's/Doctoral,7.0
+2008,Canada,25–64 (all),Total,Master's/Doctoral,8.0
+2009,Canada,25–64 (all),Total,Master's/Doctoral,8.0
+2010,Canada,25–64 (all),Total,Master's/Doctoral,8.0
+2011,Canada,25–64 (all),Total,Master's/Doctoral,8.0
+2012,Canada,25–64 (all),Total,Master's/Doctoral,9.0
+2013,Canada,25–64 (all),Total,Master's/Doctoral,9.0
+2014,Canada,25–64 (all),Total,Master's/Doctoral,9.0
+2015,Canada,25–64 (all),Total,Master's/Doctoral,9.0
+2016,Canada,25–64 (all),Total,Master's/Doctoral,10.0
+2017,Canada,25–64 (all),Total,Master's/Doctoral,10.0
+2018,Canada,25–64 (all),Total,Master's/Doctoral,10.0
+2019,Canada,25–64 (all),Total,Master's/Doctoral,11.0
+2020,Canada,25–64 (all),Total,Master's/Doctoral,11.0
+2021,Canada,25–64 (all),Total,Master's/Doctoral,11.0
+2022,Canada,25–64 (all),Total,Master's/Doctoral,12.0
+2023,Canada,25–64 (all),Total,Master's/Doctoral,12.0
+2024,Canada,25–64 (all),Total,Master's/Doctoral,13.0
+2025,Canada,25–64 (all),Total,Master's/Doctoral,14.0
+2000,Canada,25–64 (all),Total,Tertiary (all),40.0
+2001,Canada,25–64 (all),Total,Tertiary (all),42.0
+2002,Canada,25–64 (all),Total,Tertiary (all),43.0
+2003,Canada,25–64 (all),Total,Tertiary (all),44.0
+2004,Canada,25–64 (all),Total,Tertiary (all),45.0
+2005,Canada,25–64 (all),Total,Tertiary (all),46.0
+2006,Canada,25–64 (all),Total,Tertiary (all),47.0
+2007,Canada,25–64 (all),Total,Tertiary (all),48.0
+2008,Canada,25–64 (all),Total,Tertiary (all),49.0
+2009,Canada,25–64 (all),Total,Tertiary (all),49.0
+2010,Canada,25–64 (all),Total,Tertiary (all),50.0
+2011,Canada,25–64 (all),Total,Tertiary (all),51.0
+2012,Canada,25–64 (all),Total,Tertiary (all),52.0
+2013,Canada,25–64 (all),Total,Tertiary (all),53.0
+2014,Canada,25–64 (all),Total,Tertiary (all),53.0
+2015,Canada,25–64 (all),Total,Tertiary (all),55.0
+2016,Canada,25–64 (all),Total,Tertiary (all),56.0
+2017,Canada,25–64 (all),Total,Tertiary (all),56.0
+2018,Canada,25–64 (all),Total,Tertiary (all),58.0
+2019,Canada,25–64 (all),Total,Tertiary (all),59.0
+2020,Canada,25–64 (all),Total,Tertiary (all),60.0
+2021,Canada,25–64 (all),Total,Tertiary (all),62.0
+2022,Canada,25–64 (all),Total,Tertiary (all),63.0
+2023,Canada,25–64 (all),Total,Tertiary (all),63.0
+2024,Canada,25–64 (all),Total,Tertiary (all),65.0
+2025,Canada,25–64 (all),Total,Tertiary (all),64.0
+2000,Canada,25–64 (all),Women,Bachelor's,14.0
+2001,Canada,25–64 (all),Women,Bachelor's,14.0
+2002,Canada,25–64 (all),Women,Bachelor's,15.0
+2003,Canada,25–64 (all),Women,Bachelor's,16.0
+2004,Canada,25–64 (all),Women,Bachelor's,16.0
+2005,Canada,25–64 (all),Women,Bachelor's,17.0
+2006,Canada,25–64 (all),Women,Bachelor's,18.0
+2007,Canada,25–64 (all),Women,Bachelor's,18.0
+2008,Canada,25–64 (all),Women,Bachelor's,18.0
+2009,Canada,25–64 (all),Women,Bachelor's,18.0
+2010,Canada,25–64 (all),Women,Bachelor's,19.0
+2011,Canada,25–64 (all),Women,Bachelor's,20.0
+2012,Canada,25–64 (all),Women,Bachelor's,20.0
+2013,Canada,25–64 (all),Women,Bachelor's,21.0
+2014,Canada,25–64 (all),Women,Bachelor's,21.0
+2015,Canada,25–64 (all),Women,Bachelor's,22.0
+2016,Canada,25–64 (all),Women,Bachelor's,23.0
+2017,Canada,25–64 (all),Women,Bachelor's,23.0
+2018,Canada,25–64 (all),Women,Bachelor's,24.0
+2019,Canada,25–64 (all),Women,Bachelor's,25.0
+2020,Canada,25–64 (all),Women,Bachelor's,26.0
+2021,Canada,25–64 (all),Women,Bachelor's,26.0
+2022,Canada,25–64 (all),Women,Bachelor's,27.0
+2023,Canada,25–64 (all),Women,Bachelor's,27.0
+2024,Canada,25–64 (all),Women,Bachelor's,28.0
+2025,Canada,25–64 (all),Women,Bachelor's,28.0
+2000,Canada,25–64 (all),Women,College/CEGEP,23.0
+2001,Canada,25–64 (all),Women,College/CEGEP,25.0
+2002,Canada,25–64 (all),Women,College/CEGEP,25.0
+2003,Canada,25–64 (all),Women,College/CEGEP,25.0
+2004,Canada,25–64 (all),Women,College/CEGEP,26.0
+2005,Canada,25–64 (all),Women,College/CEGEP,26.0
+2006,Canada,25–64 (all),Women,College/CEGEP,26.0
+2007,Canada,25–64 (all),Women,College/CEGEP,27.0
+2008,Canada,25–64 (all),Women,College/CEGEP,27.0
+2009,Canada,25–64 (all),Women,College/CEGEP,28.0
+2010,Canada,25–64 (all),Women,College/CEGEP,28.0
+2011,Canada,25–64 (all),Women,College/CEGEP,28.0
+2012,Canada,25–64 (all),Women,College/CEGEP,29.0
+2013,Canada,25–64 (all),Women,College/CEGEP,29.0
+2014,Canada,25–64 (all),Women,College/CEGEP,29.0
+2015,Canada,25–64 (all),Women,College/CEGEP,29.0
+2016,Canada,25–64 (all),Women,College/CEGEP,29.0
+2017,Canada,25–64 (all),Women,College/CEGEP,29.0
+2018,Canada,25–64 (all),Women,College/CEGEP,30.0
+2019,Canada,25–64 (all),Women,College/CEGEP,30.0
+2020,Canada,25–64 (all),Women,College/CEGEP,29.0
+2021,Canada,25–64 (all),Women,College/CEGEP,30.0
+2022,Canada,25–64 (all),Women,College/CEGEP,30.0
+2023,Canada,25–64 (all),Women,College/CEGEP,30.0
+2024,Canada,25–64 (all),Women,College/CEGEP,29.0
+2025,Canada,25–64 (all),Women,College/CEGEP,28.0
+2000,Canada,25–64 (all),Women,Master's/Doctoral,6.0
+2001,Canada,25–64 (all),Women,Master's/Doctoral,6.0
+2002,Canada,25–64 (all),Women,Master's/Doctoral,6.0
+2003,Canada,25–64 (all),Women,Master's/Doctoral,6.0
+2004,Canada,25–64 (all),Women,Master's/Doctoral,6.0
+2005,Canada,25–64 (all),Women,Master's/Doctoral,6.0
+2006,Canada,25–64 (all),Women,Master's/Doctoral,7.0
+2007,Canada,25–64 (all),Women,Master's/Doctoral,7.0
+2008,Canada,25–64 (all),Women,Master's/Doctoral,7.0
+2009,Canada,25–64 (all),Women,Master's/Doctoral,7.0
+2010,Canada,25–64 (all),Women,Master's/Doctoral,8.0
+2011,Canada,25–64 (all),Women,Master's/Doctoral,8.0
+2012,Canada,25–64 (all),Women,Master's/Doctoral,9.0
+2013,Canada,25–64 (all),Women,Master's/Doctoral,9.0
+2014,Canada,25–64 (all),Women,Master's/Doctoral,9.0
+2015,Canada,25–64 (all),Women,Master's/Doctoral,10.0
+2016,Canada,25–64 (all),Women,Master's/Doctoral,10.0
+2017,Canada,25–64 (all),Women,Master's/Doctoral,10.0
+2018,Canada,25–64 (all),Women,Master's/Doctoral,11.0
+2019,Canada,25–64 (all),Women,Master's/Doctoral,11.0
+2020,Canada,25–64 (all),Women,Master's/Doctoral,12.0
+2021,Canada,25–64 (all),Women,Master's/Doctoral,12.0
+2022,Canada,25–64 (all),Women,Master's/Doctoral,13.0
+2023,Canada,25–64 (all),Women,Master's/Doctoral,13.0
+2024,Canada,25–64 (all),Women,Master's/Doctoral,14.0
+2025,Canada,25–64 (all),Women,Master's/Doctoral,16.0
+2000,Canada,25–64 (all),Women,Tertiary (all),43.0
+2001,Canada,25–64 (all),Women,Tertiary (all),44.0
+2002,Canada,25–64 (all),Women,Tertiary (all),46.0
+2003,Canada,25–64 (all),Women,Tertiary (all),47.0
+2004,Canada,25–64 (all),Women,Tertiary (all),48.0
+2005,Canada,25–64 (all),Women,Tertiary (all),49.0
+2006,Canada,25–64 (all),Women,Tertiary (all),50.0
+2007,Canada,25–64 (all),Women,Tertiary (all),52.0
+2008,Canada,25–64 (all),Women,Tertiary (all),53.0
+2009,Canada,25–64 (all),Women,Tertiary (all),54.0
+2010,Canada,25–64 (all),Women,Tertiary (all),55.0
+2011,Canada,25–64 (all),Women,Tertiary (all),56.0
+2012,Canada,25–64 (all),Women,Tertiary (all),58.0
+2013,Canada,25–64 (all),Women,Tertiary (all),59.0
+2014,Canada,25–64 (all),Women,Tertiary (all),59.0
+2015,Canada,25–64 (all),Women,Tertiary (all),61.0
+2016,Canada,25–64 (all),Women,Tertiary (all),62.0
+2017,Canada,25–64 (all),Women,Tertiary (all),63.0
+2018,Canada,25–64 (all),Women,Tertiary (all),64.0
+2019,Canada,25–64 (all),Women,Tertiary (all),65.0
+2020,Canada,25–64 (all),Women,Tertiary (all),66.0
+2021,Canada,25–64 (all),Women,Tertiary (all),68.0
+2022,Canada,25–64 (all),Women,Tertiary (all),69.0
+2023,Canada,25–64 (all),Women,Tertiary (all),70.0
+2024,Canada,25–64 (all),Women,Tertiary (all),72.0
+2025,Canada,25–64 (all),Women,Tertiary (all),71.0
+2000,Canada,35–44,Men,Bachelor's,12.0
+2001,Canada,35–44,Men,Bachelor's,13.0
+2002,Canada,35–44,Men,Bachelor's,14.0
+2003,Canada,35–44,Men,Bachelor's,14.0
+2004,Canada,35–44,Men,Bachelor's,15.0
+2005,Canada,35–44,Men,Bachelor's,16.0
+2006,Canada,35–44,Men,Bachelor's,17.0
+2007,Canada,35–44,Men,Bachelor's,17.0
+2008,Canada,35–44,Men,Bachelor's,18.0
+2009,Canada,35–44,Men,Bachelor's,18.0
+2010,Canada,35–44,Men,Bachelor's,19.0
+2011,Canada,35–44,Men,Bachelor's,20.0
+2012,Canada,35–44,Men,Bachelor's,19.0
+2013,Canada,35–44,Men,Bachelor's,18.0
+2014,Canada,35–44,Men,Bachelor's,19.0
+2015,Canada,35–44,Men,Bachelor's,20.0
+2016,Canada,35–44,Men,Bachelor's,20.0
+2017,Canada,35–44,Men,Bachelor's,20.0
+2018,Canada,35–44,Men,Bachelor's,21.0
+2019,Canada,35–44,Men,Bachelor's,21.0
+2020,Canada,35–44,Men,Bachelor's,22.0
+2021,Canada,35–44,Men,Bachelor's,23.0
+2022,Canada,35–44,Men,Bachelor's,22.0
+2023,Canada,35–44,Men,Bachelor's,24.0
+2024,Canada,35–44,Men,Bachelor's,24.0
+2025,Canada,35–44,Men,Bachelor's,23.0
+2000,Canada,35–44,Men,College/CEGEP,19.0
+2001,Canada,35–44,Men,College/CEGEP,19.0
+2002,Canada,35–44,Men,College/CEGEP,20.0
+2003,Canada,35–44,Men,College/CEGEP,21.0
+2004,Canada,35–44,Men,College/CEGEP,21.0
+2005,Canada,35–44,Men,College/CEGEP,21.0
+2006,Canada,35–44,Men,College/CEGEP,21.0
+2007,Canada,35–44,Men,College/CEGEP,22.0
+2008,Canada,35–44,Men,College/CEGEP,21.0
+2009,Canada,35–44,Men,College/CEGEP,22.0
+2010,Canada,35–44,Men,College/CEGEP,22.0
+2011,Canada,35–44,Men,College/CEGEP,22.0
+2012,Canada,35–44,Men,College/CEGEP,23.0
+2013,Canada,35–44,Men,College/CEGEP,23.0
+2014,Canada,35–44,Men,College/CEGEP,24.0
+2015,Canada,35–44,Men,College/CEGEP,24.0
+2016,Canada,35–44,Men,College/CEGEP,24.0
+2017,Canada,35–44,Men,College/CEGEP,23.0
+2018,Canada,35–44,Men,College/CEGEP,23.0
+2019,Canada,35–44,Men,College/CEGEP,24.0
+2020,Canada,35–44,Men,College/CEGEP,23.0
+2021,Canada,35–44,Men,College/CEGEP,23.0
+2022,Canada,35–44,Men,College/CEGEP,23.0
+2023,Canada,35–44,Men,College/CEGEP,23.0
+2024,Canada,35–44,Men,College/CEGEP,22.0
+2025,Canada,35–44,Men,College/CEGEP,20.0
+2000,Canada,35–44,Men,Master's/Doctoral,7.0
+2001,Canada,35–44,Men,Master's/Doctoral,7.0
+2002,Canada,35–44,Men,Master's/Doctoral,7.0
+2003,Canada,35–44,Men,Master's/Doctoral,8.0
+2004,Canada,35–44,Men,Master's/Doctoral,8.0
+2005,Canada,35–44,Men,Master's/Doctoral,9.0
+2006,Canada,35–44,Men,Master's/Doctoral,9.0
+2007,Canada,35–44,Men,Master's/Doctoral,9.0
+2008,Canada,35–44,Men,Master's/Doctoral,9.0
+2009,Canada,35–44,Men,Master's/Doctoral,10.0
+2010,Canada,35–44,Men,Master's/Doctoral,9.0
+2011,Canada,35–44,Men,Master's/Doctoral,9.0
+2012,Canada,35–44,Men,Master's/Doctoral,10.0
+2013,Canada,35–44,Men,Master's/Doctoral,11.0
+2014,Canada,35–44,Men,Master's/Doctoral,10.0
+2015,Canada,35–44,Men,Master's/Doctoral,11.0
+2016,Canada,35–44,Men,Master's/Doctoral,11.0
+2017,Canada,35–44,Men,Master's/Doctoral,11.0
+2018,Canada,35–44,Men,Master's/Doctoral,11.0
+2019,Canada,35–44,Men,Master's/Doctoral,12.0
+2020,Canada,35–44,Men,Master's/Doctoral,12.0
+2021,Canada,35–44,Men,Master's/Doctoral,13.0
+2022,Canada,35–44,Men,Master's/Doctoral,14.0
+2023,Canada,35–44,Men,Master's/Doctoral,13.0
+2024,Canada,35–44,Men,Master's/Doctoral,15.0
+2025,Canada,35–44,Men,Master's/Doctoral,15.0
+2000,Canada,35–44,Men,Tertiary (all),38.0
+2001,Canada,35–44,Men,Tertiary (all),40.0
+2002,Canada,35–44,Men,Tertiary (all),41.0
+2003,Canada,35–44,Men,Tertiary (all),43.0
+2004,Canada,35–44,Men,Tertiary (all),43.0
+2005,Canada,35–44,Men,Tertiary (all),45.0
+2006,Canada,35–44,Men,Tertiary (all),46.0
+2007,Canada,35–44,Men,Tertiary (all),48.0
+2008,Canada,35–44,Men,Tertiary (all),49.0
+2009,Canada,35–44,Men,Tertiary (all),50.0
+2010,Canada,35–44,Men,Tertiary (all),50.0
+2011,Canada,35–44,Men,Tertiary (all),51.0
+2012,Canada,35–44,Men,Tertiary (all),52.0
+2013,Canada,35–44,Men,Tertiary (all),53.0
+2014,Canada,35–44,Men,Tertiary (all),53.0
+2015,Canada,35–44,Men,Tertiary (all),55.0
+2016,Canada,35–44,Men,Tertiary (all),55.0
+2017,Canada,35–44,Men,Tertiary (all),55.0
+2018,Canada,35–44,Men,Tertiary (all),55.0
+2019,Canada,35–44,Men,Tertiary (all),57.0
+2020,Canada,35–44,Men,Tertiary (all),57.0
+2021,Canada,35–44,Men,Tertiary (all),59.0
+2022,Canada,35–44,Men,Tertiary (all),59.0
+2023,Canada,35–44,Men,Tertiary (all),60.0
+2024,Canada,35–44,Men,Tertiary (all),61.0
+2025,Canada,35–44,Men,Tertiary (all),58.0
+2000,Canada,35–44,Total,Bachelor's,13.0
+2001,Canada,35–44,Total,Bachelor's,14.0
+2002,Canada,35–44,Total,Bachelor's,14.0
+2003,Canada,35–44,Total,Bachelor's,15.0
+2004,Canada,35–44,Total,Bachelor's,16.0
+2005,Canada,35–44,Total,Bachelor's,17.0
+2006,Canada,35–44,Total,Bachelor's,18.0
+2007,Canada,35–44,Total,Bachelor's,18.0
+2008,Canada,35–44,Total,Bachelor's,19.0
+2009,Canada,35–44,Total,Bachelor's,20.0
+2010,Canada,35–44,Total,Bachelor's,21.0
+2011,Canada,35–44,Total,Bachelor's,21.0
+2012,Canada,35–44,Total,Bachelor's,22.0
+2013,Canada,35–44,Total,Bachelor's,21.0
+2014,Canada,35–44,Total,Bachelor's,22.0
+2015,Canada,35–44,Total,Bachelor's,23.0
+2016,Canada,35–44,Total,Bachelor's,24.0
+2017,Canada,35–44,Total,Bachelor's,24.0
+2018,Canada,35–44,Total,Bachelor's,24.0
+2019,Canada,35–44,Total,Bachelor's,25.0
+2020,Canada,35–44,Total,Bachelor's,26.0
+2021,Canada,35–44,Total,Bachelor's,26.0
+2022,Canada,35–44,Total,Bachelor's,26.0
+2023,Canada,35–44,Total,Bachelor's,27.0
+2024,Canada,35–44,Total,Bachelor's,27.0
+2025,Canada,35–44,Total,Bachelor's,27.0
+2000,Canada,35–44,Total,College/CEGEP,22.0
+2001,Canada,35–44,Total,College/CEGEP,23.0
+2002,Canada,35–44,Total,College/CEGEP,23.0
+2003,Canada,35–44,Total,College/CEGEP,24.0
+2004,Canada,35–44,Total,College/CEGEP,24.0
+2005,Canada,35–44,Total,College/CEGEP,25.0
+2006,Canada,35–44,Total,College/CEGEP,25.0
+2007,Canada,35–44,Total,College/CEGEP,26.0
+2008,Canada,35–44,Total,College/CEGEP,26.0
+2009,Canada,35–44,Total,College/CEGEP,27.0
+2010,Canada,35–44,Total,College/CEGEP,26.0
+2011,Canada,35–44,Total,College/CEGEP,26.0
+2012,Canada,35–44,Total,College/CEGEP,27.0
+2013,Canada,35–44,Total,College/CEGEP,27.0
+2014,Canada,35–44,Total,College/CEGEP,27.0
+2015,Canada,35–44,Total,College/CEGEP,28.0
+2016,Canada,35–44,Total,College/CEGEP,27.0
+2017,Canada,35–44,Total,College/CEGEP,27.0
+2018,Canada,35–44,Total,College/CEGEP,27.0
+2019,Canada,35–44,Total,College/CEGEP,27.0
+2020,Canada,35–44,Total,College/CEGEP,26.0
+2021,Canada,35–44,Total,College/CEGEP,27.0
+2022,Canada,35–44,Total,College/CEGEP,26.0
+2023,Canada,35–44,Total,College/CEGEP,26.0
+2024,Canada,35–44,Total,College/CEGEP,25.0
+2025,Canada,35–44,Total,College/CEGEP,23.0
+2000,Canada,35–44,Total,Master's/Doctoral,6.0
+2001,Canada,35–44,Total,Master's/Doctoral,6.0
+2002,Canada,35–44,Total,Master's/Doctoral,6.0
+2003,Canada,35–44,Total,Master's/Doctoral,7.0
+2004,Canada,35–44,Total,Master's/Doctoral,7.0
+2005,Canada,35–44,Total,Master's/Doctoral,8.0
+2006,Canada,35–44,Total,Master's/Doctoral,8.0
+2007,Canada,35–44,Total,Master's/Doctoral,8.0
+2008,Canada,35–44,Total,Master's/Doctoral,9.0
+2009,Canada,35–44,Total,Master's/Doctoral,9.0
+2010,Canada,35–44,Total,Master's/Doctoral,9.0
+2011,Canada,35–44,Total,Master's/Doctoral,10.0
+2012,Canada,35–44,Total,Master's/Doctoral,10.0
+2013,Canada,35–44,Total,Master's/Doctoral,11.0
+2014,Canada,35–44,Total,Master's/Doctoral,11.0
+2015,Canada,35–44,Total,Master's/Doctoral,11.0
+2016,Canada,35–44,Total,Master's/Doctoral,12.0
+2017,Canada,35–44,Total,Master's/Doctoral,12.0
+2018,Canada,35–44,Total,Master's/Doctoral,12.0
+2019,Canada,35–44,Total,Master's/Doctoral,13.0
+2020,Canada,35–44,Total,Master's/Doctoral,14.0
+2021,Canada,35–44,Total,Master's/Doctoral,14.0
+2022,Canada,35–44,Total,Master's/Doctoral,15.0
+2023,Canada,35–44,Total,Master's/Doctoral,15.0
+2024,Canada,35–44,Total,Master's/Doctoral,17.0
+2025,Canada,35–44,Total,Master's/Doctoral,17.0
+2000,Canada,35–44,Total,Tertiary (all),41.0
+2001,Canada,35–44,Total,Tertiary (all),43.0
+2002,Canada,35–44,Total,Tertiary (all),44.0
+2003,Canada,35–44,Total,Tertiary (all),46.0
+2004,Canada,35–44,Total,Tertiary (all),47.0
+2005,Canada,35–44,Total,Tertiary (all),49.0
+2006,Canada,35–44,Total,Tertiary (all),51.0
+2007,Canada,35–44,Total,Tertiary (all),52.0
+2008,Canada,35–44,Total,Tertiary (all),54.0
+2009,Canada,35–44,Total,Tertiary (all),55.0
+2010,Canada,35–44,Total,Tertiary (all),56.0
+2011,Canada,35–44,Total,Tertiary (all),57.0
+2012,Canada,35–44,Total,Tertiary (all),58.0
+2013,Canada,35–44,Total,Tertiary (all),60.0
+2014,Canada,35–44,Total,Tertiary (all),60.0
+2015,Canada,35–44,Total,Tertiary (all),62.0
+2016,Canada,35–44,Total,Tertiary (all),62.0
+2017,Canada,35–44,Total,Tertiary (all),63.0
+2018,Canada,35–44,Total,Tertiary (all),63.0
+2019,Canada,35–44,Total,Tertiary (all),64.0
+2020,Canada,35–44,Total,Tertiary (all),65.0
+2021,Canada,35–44,Total,Tertiary (all),67.0
+2022,Canada,35–44,Total,Tertiary (all),67.0
+2023,Canada,35–44,Total,Tertiary (all),68.0
+2024,Canada,35–44,Total,Tertiary (all),69.0
+2025,Canada,35–44,Total,Tertiary (all),67.0
+2000,Canada,35–44,Women,Bachelor's,13.0
+2001,Canada,35–44,Women,Bachelor's,14.0
+2002,Canada,35–44,Women,Bachelor's,15.0
+2003,Canada,35–44,Women,Bachelor's,16.0
+2004,Canada,35–44,Women,Bachelor's,17.0
+2005,Canada,35–44,Women,Bachelor's,18.0
+2006,Canada,35–44,Women,Bachelor's,19.0
+2007,Canada,35–44,Women,Bachelor's,20.0
+2008,Canada,35–44,Women,Bachelor's,20.0
+2009,Canada,35–44,Women,Bachelor's,21.0
+2010,Canada,35–44,Women,Bachelor's,23.0
+2011,Canada,35–44,Women,Bachelor's,23.0
+2012,Canada,35–44,Women,Bachelor's,24.0
+2013,Canada,35–44,Women,Bachelor's,24.0
+2014,Canada,35–44,Women,Bachelor's,25.0
+2015,Canada,35–44,Women,Bachelor's,26.0
+2016,Canada,35–44,Women,Bachelor's,27.0
+2017,Canada,35–44,Women,Bachelor's,27.0
+2018,Canada,35–44,Women,Bachelor's,27.0
+2019,Canada,35–44,Women,Bachelor's,28.0
+2020,Canada,35–44,Women,Bachelor's,29.0
+2021,Canada,35–44,Women,Bachelor's,29.0
+2022,Canada,35–44,Women,Bachelor's,29.0
+2023,Canada,35–44,Women,Bachelor's,30.0
+2024,Canada,35–44,Women,Bachelor's,30.0
+2025,Canada,35–44,Women,Bachelor's,30.0
+2000,Canada,35–44,Women,College/CEGEP,25.0
+2001,Canada,35–44,Women,College/CEGEP,26.0
+2002,Canada,35–44,Women,College/CEGEP,27.0
+2003,Canada,35–44,Women,College/CEGEP,28.0
+2004,Canada,35–44,Women,College/CEGEP,28.0
+2005,Canada,35–44,Women,College/CEGEP,29.0
+2006,Canada,35–44,Women,College/CEGEP,29.0
+2007,Canada,35–44,Women,College/CEGEP,30.0
+2008,Canada,35–44,Women,College/CEGEP,30.0
+2009,Canada,35–44,Women,College/CEGEP,31.0
+2010,Canada,35–44,Women,College/CEGEP,30.0
+2011,Canada,35–44,Women,College/CEGEP,30.0
+2012,Canada,35–44,Women,College/CEGEP,30.0
+2013,Canada,35–44,Women,College/CEGEP,31.0
+2014,Canada,35–44,Women,College/CEGEP,30.0
+2015,Canada,35–44,Women,College/CEGEP,31.0
+2016,Canada,35–44,Women,College/CEGEP,30.0
+2017,Canada,35–44,Women,College/CEGEP,31.0
+2018,Canada,35–44,Women,College/CEGEP,31.0
+2019,Canada,35–44,Women,College/CEGEP,30.0
+2020,Canada,35–44,Women,College/CEGEP,29.0
+2021,Canada,35–44,Women,College/CEGEP,30.0
+2022,Canada,35–44,Women,College/CEGEP,29.0
+2023,Canada,35–44,Women,College/CEGEP,29.0
+2024,Canada,35–44,Women,College/CEGEP,28.0
+2025,Canada,35–44,Women,College/CEGEP,27.0
+2000,Canada,35–44,Women,Master's/Doctoral,5.0
+2001,Canada,35–44,Women,Master's/Doctoral,6.0
+2002,Canada,35–44,Women,Master's/Doctoral,6.0
+2003,Canada,35–44,Women,Master's/Doctoral,6.0
+2004,Canada,35–44,Women,Master's/Doctoral,6.0
+2005,Canada,35–44,Women,Master's/Doctoral,7.0
+2006,Canada,35–44,Women,Master's/Doctoral,7.0
+2007,Canada,35–44,Women,Master's/Doctoral,7.0
+2008,Canada,35–44,Women,Master's/Doctoral,9.0
+2009,Canada,35–44,Women,Master's/Doctoral,9.0
+2010,Canada,35–44,Women,Master's/Doctoral,9.0
+2011,Canada,35–44,Women,Master's/Doctoral,10.0
+2012,Canada,35–44,Women,Master's/Doctoral,10.0
+2013,Canada,35–44,Women,Master's/Doctoral,11.0
+2014,Canada,35–44,Women,Master's/Doctoral,11.0
+2015,Canada,35–44,Women,Master's/Doctoral,12.0
+2016,Canada,35–44,Women,Master's/Doctoral,13.0
+2017,Canada,35–44,Women,Master's/Doctoral,13.0
+2018,Canada,35–44,Women,Master's/Doctoral,13.0
+2019,Canada,35–44,Women,Master's/Doctoral,14.0
+2020,Canada,35–44,Women,Master's/Doctoral,15.0
+2021,Canada,35–44,Women,Master's/Doctoral,15.0
+2022,Canada,35–44,Women,Master's/Doctoral,17.0
+2023,Canada,35–44,Women,Master's/Doctoral,17.0
+2024,Canada,35–44,Women,Master's/Doctoral,18.0
+2025,Canada,35–44,Women,Master's/Doctoral,19.0
+2000,Canada,35–44,Women,Tertiary (all),44.0
+2001,Canada,35–44,Women,Tertiary (all),46.0
+2002,Canada,35–44,Women,Tertiary (all),47.0
+2003,Canada,35–44,Women,Tertiary (all),49.0
+2004,Canada,35–44,Women,Tertiary (all),51.0
+2005,Canada,35–44,Women,Tertiary (all),54.0
+2006,Canada,35–44,Women,Tertiary (all),55.0
+2007,Canada,35–44,Women,Tertiary (all),57.0
+2008,Canada,35–44,Women,Tertiary (all),59.0
+2009,Canada,35–44,Women,Tertiary (all),61.0
+2010,Canada,35–44,Women,Tertiary (all),63.0
+2011,Canada,35–44,Women,Tertiary (all),64.0
+2012,Canada,35–44,Women,Tertiary (all),65.0
+2013,Canada,35–44,Women,Tertiary (all),66.0
+2014,Canada,35–44,Women,Tertiary (all),67.0
+2015,Canada,35–44,Women,Tertiary (all),69.0
+2016,Canada,35–44,Women,Tertiary (all),70.0
+2017,Canada,35–44,Women,Tertiary (all),70.0
+2018,Canada,35–44,Women,Tertiary (all),71.0
+2019,Canada,35–44,Women,Tertiary (all),72.0
+2020,Canada,35–44,Women,Tertiary (all),73.0
+2021,Canada,35–44,Women,Tertiary (all),75.0
+2022,Canada,35–44,Women,Tertiary (all),75.0
+2023,Canada,35–44,Women,Tertiary (all),76.0
+2024,Canada,35–44,Women,Tertiary (all),77.0
+2025,Canada,35–44,Women,Tertiary (all),76.0
+2000,Canada,45–54,Men,Bachelor's,13.0
+2001,Canada,45–54,Men,Bachelor's,13.0
+2002,Canada,45–54,Men,Bachelor's,13.0
+2003,Canada,45–54,Men,Bachelor's,13.0
+2004,Canada,45–54,Men,Bachelor's,13.0
+2005,Canada,45–54,Men,Bachelor's,14.0
+2006,Canada,45–54,Men,Bachelor's,14.0
+2007,Canada,45–54,Men,Bachelor's,14.0
+2008,Canada,45–54,Men,Bachelor's,13.0
+2009,Canada,45–54,Men,Bachelor's,14.0
+2010,Canada,45–54,Men,Bachelor's,14.0
+2011,Canada,45–54,Men,Bachelor's,14.0
+2012,Canada,45–54,Men,Bachelor's,15.0
+2013,Canada,45–54,Men,Bachelor's,16.0
+2014,Canada,45–54,Men,Bachelor's,16.0
+2015,Canada,45–54,Men,Bachelor's,17.0
+2016,Canada,45–54,Men,Bachelor's,18.0
+2017,Canada,45–54,Men,Bachelor's,19.0
+2018,Canada,45–54,Men,Bachelor's,19.0
+2019,Canada,45–54,Men,Bachelor's,20.0
+2020,Canada,45–54,Men,Bachelor's,21.0
+2021,Canada,45–54,Men,Bachelor's,22.0
+2022,Canada,45–54,Men,Bachelor's,21.0
+2023,Canada,45–54,Men,Bachelor's,21.0
+2024,Canada,45–54,Men,Bachelor's,22.0
+2025,Canada,45–54,Men,Bachelor's,21.0
+2000,Canada,45–54,Men,College/CEGEP,16.0
+2001,Canada,45–54,Men,College/CEGEP,16.0
+2002,Canada,45–54,Men,College/CEGEP,18.0
+2003,Canada,45–54,Men,College/CEGEP,18.0
+2004,Canada,45–54,Men,College/CEGEP,18.0
+2005,Canada,45–54,Men,College/CEGEP,18.0
+2006,Canada,45–54,Men,College/CEGEP,19.0
+2007,Canada,45–54,Men,College/CEGEP,19.0
+2008,Canada,45–54,Men,College/CEGEP,20.0
+2009,Canada,45–54,Men,College/CEGEP,20.0
+2010,Canada,45–54,Men,College/CEGEP,20.0
+2011,Canada,45–54,Men,College/CEGEP,20.0
+2012,Canada,45–54,Men,College/CEGEP,21.0
+2013,Canada,45–54,Men,College/CEGEP,21.0
+2014,Canada,45–54,Men,College/CEGEP,22.0
+2015,Canada,45–54,Men,College/CEGEP,23.0
+2016,Canada,45–54,Men,College/CEGEP,22.0
+2017,Canada,45–54,Men,College/CEGEP,22.0
+2018,Canada,45–54,Men,College/CEGEP,23.0
+2019,Canada,45–54,Men,College/CEGEP,24.0
+2020,Canada,45–54,Men,College/CEGEP,23.0
+2021,Canada,45–54,Men,College/CEGEP,24.0
+2022,Canada,45–54,Men,College/CEGEP,24.0
+2023,Canada,45–54,Men,College/CEGEP,25.0
+2024,Canada,45–54,Men,College/CEGEP,24.0
+2025,Canada,45–54,Men,College/CEGEP,23.0
+2000,Canada,45–54,Men,Master's/Doctoral,9.0
+2001,Canada,45–54,Men,Master's/Doctoral,9.0
+2002,Canada,45–54,Men,Master's/Doctoral,8.0
+2003,Canada,45–54,Men,Master's/Doctoral,8.0
+2004,Canada,45–54,Men,Master's/Doctoral,8.0
+2005,Canada,45–54,Men,Master's/Doctoral,8.0
+2006,Canada,45–54,Men,Master's/Doctoral,8.0
+2007,Canada,45–54,Men,Master's/Doctoral,8.0
+2008,Canada,45–54,Men,Master's/Doctoral,8.0
+2009,Canada,45–54,Men,Master's/Doctoral,8.0
+2010,Canada,45–54,Men,Master's/Doctoral,8.0
+2011,Canada,45–54,Men,Master's/Doctoral,9.0
+2012,Canada,45–54,Men,Master's/Doctoral,9.0
+2013,Canada,45–54,Men,Master's/Doctoral,8.0
+2014,Canada,45–54,Men,Master's/Doctoral,9.0
+2015,Canada,45–54,Men,Master's/Doctoral,9.0
+2016,Canada,45–54,Men,Master's/Doctoral,10.0
+2017,Canada,45–54,Men,Master's/Doctoral,10.0
+2018,Canada,45–54,Men,Master's/Doctoral,10.0
+2019,Canada,45–54,Men,Master's/Doctoral,10.0
+2020,Canada,45–54,Men,Master's/Doctoral,11.0
+2021,Canada,45–54,Men,Master's/Doctoral,11.0
+2022,Canada,45–54,Men,Master's/Doctoral,12.0
+2023,Canada,45–54,Men,Master's/Doctoral,12.0
+2024,Canada,45–54,Men,Master's/Doctoral,13.0
+2025,Canada,45–54,Men,Master's/Doctoral,13.0
+2000,Canada,45–54,Men,Tertiary (all),38.0
+2001,Canada,45–54,Men,Tertiary (all),39.0
+2002,Canada,45–54,Men,Tertiary (all),39.0
+2003,Canada,45–54,Men,Tertiary (all),39.0
+2004,Canada,45–54,Men,Tertiary (all),39.0
+2005,Canada,45–54,Men,Tertiary (all),40.0
+2006,Canada,45–54,Men,Tertiary (all),40.0
+2007,Canada,45–54,Men,Tertiary (all),41.0
+2008,Canada,45–54,Men,Tertiary (all),41.0
+2009,Canada,45–54,Men,Tertiary (all),41.0
+2010,Canada,45–54,Men,Tertiary (all),42.0
+2011,Canada,45–54,Men,Tertiary (all),43.0
+2012,Canada,45–54,Men,Tertiary (all),45.0
+2013,Canada,45–54,Men,Tertiary (all),45.0
+2014,Canada,45–54,Men,Tertiary (all),46.0
+2015,Canada,45–54,Men,Tertiary (all),48.0
+2016,Canada,45–54,Men,Tertiary (all),51.0
+2017,Canada,45–54,Men,Tertiary (all),51.0
+2018,Canada,45–54,Men,Tertiary (all),52.0
+2019,Canada,45–54,Men,Tertiary (all),55.0
+2020,Canada,45–54,Men,Tertiary (all),54.0
+2021,Canada,45–54,Men,Tertiary (all),57.0
+2022,Canada,45–54,Men,Tertiary (all),57.0
+2023,Canada,45–54,Men,Tertiary (all),58.0
+2024,Canada,45–54,Men,Tertiary (all),58.0
+2025,Canada,45–54,Men,Tertiary (all),57.0
+2000,Canada,45–54,Total,Bachelor's,13.0
+2001,Canada,45–54,Total,Bachelor's,13.0
+2002,Canada,45–54,Total,Bachelor's,13.0
+2003,Canada,45–54,Total,Bachelor's,13.0
+2004,Canada,45–54,Total,Bachelor's,13.0
+2005,Canada,45–54,Total,Bachelor's,14.0
+2006,Canada,45–54,Total,Bachelor's,14.0
+2007,Canada,45–54,Total,Bachelor's,14.0
+2008,Canada,45–54,Total,Bachelor's,14.0
+2009,Canada,45–54,Total,Bachelor's,14.0
+2010,Canada,45–54,Total,Bachelor's,15.0
+2011,Canada,45–54,Total,Bachelor's,15.0
+2012,Canada,45–54,Total,Bachelor's,16.0
+2013,Canada,45–54,Total,Bachelor's,17.0
+2014,Canada,45–54,Total,Bachelor's,17.0
+2015,Canada,45–54,Total,Bachelor's,18.0
+2016,Canada,45–54,Total,Bachelor's,19.0
+2017,Canada,45–54,Total,Bachelor's,20.0
+2018,Canada,45–54,Total,Bachelor's,20.0
+2019,Canada,45–54,Total,Bachelor's,21.0
+2020,Canada,45–54,Total,Bachelor's,23.0
+2021,Canada,45–54,Total,Bachelor's,24.0
+2022,Canada,45–54,Total,Bachelor's,23.0
+2023,Canada,45–54,Total,Bachelor's,24.0
+2024,Canada,45–54,Total,Bachelor's,24.0
+2025,Canada,45–54,Total,Bachelor's,24.0
+2000,Canada,45–54,Total,College/CEGEP,18.0
+2001,Canada,45–54,Total,College/CEGEP,20.0
+2002,Canada,45–54,Total,College/CEGEP,21.0
+2003,Canada,45–54,Total,College/CEGEP,21.0
+2004,Canada,45–54,Total,College/CEGEP,21.0
+2005,Canada,45–54,Total,College/CEGEP,22.0
+2006,Canada,45–54,Total,College/CEGEP,22.0
+2007,Canada,45–54,Total,College/CEGEP,23.0
+2008,Canada,45–54,Total,College/CEGEP,23.0
+2009,Canada,45–54,Total,College/CEGEP,24.0
+2010,Canada,45–54,Total,College/CEGEP,24.0
+2011,Canada,45–54,Total,College/CEGEP,25.0
+2012,Canada,45–54,Total,College/CEGEP,25.0
+2013,Canada,45–54,Total,College/CEGEP,25.0
+2014,Canada,45–54,Total,College/CEGEP,26.0
+2015,Canada,45–54,Total,College/CEGEP,27.0
+2016,Canada,45–54,Total,College/CEGEP,27.0
+2017,Canada,45–54,Total,College/CEGEP,26.0
+2018,Canada,45–54,Total,College/CEGEP,28.0
+2019,Canada,45–54,Total,College/CEGEP,28.0
+2020,Canada,45–54,Total,College/CEGEP,27.0
+2021,Canada,45–54,Total,College/CEGEP,28.0
+2022,Canada,45–54,Total,College/CEGEP,28.0
+2023,Canada,45–54,Total,College/CEGEP,28.0
+2024,Canada,45–54,Total,College/CEGEP,28.0
+2025,Canada,45–54,Total,College/CEGEP,27.0
+2000,Canada,45–54,Total,Master's/Doctoral,8.0
+2001,Canada,45–54,Total,Master's/Doctoral,7.0
+2002,Canada,45–54,Total,Master's/Doctoral,7.0
+2003,Canada,45–54,Total,Master's/Doctoral,7.0
+2004,Canada,45–54,Total,Master's/Doctoral,7.0
+2005,Canada,45–54,Total,Master's/Doctoral,7.0
+2006,Canada,45–54,Total,Master's/Doctoral,7.0
+2007,Canada,45–54,Total,Master's/Doctoral,7.0
+2008,Canada,45–54,Total,Master's/Doctoral,7.0
+2009,Canada,45–54,Total,Master's/Doctoral,7.0
+2010,Canada,45–54,Total,Master's/Doctoral,8.0
+2011,Canada,45–54,Total,Master's/Doctoral,8.0
+2012,Canada,45–54,Total,Master's/Doctoral,8.0
+2013,Canada,45–54,Total,Master's/Doctoral,8.0
+2014,Canada,45–54,Total,Master's/Doctoral,8.0
+2015,Canada,45–54,Total,Master's/Doctoral,9.0
+2016,Canada,45–54,Total,Master's/Doctoral,9.0
+2017,Canada,45–54,Total,Master's/Doctoral,10.0
+2018,Canada,45–54,Total,Master's/Doctoral,10.0
+2019,Canada,45–54,Total,Master's/Doctoral,10.0
+2020,Canada,45–54,Total,Master's/Doctoral,11.0
+2021,Canada,45–54,Total,Master's/Doctoral,11.0
+2022,Canada,45–54,Total,Master's/Doctoral,12.0
+2023,Canada,45–54,Total,Master's/Doctoral,12.0
+2024,Canada,45–54,Total,Master's/Doctoral,13.0
+2025,Canada,45–54,Total,Master's/Doctoral,14.0
+2000,Canada,45–54,Total,Tertiary (all),39.0
+2001,Canada,45–54,Total,Tertiary (all),40.0
+2002,Canada,45–54,Total,Tertiary (all),41.0
+2003,Canada,45–54,Total,Tertiary (all),41.0
+2004,Canada,45–54,Total,Tertiary (all),41.0
+2005,Canada,45–54,Total,Tertiary (all),43.0
+2006,Canada,45–54,Total,Tertiary (all),43.0
+2007,Canada,45–54,Total,Tertiary (all),44.0
+2008,Canada,45–54,Total,Tertiary (all),44.0
+2009,Canada,45–54,Total,Tertiary (all),45.0
+2010,Canada,45–54,Total,Tertiary (all),46.0
+2011,Canada,45–54,Total,Tertiary (all),48.0
+2012,Canada,45–54,Total,Tertiary (all),49.0
+2013,Canada,45–54,Total,Tertiary (all),50.0
+2014,Canada,45–54,Total,Tertiary (all),51.0
+2015,Canada,45–54,Total,Tertiary (all),53.0
+2016,Canada,45–54,Total,Tertiary (all),55.0
+2017,Canada,45–54,Total,Tertiary (all),56.0
+2018,Canada,45–54,Total,Tertiary (all),58.0
+2019,Canada,45–54,Total,Tertiary (all),60.0
+2020,Canada,45–54,Total,Tertiary (all),60.0
+2021,Canada,45–54,Total,Tertiary (all),63.0
+2022,Canada,45–54,Total,Tertiary (all),64.0
+2023,Canada,45–54,Total,Tertiary (all),64.0
+2024,Canada,45–54,Total,Tertiary (all),65.0
+2025,Canada,45–54,Total,Tertiary (all),65.0
+2000,Canada,45–54,Women,Bachelor's,12.0
+2001,Canada,45–54,Women,Bachelor's,12.0
+2002,Canada,45–54,Women,Bachelor's,13.0
+2003,Canada,45–54,Women,Bachelor's,13.0
+2004,Canada,45–54,Women,Bachelor's,13.0
+2005,Canada,45–54,Women,Bachelor's,14.0
+2006,Canada,45–54,Women,Bachelor's,14.0
+2007,Canada,45–54,Women,Bachelor's,14.0
+2008,Canada,45–54,Women,Bachelor's,14.0
+2009,Canada,45–54,Women,Bachelor's,14.0
+2010,Canada,45–54,Women,Bachelor's,15.0
+2011,Canada,45–54,Women,Bachelor's,16.0
+2012,Canada,45–54,Women,Bachelor's,17.0
+2013,Canada,45–54,Women,Bachelor's,17.0
+2014,Canada,45–54,Women,Bachelor's,18.0
+2015,Canada,45–54,Women,Bachelor's,19.0
+2016,Canada,45–54,Women,Bachelor's,20.0
+2017,Canada,45–54,Women,Bachelor's,21.0
+2018,Canada,45–54,Women,Bachelor's,22.0
+2019,Canada,45–54,Women,Bachelor's,23.0
+2020,Canada,45–54,Women,Bachelor's,25.0
+2021,Canada,45–54,Women,Bachelor's,26.0
+2022,Canada,45–54,Women,Bachelor's,25.0
+2023,Canada,45–54,Women,Bachelor's,26.0
+2024,Canada,45–54,Women,Bachelor's,27.0
+2025,Canada,45–54,Women,Bachelor's,26.0
+2000,Canada,45–54,Women,College/CEGEP,21.0
+2001,Canada,45–54,Women,College/CEGEP,23.0
+2002,Canada,45–54,Women,College/CEGEP,24.0
+2003,Canada,45–54,Women,College/CEGEP,23.0
+2004,Canada,45–54,Women,College/CEGEP,25.0
+2005,Canada,45–54,Women,College/CEGEP,25.0
+2006,Canada,45–54,Women,College/CEGEP,26.0
+2007,Canada,45–54,Women,College/CEGEP,27.0
+2008,Canada,45–54,Women,College/CEGEP,27.0
+2009,Canada,45–54,Women,College/CEGEP,27.0
+2010,Canada,45–54,Women,College/CEGEP,28.0
+2011,Canada,45–54,Women,College/CEGEP,30.0
+2012,Canada,45–54,Women,College/CEGEP,30.0
+2013,Canada,45–54,Women,College/CEGEP,30.0
+2014,Canada,45–54,Women,College/CEGEP,30.0
+2015,Canada,45–54,Women,College/CEGEP,31.0
+2016,Canada,45–54,Women,College/CEGEP,31.0
+2017,Canada,45–54,Women,College/CEGEP,31.0
+2018,Canada,45–54,Women,College/CEGEP,32.0
+2019,Canada,45–54,Women,College/CEGEP,32.0
+2020,Canada,45–54,Women,College/CEGEP,31.0
+2021,Canada,45–54,Women,College/CEGEP,32.0
+2022,Canada,45–54,Women,College/CEGEP,32.0
+2023,Canada,45–54,Women,College/CEGEP,32.0
+2024,Canada,45–54,Women,College/CEGEP,32.0
+2025,Canada,45–54,Women,College/CEGEP,31.0
+2000,Canada,45–54,Women,Master's/Doctoral,6.0
+2001,Canada,45–54,Women,Master's/Doctoral,6.0
+2002,Canada,45–54,Women,Master's/Doctoral,6.0
+2003,Canada,45–54,Women,Master's/Doctoral,6.0
+2004,Canada,45–54,Women,Master's/Doctoral,6.0
+2005,Canada,45–54,Women,Master's/Doctoral,6.0
+2006,Canada,45–54,Women,Master's/Doctoral,6.0
+2007,Canada,45–54,Women,Master's/Doctoral,6.0
+2008,Canada,45–54,Women,Master's/Doctoral,6.0
+2009,Canada,45–54,Women,Master's/Doctoral,6.0
+2010,Canada,45–54,Women,Master's/Doctoral,7.0
+2011,Canada,45–54,Women,Master's/Doctoral,7.0
+2012,Canada,45–54,Women,Master's/Doctoral,7.0
+2013,Canada,45–54,Women,Master's/Doctoral,7.0
+2014,Canada,45–54,Women,Master's/Doctoral,7.0
+2015,Canada,45–54,Women,Master's/Doctoral,8.0
+2016,Canada,45–54,Women,Master's/Doctoral,9.0
+2017,Canada,45–54,Women,Master's/Doctoral,9.0
+2018,Canada,45–54,Women,Master's/Doctoral,10.0
+2019,Canada,45–54,Women,Master's/Doctoral,10.0
+2020,Canada,45–54,Women,Master's/Doctoral,11.0
+2021,Canada,45–54,Women,Master's/Doctoral,11.0
+2022,Canada,45–54,Women,Master's/Doctoral,12.0
+2023,Canada,45–54,Women,Master's/Doctoral,13.0
+2024,Canada,45–54,Women,Master's/Doctoral,13.0
+2025,Canada,45–54,Women,Master's/Doctoral,15.0
+2000,Canada,45–54,Women,Tertiary (all),39.0
+2001,Canada,45–54,Women,Tertiary (all),41.0
+2002,Canada,45–54,Women,Tertiary (all),42.0
+2003,Canada,45–54,Women,Tertiary (all),42.0
+2004,Canada,45–54,Women,Tertiary (all),43.0
+2005,Canada,45–54,Women,Tertiary (all),45.0
+2006,Canada,45–54,Women,Tertiary (all),46.0
+2007,Canada,45–54,Women,Tertiary (all),47.0
+2008,Canada,45–54,Women,Tertiary (all),47.0
+2009,Canada,45–54,Women,Tertiary (all),48.0
+2010,Canada,45–54,Women,Tertiary (all),50.0
+2011,Canada,45–54,Women,Tertiary (all),52.0
+2012,Canada,45–54,Women,Tertiary (all),53.0
+2013,Canada,45–54,Women,Tertiary (all),54.0
+2014,Canada,45–54,Women,Tertiary (all),55.0
+2015,Canada,45–54,Women,Tertiary (all),58.0
+2016,Canada,45–54,Women,Tertiary (all),60.0
+2017,Canada,45–54,Women,Tertiary (all),61.0
+2018,Canada,45–54,Women,Tertiary (all),63.0
+2019,Canada,45–54,Women,Tertiary (all),65.0
+2020,Canada,45–54,Women,Tertiary (all),66.0
+2021,Canada,45–54,Women,Tertiary (all),69.0
+2022,Canada,45–54,Women,Tertiary (all),70.0
+2023,Canada,45–54,Women,Tertiary (all),70.0
+2024,Canada,45–54,Women,Tertiary (all),72.0
+2025,Canada,45–54,Women,Tertiary (all),72.0
+2000,Canada,55–64,Men,Bachelor's,10.0
+2001,Canada,55–64,Men,Bachelor's,10.0
+2002,Canada,55–64,Men,Bachelor's,11.0
+2003,Canada,55–64,Men,Bachelor's,11.0
+2004,Canada,55–64,Men,Bachelor's,12.0
+2005,Canada,55–64,Men,Bachelor's,12.0
+2006,Canada,55–64,Men,Bachelor's,13.0
+2007,Canada,55–64,Men,Bachelor's,14.0
+2008,Canada,55–64,Men,Bachelor's,14.0
+2009,Canada,55–64,Men,Bachelor's,14.0
+2010,Canada,55–64,Men,Bachelor's,14.0
+2011,Canada,55–64,Men,Bachelor's,14.0
+2012,Canada,55–64,Men,Bachelor's,15.0
+2013,Canada,55–64,Men,Bachelor's,14.0
+2014,Canada,55–64,Men,Bachelor's,14.0
+2015,Canada,55–64,Men,Bachelor's,14.0
+2016,Canada,55–64,Men,Bachelor's,14.0
+2017,Canada,55–64,Men,Bachelor's,14.0
+2018,Canada,55–64,Men,Bachelor's,15.0
+2019,Canada,55–64,Men,Bachelor's,15.0
+2020,Canada,55–64,Men,Bachelor's,16.0
+2021,Canada,55–64,Men,Bachelor's,16.0
+2022,Canada,55–64,Men,Bachelor's,16.0
+2023,Canada,55–64,Men,Bachelor's,17.0
+2024,Canada,55–64,Men,Bachelor's,18.0
+2025,Canada,55–64,Men,Bachelor's,17.0
+2000,Canada,55–64,Men,College/CEGEP,10.0
+2001,Canada,55–64,Men,College/CEGEP,11.0
+2002,Canada,55–64,Men,College/CEGEP,12.0
+2003,Canada,55–64,Men,College/CEGEP,13.0
+2004,Canada,55–64,Men,College/CEGEP,14.0
+2005,Canada,55–64,Men,College/CEGEP,14.0
+2006,Canada,55–64,Men,College/CEGEP,15.0
+2007,Canada,55–64,Men,College/CEGEP,15.0
+2008,Canada,55–64,Men,College/CEGEP,15.0
+2009,Canada,55–64,Men,College/CEGEP,16.0
+2010,Canada,55–64,Men,College/CEGEP,17.0
+2011,Canada,55–64,Men,College/CEGEP,18.0
+2012,Canada,55–64,Men,College/CEGEP,18.0
+2013,Canada,55–64,Men,College/CEGEP,18.0
+2014,Canada,55–64,Men,College/CEGEP,19.0
+2015,Canada,55–64,Men,College/CEGEP,19.0
+2016,Canada,55–64,Men,College/CEGEP,20.0
+2017,Canada,55–64,Men,College/CEGEP,20.0
+2018,Canada,55–64,Men,College/CEGEP,21.0
+2019,Canada,55–64,Men,College/CEGEP,22.0
+2020,Canada,55–64,Men,College/CEGEP,21.0
+2021,Canada,55–64,Men,College/CEGEP,23.0
+2022,Canada,55–64,Men,College/CEGEP,23.0
+2023,Canada,55–64,Men,College/CEGEP,22.0
+2024,Canada,55–64,Men,College/CEGEP,23.0
+2025,Canada,55–64,Men,College/CEGEP,22.0
+2000,Canada,55–64,Men,Master's/Doctoral,9.0
+2001,Canada,55–64,Men,Master's/Doctoral,9.0
+2002,Canada,55–64,Men,Master's/Doctoral,9.0
+2003,Canada,55–64,Men,Master's/Doctoral,10.0
+2004,Canada,55–64,Men,Master's/Doctoral,9.0
+2005,Canada,55–64,Men,Master's/Doctoral,10.0
+2006,Canada,55–64,Men,Master's/Doctoral,9.0
+2007,Canada,55–64,Men,Master's/Doctoral,9.0
+2008,Canada,55–64,Men,Master's/Doctoral,10.0
+2009,Canada,55–64,Men,Master's/Doctoral,9.0
+2010,Canada,55–64,Men,Master's/Doctoral,10.0
+2011,Canada,55–64,Men,Master's/Doctoral,9.0
+2012,Canada,55–64,Men,Master's/Doctoral,9.0
+2013,Canada,55–64,Men,Master's/Doctoral,9.0
+2014,Canada,55–64,Men,Master's/Doctoral,9.0
+2015,Canada,55–64,Men,Master's/Doctoral,9.0
+2016,Canada,55–64,Men,Master's/Doctoral,9.0
+2017,Canada,55–64,Men,Master's/Doctoral,8.0
+2018,Canada,55–64,Men,Master's/Doctoral,8.0
+2019,Canada,55–64,Men,Master's/Doctoral,9.0
+2020,Canada,55–64,Men,Master's/Doctoral,9.0
+2021,Canada,55–64,Men,Master's/Doctoral,9.0
+2022,Canada,55–64,Men,Master's/Doctoral,9.0
+2023,Canada,55–64,Men,Master's/Doctoral,10.0
+2024,Canada,55–64,Men,Master's/Doctoral,10.0
+2025,Canada,55–64,Men,Master's/Doctoral,11.0
+2000,Canada,55–64,Men,Tertiary (all),28.0
+2001,Canada,55–64,Men,Tertiary (all),31.0
+2002,Canada,55–64,Men,Tertiary (all),32.0
+2003,Canada,55–64,Men,Tertiary (all),34.0
+2004,Canada,55–64,Men,Tertiary (all),34.0
+2005,Canada,55–64,Men,Tertiary (all),36.0
+2006,Canada,55–64,Men,Tertiary (all),37.0
+2007,Canada,55–64,Men,Tertiary (all),38.0
+2008,Canada,55–64,Men,Tertiary (all),39.0
+2009,Canada,55–64,Men,Tertiary (all),39.0
+2010,Canada,55–64,Men,Tertiary (all),41.0
+2011,Canada,55–64,Men,Tertiary (all),41.0
+2012,Canada,55–64,Men,Tertiary (all),42.0
+2013,Canada,55–64,Men,Tertiary (all),42.0
+2014,Canada,55–64,Men,Tertiary (all),42.0
+2015,Canada,55–64,Men,Tertiary (all),42.0
+2016,Canada,55–64,Men,Tertiary (all),42.0
+2017,Canada,55–64,Men,Tertiary (all),43.0
+2018,Canada,55–64,Men,Tertiary (all),44.0
+2019,Canada,55–64,Men,Tertiary (all),46.0
+2020,Canada,55–64,Men,Tertiary (all),46.0
+2021,Canada,55–64,Men,Tertiary (all),48.0
+2022,Canada,55–64,Men,Tertiary (all),49.0
+2023,Canada,55–64,Men,Tertiary (all),49.0
+2024,Canada,55–64,Men,Tertiary (all),51.0
+2025,Canada,55–64,Men,Tertiary (all),50.0
+2000,Canada,55–64,Total,Bachelor's,8.0
+2001,Canada,55–64,Total,Bachelor's,9.0
+2002,Canada,55–64,Total,Bachelor's,10.0
+2003,Canada,55–64,Total,Bachelor's,11.0
+2004,Canada,55–64,Total,Bachelor's,11.0
+2005,Canada,55–64,Total,Bachelor's,11.0
+2006,Canada,55–64,Total,Bachelor's,12.0
+2007,Canada,55–64,Total,Bachelor's,13.0
+2008,Canada,55–64,Total,Bachelor's,13.0
+2009,Canada,55–64,Total,Bachelor's,13.0
+2010,Canada,55–64,Total,Bachelor's,13.0
+2011,Canada,55–64,Total,Bachelor's,14.0
+2012,Canada,55–64,Total,Bachelor's,14.0
+2013,Canada,55–64,Total,Bachelor's,14.0
+2014,Canada,55–64,Total,Bachelor's,14.0
+2015,Canada,55–64,Total,Bachelor's,14.0
+2016,Canada,55–64,Total,Bachelor's,14.0
+2017,Canada,55–64,Total,Bachelor's,15.0
+2018,Canada,55–64,Total,Bachelor's,15.0
+2019,Canada,55–64,Total,Bachelor's,16.0
+2020,Canada,55–64,Total,Bachelor's,16.0
+2021,Canada,55–64,Total,Bachelor's,17.0
+2022,Canada,55–64,Total,Bachelor's,17.0
+2023,Canada,55–64,Total,Bachelor's,18.0
+2024,Canada,55–64,Total,Bachelor's,19.0
+2025,Canada,55–64,Total,Bachelor's,18.0
+2000,Canada,55–64,Total,College/CEGEP,14.0
+2001,Canada,55–64,Total,College/CEGEP,15.0
+2002,Canada,55–64,Total,College/CEGEP,16.0
+2003,Canada,55–64,Total,College/CEGEP,16.0
+2004,Canada,55–64,Total,College/CEGEP,17.0
+2005,Canada,55–64,Total,College/CEGEP,18.0
+2006,Canada,55–64,Total,College/CEGEP,18.0
+2007,Canada,55–64,Total,College/CEGEP,18.0
+2008,Canada,55–64,Total,College/CEGEP,19.0
+2009,Canada,55–64,Total,College/CEGEP,20.0
+2010,Canada,55–64,Total,College/CEGEP,20.0
+2011,Canada,55–64,Total,College/CEGEP,21.0
+2012,Canada,55–64,Total,College/CEGEP,22.0
+2013,Canada,55–64,Total,College/CEGEP,22.0
+2014,Canada,55–64,Total,College/CEGEP,23.0
+2015,Canada,55–64,Total,College/CEGEP,23.0
+2016,Canada,55–64,Total,College/CEGEP,24.0
+2017,Canada,55–64,Total,College/CEGEP,24.0
+2018,Canada,55–64,Total,College/CEGEP,25.0
+2019,Canada,55–64,Total,College/CEGEP,26.0
+2020,Canada,55–64,Total,College/CEGEP,25.0
+2021,Canada,55–64,Total,College/CEGEP,26.0
+2022,Canada,55–64,Total,College/CEGEP,27.0
+2023,Canada,55–64,Total,College/CEGEP,27.0
+2024,Canada,55–64,Total,College/CEGEP,27.0
+2025,Canada,55–64,Total,College/CEGEP,26.0
+2000,Canada,55–64,Total,Master's/Doctoral,6.0
+2001,Canada,55–64,Total,Master's/Doctoral,6.0
+2002,Canada,55–64,Total,Master's/Doctoral,7.0
+2003,Canada,55–64,Total,Master's/Doctoral,7.0
+2004,Canada,55–64,Total,Master's/Doctoral,7.0
+2005,Canada,55–64,Total,Master's/Doctoral,7.0
+2006,Canada,55–64,Total,Master's/Doctoral,7.0
+2007,Canada,55–64,Total,Master's/Doctoral,7.0
+2008,Canada,55–64,Total,Master's/Doctoral,8.0
+2009,Canada,55–64,Total,Master's/Doctoral,8.0
+2010,Canada,55–64,Total,Master's/Doctoral,8.0
+2011,Canada,55–64,Total,Master's/Doctoral,8.0
+2012,Canada,55–64,Total,Master's/Doctoral,8.0
+2013,Canada,55–64,Total,Master's/Doctoral,8.0
+2014,Canada,55–64,Total,Master's/Doctoral,8.0
+2015,Canada,55–64,Total,Master's/Doctoral,8.0
+2016,Canada,55–64,Total,Master's/Doctoral,8.0
+2017,Canada,55–64,Total,Master's/Doctoral,7.0
+2018,Canada,55–64,Total,Master's/Doctoral,8.0
+2019,Canada,55–64,Total,Master's/Doctoral,8.0
+2020,Canada,55–64,Total,Master's/Doctoral,8.0
+2021,Canada,55–64,Total,Master's/Doctoral,8.0
+2022,Canada,55–64,Total,Master's/Doctoral,9.0
+2023,Canada,55–64,Total,Master's/Doctoral,9.0
+2024,Canada,55–64,Total,Master's/Doctoral,10.0
+2025,Canada,55–64,Total,Master's/Doctoral,10.0
+2000,Canada,55–64,Total,Tertiary (all),28.0
+2001,Canada,55–64,Total,Tertiary (all),30.0
+2002,Canada,55–64,Total,Tertiary (all),32.0
+2003,Canada,55–64,Total,Tertiary (all),34.0
+2004,Canada,55–64,Total,Tertiary (all),35.0
+2005,Canada,55–64,Total,Tertiary (all),36.0
+2006,Canada,55–64,Total,Tertiary (all),37.0
+2007,Canada,55–64,Total,Tertiary (all),39.0
+2008,Canada,55–64,Total,Tertiary (all),40.0
+2009,Canada,55–64,Total,Tertiary (all),40.0
+2010,Canada,55–64,Total,Tertiary (all),42.0
+2011,Canada,55–64,Total,Tertiary (all),42.0
+2012,Canada,55–64,Total,Tertiary (all),44.0
+2013,Canada,55–64,Total,Tertiary (all),44.0
+2014,Canada,55–64,Total,Tertiary (all),45.0
+2015,Canada,55–64,Total,Tertiary (all),45.0
+2016,Canada,55–64,Total,Tertiary (all),46.0
+2017,Canada,55–64,Total,Tertiary (all),46.0
+2018,Canada,55–64,Total,Tertiary (all),47.0
+2019,Canada,55–64,Total,Tertiary (all),49.0
+2020,Canada,55–64,Total,Tertiary (all),50.0
+2021,Canada,55–64,Total,Tertiary (all),51.0
+2022,Canada,55–64,Total,Tertiary (all),53.0
+2023,Canada,55–64,Total,Tertiary (all),54.0
+2024,Canada,55–64,Total,Tertiary (all),55.0
+2025,Canada,55–64,Total,Tertiary (all),55.0
+2000,Canada,55–64,Women,Bachelor's,7.0
+2001,Canada,55–64,Women,Bachelor's,8.0
+2002,Canada,55–64,Women,Bachelor's,9.0
+2003,Canada,55–64,Women,Bachelor's,10.0
+2004,Canada,55–64,Women,Bachelor's,11.0
+2005,Canada,55–64,Women,Bachelor's,10.0
+2006,Canada,55–64,Women,Bachelor's,11.0
+2007,Canada,55–64,Women,Bachelor's,12.0
+2008,Canada,55–64,Women,Bachelor's,12.0
+2009,Canada,55–64,Women,Bachelor's,13.0
+2010,Canada,55–64,Women,Bachelor's,13.0
+2011,Canada,55–64,Women,Bachelor's,13.0
+2012,Canada,55–64,Women,Bachelor's,14.0
+2013,Canada,55–64,Women,Bachelor's,15.0
+2014,Canada,55–64,Women,Bachelor's,14.0
+2015,Canada,55–64,Women,Bachelor's,15.0
+2016,Canada,55–64,Women,Bachelor's,15.0
+2017,Canada,55–64,Women,Bachelor's,15.0
+2018,Canada,55–64,Women,Bachelor's,15.0
+2019,Canada,55–64,Women,Bachelor's,16.0
+2020,Canada,55–64,Women,Bachelor's,17.0
+2021,Canada,55–64,Women,Bachelor's,17.0
+2022,Canada,55–64,Women,Bachelor's,18.0
+2023,Canada,55–64,Women,Bachelor's,18.0
+2024,Canada,55–64,Women,Bachelor's,19.0
+2025,Canada,55–64,Women,Bachelor's,20.0
+2000,Canada,55–64,Women,College/CEGEP,17.0
+2001,Canada,55–64,Women,College/CEGEP,18.0
+2002,Canada,55–64,Women,College/CEGEP,19.0
+2003,Canada,55–64,Women,College/CEGEP,19.0
+2004,Canada,55–64,Women,College/CEGEP,20.0
+2005,Canada,55–64,Women,College/CEGEP,21.0
+2006,Canada,55–64,Women,College/CEGEP,21.0
+2007,Canada,55–64,Women,College/CEGEP,22.0
+2008,Canada,55–64,Women,College/CEGEP,22.0
+2009,Canada,55–64,Women,College/CEGEP,23.0
+2010,Canada,55–64,Women,College/CEGEP,24.0
+2011,Canada,55–64,Women,College/CEGEP,24.0
+2012,Canada,55–64,Women,College/CEGEP,26.0
+2013,Canada,55–64,Women,College/CEGEP,26.0
+2014,Canada,55–64,Women,College/CEGEP,26.0
+2015,Canada,55–64,Women,College/CEGEP,27.0
+2016,Canada,55–64,Women,College/CEGEP,28.0
+2017,Canada,55–64,Women,College/CEGEP,28.0
+2018,Canada,55–64,Women,College/CEGEP,29.0
+2019,Canada,55–64,Women,College/CEGEP,30.0
+2020,Canada,55–64,Women,College/CEGEP,29.0
+2021,Canada,55–64,Women,College/CEGEP,30.0
+2022,Canada,55–64,Women,College/CEGEP,32.0
+2023,Canada,55–64,Women,College/CEGEP,32.0
+2024,Canada,55–64,Women,College/CEGEP,31.0
+2025,Canada,55–64,Women,College/CEGEP,30.0
+2000,Canada,55–64,Women,Master's/Doctoral,3.0
+2001,Canada,55–64,Women,Master's/Doctoral,4.0
+2002,Canada,55–64,Women,Master's/Doctoral,4.0
+2003,Canada,55–64,Women,Master's/Doctoral,4.0
+2004,Canada,55–64,Women,Master's/Doctoral,4.0
+2005,Canada,55–64,Women,Master's/Doctoral,5.0
+2006,Canada,55–64,Women,Master's/Doctoral,5.0
+2007,Canada,55–64,Women,Master's/Doctoral,5.0
+2008,Canada,55–64,Women,Master's/Doctoral,6.0
+2009,Canada,55–64,Women,Master's/Doctoral,6.0
+2010,Canada,55–64,Women,Master's/Doctoral,6.0
+2011,Canada,55–64,Women,Master's/Doctoral,6.0
+2012,Canada,55–64,Women,Master's/Doctoral,7.0
+2013,Canada,55–64,Women,Master's/Doctoral,7.0
+2014,Canada,55–64,Women,Master's/Doctoral,7.0
+2015,Canada,55–64,Women,Master's/Doctoral,7.0
+2016,Canada,55–64,Women,Master's/Doctoral,7.0
+2017,Canada,55–64,Women,Master's/Doctoral,7.0
+2018,Canada,55–64,Women,Master's/Doctoral,7.0
+2019,Canada,55–64,Women,Master's/Doctoral,7.0
+2020,Canada,55–64,Women,Master's/Doctoral,7.0
+2021,Canada,55–64,Women,Master's/Doctoral,7.0
+2022,Canada,55–64,Women,Master's/Doctoral,8.0
+2023,Canada,55–64,Women,Master's/Doctoral,8.0
+2024,Canada,55–64,Women,Master's/Doctoral,9.0
+2025,Canada,55–64,Women,Master's/Doctoral,10.0
+2000,Canada,55–64,Women,Tertiary (all),28.0
+2001,Canada,55–64,Women,Tertiary (all),30.0
+2002,Canada,55–64,Women,Tertiary (all),32.0
+2003,Canada,55–64,Women,Tertiary (all),33.0
+2004,Canada,55–64,Women,Tertiary (all),35.0
+2005,Canada,55–64,Women,Tertiary (all),36.0
+2006,Canada,55–64,Women,Tertiary (all),38.0
+2007,Canada,55–64,Women,Tertiary (all),39.0
+2008,Canada,55–64,Women,Tertiary (all),40.0
+2009,Canada,55–64,Women,Tertiary (all),42.0
+2010,Canada,55–64,Women,Tertiary (all),43.0
+2011,Canada,55–64,Women,Tertiary (all),43.0
+2012,Canada,55–64,Women,Tertiary (all),46.0
+2013,Canada,55–64,Women,Tertiary (all),47.0
+2014,Canada,55–64,Women,Tertiary (all),47.0
+2015,Canada,55–64,Women,Tertiary (all),49.0
+2016,Canada,55–64,Women,Tertiary (all),49.0
+2017,Canada,55–64,Women,Tertiary (all),50.0
+2018,Canada,55–64,Women,Tertiary (all),51.0
+2019,Canada,55–64,Women,Tertiary (all),53.0
+2020,Canada,55–64,Women,Tertiary (all),53.0
+2021,Canada,55–64,Women,Tertiary (all),55.0
+2022,Canada,55–64,Women,Tertiary (all),57.0
+2023,Canada,55–64,Women,Tertiary (all),58.0
+2024,Canada,55–64,Women,Tertiary (all),59.0
+2025,Canada,55–64,Women,Tertiary (all),60.0
+2014,OECD average,25–34,Men,Bachelor's,19.0
+2015,OECD average,25–34,Men,Bachelor's,19.0
+2016,OECD average,25–34,Men,Bachelor's,20.0
+2017,OECD average,25–34,Men,Bachelor's,20.0
+2018,OECD average,25–34,Men,Bachelor's,20.0
+2019,OECD average,25–34,Men,Bachelor's,21.0
+2020,OECD average,25–34,Men,Bachelor's,21.0
+2021,OECD average,25–34,Men,Bachelor's,22.0
+2022,OECD average,25–34,Men,Bachelor's,22.0
+2023,OECD average,25–34,Men,Bachelor's,22.0
+2014,OECD average,25–34,Men,College/CEGEP,7.0
+2015,OECD average,25–34,Men,College/CEGEP,7.0
+2016,OECD average,25–34,Men,College/CEGEP,7.0
+2017,OECD average,25–34,Men,College/CEGEP,7.0
+2018,OECD average,25–34,Men,College/CEGEP,7.0
+2019,OECD average,25–34,Men,College/CEGEP,7.0
+2020,OECD average,25–34,Men,College/CEGEP,7.0
+2021,OECD average,25–34,Men,College/CEGEP,8.0
+2022,OECD average,25–34,Men,College/CEGEP,8.0
+2023,OECD average,25–34,Men,College/CEGEP,8.0
+2014,OECD average,25–34,Men,Master's/Doctoral,12.0
+2015,OECD average,25–34,Men,Master's/Doctoral,12.0
+2016,OECD average,25–34,Men,Master's/Doctoral,12.0
+2017,OECD average,25–34,Men,Master's/Doctoral,12.0
+2018,OECD average,25–34,Men,Master's/Doctoral,13.0
+2019,OECD average,25–34,Men,Master's/Doctoral,13.0
+2020,OECD average,25–34,Men,Master's/Doctoral,14.0
+2021,OECD average,25–34,Men,Master's/Doctoral,14.0
+2022,OECD average,25–34,Men,Master's/Doctoral,14.0
+2023,OECD average,25–34,Men,Master's/Doctoral,14.0
+2000,OECD average,25–34,Men,Tertiary (all),24.0
+2001,OECD average,25–34,Men,Tertiary (all),25.0
+2002,OECD average,25–34,Men,Tertiary (all),26.0
+2003,OECD average,25–34,Men,Tertiary (all),27.0
+2004,OECD average,25–34,Men,Tertiary (all),28.0
+2005,OECD average,25–34,Men,Tertiary (all),29.0
+2006,OECD average,25–34,Men,Tertiary (all),29.0
+2007,OECD average,25–34,Men,Tertiary (all),30.0
+2008,OECD average,25–34,Men,Tertiary (all),31.0
+2009,OECD average,25–34,Men,Tertiary (all),32.0
+2010,OECD average,25–34,Men,Tertiary (all),32.0
+2011,OECD average,25–34,Men,Tertiary (all),33.0
+2012,OECD average,25–34,Men,Tertiary (all),34.0
+2013,OECD average,25–34,Men,Tertiary (all),34.0
+2014,OECD average,25–34,Men,Tertiary (all),36.0
+2015,OECD average,25–34,Men,Tertiary (all),36.0
+2016,OECD average,25–34,Men,Tertiary (all),37.0
+2017,OECD average,25–34,Men,Tertiary (all),37.0
+2018,OECD average,25–34,Men,Tertiary (all),38.0
+2019,OECD average,25–34,Men,Tertiary (all),39.0
+2020,OECD average,25–34,Men,Tertiary (all),39.0
+2021,OECD average,25–34,Men,Tertiary (all),41.0
+2022,OECD average,25–34,Men,Tertiary (all),41.0
+2023,OECD average,25–34,Men,Tertiary (all),41.0
+2014,OECD average,25–34,Total,Bachelor's,22.0
+2015,OECD average,25–34,Total,Bachelor's,22.0
+2016,OECD average,25–34,Total,Bachelor's,23.0
+2017,OECD average,25–34,Total,Bachelor's,23.0
+2018,OECD average,25–34,Total,Bachelor's,24.0
+2019,OECD average,25–34,Total,Bachelor's,24.0
+2020,OECD average,25–34,Total,Bachelor's,24.0
+2021,OECD average,25–34,Total,Bachelor's,25.0
+2022,OECD average,25–34,Total,Bachelor's,26.0
+2023,OECD average,25–34,Total,Bachelor's,26.0
+2014,OECD average,25–34,Total,College/CEGEP,8.0
+2015,OECD average,25–34,Total,College/CEGEP,8.0
+2016,OECD average,25–34,Total,College/CEGEP,7.0
+2017,OECD average,25–34,Total,College/CEGEP,8.0
+2018,OECD average,25–34,Total,College/CEGEP,8.0
+2019,OECD average,25–34,Total,College/CEGEP,8.0
+2020,OECD average,25–34,Total,College/CEGEP,7.0
+2021,OECD average,25–34,Total,College/CEGEP,8.0
+2022,OECD average,25–34,Total,College/CEGEP,8.0
+2023,OECD average,25–34,Total,College/CEGEP,8.0
+2014,OECD average,25–34,Total,Master's/Doctoral,14.0
+2015,OECD average,25–34,Total,Master's/Doctoral,14.0
+2016,OECD average,25–34,Total,Master's/Doctoral,15.0
+2017,OECD average,25–34,Total,Master's/Doctoral,15.0
+2018,OECD average,25–34,Total,Master's/Doctoral,15.0
+2019,OECD average,25–34,Total,Master's/Doctoral,16.0
+2020,OECD average,25–34,Total,Master's/Doctoral,16.0
+2021,OECD average,25–34,Total,Master's/Doctoral,17.0
+2022,OECD average,25–34,Total,Master's/Doctoral,16.0
+2023,OECD average,25–34,Total,Master's/Doctoral,17.0
+2000,OECD average,25–34,Total,Tertiary (all),26.0
+2001,OECD average,25–34,Total,Tertiary (all),27.0
+2002,OECD average,25–34,Total,Tertiary (all),28.0
+2003,OECD average,25–34,Total,Tertiary (all),30.0
+2004,OECD average,25–34,Total,Tertiary (all),30.0
+2005,OECD average,25–34,Total,Tertiary (all),32.0
+2006,OECD average,25–34,Total,Tertiary (all),33.0
+2007,OECD average,25–34,Total,Tertiary (all),34.0
+2008,OECD average,25–34,Total,Tertiary (all),35.0
+2009,OECD average,25–34,Total,Tertiary (all),36.0
+2010,OECD average,25–34,Total,Tertiary (all),37.0
+2011,OECD average,25–34,Total,Tertiary (all),38.0
+2012,OECD average,25–34,Total,Tertiary (all),40.0
+2013,OECD average,25–34,Total,Tertiary (all),40.0
+2014,OECD average,25–34,Total,Tertiary (all),41.0
+2015,OECD average,25–34,Total,Tertiary (all),41.0
+2016,OECD average,25–34,Total,Tertiary (all),43.0
+2017,OECD average,25–34,Total,Tertiary (all),43.0
+2018,OECD average,25–34,Total,Tertiary (all),44.0
+2019,OECD average,25–34,Total,Tertiary (all),45.0
+2020,OECD average,25–34,Total,Tertiary (all),46.0
+2021,OECD average,25–34,Total,Tertiary (all),47.0
+2022,OECD average,25–34,Total,Tertiary (all),47.0
+2023,OECD average,25–34,Total,Tertiary (all),48.0
+2014,OECD average,25–34,Women,Bachelor's,25.0
+2015,OECD average,25–34,Women,Bachelor's,25.0
+2016,OECD average,25–34,Women,Bachelor's,26.0
+2017,OECD average,25–34,Women,Bachelor's,26.0
+2018,OECD average,25–34,Women,Bachelor's,27.0
+2019,OECD average,25–34,Women,Bachelor's,27.0
+2020,OECD average,25–34,Women,Bachelor's,28.0
+2021,OECD average,25–34,Women,Bachelor's,29.0
+2022,OECD average,25–34,Women,Bachelor's,29.0
+2023,OECD average,25–34,Women,Bachelor's,29.0
+2014,OECD average,25–34,Women,College/CEGEP,9.0
+2015,OECD average,25–34,Women,College/CEGEP,8.0
+2016,OECD average,25–34,Women,College/CEGEP,8.0
+2017,OECD average,25–34,Women,College/CEGEP,9.0
+2018,OECD average,25–34,Women,College/CEGEP,9.0
+2019,OECD average,25–34,Women,College/CEGEP,8.0
+2020,OECD average,25–34,Women,College/CEGEP,8.0
+2021,OECD average,25–34,Women,College/CEGEP,8.0
+2022,OECD average,25–34,Women,College/CEGEP,9.0
+2023,OECD average,25–34,Women,College/CEGEP,9.0
+2014,OECD average,25–34,Women,Master's/Doctoral,16.0
+2015,OECD average,25–34,Women,Master's/Doctoral,16.0
+2016,OECD average,25–34,Women,Master's/Doctoral,17.0
+2017,OECD average,25–34,Women,Master's/Doctoral,17.0
+2018,OECD average,25–34,Women,Master's/Doctoral,18.0
+2019,OECD average,25–34,Women,Master's/Doctoral,18.0
+2020,OECD average,25–34,Women,Master's/Doctoral,19.0
+2021,OECD average,25–34,Women,Master's/Doctoral,19.0
+2022,OECD average,25–34,Women,Master's/Doctoral,19.0
+2023,OECD average,25–34,Women,Master's/Doctoral,20.0
+2000,OECD average,25–34,Women,Tertiary (all),28.0
+2001,OECD average,25–34,Women,Tertiary (all),28.0
+2002,OECD average,25–34,Women,Tertiary (all),30.0
+2003,OECD average,25–34,Women,Tertiary (all),32.0
+2004,OECD average,25–34,Women,Tertiary (all),33.0
+2005,OECD average,25–34,Women,Tertiary (all),36.0
+2006,OECD average,25–34,Women,Tertiary (all),37.0
+2007,OECD average,25–34,Women,Tertiary (all),38.0
+2008,OECD average,25–34,Women,Tertiary (all),40.0
+2009,OECD average,25–34,Women,Tertiary (all),41.0
+2010,OECD average,25–34,Women,Tertiary (all),43.0
+2011,OECD average,25–34,Women,Tertiary (all),43.0
+2012,OECD average,25–34,Women,Tertiary (all),45.0
+2013,OECD average,25–34,Women,Tertiary (all),46.0
+2014,OECD average,25–34,Women,Tertiary (all),47.0
+2015,OECD average,25–34,Women,Tertiary (all),47.0
+2016,OECD average,25–34,Women,Tertiary (all),49.0
+2017,OECD average,25–34,Women,Tertiary (all),49.0
+2018,OECD average,25–34,Women,Tertiary (all),50.0
+2019,OECD average,25–34,Women,Tertiary (all),51.0
+2020,OECD average,25–34,Women,Tertiary (all),52.0
+2021,OECD average,25–34,Women,Tertiary (all),54.0
+2022,OECD average,25–34,Women,Tertiary (all),54.0
+2023,OECD average,25–34,Women,Tertiary (all),54.0
+2014,OECD average,25–64 (all),Men,Bachelor's,15.0
+2015,OECD average,25–64 (all),Men,Bachelor's,15.0
+2016,OECD average,25–64 (all),Men,Bachelor's,15.0
+2017,OECD average,25–64 (all),Men,Bachelor's,16.0
+2018,OECD average,25–64 (all),Men,Bachelor's,16.0
+2019,OECD average,25–64 (all),Men,Bachelor's,16.0
+2020,OECD average,25–64 (all),Men,Bachelor's,16.0
+2021,OECD average,25–64 (all),Men,Bachelor's,17.0
+2022,OECD average,25–64 (all),Men,Bachelor's,17.0
+2023,OECD average,25–64 (all),Men,Bachelor's,18.0
+2014,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2015,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2016,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2017,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2018,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2019,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2020,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2021,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2022,OECD average,25–64 (all),Men,College/CEGEP,7.0
+2023,OECD average,25–64 (all),Men,College/CEGEP,6.0
+2014,OECD average,25–64 (all),Men,Master's/Doctoral,12.0
+2015,OECD average,25–64 (all),Men,Master's/Doctoral,11.0
+2016,OECD average,25–64 (all),Men,Master's/Doctoral,12.0
+2017,OECD average,25–64 (all),Men,Master's/Doctoral,12.0
+2018,OECD average,25–64 (all),Men,Master's/Doctoral,13.0
+2019,OECD average,25–64 (all),Men,Master's/Doctoral,13.0
+2020,OECD average,25–64 (all),Men,Master's/Doctoral,14.0
+2021,OECD average,25–64 (all),Men,Master's/Doctoral,14.0
+2022,OECD average,25–64 (all),Men,Master's/Doctoral,14.0
+2023,OECD average,25–64 (all),Men,Master's/Doctoral,14.0
+2000,OECD average,25–64 (all),Men,Tertiary (all),22.0
+2001,OECD average,25–64 (all),Men,Tertiary (all),23.0
+2002,OECD average,25–64 (all),Men,Tertiary (all),23.0
+2003,OECD average,25–64 (all),Men,Tertiary (all),25.0
+2004,OECD average,25–64 (all),Men,Tertiary (all),25.0
+2005,OECD average,25–64 (all),Men,Tertiary (all),26.0
+2006,OECD average,25–64 (all),Men,Tertiary (all),26.0
+2007,OECD average,25–64 (all),Men,Tertiary (all),27.0
+2008,OECD average,25–64 (all),Men,Tertiary (all),27.0
+2009,OECD average,25–64 (all),Men,Tertiary (all),28.0
+2010,OECD average,25–64 (all),Men,Tertiary (all),29.0
+2011,OECD average,25–64 (all),Men,Tertiary (all),29.0
+2012,OECD average,25–64 (all),Men,Tertiary (all),30.0
+2013,OECD average,25–64 (all),Men,Tertiary (all),30.0
+2014,OECD average,25–64 (all),Men,Tertiary (all),31.0
+2015,OECD average,25–64 (all),Men,Tertiary (all),31.0
+2016,OECD average,25–64 (all),Men,Tertiary (all),32.0
+2017,OECD average,25–64 (all),Men,Tertiary (all),33.0
+2018,OECD average,25–64 (all),Men,Tertiary (all),34.0
+2019,OECD average,25–64 (all),Men,Tertiary (all),35.0
+2020,OECD average,25–64 (all),Men,Tertiary (all),35.0
+2021,OECD average,25–64 (all),Men,Tertiary (all),36.0
+2022,OECD average,25–64 (all),Men,Tertiary (all),37.0
+2023,OECD average,25–64 (all),Men,Tertiary (all),37.0
+2014,OECD average,25–64 (all),Total,Bachelor's,16.0
+2015,OECD average,25–64 (all),Total,Bachelor's,16.0
+2016,OECD average,25–64 (all),Total,Bachelor's,17.0
+2017,OECD average,25–64 (all),Total,Bachelor's,17.0
+2018,OECD average,25–64 (all),Total,Bachelor's,17.0
+2019,OECD average,25–64 (all),Total,Bachelor's,18.0
+2020,OECD average,25–64 (all),Total,Bachelor's,18.0
+2021,OECD average,25–64 (all),Total,Bachelor's,19.0
+2022,OECD average,25–64 (all),Total,Bachelor's,19.0
+2023,OECD average,25–64 (all),Total,Bachelor's,20.0
+2014,OECD average,25–64 (all),Total,College/CEGEP,8.0
+2015,OECD average,25–64 (all),Total,College/CEGEP,8.0
+2016,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2017,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2018,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2019,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2020,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2021,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2022,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2023,OECD average,25–64 (all),Total,College/CEGEP,7.0
+2014,OECD average,25–64 (all),Total,Master's/Doctoral,12.0
+2015,OECD average,25–64 (all),Total,Master's/Doctoral,12.0
+2016,OECD average,25–64 (all),Total,Master's/Doctoral,13.0
+2017,OECD average,25–64 (all),Total,Master's/Doctoral,13.0
+2018,OECD average,25–64 (all),Total,Master's/Doctoral,14.0
+2019,OECD average,25–64 (all),Total,Master's/Doctoral,14.0
+2020,OECD average,25–64 (all),Total,Master's/Doctoral,16.0
+2021,OECD average,25–64 (all),Total,Master's/Doctoral,15.0
+2022,OECD average,25–64 (all),Total,Master's/Doctoral,16.0
+2023,OECD average,25–64 (all),Total,Master's/Doctoral,16.0
+2000,OECD average,25–64 (all),Total,Tertiary (all),22.0
+2001,OECD average,25–64 (all),Total,Tertiary (all),22.0
+2002,OECD average,25–64 (all),Total,Tertiary (all),23.0
+2003,OECD average,25–64 (all),Total,Tertiary (all),25.0
+2004,OECD average,25–64 (all),Total,Tertiary (all),25.0
+2005,OECD average,25–64 (all),Total,Tertiary (all),26.0
+2006,OECD average,25–64 (all),Total,Tertiary (all),27.0
+2007,OECD average,25–64 (all),Total,Tertiary (all),28.0
+2008,OECD average,25–64 (all),Total,Tertiary (all),29.0
+2009,OECD average,25–64 (all),Total,Tertiary (all),29.0
+2010,OECD average,25–64 (all),Total,Tertiary (all),30.0
+2011,OECD average,25–64 (all),Total,Tertiary (all),31.0
+2012,OECD average,25–64 (all),Total,Tertiary (all),32.0
+2013,OECD average,25–64 (all),Total,Tertiary (all),33.0
+2014,OECD average,25–64 (all),Total,Tertiary (all),34.0
+2015,OECD average,25–64 (all),Total,Tertiary (all),34.0
+2016,OECD average,25–64 (all),Total,Tertiary (all),35.0
+2017,OECD average,25–64 (all),Total,Tertiary (all),36.0
+2018,OECD average,25–64 (all),Total,Tertiary (all),37.0
+2019,OECD average,25–64 (all),Total,Tertiary (all),38.0
+2020,OECD average,25–64 (all),Total,Tertiary (all),39.0
+2021,OECD average,25–64 (all),Total,Tertiary (all),40.0
+2022,OECD average,25–64 (all),Total,Tertiary (all),41.0
+2023,OECD average,25–64 (all),Total,Tertiary (all),41.0
+2014,OECD average,25–64 (all),Women,Bachelor's,17.0
+2015,OECD average,25–64 (all),Women,Bachelor's,17.0
+2016,OECD average,25–64 (all),Women,Bachelor's,18.0
+2017,OECD average,25–64 (all),Women,Bachelor's,19.0
+2018,OECD average,25–64 (all),Women,Bachelor's,19.0
+2019,OECD average,25–64 (all),Women,Bachelor's,20.0
+2020,OECD average,25–64 (all),Women,Bachelor's,20.0
+2021,OECD average,25–64 (all),Women,Bachelor's,21.0
+2022,OECD average,25–64 (all),Women,Bachelor's,21.0
+2023,OECD average,25–64 (all),Women,Bachelor's,22.0
+2014,OECD average,25–64 (all),Women,College/CEGEP,9.0
+2015,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2016,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2017,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2018,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2019,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2020,OECD average,25–64 (all),Women,College/CEGEP,7.0
+2021,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2022,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2023,OECD average,25–64 (all),Women,College/CEGEP,8.0
+2014,OECD average,25–64 (all),Women,Master's/Doctoral,13.0
+2015,OECD average,25–64 (all),Women,Master's/Doctoral,13.0
+2016,OECD average,25–64 (all),Women,Master's/Doctoral,14.0
+2017,OECD average,25–64 (all),Women,Master's/Doctoral,14.0
+2018,OECD average,25–64 (all),Women,Master's/Doctoral,15.0
+2019,OECD average,25–64 (all),Women,Master's/Doctoral,16.0
+2020,OECD average,25–64 (all),Women,Master's/Doctoral,17.0
+2021,OECD average,25–64 (all),Women,Master's/Doctoral,17.0
+2022,OECD average,25–64 (all),Women,Master's/Doctoral,17.0
+2023,OECD average,25–64 (all),Women,Master's/Doctoral,17.0
+2000,OECD average,25–64 (all),Women,Tertiary (all),22.0
+2001,OECD average,25–64 (all),Women,Tertiary (all),22.0
+2002,OECD average,25–64 (all),Women,Tertiary (all),23.0
+2003,OECD average,25–64 (all),Women,Tertiary (all),25.0
+2004,OECD average,25–64 (all),Women,Tertiary (all),25.0
+2005,OECD average,25–64 (all),Women,Tertiary (all),27.0
+2006,OECD average,25–64 (all),Women,Tertiary (all),27.0
+2007,OECD average,25–64 (all),Women,Tertiary (all),29.0
+2008,OECD average,25–64 (all),Women,Tertiary (all),30.0
+2009,OECD average,25–64 (all),Women,Tertiary (all),31.0
+2010,OECD average,25–64 (all),Women,Tertiary (all),32.0
+2011,OECD average,25–64 (all),Women,Tertiary (all),33.0
+2012,OECD average,25–64 (all),Women,Tertiary (all),34.0
+2013,OECD average,25–64 (all),Women,Tertiary (all),35.0
+2014,OECD average,25–64 (all),Women,Tertiary (all),36.0
+2015,OECD average,25–64 (all),Women,Tertiary (all),37.0
+2016,OECD average,25–64 (all),Women,Tertiary (all),38.0
+2017,OECD average,25–64 (all),Women,Tertiary (all),39.0
+2018,OECD average,25–64 (all),Women,Tertiary (all),40.0
+2019,OECD average,25–64 (all),Women,Tertiary (all),41.0
+2020,OECD average,25–64 (all),Women,Tertiary (all),43.0
+2021,OECD average,25–64 (all),Women,Tertiary (all),44.0
+2022,OECD average,25–64 (all),Women,Tertiary (all),45.0
+2023,OECD average,25–64 (all),Women,Tertiary (all),45.0
+2014,OECD average,35–44,Men,Bachelor's,15.0
+2015,OECD average,35–44,Men,Bachelor's,16.0
+2016,OECD average,35–44,Men,Bachelor's,17.0
+2017,OECD average,35–44,Men,Bachelor's,17.0
+2018,OECD average,35–44,Men,Bachelor's,18.0
+2019,OECD average,35–44,Men,Bachelor's,18.0
+2020,OECD average,35–44,Men,Bachelor's,18.0
+2021,OECD average,35–44,Men,Bachelor's,19.0
+2022,OECD average,35–44,Men,Bachelor's,19.0
+2023,OECD average,35–44,Men,Bachelor's,20.0
+2014,OECD average,35–44,Men,College/CEGEP,8.0
+2015,OECD average,35–44,Men,College/CEGEP,8.0
+2016,OECD average,35–44,Men,College/CEGEP,7.0
+2017,OECD average,35–44,Men,College/CEGEP,8.0
+2018,OECD average,35–44,Men,College/CEGEP,7.0
+2019,OECD average,35–44,Men,College/CEGEP,7.0
+2020,OECD average,35–44,Men,College/CEGEP,7.0
+2021,OECD average,35–44,Men,College/CEGEP,7.0
+2022,OECD average,35–44,Men,College/CEGEP,8.0
+2023,OECD average,35–44,Men,College/CEGEP,7.0
+2014,OECD average,35–44,Men,Master's/Doctoral,13.0
+2015,OECD average,35–44,Men,Master's/Doctoral,13.0
+2016,OECD average,35–44,Men,Master's/Doctoral,14.0
+2017,OECD average,35–44,Men,Master's/Doctoral,14.0
+2018,OECD average,35–44,Men,Master's/Doctoral,15.0
+2019,OECD average,35–44,Men,Master's/Doctoral,16.0
+2020,OECD average,35–44,Men,Master's/Doctoral,17.0
+2021,OECD average,35–44,Men,Master's/Doctoral,17.0
+2022,OECD average,35–44,Men,Master's/Doctoral,17.0
+2023,OECD average,35–44,Men,Master's/Doctoral,17.0
+2000,OECD average,35–44,Men,Tertiary (all),24.0
+2001,OECD average,35–44,Men,Tertiary (all),24.0
+2002,OECD average,35–44,Men,Tertiary (all),24.0
+2003,OECD average,35–44,Men,Tertiary (all),25.0
+2004,OECD average,35–44,Men,Tertiary (all),26.0
+2005,OECD average,35–44,Men,Tertiary (all),27.0
+2006,OECD average,35–44,Men,Tertiary (all),27.0
+2007,OECD average,35–44,Men,Tertiary (all),28.0
+2008,OECD average,35–44,Men,Tertiary (all),28.0
+2009,OECD average,35–44,Men,Tertiary (all),29.0
+2010,OECD average,35–44,Men,Tertiary (all),30.0
+2011,OECD average,35–44,Men,Tertiary (all),31.0
+2012,OECD average,35–44,Men,Tertiary (all),32.0
+2013,OECD average,35–44,Men,Tertiary (all),33.0
+2014,OECD average,35–44,Men,Tertiary (all),34.0
+2015,OECD average,35–44,Men,Tertiary (all),35.0
+2016,OECD average,35–44,Men,Tertiary (all),36.0
+2017,OECD average,35–44,Men,Tertiary (all),37.0
+2018,OECD average,35–44,Men,Tertiary (all),38.0
+2019,OECD average,35–44,Men,Tertiary (all),39.0
+2020,OECD average,35–44,Men,Tertiary (all),40.0
+2021,OECD average,35–44,Men,Tertiary (all),41.0
+2022,OECD average,35–44,Men,Tertiary (all),41.0
+2023,OECD average,35–44,Men,Tertiary (all),41.0
+2014,OECD average,35–44,Total,Bachelor's,17.0
+2015,OECD average,35–44,Total,Bachelor's,18.0
+2016,OECD average,35–44,Total,Bachelor's,19.0
+2017,OECD average,35–44,Total,Bachelor's,19.0
+2018,OECD average,35–44,Total,Bachelor's,20.0
+2019,OECD average,35–44,Total,Bachelor's,20.0
+2020,OECD average,35–44,Total,Bachelor's,21.0
+2021,OECD average,35–44,Total,Bachelor's,21.0
+2022,OECD average,35–44,Total,Bachelor's,22.0
+2023,OECD average,35–44,Total,Bachelor's,22.0
+2014,OECD average,35–44,Total,College/CEGEP,9.0
+2015,OECD average,35–44,Total,College/CEGEP,8.0
+2016,OECD average,35–44,Total,College/CEGEP,8.0
+2017,OECD average,35–44,Total,College/CEGEP,8.0
+2018,OECD average,35–44,Total,College/CEGEP,8.0
+2019,OECD average,35–44,Total,College/CEGEP,8.0
+2020,OECD average,35–44,Total,College/CEGEP,7.0
+2021,OECD average,35–44,Total,College/CEGEP,7.0
+2022,OECD average,35–44,Total,College/CEGEP,7.0
+2023,OECD average,35–44,Total,College/CEGEP,7.0
+2014,OECD average,35–44,Total,Master's/Doctoral,14.0
+2015,OECD average,35–44,Total,Master's/Doctoral,15.0
+2016,OECD average,35–44,Total,Master's/Doctoral,16.0
+2017,OECD average,35–44,Total,Master's/Doctoral,16.0
+2018,OECD average,35–44,Total,Master's/Doctoral,17.0
+2019,OECD average,35–44,Total,Master's/Doctoral,18.0
+2020,OECD average,35–44,Total,Master's/Doctoral,19.0
+2021,OECD average,35–44,Total,Master's/Doctoral,19.0
+2022,OECD average,35–44,Total,Master's/Doctoral,19.0
+2023,OECD average,35–44,Total,Master's/Doctoral,20.0
+2000,OECD average,35–44,Total,Tertiary (all),24.0
+2001,OECD average,35–44,Total,Tertiary (all),24.0
+2002,OECD average,35–44,Total,Tertiary (all),24.0
+2003,OECD average,35–44,Total,Tertiary (all),26.0
+2004,OECD average,35–44,Total,Tertiary (all),27.0
+2005,OECD average,35–44,Total,Tertiary (all),28.0
+2006,OECD average,35–44,Total,Tertiary (all),28.0
+2007,OECD average,35–44,Total,Tertiary (all),29.0
+2008,OECD average,35–44,Total,Tertiary (all),30.0
+2009,OECD average,35–44,Total,Tertiary (all),31.0
+2010,OECD average,35–44,Total,Tertiary (all),33.0
+2011,OECD average,35–44,Total,Tertiary (all),33.0
+2012,OECD average,35–44,Total,Tertiary (all),35.0
+2013,OECD average,35–44,Total,Tertiary (all),36.0
+2014,OECD average,35–44,Total,Tertiary (all),38.0
+2015,OECD average,35–44,Total,Tertiary (all),38.0
+2016,OECD average,35–44,Total,Tertiary (all),40.0
+2017,OECD average,35–44,Total,Tertiary (all),41.0
+2018,OECD average,35–44,Total,Tertiary (all),42.0
+2019,OECD average,35–44,Total,Tertiary (all),43.0
+2020,OECD average,35–44,Total,Tertiary (all),45.0
+2021,OECD average,35–44,Total,Tertiary (all),46.0
+2022,OECD average,35–44,Total,Tertiary (all),47.0
+2023,OECD average,35–44,Total,Tertiary (all),47.0
+2014,OECD average,35–44,Women,Bachelor's,19.0
+2015,OECD average,35–44,Women,Bachelor's,20.0
+2016,OECD average,35–44,Women,Bachelor's,21.0
+2017,OECD average,35–44,Women,Bachelor's,21.0
+2018,OECD average,35–44,Women,Bachelor's,22.0
+2019,OECD average,35–44,Women,Bachelor's,22.0
+2020,OECD average,35–44,Women,Bachelor's,23.0
+2021,OECD average,35–44,Women,Bachelor's,24.0
+2022,OECD average,35–44,Women,Bachelor's,24.0
+2023,OECD average,35–44,Women,Bachelor's,24.0
+2014,OECD average,35–44,Women,College/CEGEP,10.0
+2015,OECD average,35–44,Women,College/CEGEP,9.0
+2016,OECD average,35–44,Women,College/CEGEP,9.0
+2017,OECD average,35–44,Women,College/CEGEP,9.0
+2018,OECD average,35–44,Women,College/CEGEP,9.0
+2019,OECD average,35–44,Women,College/CEGEP,8.0
+2020,OECD average,35–44,Women,College/CEGEP,8.0
+2021,OECD average,35–44,Women,College/CEGEP,8.0
+2022,OECD average,35–44,Women,College/CEGEP,9.0
+2023,OECD average,35–44,Women,College/CEGEP,8.0
+2014,OECD average,35–44,Women,Master's/Doctoral,15.0
+2015,OECD average,35–44,Women,Master's/Doctoral,16.0
+2016,OECD average,35–44,Women,Master's/Doctoral,17.0
+2017,OECD average,35–44,Women,Master's/Doctoral,18.0
+2018,OECD average,35–44,Women,Master's/Doctoral,19.0
+2019,OECD average,35–44,Women,Master's/Doctoral,20.0
+2020,OECD average,35–44,Women,Master's/Doctoral,21.0
+2021,OECD average,35–44,Women,Master's/Doctoral,21.0
+2022,OECD average,35–44,Women,Master's/Doctoral,22.0
+2023,OECD average,35–44,Women,Master's/Doctoral,23.0
+2000,OECD average,35–44,Women,Tertiary (all),24.0
+2001,OECD average,35–44,Women,Tertiary (all),23.0
+2002,OECD average,35–44,Women,Tertiary (all),24.0
+2003,OECD average,35–44,Women,Tertiary (all),27.0
+2004,OECD average,35–44,Women,Tertiary (all),27.0
+2005,OECD average,35–44,Women,Tertiary (all),29.0
+2006,OECD average,35–44,Women,Tertiary (all),29.0
+2007,OECD average,35–44,Women,Tertiary (all),31.0
+2008,OECD average,35–44,Women,Tertiary (all),32.0
+2009,OECD average,35–44,Women,Tertiary (all),33.0
+2010,OECD average,35–44,Women,Tertiary (all),35.0
+2011,OECD average,35–44,Women,Tertiary (all),36.0
+2012,OECD average,35–44,Women,Tertiary (all),38.0
+2013,OECD average,35–44,Women,Tertiary (all),39.0
+2014,OECD average,35–44,Women,Tertiary (all),41.0
+2015,OECD average,35–44,Women,Tertiary (all),42.0
+2016,OECD average,35–44,Women,Tertiary (all),44.0
+2017,OECD average,35–44,Women,Tertiary (all),45.0
+2018,OECD average,35–44,Women,Tertiary (all),47.0
+2019,OECD average,35–44,Women,Tertiary (all),48.0
+2020,OECD average,35–44,Women,Tertiary (all),50.0
+2021,OECD average,35–44,Women,Tertiary (all),51.0
+2022,OECD average,35–44,Women,Tertiary (all),52.0
+2023,OECD average,35–44,Women,Tertiary (all),52.0
+2014,OECD average,45–54,Men,Bachelor's,12.0
+2015,OECD average,45–54,Men,Bachelor's,12.0
+2016,OECD average,45–54,Men,Bachelor's,13.0
+2017,OECD average,45–54,Men,Bachelor's,13.0
+2018,OECD average,45–54,Men,Bachelor's,13.0
+2019,OECD average,45–54,Men,Bachelor's,14.0
+2020,OECD average,45–54,Men,Bachelor's,14.0
+2021,OECD average,45–54,Men,Bachelor's,15.0
+2022,OECD average,45–54,Men,Bachelor's,15.0
+2023,OECD average,45–54,Men,Bachelor's,16.0
+2014,OECD average,45–54,Men,College/CEGEP,7.0
+2015,OECD average,45–54,Men,College/CEGEP,7.0
+2016,OECD average,45–54,Men,College/CEGEP,7.0
+2017,OECD average,45–54,Men,College/CEGEP,7.0
+2018,OECD average,45–54,Men,College/CEGEP,8.0
+2019,OECD average,45–54,Men,College/CEGEP,8.0
+2020,OECD average,45–54,Men,College/CEGEP,7.0
+2021,OECD average,45–54,Men,College/CEGEP,7.0
+2022,OECD average,45–54,Men,College/CEGEP,8.0
+2023,OECD average,45–54,Men,College/CEGEP,7.0
+2014,OECD average,45–54,Men,Master's/Doctoral,11.0
+2015,OECD average,45–54,Men,Master's/Doctoral,11.0
+2016,OECD average,45–54,Men,Master's/Doctoral,12.0
+2017,OECD average,45–54,Men,Master's/Doctoral,13.0
+2018,OECD average,45–54,Men,Master's/Doctoral,12.0
+2019,OECD average,45–54,Men,Master's/Doctoral,13.0
+2020,OECD average,45–54,Men,Master's/Doctoral,14.0
+2021,OECD average,45–54,Men,Master's/Doctoral,14.0
+2022,OECD average,45–54,Men,Master's/Doctoral,14.0
+2023,OECD average,45–54,Men,Master's/Doctoral,15.0
+2000,OECD average,45–54,Men,Tertiary (all),22.0
+2001,OECD average,45–54,Men,Tertiary (all),22.0
+2002,OECD average,45–54,Men,Tertiary (all),23.0
+2003,OECD average,45–54,Men,Tertiary (all),24.0
+2004,OECD average,45–54,Men,Tertiary (all),24.0
+2005,OECD average,45–54,Men,Tertiary (all),24.0
+2006,OECD average,45–54,Men,Tertiary (all),24.0
+2007,OECD average,45–54,Men,Tertiary (all),25.0
+2008,OECD average,45–54,Men,Tertiary (all),26.0
+2009,OECD average,45–54,Men,Tertiary (all),26.0
+2010,OECD average,45–54,Men,Tertiary (all),27.0
+2011,OECD average,45–54,Men,Tertiary (all),27.0
+2012,OECD average,45–54,Men,Tertiary (all),28.0
+2013,OECD average,45–54,Men,Tertiary (all),28.0
+2014,OECD average,45–54,Men,Tertiary (all),28.0
+2015,OECD average,45–54,Men,Tertiary (all),28.0
+2016,OECD average,45–54,Men,Tertiary (all),30.0
+2017,OECD average,45–54,Men,Tertiary (all),31.0
+2018,OECD average,45–54,Men,Tertiary (all),31.0
+2019,OECD average,45–54,Men,Tertiary (all),32.0
+2020,OECD average,45–54,Men,Tertiary (all),33.0
+2021,OECD average,45–54,Men,Tertiary (all),34.0
+2022,OECD average,45–54,Men,Tertiary (all),35.0
+2023,OECD average,45–54,Men,Tertiary (all),36.0
+2014,OECD average,45–54,Total,Bachelor's,13.0
+2015,OECD average,45–54,Total,Bachelor's,13.0
+2016,OECD average,45–54,Total,Bachelor's,14.0
+2017,OECD average,45–54,Total,Bachelor's,14.0
+2018,OECD average,45–54,Total,Bachelor's,15.0
+2019,OECD average,45–54,Total,Bachelor's,15.0
+2020,OECD average,45–54,Total,Bachelor's,16.0
+2021,OECD average,45–54,Total,Bachelor's,16.0
+2022,OECD average,45–54,Total,Bachelor's,17.0
+2023,OECD average,45–54,Total,Bachelor's,17.0
+2014,OECD average,45–54,Total,College/CEGEP,8.0
+2015,OECD average,45–54,Total,College/CEGEP,8.0
+2016,OECD average,45–54,Total,College/CEGEP,8.0
+2017,OECD average,45–54,Total,College/CEGEP,8.0
+2018,OECD average,45–54,Total,College/CEGEP,8.0
+2019,OECD average,45–54,Total,College/CEGEP,8.0
+2020,OECD average,45–54,Total,College/CEGEP,7.0
+2021,OECD average,45–54,Total,College/CEGEP,8.0
+2022,OECD average,45–54,Total,College/CEGEP,8.0
+2023,OECD average,45–54,Total,College/CEGEP,7.0
+2014,OECD average,45–54,Total,Master's/Doctoral,11.0
+2015,OECD average,45–54,Total,Master's/Doctoral,11.0
+2016,OECD average,45–54,Total,Master's/Doctoral,12.0
+2017,OECD average,45–54,Total,Master's/Doctoral,12.0
+2018,OECD average,45–54,Total,Master's/Doctoral,13.0
+2019,OECD average,45–54,Total,Master's/Doctoral,14.0
+2020,OECD average,45–54,Total,Master's/Doctoral,15.0
+2021,OECD average,45–54,Total,Master's/Doctoral,15.0
+2022,OECD average,45–54,Total,Master's/Doctoral,15.0
+2023,OECD average,45–54,Total,Master's/Doctoral,16.0
+2000,OECD average,45–54,Total,Tertiary (all),21.0
+2001,OECD average,45–54,Total,Tertiary (all),20.0
+2002,OECD average,45–54,Total,Tertiary (all),22.0
+2003,OECD average,45–54,Total,Tertiary (all),23.0
+2004,OECD average,45–54,Total,Tertiary (all),23.0
+2005,OECD average,45–54,Total,Tertiary (all),24.0
+2006,OECD average,45–54,Total,Tertiary (all),24.0
+2007,OECD average,45–54,Total,Tertiary (all),25.0
+2008,OECD average,45–54,Total,Tertiary (all),26.0
+2009,OECD average,45–54,Total,Tertiary (all),26.0
+2010,OECD average,45–54,Total,Tertiary (all),27.0
+2011,OECD average,45–54,Total,Tertiary (all),28.0
+2012,OECD average,45–54,Total,Tertiary (all),29.0
+2013,OECD average,45–54,Total,Tertiary (all),29.0
+2014,OECD average,45–54,Total,Tertiary (all),30.0
+2015,OECD average,45–54,Total,Tertiary (all),30.0
+2016,OECD average,45–54,Total,Tertiary (all),31.0
+2017,OECD average,45–54,Total,Tertiary (all),32.0
+2018,OECD average,45–54,Total,Tertiary (all),33.0
+2019,OECD average,45–54,Total,Tertiary (all),35.0
+2020,OECD average,45–54,Total,Tertiary (all),36.0
+2021,OECD average,45–54,Total,Tertiary (all),37.0
+2022,OECD average,45–54,Total,Tertiary (all),38.0
+2023,OECD average,45–54,Total,Tertiary (all),39.0
+2014,OECD average,45–54,Women,Bachelor's,14.0
+2015,OECD average,45–54,Women,Bachelor's,14.0
+2016,OECD average,45–54,Women,Bachelor's,15.0
+2017,OECD average,45–54,Women,Bachelor's,15.0
+2018,OECD average,45–54,Women,Bachelor's,16.0
+2019,OECD average,45–54,Women,Bachelor's,16.0
+2020,OECD average,45–54,Women,Bachelor's,17.0
+2021,OECD average,45–54,Women,Bachelor's,18.0
+2022,OECD average,45–54,Women,Bachelor's,19.0
+2023,OECD average,45–54,Women,Bachelor's,19.0
+2014,OECD average,45–54,Women,College/CEGEP,9.0
+2015,OECD average,45–54,Women,College/CEGEP,9.0
+2016,OECD average,45–54,Women,College/CEGEP,8.0
+2017,OECD average,45–54,Women,College/CEGEP,9.0
+2018,OECD average,45–54,Women,College/CEGEP,9.0
+2019,OECD average,45–54,Women,College/CEGEP,9.0
+2020,OECD average,45–54,Women,College/CEGEP,8.0
+2021,OECD average,45–54,Women,College/CEGEP,8.0
+2022,OECD average,45–54,Women,College/CEGEP,9.0
+2023,OECD average,45–54,Women,College/CEGEP,8.0
+2014,OECD average,45–54,Women,Master's/Doctoral,11.0
+2015,OECD average,45–54,Women,Master's/Doctoral,11.0
+2016,OECD average,45–54,Women,Master's/Doctoral,12.0
+2017,OECD average,45–54,Women,Master's/Doctoral,12.0
+2018,OECD average,45–54,Women,Master's/Doctoral,13.0
+2019,OECD average,45–54,Women,Master's/Doctoral,14.0
+2020,OECD average,45–54,Women,Master's/Doctoral,16.0
+2021,OECD average,45–54,Women,Master's/Doctoral,16.0
+2022,OECD average,45–54,Women,Master's/Doctoral,16.0
+2023,OECD average,45–54,Women,Master's/Doctoral,16.0
+2000,OECD average,45–54,Women,Tertiary (all),19.0
+2001,OECD average,45–54,Women,Tertiary (all),19.0
+2002,OECD average,45–54,Women,Tertiary (all),21.0
+2003,OECD average,45–54,Women,Tertiary (all),22.0
+2004,OECD average,45–54,Women,Tertiary (all),22.0
+2005,OECD average,45–54,Women,Tertiary (all),24.0
+2006,OECD average,45–54,Women,Tertiary (all),24.0
+2007,OECD average,45–54,Women,Tertiary (all),25.0
+2008,OECD average,45–54,Women,Tertiary (all),26.0
+2009,OECD average,45–54,Women,Tertiary (all),27.0
+2010,OECD average,45–54,Women,Tertiary (all),28.0
+2011,OECD average,45–54,Women,Tertiary (all),28.0
+2012,OECD average,45–54,Women,Tertiary (all),30.0
+2013,OECD average,45–54,Women,Tertiary (all),30.0
+2014,OECD average,45–54,Women,Tertiary (all),31.0
+2015,OECD average,45–54,Women,Tertiary (all),32.0
+2016,OECD average,45–54,Women,Tertiary (all),33.0
+2017,OECD average,45–54,Women,Tertiary (all),34.0
+2018,OECD average,45–54,Women,Tertiary (all),35.0
+2019,OECD average,45–54,Women,Tertiary (all),37.0
+2020,OECD average,45–54,Women,Tertiary (all),39.0
+2021,OECD average,45–54,Women,Tertiary (all),40.0
+2022,OECD average,45–54,Women,Tertiary (all),42.0
+2023,OECD average,45–54,Women,Tertiary (all),42.0
+2014,OECD average,55–64,Men,Bachelor's,11.0
+2015,OECD average,55–64,Men,Bachelor's,11.0
+2016,OECD average,55–64,Men,Bachelor's,12.0
+2017,OECD average,55–64,Men,Bachelor's,11.0
+2018,OECD average,55–64,Men,Bachelor's,11.0
+2019,OECD average,55–64,Men,Bachelor's,12.0
+2020,OECD average,55–64,Men,Bachelor's,11.0
+2021,OECD average,55–64,Men,Bachelor's,12.0
+2022,OECD average,55–64,Men,Bachelor's,12.0
+2023,OECD average,55–64,Men,Bachelor's,12.0
+2014,OECD average,55–64,Men,College/CEGEP,6.0
+2015,OECD average,55–64,Men,College/CEGEP,7.0
+2016,OECD average,55–64,Men,College/CEGEP,6.0
+2017,OECD average,55–64,Men,College/CEGEP,7.0
+2018,OECD average,55–64,Men,College/CEGEP,6.0
+2019,OECD average,55–64,Men,College/CEGEP,7.0
+2020,OECD average,55–64,Men,College/CEGEP,7.0
+2021,OECD average,55–64,Men,College/CEGEP,7.0
+2022,OECD average,55–64,Men,College/CEGEP,7.0
+2023,OECD average,55–64,Men,College/CEGEP,7.0
+2014,OECD average,55–64,Men,Master's/Doctoral,10.0
+2015,OECD average,55–64,Men,Master's/Doctoral,10.0
+2016,OECD average,55–64,Men,Master's/Doctoral,10.0
+2017,OECD average,55–64,Men,Master's/Doctoral,10.0
+2018,OECD average,55–64,Men,Master's/Doctoral,11.0
+2019,OECD average,55–64,Men,Master's/Doctoral,11.0
+2020,OECD average,55–64,Men,Master's/Doctoral,12.0
+2021,OECD average,55–64,Men,Master's/Doctoral,12.0
+2022,OECD average,55–64,Men,Master's/Doctoral,12.0
+2023,OECD average,55–64,Men,Master's/Doctoral,12.0
+2000,OECD average,55–64,Men,Tertiary (all),18.0
+2001,OECD average,55–64,Men,Tertiary (all),18.0
+2002,OECD average,55–64,Men,Tertiary (all),20.0
+2003,OECD average,55–64,Men,Tertiary (all),21.0
+2004,OECD average,55–64,Men,Tertiary (all),21.0
+2005,OECD average,55–64,Men,Tertiary (all),22.0
+2006,OECD average,55–64,Men,Tertiary (all),21.0
+2007,OECD average,55–64,Men,Tertiary (all),23.0
+2008,OECD average,55–64,Men,Tertiary (all),23.0
+2009,OECD average,55–64,Men,Tertiary (all),23.0
+2010,OECD average,55–64,Men,Tertiary (all),24.0
+2011,OECD average,55–64,Men,Tertiary (all),24.0
+2012,OECD average,55–64,Men,Tertiary (all),25.0
+2013,OECD average,55–64,Men,Tertiary (all),25.0
+2014,OECD average,55–64,Men,Tertiary (all),26.0
+2015,OECD average,55–64,Men,Tertiary (all),26.0
+2016,OECD average,55–64,Men,Tertiary (all),26.0
+2017,OECD average,55–64,Men,Tertiary (all),26.0
+2018,OECD average,55–64,Men,Tertiary (all),27.0
+2019,OECD average,55–64,Men,Tertiary (all),28.0
+2020,OECD average,55–64,Men,Tertiary (all),28.0
+2021,OECD average,55–64,Men,Tertiary (all),29.0
+2022,OECD average,55–64,Men,Tertiary (all),29.0
+2023,OECD average,55–64,Men,Tertiary (all),29.0
+2014,OECD average,55–64,Total,Bachelor's,11.0
+2015,OECD average,55–64,Total,Bachelor's,11.0
+2016,OECD average,55–64,Total,Bachelor's,11.0
+2017,OECD average,55–64,Total,Bachelor's,11.0
+2018,OECD average,55–64,Total,Bachelor's,12.0
+2019,OECD average,55–64,Total,Bachelor's,12.0
+2020,OECD average,55–64,Total,Bachelor's,12.0
+2021,OECD average,55–64,Total,Bachelor's,13.0
+2022,OECD average,55–64,Total,Bachelor's,13.0
+2023,OECD average,55–64,Total,Bachelor's,13.0
+2014,OECD average,55–64,Total,College/CEGEP,7.0
+2015,OECD average,55–64,Total,College/CEGEP,7.0
+2016,OECD average,55–64,Total,College/CEGEP,7.0
+2017,OECD average,55–64,Total,College/CEGEP,7.0
+2018,OECD average,55–64,Total,College/CEGEP,7.0
+2019,OECD average,55–64,Total,College/CEGEP,7.0
+2020,OECD average,55–64,Total,College/CEGEP,7.0
+2021,OECD average,55–64,Total,College/CEGEP,7.0
+2022,OECD average,55–64,Total,College/CEGEP,8.0
+2023,OECD average,55–64,Total,College/CEGEP,7.0
+2014,OECD average,55–64,Total,Master's/Doctoral,9.0
+2015,OECD average,55–64,Total,Master's/Doctoral,9.0
+2016,OECD average,55–64,Total,Master's/Doctoral,10.0
+2017,OECD average,55–64,Total,Master's/Doctoral,10.0
+2018,OECD average,55–64,Total,Master's/Doctoral,10.0
+2019,OECD average,55–64,Total,Master's/Doctoral,11.0
+2020,OECD average,55–64,Total,Master's/Doctoral,12.0
+2021,OECD average,55–64,Total,Master's/Doctoral,11.0
+2022,OECD average,55–64,Total,Master's/Doctoral,12.0
+2023,OECD average,55–64,Total,Master's/Doctoral,12.0
+2000,OECD average,55–64,Total,Tertiary (all),15.0
+2001,OECD average,55–64,Total,Tertiary (all),15.0
+2002,OECD average,55–64,Total,Tertiary (all),17.0
+2003,OECD average,55–64,Total,Tertiary (all),18.0
+2004,OECD average,55–64,Total,Tertiary (all),18.0
+2005,OECD average,55–64,Total,Tertiary (all),20.0
+2006,OECD average,55–64,Total,Tertiary (all),19.0
+2007,OECD average,55–64,Total,Tertiary (all),21.0
+2008,OECD average,55–64,Total,Tertiary (all),22.0
+2009,OECD average,55–64,Total,Tertiary (all),22.0
+2010,OECD average,55–64,Total,Tertiary (all),23.0
+2011,OECD average,55–64,Total,Tertiary (all),23.0
+2012,OECD average,55–64,Total,Tertiary (all),24.0
+2013,OECD average,55–64,Total,Tertiary (all),24.0
+2014,OECD average,55–64,Total,Tertiary (all),25.0
+2015,OECD average,55–64,Total,Tertiary (all),25.0
+2016,OECD average,55–64,Total,Tertiary (all),26.0
+2017,OECD average,55–64,Total,Tertiary (all),26.0
+2018,OECD average,55–64,Total,Tertiary (all),27.0
+2019,OECD average,55–64,Total,Tertiary (all),28.0
+2020,OECD average,55–64,Total,Tertiary (all),29.0
+2021,OECD average,55–64,Total,Tertiary (all),30.0
+2022,OECD average,55–64,Total,Tertiary (all),30.0
+2023,OECD average,55–64,Total,Tertiary (all),30.0
+2014,OECD average,55–64,Women,Bachelor's,11.0
+2015,OECD average,55–64,Women,Bachelor's,11.0
+2016,OECD average,55–64,Women,Bachelor's,11.0
+2017,OECD average,55–64,Women,Bachelor's,11.0
+2018,OECD average,55–64,Women,Bachelor's,12.0
+2019,OECD average,55–64,Women,Bachelor's,12.0
+2020,OECD average,55–64,Women,Bachelor's,12.0
+2021,OECD average,55–64,Women,Bachelor's,13.0
+2022,OECD average,55–64,Women,Bachelor's,13.0
+2023,OECD average,55–64,Women,Bachelor's,14.0
+2014,OECD average,55–64,Women,College/CEGEP,8.0
+2015,OECD average,55–64,Women,College/CEGEP,8.0
+2016,OECD average,55–64,Women,College/CEGEP,7.0
+2017,OECD average,55–64,Women,College/CEGEP,8.0
+2018,OECD average,55–64,Women,College/CEGEP,8.0
+2019,OECD average,55–64,Women,College/CEGEP,8.0
+2020,OECD average,55–64,Women,College/CEGEP,8.0
+2021,OECD average,55–64,Women,College/CEGEP,8.0
+2022,OECD average,55–64,Women,College/CEGEP,8.0
+2023,OECD average,55–64,Women,College/CEGEP,9.0
+2014,OECD average,55–64,Women,Master's/Doctoral,8.0
+2015,OECD average,55–64,Women,Master's/Doctoral,8.0
+2016,OECD average,55–64,Women,Master's/Doctoral,9.0
+2017,OECD average,55–64,Women,Master's/Doctoral,9.0
+2018,OECD average,55–64,Women,Master's/Doctoral,10.0
+2019,OECD average,55–64,Women,Master's/Doctoral,10.0
+2020,OECD average,55–64,Women,Master's/Doctoral,11.0
+2021,OECD average,55–64,Women,Master's/Doctoral,11.0
+2022,OECD average,55–64,Women,Master's/Doctoral,11.0
+2023,OECD average,55–64,Women,Master's/Doctoral,12.0
+2000,OECD average,55–64,Women,Tertiary (all),13.0
+2001,OECD average,55–64,Women,Tertiary (all),13.0
+2002,OECD average,55–64,Women,Tertiary (all),14.0
+2003,OECD average,55–64,Women,Tertiary (all),15.0
+2004,OECD average,55–64,Women,Tertiary (all),15.0
+2005,OECD average,55–64,Women,Tertiary (all),17.0
+2006,OECD average,55–64,Women,Tertiary (all),17.0
+2007,OECD average,55–64,Women,Tertiary (all),19.0
+2008,OECD average,55–64,Women,Tertiary (all),20.0
+2009,OECD average,55–64,Women,Tertiary (all),20.0
+2010,OECD average,55–64,Women,Tertiary (all),21.0
+2011,OECD average,55–64,Women,Tertiary (all),22.0
+2012,OECD average,55–64,Women,Tertiary (all),23.0
+2013,OECD average,55–64,Women,Tertiary (all),24.0
+2014,OECD average,55–64,Women,Tertiary (all),25.0
+2015,OECD average,55–64,Women,Tertiary (all),25.0
+2016,OECD average,55–64,Women,Tertiary (all),26.0
+2017,OECD average,55–64,Women,Tertiary (all),26.0
+2018,OECD average,55–64,Women,Tertiary (all),28.0
+2019,OECD average,55–64,Women,Tertiary (all),29.0
+2020,OECD average,55–64,Women,Tertiary (all),30.0
+2021,OECD average,55–64,Women,Tertiary (all),31.0
+2022,OECD average,55–64,Women,Tertiary (all),31.0
+2023,OECD average,55–64,Women,Tertiary (all),32.0

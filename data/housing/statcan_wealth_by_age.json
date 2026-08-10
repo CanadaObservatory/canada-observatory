@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_wealth_by_age",
+  "source": "Statistics Canada",
+  "source_table": "36-10-0660-01",
+  "frequency": "quarterly",
+  "unit": "dollars per household (modelled, DHEA)",
+  "retrieved_at": "2026-08-10T15:06:04.216630+00:00",
+  "latest_observation_date": "2025-10-01",
+  "next_release_date": null,
+  "transformations": [
+    "Canada; value per household; five age groups; net worth / real estate / mortgage liabilities; DHEA modelled experimental estimates"
+  ],
+  "notes": null,
+  "row_count": 170
+}

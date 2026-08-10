@@ -1,0 +1,17 @@
+{
+  "dataset_id": "statcan_interprovincial_migration",
+  "source": "Statistics Canada",
+  "source_table": "17-10-0020-01",
+  "frequency": "annual",
+  "unit": "persons (net)",
+  "retrieved_at": "2026-08-10T15:03:35.504703+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "net = in-migrants \u2212 out-migrants",
+    "quarters summed to July\u2013June years labelled by ending year",
+    "incomplete years dropped"
+  ],
+  "notes": null,
+  "row_count": 782
+}

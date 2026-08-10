@@ -1,0 +1,15 @@
+{
+  "dataset_id": "ircc_pr_by_category",
+  "source": "Immigration, Refugees and Citizenship Canada (open data)",
+  "source_table": "IRCC ODP-PR-Citz_immcat",
+  "frequency": "annual",
+  "unit": "persons (rounded to nearest 5)",
+  "retrieved_at": "2026-08-10T15:03:27.687495+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "PRs admitted, annual by main immigration category; complete years only"
+  ],
+  "notes": null,
+  "row_count": 44
+}

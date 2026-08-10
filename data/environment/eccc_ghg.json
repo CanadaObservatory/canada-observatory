@@ -1,0 +1,15 @@
+{
+  "dataset_id": "eccc_ghg",
+  "source": "Environment and Climate Change Canada",
+  "source_table": "ECCC National Inventory Report / CESI (greenhouse gas emissions)",
+  "frequency": "annual",
+  "unit": "megatonnes CO2 equivalent (NIR basis)",
+  "retrieved_at": "2026-08-10T15:08:57.248691+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "national total GHG emissions, National Inventory Report basis"
+  ],
+  "notes": null,
+  "row_count": 34
+}

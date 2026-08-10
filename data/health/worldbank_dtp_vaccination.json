@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_dtp_vaccination",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "World Bank (WHO/UNICEF estimates)",
+  "frequency": "annual",
+  "unit": "% of children 12\u201323 months",
+  "retrieved_at": "2026-08-10T15:07:48.879027+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "World Bank indicator SH.IMM.IDPT, filtered to 17 OECD peers"
+  ],
+  "notes": null,
+  "row_count": 737
+}

@@ -1,0 +1,16 @@
+{
+  "dataset_id": "cesi_air_quality",
+  "source": "Environment and Climate Change Canada",
+  "source_table": "ECCC Canadian Environmental Sustainability Indicators \u2014 air quality (NAPS)",
+  "frequency": "annual",
+  "unit": "index (2009 = 100), population-weighted concentration",
+  "retrieved_at": "2026-08-10T15:09:01.245077+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "national population-weighted concentration, indexed to 2009 = 100",
+    "tidy long: year, pollutant, metric (average/peak), index"
+  ],
+  "notes": null,
+  "row_count": 134
+}

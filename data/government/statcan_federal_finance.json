@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_federal_finance",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 36-10-0477-01, 36-10-0222-01",
+  "frequency": "annual",
+  "unit": "$ millions / % of GDP",
+  "retrieved_at": "2026-08-10T15:05:41.067350+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "Federal general government, unadjusted quarterly flows summed to annual; % of GDP vs current-prices GDP at market prices (1981\u2013)"
+  ],
+  "notes": null,
+  "row_count": 65
+}

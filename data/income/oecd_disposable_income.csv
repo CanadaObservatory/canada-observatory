@@ -1,0 +1,244 @@
+country_code,year,disposable_income_index,country_name
+AUS,2007,100.0,Australia
+AUS,2008,103.55,Australia
+AUS,2009,105.71,Australia
+AUS,2010,107.82,Australia
+AUS,2011,111.79,Australia
+AUS,2012,110.77,Australia
+AUS,2013,111.32,Australia
+AUS,2014,113.63,Australia
+AUS,2015,114.27,Australia
+AUS,2016,114.18,Australia
+AUS,2017,114.47,Australia
+AUS,2018,115.83,Australia
+AUS,2019,116.39,Australia
+AUS,2020,121.55,Australia
+AUS,2021,125.18,Australia
+AUS,2022,123.42,Australia
+AUS,2023,117.64,Australia
+AUS,2024,117.79,Australia
+AUS,2025,120.42,Australia
+CAN,2007,100.0,Canada
+CAN,2008,103.19,Canada
+CAN,2009,104.44,Canada
+CAN,2010,106.82,Canada
+CAN,2011,107.23,Canada
+CAN,2012,108.87,Canada
+CAN,2013,111.1,Canada
+CAN,2014,111.4,Canada
+CAN,2015,114.18,Canada
+CAN,2016,112.81,Canada
+CAN,2017,115.8,Canada
+CAN,2018,116.1,Canada
+CAN,2019,117.58,Canada
+CAN,2020,125.04,Canada
+CAN,2021,125.1,Canada
+CAN,2022,122.16,Canada
+CAN,2023,121.71,Canada
+CAN,2024,123.74,Canada
+CAN,2025,125.05,Canada
+DEU,2007,100.0,Germany
+DEU,2008,100.52,Germany
+DEU,2009,100.62,Germany
+DEU,2010,101.43,Germany
+DEU,2011,102.64,Germany
+DEU,2012,103.28,Germany
+DEU,2013,103.04,Germany
+DEU,2014,104.51,Germany
+DEU,2015,106.39,Germany
+DEU,2016,108.15,Germany
+DEU,2017,109.95,Germany
+DEU,2018,112.46,Germany
+DEU,2019,113.79,Germany
+DEU,2020,113.72,Germany
+DEU,2021,114.21,Germany
+DEU,2022,116.52,Germany
+DEU,2023,115.3,Germany
+DEU,2024,116.8,Germany
+DEU,2025,117.47,Germany
+DNK,2007,100.0,Denmark
+DNK,2008,98.61,Denmark
+DNK,2009,100.18,Denmark
+DNK,2010,102.27,Denmark
+DNK,2011,103.64,Denmark
+DNK,2012,102.54,Denmark
+DNK,2013,102.22,Denmark
+DNK,2014,101.89,Denmark
+DNK,2015,105.91,Denmark
+DNK,2016,110.41,Denmark
+DNK,2017,112.23,Denmark
+DNK,2018,115.39,Denmark
+DNK,2019,117.13,Denmark
+DNK,2020,117.18,Denmark
+DNK,2021,117.98,Denmark
+DNK,2022,119.57,Denmark
+DNK,2023,122.04,Denmark
+DNK,2024,123.23,Denmark
+DNK,2025,125.61,Denmark
+FIN,2007,100.0,Finland
+FIN,2008,101.83,Finland
+FIN,2009,102.07,Finland
+FIN,2010,104.77,Finland
+FIN,2011,105.27,Finland
+FIN,2012,104.65,Finland
+FIN,2013,103.87,Finland
+FIN,2014,103.35,Finland
+FIN,2015,104.21,Finland
+FIN,2016,105.36,Finland
+FIN,2017,106.45,Finland
+FIN,2018,108.38,Finland
+FIN,2019,110.86,Finland
+FIN,2020,111.2,Finland
+FIN,2021,111.94,Finland
+FIN,2022,109.45,Finland
+FIN,2023,109.87,Finland
+FIN,2024,110.69,Finland
+FIN,2025,109.91,Finland
+FRA,2007,100.0,France
+FRA,2008,99.96,France
+FRA,2009,101.34,France
+FRA,2010,102.5,France
+FRA,2011,102.36,France
+FRA,2012,101.67,France
+FRA,2013,100.23,France
+FRA,2014,101.07,France
+FRA,2015,101.6,France
+FRA,2016,102.72,France
+FRA,2017,104.11,France
+FRA,2018,104.58,France
+FRA,2019,106.79,France
+FRA,2020,106.61,France
+FRA,2021,109.82,France
+FRA,2022,110.06,France
+FRA,2023,110.86,France
+FRA,2024,113.4,France
+FRA,2025,113.67,France
+GBR,2007,100.0,United Kingdom
+GBR,2008,98.7,United Kingdom
+GBR,2009,99.57,United Kingdom
+GBR,2010,99.75,United Kingdom
+GBR,2011,96.57,United Kingdom
+GBR,2012,98.27,United Kingdom
+GBR,2013,99.37,United Kingdom
+GBR,2014,100.96,United Kingdom
+GBR,2015,106.26,United Kingdom
+GBR,2016,106.25,United Kingdom
+GBR,2017,106.66,United Kingdom
+GBR,2018,108.21,United Kingdom
+GBR,2019,110.3,United Kingdom
+GBR,2020,109.46,United Kingdom
+GBR,2021,110.8,United Kingdom
+GBR,2022,107.36,United Kingdom
+GBR,2023,106.94,United Kingdom
+GBR,2024,110.08,United Kingdom
+GBR,2025,110.89,United Kingdom
+ITA,2007,100.0,Italy
+ITA,2008,97.65,Italy
+ITA,2009,95.38,Italy
+ITA,2010,93.37,Italy
+ITA,2011,92.77,Italy
+ITA,2012,87.47,Italy
+ITA,2013,86.59,Italy
+ITA,2014,87.01,Italy
+ITA,2015,88.12,Italy
+ITA,2016,88.97,Italy
+ITA,2017,89.83,Italy
+ITA,2018,90.17,Italy
+ITA,2019,90.22,Italy
+ITA,2020,88.36,Italy
+ITA,2021,91.85,Italy
+ITA,2022,91.88,Italy
+ITA,2023,92.43,Italy
+ITA,2024,93.49,Italy
+ITA,2025,94.27,Italy
+JPN,2007,100.0,Japan
+JPN,2008,99.13,Japan
+JPN,2009,99.78,Japan
+JPN,2010,100.55,Japan
+JPN,2011,100.58,Japan
+JPN,2012,101.48,Japan
+JPN,2013,101.99,Japan
+JPN,2014,100.61,Japan
+JPN,2015,101.42,Japan
+JPN,2016,102.3,Japan
+JPN,2017,102.77,Japan
+JPN,2018,103.24,Japan
+JPN,2019,103.78,Japan
+JPN,2020,107.78,Japan
+JPN,2021,104.97,Japan
+JPN,2022,105.01,Japan
+JPN,2023,102.55,Japan
+JPN,2024,103.84,Japan
+NLD,2007,100.0,Netherlands
+NLD,2008,100.68,Netherlands
+NLD,2009,101.15,Netherlands
+NLD,2010,100.15,Netherlands
+NLD,2011,99.02,Netherlands
+NLD,2012,97.79,Netherlands
+NLD,2013,96.12,Netherlands
+NLD,2014,97.56,Netherlands
+NLD,2015,99.75,Netherlands
+NLD,2016,102.07,Netherlands
+NLD,2017,102.09,Netherlands
+NLD,2018,104.79,Netherlands
+NLD,2019,107.0,Netherlands
+NLD,2020,108.96,Netherlands
+NLD,2021,110.09,Netherlands
+NLD,2022,109.98,Netherlands
+NLD,2023,110.7,Netherlands
+NLD,2024,113.02,Netherlands
+NLD,2025,115.61,Netherlands
+NOR,2007,100.0,Norway
+NOR,2008,102.17,Norway
+NOR,2009,104.54,Norway
+NOR,2010,106.38,Norway
+NOR,2011,109.94,Norway
+NOR,2012,113.65,Norway
+NOR,2013,117.12,Norway
+NOR,2014,119.22,Norway
+NOR,2015,124.66,Norway
+NOR,2016,122.66,Norway
+NOR,2017,124.84,Norway
+NOR,2018,126.25,Norway
+NOR,2019,129.1,Norway
+NOR,2020,130.71,Norway
+NOR,2021,136.15,Norway
+NOR,2022,131.9,Norway
+SWE,2007,100.0,Sweden
+SWE,2008,102.52,Sweden
+SWE,2009,103.54,Sweden
+SWE,2010,105.81,Sweden
+SWE,2011,108.6,Sweden
+SWE,2012,112.22,Sweden
+SWE,2013,113.28,Sweden
+SWE,2014,114.74,Sweden
+SWE,2015,116.32,Sweden
+SWE,2016,118.75,Sweden
+SWE,2017,119.82,Sweden
+SWE,2018,120.49,Sweden
+SWE,2019,121.89,Sweden
+SWE,2020,120.58,Sweden
+SWE,2021,125.1,Sweden
+SWE,2022,125.37,Sweden
+SWE,2023,123.3,Sweden
+SWE,2024,124.26,Sweden
+SWE,2025,125.78,Sweden
+USA,2007,100.0,United States
+USA,2008,100.75,United States
+USA,2009,100.19,United States
+USA,2010,101.21,United States
+USA,2011,102.61,United States
+USA,2012,104.61,United States
+USA,2013,102.63,United States
+USA,2014,105.39,United States
+USA,2015,108.56,United States
+USA,2016,109.87,United States
+USA,2017,112.51,United States
+USA,2018,115.82,United States
+USA,2019,118.81,United States
+USA,2020,126.38,United States
+USA,2021,131.33,United States
+USA,2022,123.69,United States
+USA,2023,128.63,United States
+USA,2024,130.96,United States
+USA,2025,132.49,United States

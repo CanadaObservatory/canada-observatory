@@ -1,0 +1,705 @@
+geography,geo_level,year,group,count,share
+Calgary,cma,2006,All visible minorities,182815,21.04
+Calgary,cma,2011,All visible minorities,258575,26.48
+Calgary,cma,2016,All visible minorities,355315,31.9
+Calgary,cma,2021,All visible minorities,439845,36.92
+Calgary,cma,2006,Arab,7815,0.9
+Calgary,cma,2011,Arab,11675,1.2
+Calgary,cma,2016,Arab,18275,1.64
+Calgary,cma,2021,Arab,22995,1.93
+Calgary,cma,2006,Black,14730,1.7
+Calgary,cma,2011,Black,22830,2.34
+Calgary,cma,2016,Black,36720,3.3
+Calgary,cma,2021,Black,50850,4.27
+Calgary,cma,2006,Chinese,54150,6.23
+Calgary,cma,2011,Chinese,62220,6.37
+Calgary,cma,2016,Chinese,74165,6.66
+Calgary,cma,2021,Chinese,77385,6.5
+Calgary,cma,2006,Filipino,19750,2.27
+Calgary,cma,2011,Filipino,38320,3.92
+Calgary,cma,2016,Filipino,55670,5.0
+Calgary,cma,2021,Filipino,71285,5.98
+Calgary,cma,2006,Latin American,10935,1.26
+Calgary,cma,2011,Latin American,16570,1.7
+Calgary,cma,2016,Latin American,22785,2.05
+Calgary,cma,2021,Latin American,29090,2.44
+Calgary,cma,2006,Not a visible minority,686095,78.96
+Calgary,cma,2011,Not a visible minority,718000,73.52
+Calgary,cma,2016,Not a visible minority,758650,68.1
+Calgary,cma,2021,Not a visible minority,751510,63.08
+Calgary,cma,2006,South Asian,43600,5.02
+Calgary,cma,2011,South Asian,63565,6.51
+Calgary,cma,2016,South Asian,92415,8.3
+Calgary,cma,2021,South Asian,118590,9.95
+Edmonton,cma,2006,All visible minorities,135565,16.25
+Edmonton,cma,2011,All visible minorities,197380,21.1
+Edmonton,cma,2016,All visible minorities,279275,26.48
+Edmonton,cma,2021,All visible minorities,352620,31.08
+Edmonton,cma,2006,Arab,8435,1.01
+Edmonton,cma,2011,Arab,10690,1.14
+Edmonton,cma,2016,Arab,17470,1.66
+Edmonton,cma,2021,Arab,21670,1.91
+Edmonton,cma,2006,Black,13640,1.64
+Edmonton,cma,2011,Black,22530,2.41
+Edmonton,cma,2016,Black,39340,3.73
+Edmonton,cma,2021,Black,54400,4.8
+Edmonton,cma,2006,Chinese,39315,4.71
+Edmonton,cma,2011,Chinese,43585,4.66
+Edmonton,cma,2016,Chinese,51290,4.86
+Edmonton,cma,2021,Chinese,52370,4.62
+Edmonton,cma,2006,Filipino,15105,1.81
+Edmonton,cma,2011,Filipino,31810,3.4
+Edmonton,cma,2016,Filipino,47690,4.52
+Edmonton,cma,2021,Filipino,63545,5.6
+Edmonton,cma,2006,Latin American,7545,0.9
+Edmonton,cma,2011,Latin American,11770,1.26
+Edmonton,cma,2016,Latin American,15585,1.48
+Edmonton,cma,2021,Latin American,18370,1.62
+Edmonton,cma,2006,Not a visible minority,698450,83.75
+Edmonton,cma,2011,Not a visible minority,737900,78.9
+Edmonton,cma,2016,Not a visible minority,775360,73.52
+Edmonton,cma,2021,Not a visible minority,781795,68.92
+Edmonton,cma,2006,South Asian,30970,3.71
+Edmonton,cma,2011,South Asian,46435,4.96
+Edmonton,cma,2016,South Asian,70100,6.65
+Edmonton,cma,2021,South Asian,95620,8.43
+Halifax,cma,2006,All visible minorities,20875,6.41
+Halifax,cma,2011,All visible minorities,27190,7.91
+Halifax,cma,2016,All visible minorities,35205,9.88
+Halifax,cma,2021,All visible minorities,57185,14.59
+Halifax,cma,2006,Arab,2950,0.91
+Halifax,cma,2011,Arab,4360,1.27
+Halifax,cma,2016,Arab,5565,1.56
+Halifax,cma,2021,Arab,6990,1.78
+Halifax,cma,2006,Black,9415,2.89
+Halifax,cma,2011,Black,9975,2.9
+Halifax,cma,2016,Black,10985,3.08
+Halifax,cma,2021,Black,14890,3.8
+Halifax,cma,2006,Chinese,2430,0.75
+Halifax,cma,2011,Chinese,3745,1.09
+Halifax,cma,2016,Chinese,5750,1.61
+Halifax,cma,2021,Chinese,7925,2.02
+Halifax,cma,2006,Filipino,430,0.13
+Halifax,cma,2011,Filipino,1010,0.29
+Halifax,cma,2016,Filipino,2030,0.57
+Halifax,cma,2021,Filipino,3495,0.89
+Halifax,cma,2006,Latin American,640,0.2
+Halifax,cma,2011,Latin American,885,0.26
+Halifax,cma,2016,Latin American,1110,0.31
+Halifax,cma,2021,Latin American,1990,0.51
+Halifax,cma,2006,Not a visible minority,304985,93.59
+Halifax,cma,2011,Not a visible minority,316735,92.09
+Halifax,cma,2016,Not a visible minority,321295,90.13
+Halifax,cma,2021,Not a visible minority,334705,85.41
+Halifax,cma,2006,South Asian,2490,0.76
+Halifax,cma,2011,South Asian,3205,0.93
+Halifax,cma,2016,South Asian,5415,1.52
+Halifax,cma,2021,South Asian,14255,3.64
+Montréal,cma,2006,All visible minorities,448170,14.75
+Montréal,cma,2011,All visible minorities,584090,18.18
+Montréal,cma,2016,All visible minorities,691840,20.82
+Montréal,cma,2021,All visible minorities,887705,25.47
+Montréal,cma,2006,Arab,73355,2.41
+Montréal,cma,2011,Arab,109890,3.42
+Montréal,cma,2016,Arab,137120,4.13
+Montréal,cma,2021,Arab,182660,5.24
+Montréal,cma,2006,Black,123950,4.08
+Montréal,cma,2011,Black,161035,5.01
+Montréal,cma,2016,Black,199780,6.01
+Montréal,cma,2021,Black,251575,7.22
+Montréal,cma,2006,Chinese,56760,1.87
+Montréal,cma,2011,Chinese,59920,1.87
+Montréal,cma,2016,Chinese,72420,2.18
+Montréal,cma,2021,Chinese,84720,2.43
+Montréal,cma,2006,Filipino,18895,0.62
+Montréal,cma,2011,Filipino,24565,0.76
+Montréal,cma,2016,Filipino,26930,0.81
+Montréal,cma,2021,Filipino,33230,0.95
+Montréal,cma,2006,Latin American,59660,1.96
+Montréal,cma,2011,Latin American,79545,2.48
+Montréal,cma,2016,Latin American,91115,2.74
+Montréal,cma,2021,Latin American,115990,3.33
+Montréal,cma,2006,Not a visible minority,2591305,85.26
+Montréal,cma,2011,Not a visible minority,2628560,81.82
+Montréal,cma,2016,Not a visible minority,2631605,79.18
+Montréal,cma,2021,Not a visible minority,2597870,74.53
+Montréal,cma,2006,South Asian,53040,1.75
+Montréal,cma,2011,South Asian,60305,1.88
+Montréal,cma,2016,South Asian,67260,2.02
+Montréal,cma,2021,South Asian,98430,2.82
+Ottawa - Gatineau,cma,2006,All visible minorities,134130,13.96
+Ottawa - Gatineau,cma,2011,All visible minorities,178125,16.85
+Ottawa - Gatineau,cma,2016,All visible minorities,216540,19.46
+Ottawa - Gatineau,cma,2021,All visible minorities,300040,24.73
+Ottawa - Gatineau,cma,2006,Arab,20720,2.16
+Ottawa - Gatineau,cma,2011,Arab,28795,2.72
+Ottawa - Gatineau,cma,2016,Arab,36695,3.3
+Ottawa - Gatineau,cma,2021,Arab,51485,4.24
+Ottawa - Gatineau,cma,2006,Black,30515,3.18
+Ottawa - Gatineau,cma,2011,Black,43320,4.1
+Ottawa - Gatineau,cma,2016,Black,56400,5.07
+Ottawa - Gatineau,cma,2021,Black,83710,6.9
+Ottawa - Gatineau,cma,2006,Chinese,25915,2.7
+Ottawa - Gatineau,cma,2011,Chinese,29325,2.77
+Ottawa - Gatineau,cma,2016,Chinese,36230,3.26
+Ottawa - Gatineau,cma,2021,Chinese,41800,3.44
+Ottawa - Gatineau,cma,2006,Filipino,5685,0.59
+Ottawa - Gatineau,cma,2011,Filipino,8835,0.84
+Ottawa - Gatineau,cma,2016,Filipino,10435,0.94
+Ottawa - Gatineau,cma,2021,Filipino,13160,1.08
+Ottawa - Gatineau,cma,2006,Latin American,8860,0.92
+Ottawa - Gatineau,cma,2011,Latin American,12060,1.14
+Ottawa - Gatineau,cma,2016,Latin American,13455,1.21
+Ottawa - Gatineau,cma,2021,Latin American,17885,1.47
+Ottawa - Gatineau,cma,2006,Not a visible minority,826420,86.04
+Ottawa - Gatineau,cma,2011,Not a visible minority,878810,83.15
+Ottawa - Gatineau,cma,2016,Not a visible minority,896455,80.54
+Ottawa - Gatineau,cma,2021,Not a visible minority,913315,75.27
+Ottawa - Gatineau,cma,2006,South Asian,21340,2.22
+Ottawa - Gatineau,cma,2011,South Asian,27335,2.59
+Ottawa - Gatineau,cma,2016,South Asian,31910,2.87
+Ottawa - Gatineau,cma,2021,South Asian,49185,4.05
+Toronto,cma,2006,All visible minorities,1686650,41.05
+Toronto,cma,2011,All visible minorities,2058780,45.29
+Toronto,cma,2016,All visible minorities,2429565,49.8
+Toronto,cma,2021,All visible minorities,2882600,55.66
+Toronto,cma,2006,Arab,40565,0.99
+Toronto,cma,2011,Arab,58255,1.28
+Toronto,cma,2016,Arab,80895,1.66
+Toronto,cma,2021,Arab,100490,1.94
+Toronto,cma,2006,Black,257445,6.27
+Toronto,cma,2011,Black,299005,6.58
+Toronto,cma,2016,Black,341580,7.0
+Toronto,cma,2021,Black,386885,7.47
+Toronto,cma,2006,Chinese,404860,9.85
+Toronto,cma,2011,Chinese,451450,9.93
+Toronto,cma,2016,Chinese,537465,11.02
+Toronto,cma,2021,Chinese,581075,11.22
+Toronto,cma,2006,Filipino,135510,3.3
+Toronto,cma,2011,Filipino,185955,4.09
+Toronto,cma,2016,Filipino,212030,4.35
+Toronto,cma,2021,Filipino,240040,4.63
+Toronto,cma,2006,Latin American,80045,1.95
+Toronto,cma,2011,Latin American,97735,2.15
+Toronto,cma,2016,Latin American,113355,2.32
+Toronto,cma,2021,Latin American,135945,2.62
+Toronto,cma,2006,Not a visible minority,2422425,58.95
+Toronto,cma,2011,Not a visible minority,2487360,54.71
+Toronto,cma,2016,Not a visible minority,2449530,50.2
+Toronto,cma,2021,Not a visible minority,2296535,44.34
+Toronto,cma,2006,South Asian,514415,12.52
+Toronto,cma,2011,South Asian,639660,14.07
+Toronto,cma,2016,South Asian,765840,15.7
+Toronto,cma,2021,South Asian,963675,18.61
+Vancouver,cma,2006,All visible minorities,705660,40.39
+Vancouver,cma,2011,All visible minorities,846195,43.93
+Vancouver,cma,2016,All visible minorities,985850,47.75
+Vancouver,cma,2021,All visible minorities,1194535,53.44
+Vancouver,cma,2006,Arab,5525,0.32
+Vancouver,cma,2011,Arab,9095,0.47
+Vancouver,cma,2016,Arab,12250,0.59
+Vancouver,cma,2021,Arab,16835,0.75
+Vancouver,cma,2006,Black,14620,0.84
+Vancouver,cma,2011,Black,16940,0.88
+Vancouver,cma,2016,Black,22365,1.08
+Vancouver,cma,2021,Black,31870,1.43
+Vancouver,cma,2006,Chinese,320895,18.37
+Vancouver,cma,2011,Chinese,354280,18.39
+Vancouver,cma,2016,Chinese,409375,19.83
+Vancouver,cma,2021,Chinese,441780,19.76
+Vancouver,cma,2006,Filipino,61810,3.54
+Vancouver,cma,2011,Filipino,89725,4.66
+Vancouver,cma,2016,Filipino,101620,4.92
+Vancouver,cma,2021,Filipino,120525,5.39
+Vancouver,cma,2006,Latin American,18805,1.08
+Vancouver,cma,2011,Latin American,24525,1.27
+Vancouver,cma,2016,Latin American,30295,1.47
+Vancouver,cma,2021,Latin American,45560,2.04
+Vancouver,cma,2006,Not a visible minority,1041505,59.61
+Vancouver,cma,2011,Not a visible minority,1080030,56.07
+Vancouver,cma,2016,Not a visible minority,1078765,52.25
+Vancouver,cma,2021,Not a visible minority,1040915,46.56
+Vancouver,cma,2006,South Asian,159595,9.13
+Vancouver,cma,2011,South Asian,198300,10.29
+Vancouver,cma,2016,South Asian,234965,11.38
+Vancouver,cma,2021,South Asian,307860,13.77
+Winnipeg,cma,2006,All visible minorities,78865,14.06
+Winnipeg,cma,2011,All visible minorities,108570,18.32
+Winnipeg,cma,2016,All visible minorities,151740,23.99
+Winnipeg,cma,2021,All visible minorities,203085,29.9
+Winnipeg,cma,2006,Arab,1495,0.27
+Winnipeg,cma,2011,Arab,1925,0.32
+Winnipeg,cma,2016,Arab,3030,0.48
+Winnipeg,cma,2021,Arab,4810,0.71
+Winnipeg,cma,2006,Black,10480,1.87
+Winnipeg,cma,2011,Black,12910,2.18
+Winnipeg,cma,2016,Black,19745,3.12
+Winnipeg,cma,2021,Black,29190,4.3
+Winnipeg,cma,2006,Chinese,10740,1.92
+Winnipeg,cma,2011,Chinese,12895,2.18
+Winnipeg,cma,2016,Chinese,17010,2.69
+Winnipeg,cma,2021,Chinese,18795,2.77
+Winnipeg,cma,2006,Filipino,28260,5.04
+Winnipeg,cma,2011,Filipino,43005,7.25
+Winnipeg,cma,2016,Filipino,57395,9.07
+Winnipeg,cma,2021,Filipino,67125,9.88
+Winnipeg,cma,2006,Latin American,4380,0.78
+Winnipeg,cma,2011,Latin American,5470,0.92
+Winnipeg,cma,2016,Latin American,5975,0.94
+Winnipeg,cma,2021,Latin American,7810,1.15
+Winnipeg,cma,2006,Not a visible minority,481955,85.94
+Winnipeg,cma,2011,Not a visible minority,484195,81.68
+Winnipeg,cma,2016,Not a visible minority,480885,76.01
+Winnipeg,cma,2021,Not a visible minority,476100,70.1
+Winnipeg,cma,2006,South Asian,11800,2.1
+Winnipeg,cma,2011,South Asian,17960,3.03
+Winnipeg,cma,2016,South Asian,29390,4.65
+Winnipeg,cma,2021,South Asian,51825,7.63
+Canada,national,2006,All visible minorities,3908385,15.32
+Canada,national,2011,All visible minorities,4917190,18.04
+Canada,national,2016,All visible minorities,6073870,21.21
+Canada,national,2021,All visible minorities,7721915,25.45
+Canada,national,2006,Arab,195240,0.77
+Canada,national,2011,Arab,281105,1.03
+Canada,national,2016,Arab,379630,1.33
+Canada,national,2021,Arab,512025,1.69
+Canada,national,2006,Black,559105,2.19
+Canada,national,2011,Black,690715,2.53
+Canada,national,2016,Black,880100,3.07
+Canada,national,2021,Black,1144105,3.77
+Canada,national,2006,Chinese,1002465,3.93
+Canada,national,2011,Chinese,1115085,4.09
+Canada,national,2016,Chinese,1335285,4.66
+Canada,national,2021,Chinese,1455195,4.8
+Canada,national,2006,Filipino,320420,1.26
+Canada,national,2011,Filipino,491710,1.8
+Canada,national,2016,Filipino,627615,2.19
+Canada,national,2021,Filipino,781555,2.58
+Canada,national,2006,Latin American,241535,0.95
+Canada,national,2011,Latin American,313065,1.15
+Canada,national,2016,Latin American,376450,1.31
+Canada,national,2021,Latin American,495585,1.63
+Canada,national,2006,Not a visible minority,21603490,84.68
+Canada,national,2011,Not a visible minority,22342335,81.96
+Canada,national,2016,Not a visible minority,22569145,78.79
+Canada,national,2021,Not a visible minority,22614005,74.55
+Canada,national,2006,South Asian,956025,3.75
+Canada,national,2011,South Asian,1204905,4.42
+Canada,national,2016,South Asian,1511125,5.28
+Canada,national,2021,South Asian,2083390,6.87
+Alberta,province,2006,All visible minorities,348495,13.39
+Alberta,province,2011,All visible minorities,504615,17.47
+Alberta,province,2016,All visible minorities,713445,22.25
+Alberta,province,2021,All visible minorities,891025,26.4
+Alberta,province,2006,Arab,18000,0.69
+Alberta,province,2011,Arab,24425,0.85
+Alberta,province,2016,Arab,39085,1.22
+Alberta,province,2021,Arab,48120,1.43
+Alberta,province,2006,Black,32190,1.24
+Alberta,province,2011,Black,51405,1.78
+Alberta,province,2016,Black,87800,2.74
+Alberta,province,2021,Black,119730,3.55
+Alberta,province,2006,Chinese,98445,3.78
+Alberta,province,2011,Chinese,110590,3.83
+Alberta,province,2016,Chinese,131980,4.12
+Alberta,province,2021,Chinese,136060,4.03
+Alberta,province,2006,Filipino,39190,1.51
+Alberta,province,2011,Filipino,83545,2.89
+Alberta,province,2016,Filipino,129510,4.04
+Alberta,province,2021,Filipino,170515,5.05
+Alberta,province,2006,Latin American,22155,0.85
+Alberta,province,2011,Latin American,33370,1.16
+Alberta,province,2016,Latin American,45430,1.42
+Alberta,province,2021,Latin American,55840,1.65
+Alberta,province,2006,Not a visible minority,2253915,86.61
+Alberta,province,2011,Not a visible minority,2384120,82.53
+Alberta,province,2016,Not a visible minority,2492600,77.75
+Alberta,province,2021,Not a visible minority,2484105,73.6
+Alberta,province,2006,South Asian,78870,3.03
+Alberta,province,2011,South Asian,117615,4.07
+Alberta,province,2016,South Asian,174990,5.46
+Alberta,province,2021,South Asian,230435,6.83
+British Columbia,province,2006,All visible minorities,807320,23.91
+British Columbia,province,2011,All visible minorities,963550,26.42
+British Columbia,province,2016,All visible minorities,1141105,29.48
+British Columbia,province,2021,All visible minorities,1411130,33.59
+British Columbia,province,2006,Arab,6530,0.19
+British Columbia,province,2011,Arab,10870,0.3
+British Columbia,province,2016,Arab,14780,0.38
+British Columbia,province,2021,Arab,20775,0.49
+British Columbia,province,2006,Black,19655,0.58
+British Columbia,province,2011,Black,23510,0.64
+British Columbia,province,2016,Black,31915,0.82
+British Columbia,province,2021,Black,46625,1.11
+British Columbia,province,2006,Chinese,341270,10.11
+British Columbia,province,2011,Chinese,376265,10.32
+British Columbia,province,2016,Chinese,437345,11.3
+British Columbia,province,2021,Chinese,473860,11.28
+British Columbia,province,2006,Filipino,68755,2.04
+British Columbia,province,2011,Filipino,100670,2.76
+British Columbia,province,2016,Filipino,118990,3.07
+British Columbia,province,2021,Filipino,145825,3.47
+British Columbia,province,2006,Latin American,23895,0.71
+British Columbia,province,2011,Latin American,29995,0.82
+British Columbia,province,2016,Latin American,38525,1.0
+British Columbia,province,2021,Latin American,58355,1.39
+British Columbia,province,2006,Not a visible minority,2568550,76.09
+British Columbia,province,2011,Not a visible minority,2683290,73.58
+British Columbia,province,2016,Not a visible minority,2729270,70.52
+British Columbia,province,2021,Not a visible minority,2789295,66.41
+British Columbia,province,2006,South Asian,201575,5.97
+British Columbia,province,2011,South Asian,245505,6.73
+British Columbia,province,2016,South Asian,294720,7.61
+British Columbia,province,2021,South Asian,393900,9.38
+Manitoba,province,2006,All visible minorities,83320,9.28
+Manitoba,province,2011,All visible minorities,117755,12.44
+Manitoba,province,2016,All visible minorities,166960,16.67
+Manitoba,province,2021,All visible minorities,226765,21.43
+Manitoba,province,2006,Arab,1625,0.18
+Manitoba,province,2011,Arab,2220,0.23
+Manitoba,province,2016,Arab,3295,0.33
+Manitoba,province,2021,Arab,5245,0.5
+Manitoba,province,2006,Black,11155,1.24
+Manitoba,province,2011,Black,13980,1.48
+Manitoba,province,2016,Black,21590,2.16
+Manitoba,province,2021,Black,32790,3.1
+Manitoba,province,2006,Chinese,11430,1.27
+Manitoba,province,2011,Chinese,14285,1.51
+Manitoba,province,2016,Chinese,18885,1.89
+Manitoba,province,2021,Chinese,20560,1.94
+Manitoba,province,2006,Filipino,28865,3.22
+Manitoba,province,2011,Filipino,45000,4.75
+Manitoba,province,2016,Filipino,61675,6.16
+Manitoba,province,2021,Filipino,74505,7.04
+Manitoba,province,2006,Latin American,5025,0.56
+Manitoba,province,2011,Latin American,7290,0.77
+Manitoba,province,2016,Latin American,8185,0.82
+Manitoba,province,2021,Latin American,10605,1.0
+Manitoba,province,2006,Not a visible minority,814435,90.72
+Manitoba,province,2011,Not a visible minority,829185,87.56
+Manitoba,province,2016,Not a visible minority,834345,83.33
+Manitoba,province,2021,Not a visible minority,831640,78.57
+Manitoba,province,2006,South Asian,12700,1.41
+Manitoba,province,2011,South Asian,19440,2.05
+Manitoba,province,2016,South Asian,32400,3.24
+Manitoba,province,2021,South Asian,57515,5.43
+New Brunswick,province,2006,All visible minorities,9825,1.64
+New Brunswick,province,2011,All visible minorities,12695,2.04
+New Brunswick,province,2016,All visible minorities,18030,2.91
+New Brunswick,province,2021,All visible minorities,33250,5.13
+New Brunswick,province,2006,Arab,710,0.12
+New Brunswick,province,2011,Arab,1055,0.17
+New Brunswick,province,2016,Arab,1855,0.3
+New Brunswick,province,2021,Arab,3340,0.52
+New Brunswick,province,2006,Black,2965,0.5
+New Brunswick,province,2011,Black,3240,0.52
+New Brunswick,province,2016,Black,4900,0.79
+New Brunswick,province,2021,Black,8685,1.34
+New Brunswick,province,2006,Chinese,1960,0.33
+New Brunswick,province,2011,Chinese,1945,0.31
+New Brunswick,province,2016,Chinese,2930,0.47
+New Brunswick,province,2021,Chinese,3185,0.49
+New Brunswick,province,2006,Filipino,410,0.07
+New Brunswick,province,2011,Filipino,850,0.14
+New Brunswick,province,2016,Filipino,1460,0.24
+New Brunswick,province,2021,Filipino,3820,0.59
+New Brunswick,province,2006,Latin American,550,0.09
+New Brunswick,province,2011,Latin American,1045,0.17
+New Brunswick,province,2016,Latin American,1140,0.18
+New Brunswick,province,2021,Latin American,1970,0.3
+New Brunswick,province,2006,Not a visible minority,588870,98.36
+New Brunswick,province,2011,Not a visible minority,609740,97.96
+New Brunswick,province,2016,Not a visible minority,602360,97.09
+New Brunswick,province,2021,Not a visible minority,614995,94.87
+New Brunswick,province,2006,South Asian,1495,0.25
+New Brunswick,province,2011,South Asian,1855,0.3
+New Brunswick,province,2016,South Asian,1995,0.32
+New Brunswick,province,2021,South Asian,7065,1.09
+Newfoundland and Labrador,province,2006,All visible minorities,4410,1.05
+Newfoundland and Labrador,province,2011,All visible minorities,5350,1.24
+Newfoundland and Labrador,province,2016,All visible minorities,8950,2.04
+Newfoundland and Labrador,province,2021,All visible minorities,12990,2.99
+Newfoundland and Labrador,province,2006,Arab,395,0.09
+Newfoundland and Labrador,province,2011,Arab,250,0.06
+Newfoundland and Labrador,province,2016,Arab,790,0.18
+Newfoundland and Labrador,province,2021,Arab,1060,0.24
+Newfoundland and Labrador,province,2006,Black,640,0.15
+Newfoundland and Labrador,province,2011,Black,1040,0.24
+Newfoundland and Labrador,province,2016,Black,1535,0.35
+Newfoundland and Labrador,province,2021,Black,2640,0.61
+Newfoundland and Labrador,province,2006,Chinese,1075,0.26
+Newfoundland and Labrador,province,2011,Chinese,1375,0.32
+Newfoundland and Labrador,province,2016,Chinese,1945,0.44
+Newfoundland and Labrador,province,2021,Chinese,1655,0.38
+Newfoundland and Labrador,province,2006,Filipino,270,0.06
+Newfoundland and Labrador,province,2011,Filipino,285,0.07
+Newfoundland and Labrador,province,2016,Filipino,1150,0.26
+Newfoundland and Labrador,province,2021,Filipino,1715,0.4
+Newfoundland and Labrador,province,2006,Latin American,390,0.09
+Newfoundland and Labrador,province,2011,Latin American,150,0.03
+Newfoundland and Labrador,province,2016,Latin American,520,0.12
+Newfoundland and Labrador,province,2021,Latin American,640,0.15
+Newfoundland and Labrador,province,2006,Not a visible minority,416485,98.95
+Newfoundland and Labrador,province,2011,Not a visible minority,425695,98.76
+Newfoundland and Labrador,province,2016,Not a visible minority,428985,97.96
+Newfoundland and Labrador,province,2021,Not a visible minority,420970,97.01
+Newfoundland and Labrador,province,2006,South Asian,1220,0.29
+Newfoundland and Labrador,province,2011,South Asian,1425,0.33
+Newfoundland and Labrador,province,2016,South Asian,2165,0.49
+Newfoundland and Labrador,province,2021,South Asian,3810,0.88
+Northwest Territories,province,2006,All visible minorities,1665,5.4
+Northwest Territories,province,2011,All visible minorities,2180,6.87
+Northwest Territories,province,2016,All visible minorities,3055,9.45
+Northwest Territories,province,2021,All visible minorities,3800,11.91
+Northwest Territories,province,2006,Arab,60,0.19
+Northwest Territories,province,2011,Arab,75,0.24
+Northwest Territories,province,2016,Arab,85,0.26
+Northwest Territories,province,2021,Arab,170,0.53
+Northwest Territories,province,2006,Black,270,0.88
+Northwest Territories,province,2011,Black,445,1.4
+Northwest Territories,province,2016,Black,565,1.75
+Northwest Territories,province,2021,Black,715,2.24
+Northwest Territories,province,2006,Chinese,235,0.76
+Northwest Territories,province,2011,Chinese,305,0.96
+Northwest Territories,province,2016,Chinese,245,0.76
+Northwest Territories,province,2021,Chinese,285,0.89
+Northwest Territories,province,2006,Filipino,485,1.57
+Northwest Territories,province,2011,Filipino,700,2.2
+Northwest Territories,province,2016,Filipino,1030,3.19
+Northwest Territories,province,2021,Filipino,1290,4.04
+Northwest Territories,province,2006,Latin American,75,0.24
+Northwest Territories,province,2011,Latin American,100,0.31
+Northwest Territories,province,2016,Latin American,120,0.37
+Northwest Territories,province,2021,Latin American,115,0.36
+Northwest Territories,province,2006,Not a visible minority,29170,94.6
+Northwest Territories,province,2011,Not a visible minority,29570,93.13
+Northwest Territories,province,2016,Not a visible minority,29275,90.56
+Northwest Territories,province,2021,Not a visible minority,28110,88.08
+Northwest Territories,province,2006,South Asian,155,0.5
+Northwest Territories,province,2011,South Asian,150,0.47
+Northwest Territories,province,2016,South Asian,480,1.48
+Northwest Territories,province,2021,South Asian,635,1.99
+Nova Scotia,province,2006,All visible minorities,28050,3.72
+Nova Scotia,province,2011,All visible minorities,35965,4.68
+Nova Scotia,province,2016,All visible minorities,45105,5.82
+Nova Scotia,province,2021,All visible minorities,72865,8.89
+Nova Scotia,province,2006,Arab,3455,0.46
+Nova Scotia,province,2011,Arab,5015,0.65
+Nova Scotia,province,2016,Arab,6085,0.79
+Nova Scotia,province,2021,Arab,7800,0.95
+Nova Scotia,province,2006,Black,13715,1.82
+Nova Scotia,province,2011,Black,14905,1.94
+Nova Scotia,province,2016,Black,15925,2.06
+Nova Scotia,province,2021,Black,20455,2.5
+Nova Scotia,province,2006,Chinese,3235,0.43
+Nova Scotia,province,2011,Chinese,4765,0.62
+Nova Scotia,province,2016,Chinese,7130,0.92
+Nova Scotia,province,2021,Chinese,9470,1.16
+Nova Scotia,province,2006,Filipino,550,0.07
+Nova Scotia,province,2011,Filipino,1435,0.19
+Nova Scotia,province,2016,Filipino,2630,0.34
+Nova Scotia,province,2021,Filipino,5015,0.61
+Nova Scotia,province,2006,Latin American,825,0.11
+Nova Scotia,province,2011,Latin American,1140,0.15
+Nova Scotia,province,2016,Latin American,1475,0.19
+Nova Scotia,province,2021,Latin American,2520,0.31
+Nova Scotia,province,2006,Not a visible minority,725365,96.28
+Nova Scotia,province,2011,Not a visible minority,732095,95.32
+Nova Scotia,province,2016,Not a visible minority,729645,94.18
+Nova Scotia,province,2021,Not a visible minority,746450,91.11
+Nova Scotia,province,2006,South Asian,3135,0.42
+Nova Scotia,province,2011,South Asian,3965,0.52
+Nova Scotia,province,2016,South Asian,6465,0.83
+Nova Scotia,province,2021,South Asian,18500,2.26
+Nunavut,province,2006,All visible minorities,335,1.74
+Nunavut,province,2011,All visible minorities,425,2.0
+Nunavut,province,2016,All visible minorities,750,3.13
+Nunavut,province,2021,All visible minorities,1095,4.46
+Nunavut,province,2006,Arab,15,0.08
+Nunavut,province,2011,Arab,20,0.09
+Nunavut,province,2016,Arab,35,0.15
+Nunavut,province,2021,Arab,35,0.14
+Nunavut,province,2006,Black,70,0.36
+Nunavut,province,2011,Black,100,0.47
+Nunavut,province,2016,Black,255,1.07
+Nunavut,province,2021,Black,435,1.77
+Nunavut,province,2006,Chinese,70,0.36
+Nunavut,province,2011,Chinese,60,0.28
+Nunavut,province,2016,Chinese,65,0.27
+Nunavut,province,2021,Chinese,65,0.26
+Nunavut,province,2006,Filipino,65,0.34
+Nunavut,province,2011,Filipino,100,0.47
+Nunavut,province,2016,Filipino,195,0.81
+Nunavut,province,2021,Filipino,275,1.12
+Nunavut,province,2006,Latin American,15,0.08
+Nunavut,province,2011,Latin American,25,0.12
+Nunavut,province,2016,Latin American,35,0.15
+Nunavut,province,2021,Latin American,60,0.24
+Nunavut,province,2006,Not a visible minority,18885,98.26
+Nunavut,province,2011,Not a visible minority,20830,98.0
+Nunavut,province,2016,Not a visible minority,23185,96.89
+Nunavut,province,2021,Not a visible minority,23440,95.54
+Nunavut,province,2006,South Asian,60,0.31
+Nunavut,province,2011,South Asian,75,0.35
+Nunavut,province,2016,South Asian,100,0.42
+Nunavut,province,2021,South Asian,155,0.63
+Ontario,province,2006,All visible minorities,2106625,21.55
+Ontario,province,2011,All visible minorities,2576785,24.6
+Ontario,province,2016,All visible minorities,3100655,28.09
+Ontario,province,2021,All visible minorities,3903865,33.13
+Ontario,province,2006,Arab,82325,0.84
+Ontario,province,2011,Arab,114225,1.09
+Ontario,province,2016,Arab,156935,1.42
+Ontario,province,2021,Arab,213480,1.81
+Ontario,province,2006,Black,338690,3.47
+Ontario,province,2011,Black,397940,3.8
+Ontario,province,2016,Black,473375,4.29
+Ontario,province,2021,Black,588170,4.99
+Ontario,province,2006,Chinese,476205,4.87
+Ontario,province,2011,Chinese,529430,5.05
+Ontario,province,2016,Chinese,640255,5.8
+Ontario,province,2021,Chinese,698630,5.93
+Ontario,province,2006,Filipino,159315,1.63
+Ontario,province,2011,Filipino,221370,2.11
+Ontario,province,2016,Filipino,257740,2.33
+Ontario,province,2021,Filipino,306220,2.6
+Ontario,province,2006,Latin American,116405,1.19
+Ontario,province,2011,Latin American,143185,1.37
+Ontario,province,2016,Latin American,167090,1.51
+Ontario,province,2021,Latin American,215345,1.83
+Ontario,province,2006,Not a visible minority,7666715,78.45
+Ontario,province,2011,Not a visible minority,7896885,75.4
+Ontario,province,2016,Not a visible minority,7937785,71.91
+Ontario,province,2021,Not a visible minority,7878960,66.87
+Ontario,province,2006,South Asian,597740,6.12
+Ontario,province,2011,South Asian,742065,7.09
+Ontario,province,2016,South Asian,903965,8.19
+Ontario,province,2021,South Asian,1229830,10.44
+Prince Edward Island,province,2006,All visible minorities,1330,1.22
+Prince Edward Island,province,2011,All visible minorities,3170,2.78
+Prince Edward Island,province,2016,All visible minorities,5060,4.32
+Prince Edward Island,province,2021,All visible minorities,11565,9.11
+Prince Edward Island,province,2006,Arab,195,0.18
+Prince Edward Island,province,2011,Arab,165,0.14
+Prince Edward Island,province,2016,Arab,400,0.34
+Prince Edward Island,province,2021,Arab,795,0.63
+Prince Edward Island,province,2006,Black,405,0.37
+Prince Edward Island,province,2011,Black,295,0.26
+Prince Edward Island,province,2016,Black,620,0.53
+Prince Edward Island,province,2021,Black,1410,1.11
+Prince Edward Island,province,2006,Chinese,210,0.19
+Prince Edward Island,province,2011,Chinese,1430,1.25
+Prince Edward Island,province,2016,Chinese,1945,1.66
+Prince Edward Island,province,2021,Chinese,2635,2.08
+Prince Edward Island,province,2006,Filipino,25,0.02
+Prince Edward Island,province,2011,Filipino,70,0.06
+Prince Edward Island,province,2016,Filipino,525,0.45
+Prince Edward Island,province,2021,Filipino,1410,1.11
+Prince Edward Island,province,2006,Latin American,185,0.17
+Prince Edward Island,province,2011,Latin American,195,0.17
+Prince Edward Island,province,2016,Latin American,220,0.19
+Prince Edward Island,province,2021,Latin American,495,0.39
+Prince Edward Island,province,2006,Not a visible minority,108020,98.79
+Prince Edward Island,province,2011,Not a visible minority,111030,97.22
+Prince Edward Island,province,2016,Not a visible minority,111995,95.68
+Prince Edward Island,province,2021,Not a visible minority,115330,90.88
+Prince Edward Island,province,2006,South Asian,110,0.1
+Prince Edward Island,province,2011,South Asian,340,0.3
+Prince Edward Island,province,2016,South Asian,715,0.61
+Prince Edward Island,province,2021,South Asian,3330,2.62
+Quebec,province,2006,All visible minorities,490370,7.98
+Quebec,province,2011,All visible minorities,645945,9.98
+Quebec,province,2016,All visible minorities,782930,11.8
+Quebec,province,2021,All visible minorities,1031620,14.91
+Quebec,province,2006,Arab,80790,1.31
+Quebec,province,2011,Arab,121400,1.88
+Quebec,province,2016,Arab,153465,2.31
+Quebec,province,2021,Arab,207665,3.0
+Quebec,province,2006,Black,135935,2.21
+Quebec,province,2011,Black,178735,2.76
+Quebec,province,2016,Black,231555,3.49
+Quebec,province,2021,Black,307050,4.44
+Quebec,province,2006,Chinese,60525,0.98
+Quebec,province,2011,Chinese,64990,1.0
+Quebec,province,2016,Chinese,79580,1.2
+Quebec,province,2021,Chinese,93975,1.36
+Quebec,province,2006,Filipino,19375,0.32
+Quebec,province,2011,Filipino,25445,0.39
+Quebec,province,2016,Filipino,28270,0.43
+Quebec,province,2021,Filipino,36770,0.53
+Quebec,province,2006,Latin American,69835,1.14
+Quebec,province,2011,Latin American,93820,1.45
+Quebec,province,2016,Latin American,110090,1.66
+Quebec,province,2021,Latin American,144705,2.09
+Quebec,province,2006,Not a visible minority,5655295,92.02
+Quebec,province,2011,Not a visible minority,5828645,90.02
+Quebec,province,2016,Not a visible minority,5851350,88.2
+Quebec,province,2021,Not a visible minority,5887100,85.09
+Quebec,province,2006,South Asian,54730,0.89
+Quebec,province,2011,South Asian,63275,0.98
+Quebec,province,2016,South Asian,70650,1.06
+Quebec,province,2021,South Asian,103815,1.5
+Saskatchewan,province,2006,All visible minorities,25740,3.39
+Saskatchewan,province,2011,All visible minorities,47230,5.81
+Saskatchewan,province,2016,All visible minorities,85545,9.98
+Saskatchewan,province,2021,All visible minorities,117965,13.36
+Saskatchewan,province,2006,Arab,1120,0.15
+Saskatchewan,province,2011,Arab,1380,0.17
+Saskatchewan,province,2016,Arab,2805,0.33
+Saskatchewan,province,2021,Arab,3540,0.4
+Saskatchewan,province,2006,Black,3305,0.43
+Saskatchewan,province,2011,Black,5045,0.62
+Saskatchewan,province,2016,Black,9875,1.15
+Saskatchewan,province,2021,Black,15010,1.7
+Saskatchewan,province,2006,Chinese,7590,1.0
+Saskatchewan,province,2011,Chinese,9375,1.15
+Saskatchewan,province,2016,Chinese,12660,1.48
+Saskatchewan,province,2021,Chinese,14320,1.62
+Saskatchewan,province,2006,Filipino,2965,0.39
+Saskatchewan,province,2011,Filipino,11730,1.44
+Saskatchewan,province,2016,Filipino,23595,2.75
+Saskatchewan,province,2021,Filipino,32705,3.7
+Saskatchewan,province,2006,Latin American,2120,0.28
+Saskatchewan,province,2011,Latin American,2665,0.33
+Saskatchewan,province,2016,Latin American,3505,0.41
+Saskatchewan,province,2021,Latin American,4740,0.54
+Saskatchewan,province,2006,Not a visible minority,734525,96.61
+Saskatchewan,province,2011,Not a visible minority,765275,94.19
+Saskatchewan,province,2016,Not a visible minority,771750,90.02
+Saskatchewan,province,2021,Not a visible minority,764795,86.64
+Saskatchewan,province,2006,South Asian,4070,0.54
+Saskatchewan,province,2011,South Asian,8910,1.1
+Saskatchewan,province,2016,South Asian,22040,2.57
+Saskatchewan,province,2021,South Asian,33480,3.79
+Yukon,province,2006,All visible minorities,895,3.7
+Yukon,province,2011,All visible minorities,1520,5.53
+Yukon,province,2016,All visible minorities,2285,7.91
+Yukon,province,2021,All visible minorities,3975,12.13
+Yukon,province,2006,Arab,15,0.06
+Yukon,province,2011,Arab,0,0.0
+Yukon,province,2016,Arab,15,0.05
+Yukon,province,2021,Arab,20,0.06
+Yukon,province,2006,Black,110,0.46
+Yukon,province,2011,Black,75,0.27
+Yukon,province,2016,Black,195,0.68
+Yukon,province,2021,Black,385,1.17
+Yukon,province,2006,Chinese,210,0.87
+Yukon,province,2011,Chinese,285,1.04
+Yukon,province,2016,Chinese,310,1.07
+Yukon,province,2021,Chinese,500,1.53
+Yukon,province,2006,Filipino,150,0.62
+Yukon,province,2011,Filipino,510,1.85
+Yukon,province,2016,Filipino,840,2.91
+Yukon,province,2021,Filipino,1495,4.56
+Yukon,province,2006,Latin American,70,0.29
+Yukon,province,2011,Latin American,85,0.31
+Yukon,province,2016,Latin American,110,0.38
+Yukon,province,2021,Latin American,195,0.59
+Yukon,province,2006,Not a visible minority,23265,96.3
+Yukon,province,2011,Not a visible minority,25980,94.49
+Yukon,province,2016,Not a visible minority,26595,92.1
+Yukon,province,2021,Not a visible minority,28805,87.87
+Yukon,province,2006,South Asian,150,0.62
+Yukon,province,2011,South Asian,275,1.0
+Yukon,province,2016,South Asian,430,1.49
+Yukon,province,2021,South Asian,920,2.81

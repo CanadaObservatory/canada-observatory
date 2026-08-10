@@ -1,0 +1,15 @@
+{
+  "dataset_id": "ircc_asylum_by_country",
+  "source": "Immigration, Refugees and Citizenship Canada (open data)",
+  "source_table": "IRCC ODP-Asylum-Top25CitzProv",
+  "frequency": "annual",
+  "unit": "persons (rounded to nearest 5)",
+  "retrieved_at": "2026-08-10T15:03:30.891674+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "asylum claimants, annual by country (top-25 per period), summed over provinces"
+  ],
+  "notes": null,
+  "row_count": 273
+}

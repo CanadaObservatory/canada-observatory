@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_vacancy_rate",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 34-10-0127-01 (CMHC)",
+  "frequency": "annual",
+  "unit": "% of rental units",
+  "retrieved_at": "2026-08-10T15:06:01.853942+00:00",
+  "latest_observation_date": "2025-01-01",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to {'GEO': 'Census metropolitan areas'}"
+  ],
+  "notes": null,
+  "row_count": 55
+}

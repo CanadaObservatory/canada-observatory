@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_disposable_income",
+  "source": "OECD",
+  "source_table": "OECD Household Dashboard",
+  "frequency": "annual",
+  "unit": "index (real, per capita)",
+  "retrieved_at": "2026-08-10T15:06:29.444164+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Real household disposable income per capita for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 243
+}

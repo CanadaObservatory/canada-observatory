@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_suicide",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "World Bank / WHO Global Health Observatory",
+  "frequency": "annual",
+  "unit": "per 100,000",
+  "retrieved_at": "2026-08-10T15:07:30.848920+00:00",
+  "latest_observation_date": "2021",
+  "next_release_date": null,
+  "transformations": [
+    "World Bank indicator SH.STA.SUIC.P5, filtered to 17 OECD peers"
+  ],
+  "notes": null,
+  "row_count": 374
+}

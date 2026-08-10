@@ -1,0 +1,726 @@
+country_code,country_name,year,measles_immunization_pct
+AUS,Australia,1983,68
+AUS,Australia,1984,68
+AUS,Australia,1985,68
+AUS,Australia,1986,68
+AUS,Australia,1987,68
+AUS,Australia,1988,77
+AUS,Australia,1989,85
+AUS,Australia,1990,86
+AUS,Australia,1991,86
+AUS,Australia,1992,86
+AUS,Australia,1993,86
+AUS,Australia,1994,86
+AUS,Australia,1995,87
+AUS,Australia,1996,87
+AUS,Australia,1997,85
+AUS,Australia,1998,82
+AUS,Australia,1999,88
+AUS,Australia,2000,91
+AUS,Australia,2001,92
+AUS,Australia,2002,94
+AUS,Australia,2003,94
+AUS,Australia,2004,94
+AUS,Australia,2005,94
+AUS,Australia,2006,94
+AUS,Australia,2007,94
+AUS,Australia,2008,94
+AUS,Australia,2009,94
+AUS,Australia,2010,94
+AUS,Australia,2011,94
+AUS,Australia,2012,94
+AUS,Australia,2013,94
+AUS,Australia,2014,94
+AUS,Australia,2015,95
+AUS,Australia,2016,95
+AUS,Australia,2017,94
+AUS,Australia,2018,94
+AUS,Australia,2019,94
+AUS,Australia,2020,93
+AUS,Australia,2021,93
+AUS,Australia,2022,96
+AUS,Australia,2023,91
+AUS,Australia,2024,91
+CAN,Canada,1987,70
+CAN,Canada,1988,85
+CAN,Canada,1989,87
+CAN,Canada,1990,89
+CAN,Canada,1991,92
+CAN,Canada,1992,94
+CAN,Canada,1993,96
+CAN,Canada,1994,97
+CAN,Canada,1995,96
+CAN,Canada,1996,97
+CAN,Canada,1997,96
+CAN,Canada,1998,96
+CAN,Canada,1999,96
+CAN,Canada,2000,96
+CAN,Canada,2001,95
+CAN,Canada,2002,95
+CAN,Canada,2003,95
+CAN,Canada,2004,94
+CAN,Canada,2005,94
+CAN,Canada,2006,93
+CAN,Canada,2007,94
+CAN,Canada,2008,93
+CAN,Canada,2009,91
+CAN,Canada,2010,90
+CAN,Canada,2011,88
+CAN,Canada,2012,89
+CAN,Canada,2013,90
+CAN,Canada,2014,90
+CAN,Canada,2015,89
+CAN,Canada,2016,89
+CAN,Canada,2017,90
+CAN,Canada,2018,90
+CAN,Canada,2019,90
+CAN,Canada,2020,90
+CAN,Canada,2021,90
+CAN,Canada,2022,92
+CAN,Canada,2023,92
+CAN,Canada,2024,92
+CHE,Switzerland,1986,70
+CHE,Switzerland,1987,70
+CHE,Switzerland,1988,70
+CHE,Switzerland,1989,90
+CHE,Switzerland,1990,90
+CHE,Switzerland,1991,83
+CHE,Switzerland,1992,83
+CHE,Switzerland,1993,83
+CHE,Switzerland,1994,83
+CHE,Switzerland,1995,83
+CHE,Switzerland,1996,83
+CHE,Switzerland,1997,83
+CHE,Switzerland,1998,81
+CHE,Switzerland,1999,82
+CHE,Switzerland,2000,82
+CHE,Switzerland,2001,82
+CHE,Switzerland,2002,82
+CHE,Switzerland,2003,82
+CHE,Switzerland,2004,82
+CHE,Switzerland,2005,87
+CHE,Switzerland,2006,87
+CHE,Switzerland,2007,87
+CHE,Switzerland,2008,92
+CHE,Switzerland,2009,92
+CHE,Switzerland,2010,92
+CHE,Switzerland,2011,93
+CHE,Switzerland,2012,93
+CHE,Switzerland,2013,93
+CHE,Switzerland,2014,94
+CHE,Switzerland,2015,94
+CHE,Switzerland,2016,94
+CHE,Switzerland,2017,95
+CHE,Switzerland,2018,95
+CHE,Switzerland,2019,95
+CHE,Switzerland,2020,97
+CHE,Switzerland,2021,95
+CHE,Switzerland,2022,96
+CHE,Switzerland,2023,95
+CHE,Switzerland,2024,96
+DEU,Germany,1980,25
+DEU,Germany,1981,50
+DEU,Germany,1982,50
+DEU,Germany,1983,47
+DEU,Germany,1984,48
+DEU,Germany,1985,50
+DEU,Germany,1986,70
+DEU,Germany,1987,75
+DEU,Germany,1988,75
+DEU,Germany,1989,75
+DEU,Germany,1990,75
+DEU,Germany,1991,75
+DEU,Germany,1992,75
+DEU,Germany,1993,89
+DEU,Germany,1994,90
+DEU,Germany,1995,92
+DEU,Germany,1996,91
+DEU,Germany,1997,91
+DEU,Germany,1998,92
+DEU,Germany,1999,92
+DEU,Germany,2000,92
+DEU,Germany,2001,94
+DEU,Germany,2002,94
+DEU,Germany,2003,95
+DEU,Germany,2004,96
+DEU,Germany,2005,96
+DEU,Germany,2006,96
+DEU,Germany,2007,97
+DEU,Germany,2008,97
+DEU,Germany,2009,97
+DEU,Germany,2010,97
+DEU,Germany,2011,97
+DEU,Germany,2012,97
+DEU,Germany,2013,97
+DEU,Germany,2014,97
+DEU,Germany,2015,97
+DEU,Germany,2016,97
+DEU,Germany,2017,97
+DEU,Germany,2018,97
+DEU,Germany,2019,97
+DEU,Germany,2020,97
+DEU,Germany,2021,98
+DEU,Germany,2022,96
+DEU,Germany,2023,96
+DEU,Germany,2024,96
+DNK,Denmark,1987,82
+DNK,Denmark,1988,72
+DNK,Denmark,1989,80
+DNK,Denmark,1990,84
+DNK,Denmark,1991,86
+DNK,Denmark,1992,85
+DNK,Denmark,1993,81
+DNK,Denmark,1994,88
+DNK,Denmark,1995,88
+DNK,Denmark,1996,85
+DNK,Denmark,1997,84
+DNK,Denmark,1998,91
+DNK,Denmark,1999,92
+DNK,Denmark,2000,99
+DNK,Denmark,2001,94
+DNK,Denmark,2002,95
+DNK,Denmark,2003,96
+DNK,Denmark,2004,96
+DNK,Denmark,2005,95
+DNK,Denmark,2006,90
+DNK,Denmark,2007,89
+DNK,Denmark,2008,87
+DNK,Denmark,2009,84
+DNK,Denmark,2010,85
+DNK,Denmark,2011,87
+DNK,Denmark,2012,90
+DNK,Denmark,2013,89
+DNK,Denmark,2014,90
+DNK,Denmark,2015,91
+DNK,Denmark,2016,94
+DNK,Denmark,2017,97
+DNK,Denmark,2018,95
+DNK,Denmark,2019,96
+DNK,Denmark,2020,94
+DNK,Denmark,2021,95
+DNK,Denmark,2022,95
+DNK,Denmark,2023,95
+DNK,Denmark,2024,94
+FIN,Finland,1981,70
+FIN,Finland,1982,75
+FIN,Finland,1983,81
+FIN,Finland,1984,83
+FIN,Finland,1985,85
+FIN,Finland,1986,87
+FIN,Finland,1987,92
+FIN,Finland,1988,98
+FIN,Finland,1989,95
+FIN,Finland,1990,97
+FIN,Finland,1991,97
+FIN,Finland,1992,99
+FIN,Finland,1993,99
+FIN,Finland,1994,99
+FIN,Finland,1995,98
+FIN,Finland,1996,98
+FIN,Finland,1997,96
+FIN,Finland,1998,96
+FIN,Finland,1999,96
+FIN,Finland,2000,96
+FIN,Finland,2001,96
+FIN,Finland,2002,96
+FIN,Finland,2003,97
+FIN,Finland,2004,97
+FIN,Finland,2005,97
+FIN,Finland,2006,97
+FIN,Finland,2007,98
+FIN,Finland,2008,97
+FIN,Finland,2009,98
+FIN,Finland,2010,98
+FIN,Finland,2011,97
+FIN,Finland,2012,97
+FIN,Finland,2013,97
+FIN,Finland,2014,96
+FIN,Finland,2015,95
+FIN,Finland,2016,95
+FIN,Finland,2017,94
+FIN,Finland,2018,96
+FIN,Finland,2019,96
+FIN,Finland,2020,95
+FIN,Finland,2021,93
+FIN,Finland,2022,94
+FIN,Finland,2023,94
+FIN,Finland,2024,94
+FRA,France,1983,15
+FRA,France,1984,26
+FRA,France,1985,35
+FRA,France,1986,39
+FRA,France,1987,45
+FRA,France,1988,51
+FRA,France,1989,58
+FRA,France,1990,71
+FRA,France,1991,74
+FRA,France,1992,76
+FRA,France,1993,78
+FRA,France,1994,80
+FRA,France,1995,83
+FRA,France,1996,84
+FRA,France,1997,83
+FRA,France,1998,82
+FRA,France,1999,83
+FRA,France,2000,84
+FRA,France,2001,85
+FRA,France,2002,86
+FRA,France,2003,87
+FRA,France,2004,88
+FRA,France,2005,87
+FRA,France,2006,89
+FRA,France,2007,90
+FRA,France,2008,89
+FRA,France,2009,89
+FRA,France,2010,89
+FRA,France,2011,89
+FRA,France,2012,91
+FRA,France,2013,90
+FRA,France,2014,91
+FRA,France,2015,91
+FRA,France,2016,90
+FRA,France,2017,90
+FRA,France,2018,91
+FRA,France,2019,92
+FRA,France,2020,94
+FRA,France,2021,94
+FRA,France,2022,95
+FRA,France,2023,95
+FRA,France,2024,95
+GBR,United Kingdom,1980,53
+GBR,United Kingdom,1981,55
+GBR,United Kingdom,1982,58
+GBR,United Kingdom,1983,60
+GBR,United Kingdom,1984,63
+GBR,United Kingdom,1985,68
+GBR,United Kingdom,1986,71
+GBR,United Kingdom,1987,76
+GBR,United Kingdom,1988,80
+GBR,United Kingdom,1989,84
+GBR,United Kingdom,1990,87
+GBR,United Kingdom,1991,90
+GBR,United Kingdom,1992,92
+GBR,United Kingdom,1993,91
+GBR,United Kingdom,1994,91
+GBR,United Kingdom,1995,92
+GBR,United Kingdom,1996,92
+GBR,United Kingdom,1997,91
+GBR,United Kingdom,1998,87
+GBR,United Kingdom,1999,88
+GBR,United Kingdom,2000,88
+GBR,United Kingdom,2001,85
+GBR,United Kingdom,2002,85
+GBR,United Kingdom,2003,82
+GBR,United Kingdom,2004,81
+GBR,United Kingdom,2005,82
+GBR,United Kingdom,2006,85
+GBR,United Kingdom,2007,86
+GBR,United Kingdom,2008,86
+GBR,United Kingdom,2009,86
+GBR,United Kingdom,2010,89
+GBR,United Kingdom,2011,90
+GBR,United Kingdom,2012,92
+GBR,United Kingdom,2013,93
+GBR,United Kingdom,2014,93
+GBR,United Kingdom,2015,93
+GBR,United Kingdom,2016,92
+GBR,United Kingdom,2017,92
+GBR,United Kingdom,2018,92
+GBR,United Kingdom,2019,91
+GBR,United Kingdom,2020,91
+GBR,United Kingdom,2021,91
+GBR,United Kingdom,2022,90
+GBR,United Kingdom,2023,90
+GBR,United Kingdom,2024,89
+ISR,Israel,1980,81
+ISR,Israel,1981,83
+ISR,Israel,1982,88
+ISR,Israel,1983,85
+ISR,Israel,1984,85
+ISR,Israel,1985,85
+ISR,Israel,1986,88
+ISR,Israel,1987,88
+ISR,Israel,1988,86
+ISR,Israel,1989,88
+ISR,Israel,1990,91
+ISR,Israel,1991,94
+ISR,Israel,1992,94
+ISR,Israel,1993,92
+ISR,Israel,1994,92
+ISR,Israel,1995,93
+ISR,Israel,1996,96
+ISR,Israel,1997,97
+ISR,Israel,1998,94
+ISR,Israel,1999,94
+ISR,Israel,2000,95
+ISR,Israel,2001,95
+ISR,Israel,2002,95
+ISR,Israel,2003,96
+ISR,Israel,2004,97
+ISR,Israel,2005,94
+ISR,Israel,2006,96
+ISR,Israel,2007,97
+ISR,Israel,2008,98
+ISR,Israel,2009,97
+ISR,Israel,2010,96
+ISR,Israel,2011,97
+ISR,Israel,2012,96
+ISR,Israel,2013,98
+ISR,Israel,2014,97
+ISR,Israel,2015,98
+ISR,Israel,2016,97
+ISR,Israel,2017,98
+ISR,Israel,2018,98
+ISR,Israel,2019,99
+ISR,Israel,2020,99
+ISR,Israel,2021,99
+ISR,Israel,2022,98
+ISR,Israel,2023,98
+ISR,Israel,2024,98
+ITA,Italy,1990,43
+ITA,Italy,1991,50
+ITA,Italy,1992,50
+ITA,Italy,1993,50
+ITA,Italy,1994,50
+ITA,Italy,1995,50
+ITA,Italy,1996,55
+ITA,Italy,1997,57
+ITA,Italy,1998,55
+ITA,Italy,1999,70
+ITA,Italy,2000,74
+ITA,Italy,2001,77
+ITA,Italy,2002,81
+ITA,Italy,2003,84
+ITA,Italy,2004,86
+ITA,Italy,2005,87
+ITA,Italy,2006,88
+ITA,Italy,2007,90
+ITA,Italy,2008,90
+ITA,Italy,2009,90
+ITA,Italy,2010,91
+ITA,Italy,2011,90
+ITA,Italy,2012,90
+ITA,Italy,2013,90
+ITA,Italy,2014,87
+ITA,Italy,2015,85
+ITA,Italy,2016,87
+ITA,Italy,2017,92
+ITA,Italy,2018,93
+ITA,Italy,2019,94
+ITA,Italy,2020,92
+ITA,Italy,2021,94
+ITA,Italy,2022,94
+ITA,Italy,2023,95
+ITA,Italy,2024,95
+JPN,Japan,1980,69
+JPN,Japan,1981,68
+JPN,Japan,1982,66
+JPN,Japan,1983,70
+JPN,Japan,1984,73
+JPN,Japan,1985,73
+JPN,Japan,1986,74
+JPN,Japan,1987,75
+JPN,Japan,1988,76
+JPN,Japan,1989,77
+JPN,Japan,1990,73
+JPN,Japan,1991,71
+JPN,Japan,1992,69
+JPN,Japan,1993,68
+JPN,Japan,1994,81
+JPN,Japan,1995,93
+JPN,Japan,1996,94
+JPN,Japan,1997,94
+JPN,Japan,1998,95
+JPN,Japan,1999,95
+JPN,Japan,2000,96
+JPN,Japan,2001,98
+JPN,Japan,2002,98
+JPN,Japan,2003,98
+JPN,Japan,2004,98
+JPN,Japan,2005,98
+JPN,Japan,2006,97
+JPN,Japan,2007,96
+JPN,Japan,2008,95
+JPN,Japan,2009,94
+JPN,Japan,2010,94
+JPN,Japan,2011,94
+JPN,Japan,2012,96
+JPN,Japan,2013,95
+JPN,Japan,2014,98
+JPN,Japan,2015,96
+JPN,Japan,2016,96
+JPN,Japan,2017,97
+JPN,Japan,2018,97
+JPN,Japan,2019,96
+JPN,Japan,2020,98
+JPN,Japan,2021,95
+JPN,Japan,2022,98
+JPN,Japan,2023,94
+JPN,Japan,2024,95
+KOR,South Korea,1980,4
+KOR,South Korea,1981,5
+KOR,South Korea,1982,5
+KOR,South Korea,1983,33
+KOR,South Korea,1984,61
+KOR,South Korea,1985,89
+KOR,South Korea,1986,89
+KOR,South Korea,1987,82
+KOR,South Korea,1988,70
+KOR,South Korea,1989,95
+KOR,South Korea,1990,93
+KOR,South Korea,1991,93
+KOR,South Korea,1992,93
+KOR,South Korea,1993,92
+KOR,South Korea,1994,92
+KOR,South Korea,1995,93
+KOR,South Korea,1996,89
+KOR,South Korea,1997,85
+KOR,South Korea,1998,85
+KOR,South Korea,1999,90
+KOR,South Korea,2000,95
+KOR,South Korea,2001,96
+KOR,South Korea,2002,97
+KOR,South Korea,2003,96
+KOR,South Korea,2004,99
+KOR,South Korea,2005,99
+KOR,South Korea,2006,99
+KOR,South Korea,2007,92
+KOR,South Korea,2008,92
+KOR,South Korea,2009,93
+KOR,South Korea,2010,98
+KOR,South Korea,2011,99
+KOR,South Korea,2012,99
+KOR,South Korea,2013,99
+KOR,South Korea,2014,99
+KOR,South Korea,2015,98
+KOR,South Korea,2016,98
+KOR,South Korea,2017,97
+KOR,South Korea,2018,98
+KOR,South Korea,2019,98
+KOR,South Korea,2020,98
+KOR,South Korea,2021,98
+KOR,South Korea,2022,97
+KOR,South Korea,2023,97
+KOR,South Korea,2024,97
+NLD,Netherlands,1980,91
+NLD,Netherlands,1981,91
+NLD,Netherlands,1982,92
+NLD,Netherlands,1983,92
+NLD,Netherlands,1984,92
+NLD,Netherlands,1985,92
+NLD,Netherlands,1986,93
+NLD,Netherlands,1987,93
+NLD,Netherlands,1988,94
+NLD,Netherlands,1989,94
+NLD,Netherlands,1990,94
+NLD,Netherlands,1991,94
+NLD,Netherlands,1992,95
+NLD,Netherlands,1993,94
+NLD,Netherlands,1994,94
+NLD,Netherlands,1995,94
+NLD,Netherlands,1996,96
+NLD,Netherlands,1997,96
+NLD,Netherlands,1998,96
+NLD,Netherlands,1999,96
+NLD,Netherlands,2000,96
+NLD,Netherlands,2001,95
+NLD,Netherlands,2002,95
+NLD,Netherlands,2003,96
+NLD,Netherlands,2004,96
+NLD,Netherlands,2005,95
+NLD,Netherlands,2006,96
+NLD,Netherlands,2007,96
+NLD,Netherlands,2008,96
+NLD,Netherlands,2009,96
+NLD,Netherlands,2010,96
+NLD,Netherlands,2011,96
+NLD,Netherlands,2012,96
+NLD,Netherlands,2013,96
+NLD,Netherlands,2014,96
+NLD,Netherlands,2015,95
+NLD,Netherlands,2016,94
+NLD,Netherlands,2017,93
+NLD,Netherlands,2018,93
+NLD,Netherlands,2019,94
+NLD,Netherlands,2020,94
+NLD,Netherlands,2021,93
+NLD,Netherlands,2022,89
+NLD,Netherlands,2023,89
+NLD,Netherlands,2024,89
+NOR,Norway,1983,80
+NOR,Norway,1984,80
+NOR,Norway,1985,90
+NOR,Norway,1986,87
+NOR,Norway,1987,87
+NOR,Norway,1988,87
+NOR,Norway,1989,84
+NOR,Norway,1990,87
+NOR,Norway,1991,94
+NOR,Norway,1992,96
+NOR,Norway,1993,93
+NOR,Norway,1994,94
+NOR,Norway,1995,92
+NOR,Norway,1996,92
+NOR,Norway,1997,93
+NOR,Norway,1998,91
+NOR,Norway,1999,90
+NOR,Norway,2000,88
+NOR,Norway,2001,90
+NOR,Norway,2002,87
+NOR,Norway,2003,86
+NOR,Norway,2004,89
+NOR,Norway,2005,90
+NOR,Norway,2006,92
+NOR,Norway,2007,92
+NOR,Norway,2008,93
+NOR,Norway,2009,93
+NOR,Norway,2010,93
+NOR,Norway,2011,93
+NOR,Norway,2012,94
+NOR,Norway,2013,93
+NOR,Norway,2014,94
+NOR,Norway,2015,95
+NOR,Norway,2016,96
+NOR,Norway,2017,96
+NOR,Norway,2018,96
+NOR,Norway,2019,97
+NOR,Norway,2020,97
+NOR,Norway,2021,97
+NOR,Norway,2022,96
+NOR,Norway,2023,96
+NOR,Norway,2024,96
+NZL,New Zealand,1980,80
+NZL,New Zealand,1981,77
+NZL,New Zealand,1982,74
+NZL,New Zealand,1983,71
+NZL,New Zealand,1984,67
+NZL,New Zealand,1985,64
+NZL,New Zealand,1986,60
+NZL,New Zealand,1987,67
+NZL,New Zealand,1988,75
+NZL,New Zealand,1989,83
+NZL,New Zealand,1990,90
+NZL,New Zealand,1991,82
+NZL,New Zealand,1992,82
+NZL,New Zealand,1993,85
+NZL,New Zealand,1994,87
+NZL,New Zealand,1995,84
+NZL,New Zealand,1996,92
+NZL,New Zealand,1997,99
+NZL,New Zealand,1998,81
+NZL,New Zealand,1999,83
+NZL,New Zealand,2000,85
+NZL,New Zealand,2001,85
+NZL,New Zealand,2002,84
+NZL,New Zealand,2003,84
+NZL,New Zealand,2004,83
+NZL,New Zealand,2005,82
+NZL,New Zealand,2006,82
+NZL,New Zealand,2007,79
+NZL,New Zealand,2008,86
+NZL,New Zealand,2009,89
+NZL,New Zealand,2010,91
+NZL,New Zealand,2011,93
+NZL,New Zealand,2012,92
+NZL,New Zealand,2013,92
+NZL,New Zealand,2014,93
+NZL,New Zealand,2015,93
+NZL,New Zealand,2016,92
+NZL,New Zealand,2017,93
+NZL,New Zealand,2018,92
+NZL,New Zealand,2019,92
+NZL,New Zealand,2020,91
+NZL,New Zealand,2021,91
+NZL,New Zealand,2022,90
+NZL,New Zealand,2023,89
+NZL,New Zealand,2024,89
+SWE,Sweden,1980,88
+SWE,Sweden,1981,92
+SWE,Sweden,1982,91
+SWE,Sweden,1983,93
+SWE,Sweden,1984,94
+SWE,Sweden,1985,94
+SWE,Sweden,1986,94
+SWE,Sweden,1987,94
+SWE,Sweden,1988,95
+SWE,Sweden,1989,95
+SWE,Sweden,1990,96
+SWE,Sweden,1991,96
+SWE,Sweden,1992,96
+SWE,Sweden,1993,97
+SWE,Sweden,1994,97
+SWE,Sweden,1995,97
+SWE,Sweden,1996,96
+SWE,Sweden,1997,96
+SWE,Sweden,1998,94
+SWE,Sweden,1999,89
+SWE,Sweden,2000,91
+SWE,Sweden,2001,94
+SWE,Sweden,2002,95
+SWE,Sweden,2003,95
+SWE,Sweden,2004,96
+SWE,Sweden,2005,96
+SWE,Sweden,2006,97
+SWE,Sweden,2007,96
+SWE,Sweden,2008,96
+SWE,Sweden,2009,97
+SWE,Sweden,2010,97
+SWE,Sweden,2011,97
+SWE,Sweden,2012,97
+SWE,Sweden,2013,97
+SWE,Sweden,2014,97
+SWE,Sweden,2015,98
+SWE,Sweden,2016,97
+SWE,Sweden,2017,97
+SWE,Sweden,2018,97
+SWE,Sweden,2019,97
+SWE,Sweden,2020,97
+SWE,Sweden,2021,97
+SWE,Sweden,2022,93
+SWE,Sweden,2023,93
+SWE,Sweden,2024,93
+USA,United States,1980,86
+USA,United States,1981,97
+USA,United States,1982,97
+USA,United States,1983,98
+USA,United States,1984,98
+USA,United States,1985,97
+USA,United States,1986,97
+USA,United States,1987,82
+USA,United States,1988,98
+USA,United States,1989,94
+USA,United States,1990,90
+USA,United States,1991,87
+USA,United States,1992,83
+USA,United States,1993,84
+USA,United States,1994,89
+USA,United States,1995,88
+USA,United States,1996,91
+USA,United States,1997,91
+USA,United States,1998,92
+USA,United States,1999,92
+USA,United States,2000,91
+USA,United States,2001,91
+USA,United States,2002,91
+USA,United States,2003,93
+USA,United States,2004,93
+USA,United States,2005,92
+USA,United States,2006,92
+USA,United States,2007,92
+USA,United States,2008,92
+USA,United States,2009,90
+USA,United States,2010,92
+USA,United States,2011,92
+USA,United States,2012,91
+USA,United States,2013,92
+USA,United States,2014,92
+USA,United States,2015,92
+USA,United States,2016,92
+USA,United States,2017,91
+USA,United States,2018,92
+USA,United States,2019,90
+USA,United States,2020,91
+USA,United States,2021,92
+USA,United States,2022,92
+USA,United States,2023,92
+USA,United States,2024,92

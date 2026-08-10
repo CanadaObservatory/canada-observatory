@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_uhc_index",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "World Bank / WHO Universal Health Coverage",
+  "frequency": "annual",
+  "unit": "index (0\u2013100)",
+  "retrieved_at": "2026-08-10T15:07:33.742792+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "World Bank indicator SH_UHC_SCI, filtered to 17 OECD peers"
+  ],
+  "notes": null,
+  "row_count": 408
+}

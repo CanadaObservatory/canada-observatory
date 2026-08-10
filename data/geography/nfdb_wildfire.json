@@ -1,0 +1,15 @@
+{
+  "dataset_id": "nfdb_wildfire",
+  "source": "Natural Resources Canada / Canadian Forest Service",
+  "source_table": "Canadian National Fire Database (NFDB), point-data summary",
+  "frequency": "annual",
+  "unit": "hectares burned",
+  "retrieved_at": "2026-08-10T15:10:20.323024+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "national TOTAL_HA + by-agency TOTAL_HA; 1959\u20132025; Parks Canada folded into national only; Nunavut has no point data"
+  ],
+  "notes": null,
+  "row_count": 765
+}

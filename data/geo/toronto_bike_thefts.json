@@ -1,0 +1,14 @@
+{
+  "dataset_id": "toronto_bike_thefts",
+  "source": "Toronto Police Service",
+  "source_table": "Toronto Police Service Bicycle Thefts (Open Data)",
+  "frequency": "annual",
+  "unit": "incident counts",
+  "retrieved_at": "2026-06-10T03:24:26.615166+00:00",
+  "latest_observation_date": null,
+  "transformations": [
+    "server-side counts by month-of-year, recovery status, and year; 401/39,969 recovered (1.0%)."
+  ],
+  "notes": "Source: Toronto Police Service Public Safety Data Portal. Contains information licensed under the Open Government Licence \u2013 Ontario.",
+  "row_count": 38
+}

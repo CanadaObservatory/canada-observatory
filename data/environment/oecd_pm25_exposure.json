@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_pm25_exposure",
+  "source": "OECD",
+  "source_table": "OECD Green Growth Indicators",
+  "frequency": "annual",
+  "unit": "\u00b5g/m\u00b3",
+  "retrieved_at": "2026-08-10T15:09:06.500862+00:00",
+  "latest_observation_date": "2020",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Mean population exposure to PM2.5 for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 368
+}

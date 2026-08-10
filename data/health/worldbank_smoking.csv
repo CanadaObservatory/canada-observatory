@@ -1,0 +1,154 @@
+country_code,country_name,year,smoking_pct
+AUS,Australia,2000,24.9
+AUS,Australia,2005,21.2
+AUS,Australia,2007,19.9
+AUS,Australia,2010,18.1
+AUS,Australia,2015,15.4
+AUS,Australia,2020,13.2
+AUS,Australia,2022,12.4
+AUS,Australia,2023,12.0
+AUS,Australia,2024,11.6
+CAN,Canada,2000,28.9
+CAN,Canada,2005,23.6
+CAN,Canada,2007,21.8
+CAN,Canada,2010,19.3
+CAN,Canada,2015,15.9
+CAN,Canada,2020,13.0
+CAN,Canada,2022,12.1
+CAN,Canada,2023,11.7
+CAN,Canada,2024,11.2
+CHE,Switzerland,2000,30.4
+CHE,Switzerland,2005,28.6
+CHE,Switzerland,2007,27.9
+CHE,Switzerland,2010,26.9
+CHE,Switzerland,2015,25.6
+CHE,Switzerland,2020,24.1
+CHE,Switzerland,2022,23.6
+CHE,Switzerland,2023,23.4
+CHE,Switzerland,2024,23.1
+DEU,Germany,2000,34.9
+DEU,Germany,2005,31.6
+DEU,Germany,2007,30.4
+DEU,Germany,2010,28.7
+DEU,Germany,2015,26.1
+DEU,Germany,2020,23.7
+DEU,Germany,2022,22.8
+DEU,Germany,2023,22.4
+DEU,Germany,2024,22.0
+DNK,Denmark,2000,38.3
+DNK,Denmark,2005,31.8
+DNK,Denmark,2007,29.6
+DNK,Denmark,2010,26.4
+DNK,Denmark,2015,22.0
+DNK,Denmark,2020,18.2
+DNK,Denmark,2022,17.0
+DNK,Denmark,2023,16.3
+DNK,Denmark,2024,15.7
+FIN,Finland,2000,39.0
+FIN,Finland,2005,34.4
+FIN,Finland,2007,32.8
+FIN,Finland,2010,30.3
+FIN,Finland,2015,26.8
+FIN,Finland,2020,23.7
+FIN,Finland,2022,22.4
+FIN,Finland,2023,21.8
+FIN,Finland,2024,21.4
+FRA,France,2000,34.5
+FRA,France,2005,34.2
+FRA,France,2007,34.2
+FRA,France,2010,34.0
+FRA,France,2015,33.7
+FRA,France,2020,33.8
+FRA,France,2022,33.7
+FRA,France,2023,33.4
+FRA,France,2024,33.6
+GBR,United Kingdom,2000,38.2
+GBR,United Kingdom,2005,30.3
+GBR,United Kingdom,2007,27.7
+GBR,United Kingdom,2010,24.2
+GBR,United Kingdom,2015,19.2
+GBR,United Kingdom,2020,15.3
+GBR,United Kingdom,2022,14.0
+GBR,United Kingdom,2023,13.4
+GBR,United Kingdom,2024,12.8
+ISR,Israel,2000,30.1
+ISR,Israel,2005,27.8
+ISR,Israel,2007,27.2
+ISR,Israel,2010,25.9
+ISR,Israel,2015,24.1
+ISR,Israel,2020,22.4
+ISR,Israel,2022,21.8
+ISR,Israel,2023,21.5
+ISR,Israel,2024,21.2
+ITA,Italy,2000,25.9
+ITA,Italy,2005,25.1
+ITA,Italy,2007,24.8
+ITA,Italy,2010,24.4
+ITA,Italy,2015,23.7
+ITA,Italy,2020,23.0
+ITA,Italy,2022,22.7
+ITA,Italy,2023,22.6
+ITA,Italy,2024,22.4
+JPN,Japan,2000,33.4
+JPN,Japan,2005,29.3
+JPN,Japan,2007,27.6
+JPN,Japan,2010,25.5
+JPN,Japan,2015,22.3
+JPN,Japan,2020,19.5
+JPN,Japan,2022,18.5
+JPN,Japan,2023,18.0
+JPN,Japan,2024,17.5
+KOR,South Korea,2000,35.5
+KOR,South Korea,2005,30.9
+KOR,South Korea,2007,29.4
+KOR,South Korea,2010,27.0
+KOR,South Korea,2015,23.6
+KOR,South Korea,2020,20.6
+KOR,South Korea,2022,19.6
+KOR,South Korea,2023,19.0
+KOR,South Korea,2024,18.6
+NLD,Netherlands,2000,34.8
+NLD,Netherlands,2005,31.1
+NLD,Netherlands,2007,29.7
+NLD,Netherlands,2010,27.8
+NLD,Netherlands,2015,24.9
+NLD,Netherlands,2020,22.4
+NLD,Netherlands,2022,21.4
+NLD,Netherlands,2023,20.9
+NLD,Netherlands,2024,20.5
+NOR,Norway,2000,45.3
+NOR,Norway,2005,34.9
+NOR,Norway,2007,31.4
+NOR,Norway,2010,26.8
+NOR,Norway,2015,20.8
+NOR,Norway,2020,16.0
+NOR,Norway,2022,14.4
+NOR,Norway,2023,13.7
+NOR,Norway,2024,12.9
+NZL,New Zealand,2000,30.0
+NZL,New Zealand,2005,23.4
+NZL,New Zealand,2007,21.2
+NZL,New Zealand,2010,18.3
+NZL,New Zealand,2015,14.3
+NZL,New Zealand,2020,11.3
+NZL,New Zealand,2022,10.3
+NZL,New Zealand,2023,9.8
+NZL,New Zealand,2024,9.3
+SWE,Sweden,2000,49.5
+SWE,Sweden,2005,40.8
+SWE,Sweden,2007,38.1
+SWE,Sweden,2010,33.9
+SWE,Sweden,2015,28.2
+SWE,Sweden,2020,23.5
+SWE,Sweden,2022,21.8
+SWE,Sweden,2023,21.0
+SWE,Sweden,2024,20.3
+USA,United States,2000,38.6
+USA,United States,2005,31.9
+USA,United States,2007,29.7
+USA,United States,2010,26.5
+USA,United States,2015,22.0
+USA,United States,2020,18.3
+USA,United States,2022,17.0
+USA,United States,2023,16.4
+USA,United States,2024,15.8

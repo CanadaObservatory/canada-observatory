@@ -1,0 +1,15 @@
+{
+  "dataset_id": "voter_turnout",
+  "source": "Elections Canada (Voter Turnout at Federal Elections and Referendums)",
+  "source_table": "elections.ca turnout table",
+  "frequency": "per election",
+  "unit": "% of registered electors",
+  "retrieved_at": "2026-08-10T15:03:40.824541+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "general elections only (1898/1942/1992 referendums dropped)"
+  ],
+  "notes": null,
+  "row_count": 45
+}

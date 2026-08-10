@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_mental_health",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 13-10-0096-01 (CCHS)",
+  "frequency": "annual",
+  "unit": "% aged 12+",
+  "retrieved_at": "2026-08-10T15:07:38.670962+00:00",
+  "latest_observation_date": "2022-01-01",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to {'GEO': 'Canada (excluding territories)', 'Age group': 'Total, 12 years and over', 'Sex': 'Both sexes', 'Indicators': 'Perceived mental health, very good or excellent', 'Characteristics': 'Percent'}"
+  ],
+  "notes": null,
+  "row_count": 8
+}

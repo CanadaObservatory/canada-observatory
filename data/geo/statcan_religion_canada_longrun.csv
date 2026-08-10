@@ -1,0 +1,85 @@
+geography,geo_level,year,group,count,share,source
+Canada,national,1981,Buddhist,51830,0.22,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,Buddhist,163415,0.61,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,Buddhist,300345,1.01,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,Buddhist,366830,1.12,2011 National Household Survey (voluntary)
+Canada,national,2021,Buddhist,356975,0.98,2021 Census
+Canada,national,1871,Christian,3496678,94.78,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1881,Christian,4155721,96.09,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1891,Christian,4651094,96.23,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1901,Christian,5184164,96.52,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1911,Christian,6897827,95.71,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1921,Christian,8432309,95.95,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1931,Christian,9968315,96.06,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1941,Christian,11084452,96.33,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1951,Christian,13516792,96.48,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1961,Christian,17453672,95.7,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1971,Christian,19836175,91.97,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1981,Christian,21440115,89.28,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,Christian,22371735,82.88,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,Christian,22708040,76.62,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,Christian,22102745,67.28,2011 National Household Survey (voluntary)
+Canada,national,2021,Christian,19373330,53.33,2021 Census
+Canada,national,1981,Hindu,69480,0.29,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,Hindu,157015,0.58,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,Hindu,297200,1.0,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,Hindu,497965,1.52,2011 National Household Survey (voluntary)
+Canada,national,2021,Hindu,828195,2.28,2021 Census
+Canada,national,1871,Jewish,1115,0.03,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1881,Jewish,2393,0.06,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1891,Jewish,6414,0.13,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1901,Jewish,16401,0.31,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1911,Jewish,74564,1.03,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1921,Jewish,125445,1.43,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1931,Jewish,155766,1.5,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1941,Jewish,168585,1.47,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1951,Jewish,204836,1.46,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1961,Jewish,254368,1.39,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1971,Jewish,276025,1.28,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1981,Jewish,296345,1.23,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,Jewish,318185,1.18,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,Jewish,329995,1.11,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,Jewish,329495,1.0,2011 National Household Survey (voluntary)
+Canada,national,2021,Jewish,335295,0.92,2021 Census
+Canada,national,1981,Muslim,98130,0.41,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,Muslim,253265,0.94,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,Muslim,579640,1.96,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,Muslim,1053945,3.21,2011 National Household Survey (voluntary)
+Canada,national,2021,Muslim,1775715,4.89,2021 Census
+Canada,national,1871,No religion / secular,5575,0.15,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1881,No religion / secular,2634,0.06,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1891,No religion / secular,0,0.0,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1901,No religion / secular,6193,0.12,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1911,No religion / secular,26893,0.37,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1921,No religion / secular,21819,0.25,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1931,No religion / secular,21155,0.2,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1941,No religion / secular,19161,0.17,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1951,No religion / secular,59679,0.43,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1961,No religion / secular,94763,0.52,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1971,No religion / secular,929575,4.31,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1981,No religion / secular,1781345,7.42,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,No religion / secular,3333245,12.35,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,No religion / secular,4796325,16.18,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,No religion / secular,7850605,23.9,2011 National Household Survey (voluntary)
+Canada,national,2021,No religion / secular,12577475,34.62,2021 Census
+Canada,national,1871,Other religions,69329,1.88,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1881,Other religions,77293,1.79,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1891,Other religions,95464,1.98,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1901,Other religions,121335,2.26,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1911,Other religions,174869,2.43,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1921,Other religions,189117,2.15,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1931,Other religions,215508,2.08,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1941,Other religions,217298,1.89,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1951,Other religions,228122,1.63,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1961,Other religions,435444,2.39,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1971,Other religions,526535,2.44,1871–1971 Censuses (StatCan Table 17-10-0073-01)
+Canada,national,1981,Other religions,209975,0.87,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,Other religions,249745,0.93,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,Other religions,349070,1.18,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,Other religions,130835,0.4,2011 National Household Survey (voluntary)
+Canada,national,2021,Other religions,229015,0.63,2021 Census
+Canada,national,1981,Sikh,67655,0.28,"1981 Census (StatCan 95F0303X, Table 15)"
+Canada,national,1991,Sikh,147440,0.55,"1991 Census (StatCan, major religious denominations)"
+Canada,national,2001,Sikh,278415,0.94,"2001 Census (StatCan, major religious denominations)"
+Canada,national,2011,Sikh,454965,1.38,2011 National Household Survey (voluntary)
+Canada,national,2021,Sikh,771790,2.12,2021 Census

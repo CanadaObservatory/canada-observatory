@@ -1,0 +1,15 @@
+{
+  "dataset_id": "infobase_federal_by_dept",
+  "source": "Treasury Board of Canada Secretariat (GC InfoBase)",
+  "source_table": "GC InfoBase / Public Accounts of Canada",
+  "frequency": "annual",
+  "unit": "$ (latest Public Accounts year)",
+  "retrieved_at": "2026-08-10T15:05:42.843488+00:00",
+  "latest_observation_date": "latest Public Accounts",
+  "next_release_date": null,
+  "transformations": [
+    "sum standard objects 1\u201312 by department, latest PA year; names via igoc_en"
+  ],
+  "notes": null,
+  "row_count": 132
+}

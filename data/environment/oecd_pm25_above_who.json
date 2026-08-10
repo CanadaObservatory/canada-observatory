@@ -1,0 +1,15 @@
+{
+  "dataset_id": "oecd_pm25_above_who",
+  "source": "OECD",
+  "source_table": "OECD Green Growth Indicators",
+  "frequency": "annual",
+  "unit": "% of population",
+  "retrieved_at": "2026-08-10T15:09:10.976338+00:00",
+  "latest_observation_date": "2020",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to Population exposed to PM2.5 above WHO guideline for OECD peer group"
+  ],
+  "notes": null,
+  "row_count": 368
+}

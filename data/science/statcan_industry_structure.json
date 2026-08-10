@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_industry_structure",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 36-10-0434-01",
+  "frequency": "monthly",
+  "unit": "% of GDP (chained 2017 $)",
+  "retrieved_at": "2026-08-10T15:08:28.423397+00:00",
+  "latest_observation_date": "2026-05",
+  "next_release_date": null,
+  "transformations": [
+    "GEO=Canada, SA at annual rates, chained dollars; each 2-digit NAICS sector / All industries [T001]"
+  ],
+  "notes": null,
+  "row_count": 20
+}

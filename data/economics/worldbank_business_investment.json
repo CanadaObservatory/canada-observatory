@@ -1,0 +1,15 @@
+{
+  "dataset_id": "worldbank_business_investment",
+  "source": "World Bank (World Development Indicators)",
+  "source_table": "World Bank / OECD National Accounts",
+  "frequency": "annual",
+  "unit": "% of GDP",
+  "retrieved_at": "2026-08-10T15:04:16.929701+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "World Bank indicator NE.GDI.FTOT.ZS, filtered to 17 OECD peers"
+  ],
+  "notes": null,
+  "row_count": 439
+}

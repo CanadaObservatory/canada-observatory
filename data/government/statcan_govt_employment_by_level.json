@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_govt_employment_by_level",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 36-10-0489-01",
+  "frequency": "annual",
+  "unit": "jobs",
+  "retrieved_at": "2026-08-10T15:05:33.277705+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "GEO=Canada, Total number of jobs, NAICS public-administration levels"
+  ],
+  "notes": null,
+  "row_count": 140
+}

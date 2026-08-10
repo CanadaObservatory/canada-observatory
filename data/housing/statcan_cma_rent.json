@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_cma_rent",
+  "source": "Statistics Canada / CMHC",
+  "source_table": "34-10-0133-01",
+  "frequency": "annual",
+  "unit": "average monthly rent ($)",
+  "retrieved_at": "2026-08-10T15:06:03.135584+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "row + apartment structures of three units and over; CMA/centre rows (Ottawa-Gatineau parts dropped); latest year (2025); four bedroom types"
+  ],
+  "notes": null,
+  "row_count": 640
+}
