@@ -1,0 +1,17 @@
+{
+  "dataset_id": "statcan_st_personnel",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 27-10-0029-01",
+  "frequency": "annual",
+  "unit": "full-time equivalents",
+  "retrieved_at": "2026-08-12T15:20:03.971973+00:00",
+  "latest_observation_date": "2026/27",
+  "next_release_date": null,
+  "transformations": [
+    "GEO=Canada; all departments/agencies incl. the total row (agency='All federal agencies')",
+    "components kept: Total S&T / Research and development / Related scientific activities",
+    "personnel are full-time equivalents; the most recent years are intentions (planned staffing)"
+  ],
+  "notes": null,
+  "row_count": 1405
+}
