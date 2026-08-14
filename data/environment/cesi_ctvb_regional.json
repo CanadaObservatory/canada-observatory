@@ -4,7 +4,7 @@
   "source_table": "ECCC Climate Trends and Variations Bulletin (Annual 2024)",
   "frequency": "annual",
   "unit": "\u00b0C trend over 1948\u2013latest (vs 1961\u20131990 reference)",
-  "retrieved_at": "2026-08-13T15:08:13.254472+00:00",
+  "retrieved_at": "2026-08-14T15:05:04.970145+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [

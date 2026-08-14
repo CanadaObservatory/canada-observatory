@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 34-10-0143-01 (CMHC)",
   "frequency": "monthly",
   "unit": "units (monthly)",
-  "retrieved_at": "2026-08-13T15:04:33.785362+00:00",
+  "retrieved_at": "2026-08-14T15:00:36.135184+00:00",
   "latest_observation_date": "2026-06-01",
   "next_release_date": null,
   "transformations": [
