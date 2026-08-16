@@ -4,7 +4,7 @@
   "source_table": "owid-co2-data",
   "frequency": "annual",
   "unit": "tonnes CO2 per capita (production-based)",
-  "retrieved_at": "2026-08-15T14:50:22.818547+00:00",
+  "retrieved_at": "2026-08-16T14:46:40.596618+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [

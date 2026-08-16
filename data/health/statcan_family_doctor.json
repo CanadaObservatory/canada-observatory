@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 13-10-0096-01 (CCHS)",
   "frequency": "annual",
   "unit": "% aged 12+",
-  "retrieved_at": "2026-08-14T15:03:11.020424+00:00",
+  "retrieved_at": "2026-08-16T14:45:17.096483+00:00",
   "latest_observation_date": "2022-01-01",
   "next_release_date": null,
   "transformations": [
