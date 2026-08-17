@@ -4,12 +4,12 @@
   "source_table": "Statistics Canada 18-10-0004-01",
   "frequency": "monthly",
   "unit": "index (2002=100)",
-  "retrieved_at": "2026-08-15T14:36:19.932727+00:00",
-  "latest_observation_date": "2026-06-01",
+  "retrieved_at": "2026-08-17T14:37:10.687313+00:00",
+  "latest_observation_date": "2026-07-01",
   "next_release_date": null,
   "transformations": [
     "filtered to {'GEO': 'Canada', 'Products and product groups': 'Rent'}"
   ],
   "notes": null,
-  "row_count": 930
+  "row_count": 931
 }

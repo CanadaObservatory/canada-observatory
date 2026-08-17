@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 36-10-0104-01",
   "frequency": "quarterly",
   "unit": "chained 2017 $ (SAAR)",
-  "retrieved_at": "2026-08-16T14:30:49.365054+00:00",
+  "retrieved_at": "2026-08-17T14:35:12.190196+00:00",
   "latest_observation_date": "2026-01-01",
   "next_release_date": "2026-08-28",
   "transformations": [

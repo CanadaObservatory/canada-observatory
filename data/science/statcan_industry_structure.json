@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 36-10-0434-01",
   "frequency": "monthly",
   "unit": "% of GDP (chained 2017 $)",
-  "retrieved_at": "2026-08-16T14:46:18.088222+00:00",
+  "retrieved_at": "2026-08-17T14:40:41.425789+00:00",
   "latest_observation_date": "2026-05",
   "next_release_date": null,
   "transformations": [

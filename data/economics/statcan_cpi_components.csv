@@ -929,6 +929,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",202.1
 2026-05-01,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",203.0
 2026-06-01,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",203.6
+2026-07-01,Canada,"Alcoholic beverages, tobacco products and recreational cannabis",204.1
 1914-01-01,Canada,All-items,6.0
 1914-02-01,Canada,All-items,6.0
 1914-03-01,Canada,All-items,6.0
@@ -2279,6 +2280,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,All-items,168.0
 2026-05-01,Canada,All-items,169.6
 2026-06-01,Canada,All-items,169.0
+2026-07-01,Canada,All-items,169.9
 1949-01-01,Canada,Clothing and footwear,22.3
 1949-02-01,Canada,Clothing and footwear,22.3
 1949-03-01,Canada,Clothing and footwear,22.3
@@ -3209,6 +3211,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,Clothing and footwear,96.1
 2026-05-01,Canada,Clothing and footwear,97.3
 2026-06-01,Canada,Clothing and footwear,96.5
+2026-07-01,Canada,Clothing and footwear,95.5
 1949-01-01,Canada,Food,11.6
 1949-02-01,Canada,Food,11.4
 1949-03-01,Canada,Food,11.4
@@ -4139,6 +4142,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,Food,201.3
 2026-05-01,Canada,Food,202.8
 2026-06-01,Canada,Food,202.4
+2026-07-01,Canada,Food,202.8
 1949-01-01,Canada,Health and personal care,10.1
 1949-02-01,Canada,Health and personal care,10.1
 1949-03-01,Canada,Health and personal care,10.2
@@ -5069,6 +5073,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,Health and personal care,157.9
 2026-05-01,Canada,Health and personal care,158.5
 2026-06-01,Canada,Health and personal care,158.6
+2026-07-01,Canada,Health and personal care,158.6
 1978-09-01,Canada,"Household operations, furnishings and equipment",45.4
 1978-10-01,Canada,"Household operations, furnishings and equipment",46.0
 1978-11-01,Canada,"Household operations, furnishings and equipment",46.4
@@ -5643,6 +5648,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,"Household operations, furnishings and equipment",132.9
 2026-05-01,Canada,"Household operations, furnishings and equipment",132.9
 2026-06-01,Canada,"Household operations, furnishings and equipment",132.6
+2026-07-01,Canada,"Household operations, furnishings and equipment",134.0
 1949-01-01,Canada,"Recreation, education and reading",12.0
 1949-02-01,Canada,"Recreation, education and reading",12.2
 1949-03-01,Canada,"Recreation, education and reading",12.2
@@ -6573,6 +6579,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,"Recreation, education and reading",129.7
 2026-05-01,Canada,"Recreation, education and reading",134.3
 2026-06-01,Canada,"Recreation, education and reading",134.5
+2026-07-01,Canada,"Recreation, education and reading",136.0
 1978-09-01,Canada,Shelter,39.1
 1978-10-01,Canada,Shelter,39.5
 1978-11-01,Canada,Shelter,39.6
@@ -7147,6 +7154,7 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,Shelter,190.2
 2026-05-01,Canada,Shelter,190.1
 2026-06-01,Canada,Shelter,190.2
+2026-07-01,Canada,Shelter,190.3
 1949-01-01,Canada,Transportation,10.2
 1949-02-01,Canada,Transportation,10.2
 1949-03-01,Canada,Transportation,10.2
@@ -8077,3 +8085,4 @@ date,geography,product_group,cpi_value
 2026-04-01,Canada,Transportation,183.5
 2026-05-01,Canada,Transportation,187.1
 2026-06-01,Canada,Transportation,184.2
+2026-07-01,Canada,Transportation,186.8
