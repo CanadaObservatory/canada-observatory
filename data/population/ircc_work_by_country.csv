@@ -284,9 +284,9 @@ year,country,count
 2017,India,44685
 2017,United States of America,32295
 2017,Mexico,30685
-2017,France,26460
+2017,France,26455
 2017,China,24255
-2017,Philippines,18945
+2017,Philippines,18940
 2017,South Korea,12595
 2017,United Kingdom and Overseas Territories,12125
 2017,Jamaica,11020
@@ -423,9 +423,9 @@ year,country,count
 2017,Luxembourg,5
 2017,Turkmenistan,5
 2017,Uzbekistan,5
-2018,India,66960
+2018,India,66955
 2018,Mexico,33240
-2018,United States of America,30535
+2018,United States of America,30530
 2018,France,27910
 2018,China,24625
 2018,Philippines,16220
@@ -750,14 +750,14 @@ year,country,count
 2020,Chile,1135
 2020,Turkey,1120
 2020,Portugal,1050
-2020,Belgium,1030
+2020,Belgium,1020
 2020,Hong Kong SAR,1010
 2020,Cameroon,985
 2020,"Netherlands, The",965
 2020,"South Africa, Republic of",960
 2020,Israel,900
 2020,New Zealand,845
-2020,Poland,840
+2020,Poland,835
 2020,Egypt,805
 2020,Venezuela,740
 2020,Czech Republic,710
@@ -789,7 +789,7 @@ year,country,count
 2020,Haiti,325
 2020,Jordan,325
 2020,DR Congo,320
-2020,Slovak Republic,290
+2020,Slovak Republic,285
 2020,Madagascar,280
 2020,Croatia,275
 2020,St. Lucia,270
@@ -864,7 +864,7 @@ year,country,count
 2020,Luxembourg,5
 2020,Uzbekistan,5
 2021,India,142565
-2021,Mexico,40580
+2021,Mexico,40575
 2021,France,27395
 2021,China,24500
 2021,Philippines,23445
@@ -895,7 +895,7 @@ year,country,count
 2021,Spain,1730
 2021,Russia,1630
 2021,Turkey,1535
-2021,Taiwan,1490
+2021,Taiwan,1485
 2021,Thailand,1450
 2021,Sri Lanka,1390
 2021,Portugal,1380
@@ -1170,13 +1170,13 @@ year,country,count
 2022,"Botswana, Republic of",5
 2022,"Djibouti, Republic of",5
 2022,Surinam,5
-2023,India,284975
+2023,India,284955
 2023,Ukraine,108150
-2023,Mexico,60895
-2023,Philippines,58710
+2023,Mexico,60890
+2023,Philippines,58685
 2023,Iran,52230
-2023,France,36520
-2023,China,34440
+2023,France,36515
+2023,China,34435
 2023,Guatemala,21460
 2023,United States of America,21210
 2023,United Kingdom and Overseas Territories,15065
@@ -1186,16 +1186,16 @@ year,country,count
 2023,South Korea,13175
 2023,Hong Kong SAR,12395
 2023,Colombia,12355
-2023,Turkey,11915
+2023,Turkey,11910
 2023,Vietnam,9435
 2023,Japan,9380
-2023,Morocco,9165
+2023,Morocco,9110
 2023,Tunisia,8120
-2023,Australia,7995
-2023,"Ireland, Republic of",6565
+2023,Australia,7990
+2023,"Ireland, Republic of",6560
 2023,Bangladesh,6535
 2023,Nepal,6330
-2023,Germany,6125
+2023,Germany,6115
 2023,Sri Lanka,5960
 2023,Algeria,5545
 2023,Cameroon,5210
@@ -1332,44 +1332,44 @@ year,country,count
 2023,"Montenegro, Republic of",5
 2023,Solomon Islands,5
 2023,Tajikistan,5
-2024,India,251860
-2024,Ukraine,115685
-2024,Philippines,59450
+2024,India,251835
+2024,Ukraine,115670
+2024,Philippines,59435
 2024,Mexico,53300
-2024,Iran,45405
-2024,China,31370
-2024,France,29130
+2024,Iran,45395
+2024,China,31360
+2024,France,29125
 2024,United States of America,22575
 2024,Guatemala,21580
 2024,Nigeria,17945
 2024,United Kingdom and Overseas Territories,16145
 2024,South Korea,15210
-2024,Morocco,13205
+2024,Morocco,13200
 2024,Jamaica,12400
 2024,Hong Kong SAR,10370
 2024,Colombia,10225
 2024,Brazil,9785
 2024,Japan,9350
 2024,Vietnam,9000
-2024,Tunisia,8720
+2024,Tunisia,8715
 2024,Algeria,8350
 2024,Nepal,8015
 2024,Australia,7910
-2024,Chile,6755
+2024,Chile,6750
 2024,Bangladesh,6630
 2024,Cameroon,6595
 2024,Germany,5890
-2024,"Ireland, Republic of",5480
+2024,"Ireland, Republic of",5485
 2024,Israel,5120
-2024,Sri Lanka,5015
+2024,Sri Lanka,5010
 2024,Turkey,4770
 2024,Pakistan,4390
 2024,Taiwan,4360
 2024,Haiti,4175
-2024,Italy,3990
+2024,Italy,3985
 2024,Russia,3745
 2024,Peru,3040
-2024,Ghana,2930
+2024,Ghana,2925
 2024,Spain,2900
 2024,New Zealand,2420
 2024,Thailand,2320
@@ -1404,11 +1404,11 @@ year,country,count
 2024,Greece,755
 2024,Switzerland,735
 2024,Bhutan,725
-2024,Palestinian Authority (Gaza/West Bank),720
 2024,Burkina-Faso,715
+2024,Palestinian Authority (Gaza/West Bank),715
 2024,Cuba,660
 2024,"Guinea, Republic of",655
-2024,Sweden,620
+2024,Sweden,615
 2024,"Togo, Republic of",600
 2024,Zimbabwe,560
 2024,Denmark,510
@@ -1493,51 +1493,51 @@ year,country,count
 2024,"Djibouti, Republic of",5
 2024,Iceland,5
 2024,Laos,5
-2025,India,219060
-2025,Ukraine,60215
-2025,Mexico,53610
-2025,Philippines,47950
-2025,Iran,33130
-2025,China,25850
+2025,India,218880
+2025,Ukraine,60190
+2025,Mexico,53590
+2025,Philippines,47890
+2025,Iran,33115
+2025,China,25840
 2025,France,23920
-2025,Guatemala,22520
-2025,United States of America,21465
-2025,Nigeria,18910
-2025,United Kingdom and Overseas Territories,15495
+2025,Guatemala,22515
+2025,United States of America,21450
+2025,Nigeria,18890
+2025,United Kingdom and Overseas Territories,15485
 2025,Jamaica,12615
-2025,South Korea,12260
-2025,Colombia,9550
+2025,South Korea,12255
+2025,Colombia,9545
 2025,Japan,8755
-2025,Nepal,8735
-2025,Brazil,8555
+2025,Nepal,8720
+2025,Brazil,8550
 2025,Vietnam,7745
 2025,Australia,7620
 2025,Hong Kong SAR,7265
-2025,Morocco,6930
+2025,Morocco,6925
 2025,Algeria,6690
 2025,Bangladesh,5945
 2025,Tunisia,5625
 2025,Chile,5490
 2025,Germany,5070
-2025,Cameroon,4975
-2025,Sri Lanka,4815
+2025,Cameroon,4970
+2025,Sri Lanka,4810
 2025,"Ireland, Republic of",4375
 2025,Israel,4060
 2025,Taiwan,3715
-2025,Pakistan,3330
+2025,Pakistan,3325
 2025,Italy,3320
-2025,Ghana,3245
+2025,Ghana,3240
 2025,Lebanon,3230
 2025,Peru,2635
 2025,Haiti,2545
 2025,Spain,2240
 2025,New Zealand,2220
 2025,Russia,2210
-2025,Thailand,2165
+2025,Thailand,2155
 2025,"Ivory Coast, Republic of",1880
 2025,Senegal,1690
 2025,Belgium,1560
-2025,Turkey,1555
+2025,Turkey,1550
 2025,"Netherlands, The",1505
 2025,"South Africa, Republic of",1505
 2025,Egypt,1415
@@ -1548,10 +1548,10 @@ year,country,count
 2025,"Trinidad and Tobago, Republic of",1230
 2025,Saudi Arabia,1180
 2025,Costa Rica,1125
-2025,Mauritius,1080
+2025,Mauritius,1075
 2025,Honduras,1040
 2025,Czech Republic,945
-2025,DR Congo,905
+2025,DR Congo,900
 2025,Albania,875
 2025,Kenya,865
 2025,Nicaragua,865
@@ -1560,20 +1560,20 @@ year,country,count
 2025,Argentina,790
 2025,"Indonesia, Republic of",765
 2025,"Guinea, Republic of",710
-2025,Jordan,705
+2025,Jordan,700
 2025,Venezuela,675
 2025,Sweden,620
-2025,Switzerland,585
-2025,Burkina-Faso,575
+2025,Switzerland,580
+2025,Burkina-Faso,570
 2025,Zimbabwe,525
 2025,"Togo, Republic of",515
 2025,Cuba,510
 2025,Denmark,465
 2025,Greece,460
-2025,Bhutan,455
+2025,Bhutan,450
 2025,Palestinian Authority (Gaza/West Bank),445
 2025,Romania,435
-2025,"Benin, Republic of",430
+2025,"Benin, Republic of",425
 2025,Malaysia,415
 2025,Austria,385
 2025,Slovak Republic,385
@@ -1623,8 +1623,8 @@ year,country,count
 2025,Yemen,65
 2025,Kyrgyzstan,60
 2025,Oman,60
-2025,Fiji,50
 2025,Bosnia-Herzegovina,45
+2025,Fiji,45
 2025,Gambia,45
 2025,Grenada,45
 2025,Slovenia,45

@@ -197,16 +197,16 @@ year,country,count
 2022,Nepal,190
 2022,"Guinea, Republic of",150
 2022,"Ivory Coast, Republic of",65
-2023,Mexico,23695
-2023,India,11235
-2023,Nigeria,9020
+2023,Mexico,23690
+2023,India,11230
+2023,Nigeria,9015
 2023,Turkey,6320
 2023,Colombia,6025
 2023,Iran,5870
 2023,Haiti,5495
-2023,Pakistan,5190
+2023,Pakistan,5195
 2023,Bangladesh,4375
-2023,DR Congo,3605
+2023,DR Congo,3610
 2023,Venezuela,2950
 2023,Sri Lanka,2645
 2023,Ethiopia,2225
@@ -222,33 +222,33 @@ year,country,count
 2023,United States of America,620
 2023,Nepal,510
 2023,Ukraine,230
-2024,India,32215
+2024,India,32225
 2024,Bangladesh,15635
-2024,Nigeria,13085
+2024,Nigeria,13090
 2024,Sri Lanka,9775
 2024,Mexico,8815
 2024,Haiti,7940
 2024,Ghana,6960
-2024,Iran,6715
+2024,Iran,6720
 2024,Pakistan,5495
 2024,Colombia,4260
 2024,China,3855
 2024,Algeria,3270
 2024,Turkey,2655
+2024,DR Congo,2575
 2024,"Guinea, Republic of",2575
-2024,DR Congo,2570
 2024,Cameroon,1955
 2024,Romania,1670
 2024,Ethiopia,1585
 2024,Senegal,1400
 2024,Venezuela,1125
-2024,"Ivory Coast, Republic of",1000
+2024,"Ivory Coast, Republic of",1005
 2024,Chile,875
 2024,Nepal,835
 2024,Ukraine,665
 2024,United States of America,635
 2025,Haiti,17540
-2025,India,17135
+2025,India,17140
 2025,Iran,6880
 2025,Nigeria,6330
 2025,Mexico,4810
@@ -261,7 +261,7 @@ year,country,count
 2025,Algeria,2080
 2025,United States of America,1780
 2025,"Guinea, Republic of",1750
-2025,Romania,1695
+2025,Romania,1705
 2025,DR Congo,1650
 2025,Nepal,1645
 2025,Venezuela,1415
