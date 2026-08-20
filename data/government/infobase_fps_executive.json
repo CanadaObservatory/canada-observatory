@@ -4,7 +4,7 @@
   "source_table": "GC InfoBase employee population by executive level",
   "frequency": "annual",
   "unit": "employees",
-  "retrieved_at": "2026-08-19T14:40:50.604471+00:00",
+  "retrieved_at": "2026-08-20T14:42:05.536970+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
