@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 14-10-0064-01",
   "frequency": "annual",
   "unit": "weekly wage ($)",
-  "retrieved_at": "2026-08-20T14:43:22.990137+00:00",
+  "retrieved_at": "2026-08-21T14:42:50.376393+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
