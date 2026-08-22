@@ -4,7 +4,7 @@
   "source_table": "World Bank WDI (UN World Population Prospects)",
   "frequency": "annual",
   "unit": "people 65+ per 100 aged 15\u201364",
-  "retrieved_at": "2026-08-21T14:39:48.950223+00:00",
+  "retrieved_at": "2026-08-22T14:26:27.420433+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
