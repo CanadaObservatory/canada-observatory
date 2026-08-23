@@ -4,7 +4,7 @@
   "source_table": "OECD Health Statistics (Long-Term Care Resources)",
   "frequency": "annual",
   "unit": "per 1,000 aged 65+",
-  "retrieved_at": "2026-08-22T14:31:34.033544+00:00",
+  "retrieved_at": "2026-08-23T14:33:09.410937+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
