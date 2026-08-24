@@ -4,7 +4,7 @@
   "source_table": "elections.ca turnout table",
   "frequency": "per election",
   "unit": "% of registered electors",
-  "retrieved_at": "2026-08-23T14:27:56.640321+00:00",
+  "retrieved_at": "2026-08-24T14:50:38.012195+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

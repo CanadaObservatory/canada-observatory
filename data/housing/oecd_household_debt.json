@@ -4,7 +4,7 @@
   "source_table": "OECD Household Dashboard",
   "frequency": "annual",
   "unit": "% of net disposable income",
-  "retrieved_at": "2026-08-23T14:30:46.397327+00:00",
+  "retrieved_at": "2026-08-24T15:02:19.964466+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
