@@ -4,7 +4,7 @@
   "source_table": "ECCC AHCCD seasonal (homogenized), via GeoMet",
   "frequency": "annual",
   "unit": "\u00b0C seasonal mean / mean daily-high (homogenized)",
-  "retrieved_at": "2026-08-24T15:11:16.086235+00:00",
+  "retrieved_at": "2026-08-25T15:01:09.718170+00:00",
   "latest_observation_date": "2020",
   "next_release_date": null,
   "transformations": [

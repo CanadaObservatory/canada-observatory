@@ -4,7 +4,7 @@
   "source_table": "OECD.ELS.IMD,DSD_MIG@DF_MIG (MEASURE=B16) + World Bank population",
   "frequency": "annual",
   "unit": "naturalisations per 100,000 residents",
-  "retrieved_at": "2026-08-24T14:48:12.357101+00:00",
+  "retrieved_at": "2026-08-25T14:52:04.956255+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [

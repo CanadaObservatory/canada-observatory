@@ -4,7 +4,7 @@
   "source_table": "Canadian National Fire Database (NFDB), point-data summary",
   "frequency": "annual",
   "unit": "hectares burned",
-  "retrieved_at": "2026-08-23T14:41:10.395243+00:00",
+  "retrieved_at": "2026-08-25T15:01:43.791165+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
