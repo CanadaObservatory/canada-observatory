@@ -4,7 +4,7 @@
   "source_table": "ECCC Canadian Environmental Sustainability Indicators \u2014 air quality (NAPS)",
   "frequency": "annual",
   "unit": "index (2009 = 100), population-weighted concentration",
-  "retrieved_at": "2026-08-25T15:00:49.255343+00:00",
+  "retrieved_at": "2026-08-26T14:54:33.983778+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [
