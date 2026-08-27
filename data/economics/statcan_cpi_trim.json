@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 18-10-0256-01",
   "frequency": "monthly",
   "unit": "% (year-over-year)",
-  "retrieved_at": "2026-08-26T14:50:31.887072+00:00",
+  "retrieved_at": "2026-08-27T23:41:47.953240+00:00",
   "latest_observation_date": "2026-07-01",
   "next_release_date": null,
   "transformations": [
