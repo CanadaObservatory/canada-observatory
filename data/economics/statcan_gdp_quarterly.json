@@ -4,12 +4,12 @@
   "source_table": "Statistics Canada 36-10-0104-01",
   "frequency": "quarterly",
   "unit": "chained 2017 $ (SAAR)",
-  "retrieved_at": "2026-08-27T23:41:43.812116+00:00",
-  "latest_observation_date": "2026-01-01",
-  "next_release_date": "2026-08-28",
+  "retrieved_at": "2026-08-28T23:32:09.968530+00:00",
+  "latest_observation_date": "2026-04-01",
+  "next_release_date": "2026-11-30",
   "transformations": [
     "filtered to {'GEO': 'Canada', 'Estimates': 'Gross domestic product at market prices', 'Prices': 'Chained (2017) dollars', 'Seasonal adjustment': 'Seasonally adjusted at annual rates'}"
   ],
   "notes": null,
-  "row_count": 261
+  "row_count": 262
 }

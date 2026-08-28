@@ -4,7 +4,7 @@
   "source_table": "IRCC ODP-PR-Citz_immcat",
   "frequency": "annual",
   "unit": "persons (rounded to nearest 5)",
-  "retrieved_at": "2026-08-27T23:41:00.172810+00:00",
+  "retrieved_at": "2026-08-28T23:30:32.190553+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

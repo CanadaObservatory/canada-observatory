@@ -4,7 +4,7 @@
   "source_table": "World Bank / OECD National Accounts",
   "frequency": "annual",
   "unit": "% of GDP",
-  "retrieved_at": "2026-08-27T23:41:38.861591+00:00",
+  "retrieved_at": "2026-08-28T23:31:42.240024+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
