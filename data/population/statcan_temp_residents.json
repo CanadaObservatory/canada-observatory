@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 17-10-0121-01",
   "frequency": "quarterly",
   "unit": "persons",
-  "retrieved_at": "2026-08-28T23:29:25.307334+00:00",
+  "retrieved_at": "2026-08-29T17:36:35.230169+00:00",
   "latest_observation_date": "2026-04-01",
   "next_release_date": null,
   "transformations": [
