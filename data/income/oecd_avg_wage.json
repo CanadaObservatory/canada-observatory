@@ -4,7 +4,7 @@
   "source_table": "OECD Average Annual Wages",
   "frequency": "annual",
   "unit": "USD PPP, constant prices",
-  "retrieved_at": "2026-08-29T17:39:25.114991+00:00",
+  "retrieved_at": "2026-08-30T18:02:20.389720+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

@@ -4,7 +4,7 @@
   "source_table": "OECD Revenue Statistics (DSD_REV_COMP_OECD@DF_RSOECD)",
   "frequency": "annual",
   "unit": "% of GDP (general government, by tax category)",
-  "retrieved_at": "2026-08-29T17:38:24.650971+00:00",
+  "retrieved_at": "2026-08-30T18:01:18.015063+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
