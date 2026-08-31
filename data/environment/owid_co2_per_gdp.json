@@ -4,7 +4,7 @@
   "source_table": "owid-co2-data",
   "frequency": "annual",
   "unit": "kg CO2 per $ of GDP",
-  "retrieved_at": "2026-08-30T18:04:34.315848+00:00",
+  "retrieved_at": "2026-08-31T19:59:44.476231+00:00",
   "latest_observation_date": "2022",
   "next_release_date": null,
   "transformations": [

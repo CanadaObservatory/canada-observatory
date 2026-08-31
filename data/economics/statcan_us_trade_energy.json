@@ -1,0 +1,17 @@
+{
+  "dataset_id": "statcan_us_trade_energy",
+  "source": "Statistics Canada",
+  "source_table": "12-10-0179-01 (exports) and 12-10-0178-01 (imports, US country of export), via WDS vectors",
+  "frequency": "monthly",
+  "unit": "thousands of dollars (current, customs basis, unadjusted)",
+  "retrieved_at": "2026-08-31T19:55:11.268141+00:00",
+  "latest_observation_date": "2026-01-01",
+  "next_release_date": null,
+  "transformations": [
+    "four pinned vectors (titles re-verified each run)",
+    "months dropped unless all four series are present",
+    "balances = exports - imports; ex-energy = total - energy"
+  ],
+  "notes": null,
+  "row_count": 349
+}

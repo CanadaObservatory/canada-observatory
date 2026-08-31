@@ -1,0 +1,15 @@
+{
+  "dataset_id": "owid_foreign_born_share",
+  "source": "UN DESA International Migrant Stock, via Our World in Data",
+  "source_table": "OWID grapher: migrant-stock-share",
+  "frequency": "quinquennial (plus the latest edition year)",
+  "unit": "% of population",
+  "retrieved_at": "2026-08-31T19:54:05.887648+00:00",
+  "latest_observation_date": "2024",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to the 17-economy peer group"
+  ],
+  "notes": null,
+  "row_count": 136
+}
