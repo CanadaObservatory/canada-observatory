@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 13-10-0392-01",
   "frequency": "annual",
   "unit": "age-specific deaths per 100,000 population",
-  "retrieved_at": "2026-09-01T17:49:44.344223+00:00",
+  "retrieved_at": "2026-09-02T17:54:07.988504+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
