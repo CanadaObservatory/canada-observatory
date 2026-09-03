@@ -4,7 +4,7 @@
   "source_table": "12-10-0179-01 (exports) and 12-10-0178-01 (imports, US country of export), via WDS vectors",
   "frequency": "monthly",
   "unit": "thousands of dollars (current, customs basis, unadjusted)",
-  "retrieved_at": "2026-09-02T17:47:01.890429+00:00",
+  "retrieved_at": "2026-09-03T17:44:59.473326+00:00",
   "latest_observation_date": "2026-01-01",
   "next_release_date": null,
   "transformations": [

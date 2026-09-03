@@ -4,12 +4,12 @@
   "source_table": "Statistics Canada 12-10-0011-01",
   "frequency": "monthly",
   "unit": "$ millions (Customs basis, seasonally adjusted)",
-  "retrieved_at": "2026-09-02T17:46:59.425214+00:00",
-  "latest_observation_date": "2026-06-01",
+  "retrieved_at": "2026-09-03T17:44:57.585391+00:00",
+  "latest_observation_date": "2026-07-01",
   "next_release_date": null,
   "transformations": [
     "US vs. all-countries exports/imports; export shares for the US, China and the EU; balances computed as exports \u2212 imports"
   ],
   "notes": null,
-  "row_count": 354
+  "row_count": 355
 }

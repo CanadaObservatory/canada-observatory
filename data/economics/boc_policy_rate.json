@@ -1,15 +1,16 @@
 {
   "dataset_id": "boc_policy_rate",
   "source": "Bank of Canada",
-  "source_table": "Bank of Canada (Bank Rate, V122530)",
-  "frequency": "monthly",
+  "source_table": "Bank of Canada (Bank Rate: V122530 monthly to 2009, V39078 business-daily since)",
+  "frequency": "daily",
   "unit": "%",
-  "retrieved_at": "2026-09-02T17:47:09.571427+00:00",
-  "latest_observation_date": "2026-08-01",
+  "retrieved_at": "2026-09-03T17:45:07.044596+00:00",
+  "latest_observation_date": "2026-09-02",
   "next_release_date": null,
   "transformations": [
-    "BoC Valet series V122530 -> wide CSV"
+    "BoC Valet series V122530, V39078, V39079, STATIC_ATABLE_V39079 -> wide CSV",
+    "transform: _splice_bank_rate"
   ],
   "notes": null,
-  "row_count": 1100
+  "row_count": 5375
 }
