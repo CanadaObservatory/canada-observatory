@@ -4,7 +4,7 @@
   "source_table": "EN.ATM.PM25.MC.M3",
   "frequency": "annual",
   "unit": "\u00b5g/m\u00b3 (mean annual PM2.5 exposure)",
-  "retrieved_at": "2026-09-03T17:48:54.213541+00:00",
+  "retrieved_at": "2026-09-04T17:35:38.553845+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [

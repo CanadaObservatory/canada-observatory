@@ -4,7 +4,7 @@
   "source_table": "NY.GDP.MKTP.CD",
   "frequency": "annual",
   "unit": "current US$",
-  "retrieved_at": "2026-09-03T17:44:16.999460+00:00",
+  "retrieved_at": "2026-09-04T17:29:54.805851+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
