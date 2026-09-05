@@ -1,0 +1,16 @@
+{
+  "dataset_id": "statcan_class_of_worker_monthly",
+  "source": "Statistics Canada",
+  "source_table": "14-10-0288-01 (Labour Force Survey), via WDS vectors",
+  "frequency": "monthly",
+  "unit": "thousands of employed persons (public_share: % of total employment); seasonally adjusted",
+  "retrieved_at": "2026-09-05T16:43:15.121838+00:00",
+  "latest_observation_date": "2026-08-01",
+  "next_release_date": "2026-10-09",
+  "transformations": [
+    "four pinned vectors (titles re-verified each run)",
+    "public_share = public_sector / total * 100"
+  ],
+  "notes": null,
+  "row_count": 608
+}
