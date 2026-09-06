@@ -4,7 +4,7 @@
   "source_table": "36-10-0007-01 (services by country) + 12-10-0011-01 (goods, BoP basis)",
   "frequency": "annual",
   "unit": "$ millions (current, balance-of-payments basis)",
-  "retrieved_at": "2026-09-05T16:41:53.476185+00:00",
+  "retrieved_at": "2026-09-06T16:48:28.717298+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [

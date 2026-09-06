@@ -1,0 +1,17 @@
+{
+  "dataset_id": "nato_military_personnel",
+  "source": "NATO",
+  "source_table": "NATO, Defence Expenditure of NATO Countries (2014\u20132026), Table 7: Military personnel",
+  "frequency": "annual (published each June/July with NATO's defence-expenditure release)",
+  "unit": "thousands of military personnel; per 1,000 population",
+  "retrieved_at": "2026-09-06T09:07:45.061943+00:00",
+  "latest_observation_date": "2026",
+  "next_release_date": null,
+  "transformations": [
+    "Table 7 of the NATO workbook, the eleven NATO members of the peer group",
+    "per 1,000 population = personnel / World Bank SP.POP.TOTL \u00d7 1,000 (the latest population carried forward for NATO's estimate years)",
+    "years beyond 2026 dropped; `estimate` flags NATO's estimate years"
+  ],
+  "notes": "NATO definition: peacetime strength of military personnel, excluding trained reserves held at high readiness. Not the same count as DND's Regular Force.",
+  "row_count": 143
+}

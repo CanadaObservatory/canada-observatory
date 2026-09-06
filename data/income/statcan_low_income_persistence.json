@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 11-10-0025-01",
   "frequency": "annual",
   "unit": "% of tax filers (8-year window)",
-  "retrieved_at": "2026-09-05T16:44:59.545175+00:00",
+  "retrieved_at": "2026-09-06T16:50:52.718362+00:00",
   "latest_observation_date": "2016/2023",
   "next_release_date": null,
   "transformations": [

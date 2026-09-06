@@ -4,7 +4,7 @@
   "source_table": "World Bank WDI (UN World Population Prospects)",
   "frequency": "annual",
   "unit": "births per woman",
-  "retrieved_at": "2026-09-05T16:40:53.780744+00:00",
+  "retrieved_at": "2026-09-06T16:47:44.929835+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [

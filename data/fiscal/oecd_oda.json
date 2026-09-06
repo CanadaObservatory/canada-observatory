@@ -4,7 +4,7 @@
   "source_table": "OECD.DCD.FSD,DSD_DAC1@DF_DAC1 (MEASURE 11002, grant-equivalent ODA, % of GNI)",
   "frequency": "annual",
   "unit": "ODA as % of gross national income",
-  "retrieved_at": "2026-09-05T16:42:41.384490+00:00",
+  "retrieved_at": "2026-09-06T16:49:18.567619+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [

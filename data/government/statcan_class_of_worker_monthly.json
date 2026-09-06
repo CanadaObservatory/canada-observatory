@@ -4,7 +4,7 @@
   "source_table": "14-10-0288-01 (Labour Force Survey), via WDS vectors",
   "frequency": "monthly",
   "unit": "thousands of employed persons (public_share: % of total employment); seasonally adjusted",
-  "retrieved_at": "2026-09-05T16:43:15.121838+00:00",
+  "retrieved_at": "2026-09-06T16:49:41.098754+00:00",
   "latest_observation_date": "2026-08-01",
   "next_release_date": "2026-10-09",
   "transformations": [

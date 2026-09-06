@@ -4,11 +4,12 @@
   "source_table": "Statistics Canada 35-10-0066-01",
   "frequency": "annual",
   "unit": "number of incidents",
-  "retrieved_at": "2026-06-10T18:36:37.925536+00:00",
-  "latest_observation_date": "2024",
+  "retrieved_at": "2026-09-05T19:46:03.131364+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
   "transformations": [
     "Canada (selected police services), by type of motivation, over time"
   ],
   "notes": null,
-  "row_count": 538
+  "row_count": 615
 }

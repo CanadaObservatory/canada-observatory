@@ -1,0 +1,17 @@
+{
+  "dataset_id": "dnd_caf_strength",
+  "source": "Department of National Defence (open data; State of the Canadian Armed Forces) and Statistics Canada (historical)",
+  "source_table": "DND open data 'CAF Regular Force Members by Rank'; DND 'State of the Canadian Armed Forces'; DND Departmental Results Reports; Statistics Canada Canada Year Book 1988 table 21.16 and table 10-10-0027-01",
+  "frequency": "annual (fiscal years ending March 31) plus the live page snapshot",
+  "unit": "members",
+  "retrieved_at": "2026-09-06T16:49:12.935028+00:00",
+  "latest_observation_date": "2026-07-31",
+  "next_release_date": null,
+  "transformations": [
+    "Regular Force 1997\u2013 = sum of the open-data by-rank rows per fiscal year",
+    "historical constants and Primary Reserve average paid strength from the committed history file (each row cites its source)",
+    "live snapshot rows dated by the DND page's 'Last updated'"
+  ],
+  "notes": "open-data note: From DRWA Data Mart (updated February 2026); The fiscal years shown are named by the calendar years they end in, e.g., \"2020\" is fiscal year 19/20 and refers to 31 Mar 2020.",
+  "row_count": 63
+}

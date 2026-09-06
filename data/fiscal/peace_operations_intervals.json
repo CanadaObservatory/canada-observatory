@@ -1,0 +1,16 @@
+{
+  "dataset_id": "peace_operations_intervals",
+  "source": "Department of National Defence operation histories; United Nations Secretary-General reports and The Blue Helmets (UN Digital Library); Veterans Affairs Canada",
+  "source_table": "DND past-operations pages; UN documents cited by symbol (S/…, A/…) with a URL per row",
+  "frequency": "historical constants (hand-maintained; event-triggered)",
+  "unit": "uniformed personnel concurrently deployed (lower and upper bound per period)",
+  "latest_observation_date": "2026-12",
+  "next_release_date": null,
+  "transformations": [
+    "one row per mission and period; low == high where a dated figure exists, otherwise the two nearest dated figures as bounds (basis: exact | reported | inferred | bounded)",
+    "police (UNTAG's RCMP contingent) counted as uniformed personnel, as in the UN's monthly data"
+  ],
+  "notes": "Evidence table behind data/fiscal/peace_operations_history.csv (python -m pipeline.peace_ops_history). UN-led missions run to December 1990 only; the UN's monthly data takes over from November 1990. Categories: UN-led; NATO-led (Balkans: IFOR, SFOR, KFOR); NATO-led (Afghanistan: ISAF, then the NATO Training Mission); Other non-UN (ICSC Indochina 1954–74, ICCS Vietnam 1973, MFO Sinai). NATO deterrence deployments in Europe are not peace operations and are excluded.",
+  "row_count": 91,
+  "retrieved_at": "2026-09-06T15:28:44.201955+00:00"
+}

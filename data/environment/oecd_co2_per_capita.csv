@@ -32,8 +32,8 @@ AUS,2019,15.04,Australia
 AUS,2020,14.34,Australia
 AUS,2021,13.91,Australia
 AUS,2022,13.54,Australia
-AUS,2023,13.44,Australia
-AUS,2024,13.05,Australia
+AUS,2023,13.4,Australia
+AUS,2024,13.33,Australia
 CAN,1990,14.74,Canada
 CAN,1991,14.34,Canada
 CAN,1992,14.63,Canada
@@ -63,12 +63,12 @@ CAN,2015,14.96,Canada
 CAN,2016,14.78,Canada
 CAN,2017,14.87,Canada
 CAN,2018,14.96,Canada
-CAN,2019,14.62,Canada
-CAN,2020,13.14,Canada
+CAN,2019,14.49,Canada
+CAN,2020,12.97,Canada
 CAN,2021,13.23,Canada
-CAN,2022,13.48,Canada
-CAN,2023,13.31,Canada
-CAN,2024,13.28,Canada
+CAN,2022,13.38,Canada
+CAN,2023,13.29,Canada
+CAN,2024,13.2,Canada
 CHE,1990,6.07,Switzerland
 CHE,1991,6.39,Switzerland
 CHE,1992,6.35,Switzerland
@@ -99,11 +99,11 @@ CHE,2016,4.48,Switzerland
 CHE,2017,4.32,Switzerland
 CHE,2018,4.15,Switzerland
 CHE,2019,4.11,Switzerland
-CHE,2020,3.82,Switzerland
+CHE,2020,3.81,Switzerland
 CHE,2021,3.96,Switzerland
-CHE,2022,3.58,Switzerland
+CHE,2022,3.57,Switzerland
 CHE,2023,3.46,Switzerland
-CHE,2024,3.41,Switzerland
+CHE,2024,3.39,Switzerland
 DEU,1990,11.79,Germany
 DEU,1991,11.43,Germany
 DEU,1992,10.84,Germany
@@ -135,10 +135,10 @@ DEU,2017,8.65,Germany
 DEU,2018,8.33,Germany
 DEU,2019,7.72,Germany
 DEU,2020,7.09,Germany
-DEU,2021,7.39,Germany
+DEU,2021,7.38,Germany
 DEU,2022,7.26,Germany
-DEU,2023,6.5,Germany
-DEU,2024,6.07,Germany
+DEU,2023,6.46,Germany
+DEU,2024,6.2,Germany
 DNK,1990,9.91,Denmark
 DNK,1991,11.88,Denmark
 DNK,1992,10.7,Denmark
@@ -160,19 +160,19 @@ DNK,2007,9.46,Denmark
 DNK,2008,8.86,Denmark
 DNK,2009,8.5,Denmark
 DNK,2010,8.52,Denmark
-DNK,2011,7.55,Denmark
-DNK,2012,6.64,Denmark
-DNK,2013,6.92,Denmark
-DNK,2014,6.15,Denmark
-DNK,2015,5.73,Denmark
-DNK,2016,5.93,Denmark
-DNK,2017,5.51,Denmark
-DNK,2018,5.48,Denmark
-DNK,2019,4.88,Denmark
-DNK,2020,4.45,Denmark
-DNK,2021,4.74,Denmark
-DNK,2022,4.54,Denmark
-DNK,2023,4.12,Denmark
+DNK,2011,7.56,Denmark
+DNK,2012,6.74,Denmark
+DNK,2013,7.03,Denmark
+DNK,2014,6.25,Denmark
+DNK,2015,5.78,Denmark
+DNK,2016,6.02,Denmark
+DNK,2017,5.61,Denmark
+DNK,2018,5.58,Denmark
+DNK,2019,4.99,Denmark
+DNK,2020,4.56,Denmark
+DNK,2021,4.84,Denmark
+DNK,2022,4.71,Denmark
+DNK,2023,4.28,Denmark
 DNK,2024,3.88,Denmark
 FIN,1990,10.8,Finland
 FIN,1991,10.88,Finland
@@ -207,8 +207,8 @@ FIN,2019,7.29,Finland
 FIN,2020,6.44,Finland
 FIN,2021,6.4,Finland
 FIN,2022,6.05,Finland
-FIN,2023,5.25,Finland
-FIN,2024,4.84,Finland
+FIN,2023,5.26,Finland
+FIN,2024,4.97,Finland
 FRA,1990,6.06,France
 FRA,1991,6.47,France
 FRA,1992,6.24,France
@@ -230,20 +230,20 @@ FRA,2007,5.66,France
 FRA,2008,5.56,France
 FRA,2009,5.33,France
 FRA,2010,5.36,France
-FRA,2011,5.18,France
-FRA,2012,5.2,France
-FRA,2013,5.19,France
-FRA,2014,4.65,France
+FRA,2011,5.19,France
+FRA,2012,5.21,France
+FRA,2013,5.2,France
+FRA,2014,4.66,France
 FRA,2015,4.72,France
-FRA,2016,4.75,France
-FRA,2017,4.8,France
-FRA,2018,4.63,France
+FRA,2016,4.77,France
+FRA,2017,4.81,France
+FRA,2018,4.64,France
 FRA,2019,4.51,France
 FRA,2020,3.98,France
-FRA,2021,4.46,France
-FRA,2022,4.31,France
-FRA,2023,3.95,France
-FRA,2024,3.81,France
+FRA,2021,4.48,France
+FRA,2022,4.32,France
+FRA,2023,3.96,France
+FRA,2024,3.85,France
 GBR,1990,9.58,United Kingdom
 GBR,1991,9.73,United Kingdom
 GBR,1992,9.49,United Kingdom
@@ -277,8 +277,8 @@ GBR,2019,5.06,United Kingdom
 GBR,2020,4.48,United Kingdom
 GBR,2021,4.74,United Kingdom
 GBR,2022,4.49,United Kingdom
-GBR,2023,4.21,United Kingdom
-GBR,2024,4.0,United Kingdom
+GBR,2023,4.22,United Kingdom
+GBR,2024,4.08,United Kingdom
 ISR,1990,7.22,Israel
 ISR,1991,6.97,Israel
 ISR,1992,7.17,Israel
@@ -313,7 +313,7 @@ ISR,2020,6.56,Israel
 ISR,2021,6.38,Israel
 ISR,2022,6.55,Israel
 ISR,2023,6.1,Israel
-ISR,2024,6.06,Israel
+ISR,2024,5.99,Israel
 ITA,1990,6.83,Italy
 ITA,1991,6.8,Italy
 ITA,1992,6.75,Italy
@@ -345,10 +345,10 @@ ITA,2017,5.32,Italy
 ITA,2018,5.26,Italy
 ITA,2019,5.14,Italy
 ITA,2020,4.58,Italy
-ITA,2021,5.14,Italy
-ITA,2022,5.2,Italy
-ITA,2023,4.77,Italy
-ITA,2024,4.5,Italy
+ITA,2021,5.1,Italy
+ITA,2022,5.17,Italy
+ITA,2023,4.74,Italy
+ITA,2024,4.6,Italy
 JPN,1990,8.49,Japan
 JPN,1991,8.55,Japan
 JPN,1992,8.59,Japan
@@ -382,8 +382,8 @@ JPN,2019,8.24,Japan
 JPN,2020,7.82,Japan
 JPN,2021,7.98,Japan
 JPN,2022,7.83,Japan
-JPN,2023,7.52,Japan
-JPN,2024,7.3,Japan
+JPN,2023,7.56,Japan
+JPN,2024,7.51,Japan
 KOR,1990,5.25,South Korea
 KOR,1991,5.8,South Korea
 KOR,1992,6.28,South Korea
@@ -404,21 +404,21 @@ KOR,2006,9.84,South Korea
 KOR,2007,10.16,South Korea
 KOR,2008,10.36,South Korea
 KOR,2009,10.5,South Korea
-KOR,2010,11.63,South Korea
-KOR,2011,12.14,South Korea
-KOR,2012,11.97,South Korea
+KOR,2010,11.46,South Korea
+KOR,2011,11.99,South Korea
+KOR,2012,11.87,South Korea
 KOR,2013,11.83,South Korea
-KOR,2014,11.42,South Korea
+KOR,2014,11.41,South Korea
 KOR,2015,11.54,South Korea
-KOR,2016,11.52,South Korea
-KOR,2017,11.91,South Korea
-KOR,2018,12.31,South Korea
-KOR,2019,11.76,South Korea
-KOR,2020,10.91,South Korea
-KOR,2021,11.36,South Korea
-KOR,2022,11.01,South Korea
-KOR,2023,10.65,South Korea
-KOR,2024,10.66,South Korea
+KOR,2016,11.46,South Korea
+KOR,2017,11.75,South Korea
+KOR,2018,12.2,South Korea
+KOR,2019,11.7,South Korea
+KOR,2020,10.88,South Korea
+KOR,2021,11.33,South Korea
+KOR,2022,10.93,South Korea
+KOR,2023,10.64,South Korea
+KOR,2024,10.59,South Korea
 NLD,1990,10.11,Netherlands
 NLD,1991,10.4,Netherlands
 NLD,1992,10.24,Netherlands
@@ -451,9 +451,9 @@ NLD,2018,8.68,Netherlands
 NLD,2019,8.33,Netherlands
 NLD,2020,7.38,Netherlands
 NLD,2021,7.56,Netherlands
-NLD,2022,6.8,Netherlands
-NLD,2023,6.19,Netherlands
-NLD,2024,6.18,Netherlands
+NLD,2022,6.75,Netherlands
+NLD,2023,6.18,Netherlands
+NLD,2024,5.93,Netherlands
 NOR,1990,6.48,Norway
 NOR,1991,6.09,Norway
 NOR,1992,6.73,Norway
@@ -474,21 +474,21 @@ NOR,2006,7.62,Norway
 NOR,2007,7.66,Norway
 NOR,2008,7.8,Norway
 NOR,2009,7.67,Norway
-NOR,2010,8.1,Norway
-NOR,2011,7.78,Norway
-NOR,2012,7.62,Norway
-NOR,2013,7.64,Norway
-NOR,2014,7.58,Norway
-NOR,2015,7.67,Norway
-NOR,2016,7.46,Norway
-NOR,2017,7.37,Norway
-NOR,2018,7.25,Norway
-NOR,2019,7.0,Norway
-NOR,2020,6.69,Norway
-NOR,2021,6.69,Norway
-NOR,2022,6.52,Norway
-NOR,2023,6.21,Norway
-NOR,2024,6.32,Norway
+NOR,2010,7.97,Norway
+NOR,2011,7.69,Norway
+NOR,2012,7.56,Norway
+NOR,2013,7.6,Norway
+NOR,2014,7.55,Norway
+NOR,2015,7.49,Norway
+NOR,2016,7.28,Norway
+NOR,2017,7.2,Norway
+NOR,2018,7.05,Norway
+NOR,2019,6.82,Norway
+NOR,2020,6.52,Norway
+NOR,2021,6.53,Norway
+NOR,2022,6.35,Norway
+NOR,2023,6.04,Norway
+NOR,2024,5.57,Norway
 NZL,1990,6.4,New Zealand
 NZL,1991,6.34,New Zealand
 NZL,1992,6.74,New Zealand
@@ -513,17 +513,17 @@ NZL,2010,6.99,New Zealand
 NZL,2011,6.77,New Zealand
 NZL,2012,7.12,New Zealand
 NZL,2013,7.0,New Zealand
-NZL,2014,6.89,New Zealand
-NZL,2015,6.83,New Zealand
+NZL,2014,6.9,New Zealand
+NZL,2015,6.8,New Zealand
 NZL,2016,6.43,New Zealand
 NZL,2017,6.68,New Zealand
 NZL,2018,6.5,New Zealand
 NZL,2019,6.62,New Zealand
 NZL,2020,6.05,New Zealand
 NZL,2021,6.08,New Zealand
-NZL,2022,5.59,New Zealand
-NZL,2023,5.48,New Zealand
-NZL,2024,5.35,New Zealand
+NZL,2022,5.61,New Zealand
+NZL,2023,5.45,New Zealand
+NZL,2024,5.51,New Zealand
 SWE,1990,6.08,Sweden
 SWE,1991,6.16,Sweden
 SWE,1992,6.42,Sweden
@@ -593,4 +593,4 @@ USA,2020,12.54,United States
 USA,2021,13.37,United States
 USA,2022,13.49,United States
 USA,2023,12.85,United States
-USA,2024,12.92,United States
+USA,2024,12.83,United States

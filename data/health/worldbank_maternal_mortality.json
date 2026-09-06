@@ -4,7 +4,7 @@
   "source_table": "World Bank (WHO/UNICEF/UNFPA/World Bank/UNDESA)",
   "frequency": "annual",
   "unit": "per 100,000 live births",
-  "retrieved_at": "2026-09-05T16:45:47.480173+00:00",
+  "retrieved_at": "2026-09-06T16:51:30.952612+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [

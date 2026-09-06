@@ -1,0 +1,15 @@
+{
+  "dataset_id": "un_peacekeeping_assessment_scale",
+  "source": "United Nations General Assembly (Committee on Contributions)",
+  "source_table": "A/79/318/Add.1, annex III: effective rates of assessment for peacekeeping operations",
+  "frequency": "triennial (scale adopted by General Assembly resolution every three years)",
+  "unit": "% of the UN peacekeeping budget",
+  "retrieved_at": "2026-09-06T13:48:56.107903+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "the 17 peer countries' rows transcribed from the annex (rate in 2024 and the effective rate for 2025\u20132027)"
+  ],
+  "notes": "Constants; re-transcribe when the 2028\u20132030 scale is adopted (December 2027). Maintenance ritual un_assessment_scale.",
+  "row_count": 34
+}

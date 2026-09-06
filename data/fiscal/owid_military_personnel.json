@@ -1,0 +1,16 @@
+{
+  "dataset_id": "owid_military_personnel",
+  "source": "Our World in Data (Correlates of War, National Material Capabilities)",
+  "source_table": "OWID grapher: military-personnel (Correlates of War NMC v7.0, 2026)",
+  "frequency": "annual (updated at each Correlates of War release, every few years)",
+  "unit": "people; per 1,000 population",
+  "retrieved_at": "2026-09-06T16:49:06.815470+00:00",
+  "latest_observation_date": "2022",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to the 17-economy peer group",
+    "per_1000 = personnel / World Bank SP.POP.TOTL \u00d7 1,000 (1960\u2013)"
+  ],
+  "notes": "COW definition: troops under national command, intended for use against foreign adversaries, held ready for combat as of January 1. Not identical to DND's Regular Force or NATO's peacetime strength; use for the long run and the 17-peer comparison.",
+  "row_count": 2588
+}

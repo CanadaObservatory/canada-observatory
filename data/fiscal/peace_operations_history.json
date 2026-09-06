@@ -1,0 +1,18 @@
+{
+  "dataset_id": "peace_operations_history",
+  "source": "Department of National Defence operation histories; United Nations Secretary-General reports and The Blue Helmets (UN Digital Library); Veterans Affairs Canada",
+  "source_table": "derived from data/fiscal/peace_operations_intervals.csv",
+  "frequency": "annual (derived from historical constants)",
+  "unit": "approximate annual maximum of uniformed personnel concurrently deployed (lower and upper bound)",
+  "latest_observation_date": "2026",
+  "next_release_date": null,
+  "transformations": [
+    "mission intervals expanded to months and summed within each category",
+    "annual maximum bounded by the largest monthly lower bound and the largest monthly upper bound",
+    "peak_month = first month reaching the upper bound; missions = those present in that month",
+    "UN-led rows cover 1949–1990; the UN's monthly data takes over from November 1990"
+  ],
+  "notes": "Approximate by construction: sources state contingent sizes at dated points, not annual averages; a wide low–high range marks a gap between dated figures, not a larger deployment.",
+  "row_count": 126,
+  "retrieved_at": "2026-09-06T15:28:44.202291+00:00"
+}

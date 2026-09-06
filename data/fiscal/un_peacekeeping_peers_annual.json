@@ -1,0 +1,17 @@
+{
+  "dataset_id": "un_peacekeeping_peers_annual",
+  "source": "United Nations Peace and Security Data Hub (DPPA-DPO), via the Humanitarian Data Exchange",
+  "source_table": "HDX: dppadpo-ucpre2010 + peacekeeping-uniformed-contributions-by-gender; population World Bank SP.POP.TOTL",
+  "frequency": "annual (from monthly)",
+  "unit": "uniformed personnel (annual mean of month-end counts); per million population",
+  "retrieved_at": "2026-09-06T16:49:12.166207+00:00",
+  "latest_observation_date": "2026",
+  "next_release_date": null,
+  "transformations": [
+    "monthly totals over all missions and personnel types, averaged over the months reported in each year",
+    "peers with no rows in a year = 0",
+    "per_million = personnel / population \u00d7 1,000,000"
+  ],
+  "notes": "The current calendar year averages the months published so far. Licence CC BY-IGO.",
+  "row_count": 629
+}
