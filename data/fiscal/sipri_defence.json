@@ -1,0 +1,17 @@
+{
+  "dataset_id": "sipri_defence",
+  "source": "SIPRI Military Expenditure Database",
+  "source_table": "SIPRI-Milex-data-1949-2025_v1.2.xlsx, sheet 'Share of GDP'",
+  "frequency": "annual (released each late April; history is revised with each edition)",
+  "unit": "% of GDP",
+  "retrieved_at": "2026-09-07T18:48:06.441398+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to the 17 OECD peers (SIPRI country labels mapped to ISO3)",
+    "share-of-GDP fractions \u00d7 100; '. .' (unavailable) and 'xxx' (no such state) dropped",
+    "the current workbook link is read from the database page each run"
+  ],
+  "notes": "Information from the Stockholm International Peace Research Institute (SIPRI) Military Expenditure Database, https://doi.org/10.55163/CQGC9685. SIPRI's terms: non-commercial reproduction of less than 10 per cent of a data set is permitted with this credit line; this extract is 17 countries of one measure.",
+  "row_count": 1238
+}

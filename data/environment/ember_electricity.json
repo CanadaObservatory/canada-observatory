@@ -1,0 +1,17 @@
+{
+  "dataset_id": "ember_electricity",
+  "source": "Ember (Yearly electricity data)",
+  "source_table": "yearly_full_release_long_format.csv: Electricity generation (Fuel, TWh), Capacity (Fuel, GW), Total generation (TWh)",
+  "frequency": "annual",
+  "unit": "TWh generated; GW installed; % of generation",
+  "retrieved_at": "2026-09-07T18:51:37.942919+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "filtered to the 17 OECD peers",
+    "eight fuel categories; share_pct = generation \u00f7 Ember's total generation \u00d7 100",
+    "generation and capacity joined per country, year, and source"
+  ],
+  "notes": "CC BY 4.0. Ember is also the electricity source behind Our World in Data's energy dataset, so shares match the OWID electricity-mix charts. Canada (Ember methodology): annual generation from the Energy Institute Statistical Review; monthly generation from Statistics Canada, whose by-technology fossil total is split into coal and gas with IEA monthly fuel ratios; coal/gas/other-fossil capacity from Global Energy Monitor, other capacity from IRENA (co-firing makes the fossil capacity split imprecise).",
+  "row_count": 3485
+}
