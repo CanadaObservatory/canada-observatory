@@ -4,7 +4,7 @@
   "source_table": "OWID grapher: military-personnel (Correlates of War NMC v7.0, 2026)",
   "frequency": "annual (updated at each Correlates of War release, every few years)",
   "unit": "people; per 1,000 population",
-  "retrieved_at": "2026-09-07T18:48:07.412847+00:00",
+  "retrieved_at": "2026-09-08T17:53:09.942984+00:00",
   "latest_observation_date": "2022",
   "next_release_date": null,
   "transformations": [

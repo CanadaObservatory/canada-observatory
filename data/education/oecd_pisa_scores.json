@@ -1,0 +1,16 @@
+{
+  "dataset_id": "oecd_pisa_scores",
+  "source": "OECD, PISA 2025 Results (Volume I), Annex B1",
+  "source_table": "StatLink mrq53f.xlsx: Tables I.B1.2a.37 (reading, 2000\u2013), I.B1.2a.38 (mathematics, 2003\u2013), I.B1.2a.36 (science, 2006\u2013)",
+  "frequency": "every three to four years (one-time builder; re-run on the next Volume I)",
+  "unit": "PISA score points (mean) with standard errors",
+  "retrieved_at": "2026-09-08T12:30:23.869568+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "the 17 OECD peers plus the OECD average, OECD average-23 (the OECD's trend comparator) and OECD average-35 kept; other countries dropped",
+    "'m' (missing) cells dropped; the OECD's sampling-standards asterisk kept as `caution`"
+  ],
+  "notes": "PISA 2025 published 8 September 2026. Countries flagged caution=True (incl. Canada) did not meet one or more PISA sampling standards in 2025. Maintenance ritual pisa_results.",
+  "row_count": 451
+}

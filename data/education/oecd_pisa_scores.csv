@@ -1,0 +1,452 @@
+country_code,country_name,year,subject,score,se,caution
+AUS,Australia,2003,Mathematics,524.27,2.148,False
+AUS,Australia,2006,Mathematics,519.91,2.241,False
+AUS,Australia,2009,Mathematics,514.34,2.528,False
+AUS,Australia,2012,Mathematics,504.15,1.643,False
+AUS,Australia,2015,Mathematics,493.9,1.605,False
+AUS,Australia,2018,Mathematics,491.36,1.94,False
+AUS,Australia,2022,Mathematics,487.08,1.78,False
+AUS,Australia,2025,Mathematics,477.53,1.915,False
+CAN,Canada,2003,Mathematics,532.49,1.818,True
+CAN,Canada,2006,Mathematics,527.01,1.967,True
+CAN,Canada,2009,Mathematics,526.81,1.614,True
+CAN,Canada,2012,Mathematics,518.07,1.841,True
+CAN,Canada,2015,Mathematics,515.65,2.313,True
+CAN,Canada,2018,Mathematics,512.02,2.357,True
+CAN,Canada,2022,Mathematics,496.95,1.562,True
+CAN,Canada,2025,Mathematics,485.34,1.913,True
+CHE,Switzerland,2003,Mathematics,526.55,3.383,False
+CHE,Switzerland,2006,Mathematics,529.66,3.153,False
+CHE,Switzerland,2009,Mathematics,533.96,3.298,False
+CHE,Switzerland,2012,Mathematics,530.93,3.041,False
+CHE,Switzerland,2015,Mathematics,521.25,2.92,False
+CHE,Switzerland,2018,Mathematics,515.31,2.908,False
+CHE,Switzerland,2022,Mathematics,507.99,2.144,False
+CHE,Switzerland,2025,Mathematics,499.15,2.593,False
+DEU,Germany,2003,Mathematics,502.99,3.317,False
+DEU,Germany,2006,Mathematics,503.79,3.868,False
+DEU,Germany,2009,Mathematics,512.78,2.863,False
+DEU,Germany,2012,Mathematics,513.53,2.877,False
+DEU,Germany,2015,Mathematics,505.97,2.888,False
+DEU,Germany,2018,Mathematics,500.04,2.647,False
+DEU,Germany,2022,Mathematics,474.83,3.065,False
+DEU,Germany,2025,Mathematics,463.81,3.046,False
+DNK,Denmark,2003,Mathematics,514.29,2.744,False
+DNK,Denmark,2006,Mathematics,513.03,2.617,False
+DNK,Denmark,2009,Mathematics,503.28,2.603,False
+DNK,Denmark,2012,Mathematics,500.03,2.295,False
+DNK,Denmark,2015,Mathematics,511.09,2.174,False
+DNK,Denmark,2018,Mathematics,509.4,1.735,False
+DNK,Denmark,2022,Mathematics,489.27,1.949,False
+DNK,Denmark,2025,Mathematics,470.63,2.109,False
+FIN,Finland,2003,Mathematics,544.29,1.866,False
+FIN,Finland,2006,Mathematics,548.36,2.296,False
+FIN,Finland,2009,Mathematics,540.5,2.167,False
+FIN,Finland,2012,Mathematics,518.75,1.941,False
+FIN,Finland,2015,Mathematics,511.08,2.309,False
+FIN,Finland,2018,Mathematics,507.3,1.968,False
+FIN,Finland,2022,Mathematics,484.14,1.857,False
+FIN,Finland,2025,Mathematics,468.69,2.201,False
+FRA,France,2003,Mathematics,510.8,2.504,False
+FRA,France,2006,Mathematics,495.54,3.171,False
+FRA,France,2009,Mathematics,496.78,3.094,False
+FRA,France,2012,Mathematics,494.98,2.455,False
+FRA,France,2015,Mathematics,492.92,2.099,False
+FRA,France,2018,Mathematics,495.41,2.32,False
+FRA,France,2022,Mathematics,473.94,2.489,False
+FRA,France,2025,Mathematics,457.66,2.995,False
+GBR,United Kingdom,2006,Mathematics,495.44,2.143,False
+GBR,United Kingdom,2009,Mathematics,492.41,2.42,False
+GBR,United Kingdom,2012,Mathematics,493.93,3.296,False
+GBR,United Kingdom,2015,Mathematics,492.48,2.497,False
+GBR,United Kingdom,2018,Mathematics,501.77,2.564,False
+GBR,United Kingdom,2022,Mathematics,488.98,2.218,False
+GBR,United Kingdom,2025,Mathematics,487.57,2.199,False
+ISR,Israel,2006,Mathematics,441.86,4.346,False
+ISR,Israel,2009,Mathematics,446.86,3.278,False
+ISR,Israel,2012,Mathematics,466.48,4.682,False
+ISR,Israel,2015,Mathematics,469.67,3.629,False
+ISR,Israel,2018,Mathematics,463.03,3.499,False
+ISR,Israel,2022,Mathematics,457.9,3.269,False
+ISR,Israel,2025,Mathematics,433.37,3.104,False
+ITA,Italy,2003,Mathematics,465.66,3.075,False
+ITA,Italy,2006,Mathematics,461.69,2.282,False
+ITA,Italy,2009,Mathematics,482.91,1.856,False
+ITA,Italy,2012,Mathematics,485.32,2.025,False
+ITA,Italy,2015,Mathematics,489.73,2.845,False
+ITA,Italy,2018,Mathematics,486.59,2.78,False
+ITA,Italy,2022,Mathematics,471.26,3.093,False
+ITA,Italy,2025,Mathematics,467.76,2.846,False
+JPN,Japan,2003,Mathematics,534.14,4.016,False
+JPN,Japan,2006,Mathematics,523.1,3.342,False
+JPN,Japan,2009,Mathematics,528.99,3.328,False
+JPN,Japan,2012,Mathematics,536.41,3.587,False
+JPN,Japan,2015,Mathematics,532.44,3.0,False
+JPN,Japan,2018,Mathematics,526.97,2.471,False
+JPN,Japan,2022,Mathematics,535.58,2.934,False
+JPN,Japan,2025,Mathematics,525.38,4.204,False
+KOR,South Korea,2003,Mathematics,542.23,3.238,False
+KOR,South Korea,2006,Mathematics,547.46,3.761,False
+KOR,South Korea,2009,Mathematics,546.23,4.015,False
+KOR,South Korea,2012,Mathematics,553.77,4.579,False
+KOR,South Korea,2015,Mathematics,524.11,3.712,False
+KOR,South Korea,2018,Mathematics,525.93,3.121,False
+KOR,South Korea,2022,Mathematics,527.3,3.863,False
+KOR,South Korea,2025,Mathematics,522.3,3.958,False
+NLD,Netherlands,2003,Mathematics,537.82,3.13,True
+NLD,Netherlands,2006,Mathematics,530.65,2.586,True
+NLD,Netherlands,2009,Mathematics,525.84,4.745,True
+NLD,Netherlands,2012,Mathematics,522.97,3.472,True
+NLD,Netherlands,2015,Mathematics,512.25,2.212,True
+NLD,Netherlands,2018,Mathematics,519.23,2.632,True
+NLD,Netherlands,2022,Mathematics,492.68,3.766,True
+NLD,Netherlands,2025,Mathematics,483.27,2.888,True
+NOR,Norway,2003,Mathematics,495.19,2.376,True
+NOR,Norway,2006,Mathematics,489.85,2.641,True
+NOR,Norway,2009,Mathematics,497.96,2.397,True
+NOR,Norway,2012,Mathematics,489.37,2.734,True
+NOR,Norway,2015,Mathematics,501.73,2.232,True
+NOR,Norway,2018,Mathematics,500.96,2.219,True
+NOR,Norway,2022,Mathematics,468.45,2.062,True
+NOR,Norway,2025,Mathematics,451.78,2.02,True
+NZL,New Zealand,2003,Mathematics,523.49,2.257,True
+NZL,New Zealand,2006,Mathematics,521.99,2.39,True
+NZL,New Zealand,2009,Mathematics,519.3,2.312,True
+NZL,New Zealand,2012,Mathematics,499.75,2.205,True
+NZL,New Zealand,2015,Mathematics,495.22,2.265,True
+NZL,New Zealand,2018,Mathematics,494.49,1.706,True
+NZL,New Zealand,2022,Mathematics,479.07,1.987,True
+NZL,New Zealand,2025,Mathematics,479.62,2.165,True
+OECD,OECD average,2012,Mathematics,488.16,0.465,False
+OECD,OECD average,2015,Mathematics,484.88,0.418,False
+OECD,OECD average,2025,Mathematics,463.02,0.425,False
+OECD23,OECD average (23 countries with data since 2000),2003,Mathematics,502.12,0.607,False
+OECD23,OECD average (23 countries with data since 2000),2006,Mathematics,501.07,0.595,False
+OECD23,OECD average (23 countries with data since 2000),2009,Mathematics,501.67,0.578,False
+OECD23,OECD average (23 countries with data since 2000),2012,Mathematics,498.68,0.564,False
+OECD23,OECD average (23 countries with data since 2000),2015,Mathematics,495.52,0.534,False
+OECD23,OECD average (23 countries with data since 2000),2018,Mathematics,496.35,0.504,False
+OECD23,OECD average (23 countries with data since 2000),2022,Mathematics,480.29,0.488,False
+OECD23,OECD average (23 countries with data since 2000),2025,Mathematics,469.38,0.548,False
+OECD35,OECD average (35 countries),2006,Mathematics,490.72,0.521,False
+OECD35,OECD average (35 countries),2012,Mathematics,490.54,0.494,False
+OECD35,OECD average (35 countries),2015,Mathematics,487.24,0.443,False
+OECD35,OECD average (35 countries),2018,Mathematics,489.68,0.418,False
+OECD35,OECD average (35 countries),2022,Mathematics,474.84,0.415,False
+OECD35,OECD average (35 countries),2025,Mathematics,465.49,0.453,False
+SWE,Sweden,2003,Mathematics,509.05,2.559,False
+SWE,Sweden,2006,Mathematics,502.36,2.408,False
+SWE,Sweden,2009,Mathematics,494.24,2.899,False
+SWE,Sweden,2012,Mathematics,478.26,2.255,False
+SWE,Sweden,2015,Mathematics,493.92,3.172,False
+SWE,Sweden,2018,Mathematics,502.39,2.654,False
+SWE,Sweden,2022,Mathematics,481.77,2.063,False
+SWE,Sweden,2025,Mathematics,464.25,2.509,False
+USA,United States,2003,Mathematics,482.88,2.949,True
+USA,United States,2006,Mathematics,474.35,4.021,True
+USA,United States,2009,Mathematics,487.4,3.574,True
+USA,United States,2012,Mathematics,481.37,3.597,True
+USA,United States,2015,Mathematics,469.63,3.166,True
+USA,United States,2018,Mathematics,478.24,3.235,True
+USA,United States,2022,Mathematics,464.89,4.007,True
+USA,United States,2025,Mathematics,462.85,5.397,True
+AUS,Australia,2000,Reading,528.28,3.523,False
+AUS,Australia,2003,Reading,525.43,2.126,False
+AUS,Australia,2006,Reading,512.89,2.062,False
+AUS,Australia,2009,Reading,514.9,2.337,False
+AUS,Australia,2012,Reading,511.8,1.577,False
+AUS,Australia,2015,Reading,502.9,1.691,False
+AUS,Australia,2018,Reading,502.63,1.634,False
+AUS,Australia,2022,Reading,498.05,2.014,False
+AUS,Australia,2025,Reading,490.86,1.852,False
+CAN,Canada,2000,Reading,534.31,1.559,True
+CAN,Canada,2003,Reading,527.91,1.747,True
+CAN,Canada,2006,Reading,527.01,2.439,True
+CAN,Canada,2009,Reading,524.24,1.483,True
+CAN,Canada,2012,Reading,523.12,1.926,True
+CAN,Canada,2015,Reading,526.67,2.301,True
+CAN,Canada,2018,Reading,520.09,1.8,True
+CAN,Canada,2022,Reading,507.13,1.966,True
+CAN,Canada,2025,Reading,489.83,1.781,True
+CHE,Switzerland,2000,Reading,494.37,4.247,False
+CHE,Switzerland,2003,Reading,499.12,3.281,False
+CHE,Switzerland,2006,Reading,499.28,3.061,False
+CHE,Switzerland,2009,Reading,500.5,2.444,False
+CHE,Switzerland,2012,Reading,509.04,2.565,False
+CHE,Switzerland,2015,Reading,492.2,3.031,False
+CHE,Switzerland,2018,Reading,483.93,3.124,False
+CHE,Switzerland,2022,Reading,483.33,2.258,False
+CHE,Switzerland,2025,Reading,470.05,2.921,False
+DEU,Germany,2000,Reading,483.99,2.465,False
+DEU,Germany,2003,Reading,491.36,3.386,False
+DEU,Germany,2006,Reading,494.94,4.41,False
+DEU,Germany,2009,Reading,497.31,2.656,False
+DEU,Germany,2012,Reading,507.68,2.816,False
+DEU,Germany,2015,Reading,509.1,3.018,False
+DEU,Germany,2018,Reading,498.28,3.025,False
+DEU,Germany,2022,Reading,479.79,3.609,False
+DEU,Germany,2025,Reading,465.28,3.562,False
+DNK,Denmark,2000,Reading,496.87,2.353,False
+DNK,Denmark,2003,Reading,492.32,2.818,False
+DNK,Denmark,2006,Reading,494.48,3.178,False
+DNK,Denmark,2009,Reading,494.92,2.074,False
+DNK,Denmark,2012,Reading,496.13,2.648,False
+DNK,Denmark,2015,Reading,499.81,2.545,False
+DNK,Denmark,2018,Reading,501.13,1.795,False
+DNK,Denmark,2022,Reading,488.8,2.578,False
+DNK,Denmark,2025,Reading,460.01,2.373,False
+FIN,Finland,2000,Reading,546.47,2.578,False
+FIN,Finland,2003,Reading,543.46,1.642,False
+FIN,Finland,2006,Reading,546.87,2.147,False
+FIN,Finland,2009,Reading,535.88,2.254,False
+FIN,Finland,2012,Reading,524.02,2.382,False
+FIN,Finland,2015,Reading,526.42,2.547,False
+FIN,Finland,2018,Reading,520.08,2.307,False
+FIN,Finland,2022,Reading,490.22,2.255,False
+FIN,Finland,2025,Reading,474.3,2.12,False
+FRA,France,2000,Reading,504.74,2.728,False
+FRA,France,2003,Reading,496.19,2.678,False
+FRA,France,2006,Reading,487.71,4.064,False
+FRA,France,2009,Reading,495.62,3.442,False
+FRA,France,2012,Reading,505.48,2.826,False
+FRA,France,2015,Reading,499.31,2.507,False
+FRA,France,2018,Reading,492.61,2.321,False
+FRA,France,2022,Reading,473.85,3.075,False
+FRA,France,2025,Reading,456.33,3.244,False
+GBR,United Kingdom,2006,Reading,495.08,2.255,False
+GBR,United Kingdom,2009,Reading,494.18,2.28,False
+GBR,United Kingdom,2012,Reading,499.32,3.5,False
+GBR,United Kingdom,2015,Reading,497.97,2.769,False
+GBR,United Kingdom,2018,Reading,503.93,2.583,False
+GBR,United Kingdom,2022,Reading,494.4,2.371,False
+GBR,United Kingdom,2025,Reading,494.23,2.021,False
+ISR,Israel,2000,Reading,452.17,8.467,False
+ISR,Israel,2006,Reading,438.67,4.581,False
+ISR,Israel,2009,Reading,473.99,3.634,False
+ISR,Israel,2012,Reading,485.8,5.007,False
+ISR,Israel,2015,Reading,478.96,3.777,False
+ISR,Israel,2018,Reading,470.42,3.671,False
+ISR,Israel,2022,Reading,473.83,3.487,False
+ISR,Israel,2025,Reading,435.84,3.524,False
+ITA,Italy,2000,Reading,487.47,2.913,False
+ITA,Italy,2003,Reading,475.66,3.044,False
+ITA,Italy,2006,Reading,468.52,2.426,False
+ITA,Italy,2009,Reading,486.05,1.572,False
+ITA,Italy,2012,Reading,489.75,1.972,False
+ITA,Italy,2015,Reading,484.76,2.681,False
+ITA,Italy,2018,Reading,476.28,2.439,False
+ITA,Italy,2022,Reading,481.6,2.68,False
+ITA,Italy,2025,Reading,474.29,2.598,False
+JPN,Japan,2000,Reading,522.23,5.21,False
+JPN,Japan,2003,Reading,498.11,3.924,False
+JPN,Japan,2006,Reading,497.96,3.65,False
+JPN,Japan,2009,Reading,519.86,3.466,False
+JPN,Japan,2012,Reading,538.05,3.673,False
+JPN,Japan,2015,Reading,515.96,3.197,False
+JPN,Japan,2018,Reading,503.86,2.671,False
+JPN,Japan,2022,Reading,515.85,3.177,False
+JPN,Japan,2025,Reading,502.71,3.778,False
+KOR,South Korea,2000,Reading,524.75,2.416,False
+KOR,South Korea,2003,Reading,534.09,3.092,False
+KOR,South Korea,2006,Reading,556.02,3.813,False
+KOR,South Korea,2009,Reading,539.27,3.461,False
+KOR,South Korea,2012,Reading,535.79,3.941,False
+KOR,South Korea,2015,Reading,517.44,3.505,False
+KOR,South Korea,2018,Reading,514.05,2.941,False
+KOR,South Korea,2022,Reading,515.42,3.632,False
+KOR,South Korea,2025,Reading,500.56,3.446,False
+NLD,Netherlands,2003,Reading,513.12,2.854,True
+NLD,Netherlands,2006,Reading,506.75,2.925,True
+NLD,Netherlands,2009,Reading,508.4,5.15,True
+NLD,Netherlands,2012,Reading,511.23,3.469,True
+NLD,Netherlands,2015,Reading,502.96,2.412,True
+NLD,Netherlands,2018,Reading,484.78,2.651,True
+NLD,Netherlands,2022,Reading,459.24,4.282,True
+NLD,Netherlands,2025,Reading,441.34,2.895,True
+NOR,Norway,2000,Reading,505.28,2.802,True
+NOR,Norway,2003,Reading,499.74,2.776,True
+NOR,Norway,2006,Reading,484.29,3.182,True
+NOR,Norway,2009,Reading,503.23,2.581,True
+NOR,Norway,2012,Reading,503.94,3.215,True
+NOR,Norway,2015,Reading,513.19,2.509,True
+NOR,Norway,2018,Reading,499.45,2.172,True
+NOR,Norway,2022,Reading,476.52,2.542,True
+NOR,Norway,2025,Reading,452.8,2.087,True
+NZL,New Zealand,2000,Reading,528.8,2.784,True
+NZL,New Zealand,2003,Reading,521.55,2.459,True
+NZL,New Zealand,2006,Reading,521.03,2.991,True
+NZL,New Zealand,2009,Reading,520.88,2.353,True
+NZL,New Zealand,2012,Reading,512.19,2.398,True
+NZL,New Zealand,2015,Reading,509.27,2.405,True
+NZL,New Zealand,2018,Reading,505.73,2.043,True
+NZL,New Zealand,2022,Reading,500.85,2.117,True
+NZL,New Zealand,2025,Reading,497.04,2.42,True
+OECD,OECD average,2012,Reading,491.82,0.479,False
+OECD,OECD average,2015,Reading,488.53,0.446,False
+OECD,OECD average,2025,Reading,460.94,0.446,False
+OECD23,OECD average (23 countries with data since 2000),2000,Reading,499.53,0.715,False
+OECD23,OECD average (23 countries with data since 2000),2003,Reading,497.42,0.622,False
+OECD23,OECD average (23 countries with data since 2000),2006,Reading,495.47,0.686,False
+OECD23,OECD average (23 countries with data since 2000),2009,Reading,499.4,0.569,False
+OECD23,OECD average (23 countries with data since 2000),2012,Reading,501.36,0.575,False
+OECD23,OECD average (23 countries with data since 2000),2015,Reading,497.25,0.569,False
+OECD23,OECD average (23 countries with data since 2000),2018,Reading,492.84,0.514,False
+OECD23,OECD average (23 countries with data since 2000),2022,Reading,481.93,0.552,False
+OECD23,OECD average (23 countries with data since 2000),2025,Reading,465.83,0.563,False
+OECD35,OECD average (35 countries),2012,Reading,493.51,0.506,False
+OECD35,OECD average (35 countries),2015,Reading,490.27,0.472,False
+OECD35,OECD average (35 countries),2018,Reading,487.62,0.425,False
+OECD35,OECD average (35 countries),2022,Reading,477.35,0.47,False
+OECD35,OECD average (35 countries),2025,Reading,463.01,0.474,False
+SWE,Sweden,2000,Reading,516.33,2.204,False
+SWE,Sweden,2003,Reading,514.27,2.421,False
+SWE,Sweden,2006,Reading,507.31,3.436,False
+SWE,Sweden,2009,Reading,497.45,2.88,False
+SWE,Sweden,2012,Reading,483.34,3.003,False
+SWE,Sweden,2015,Reading,500.16,3.483,False
+SWE,Sweden,2018,Reading,505.79,3.025,False
+SWE,Sweden,2022,Reading,486.98,2.49,False
+SWE,Sweden,2025,Reading,466.44,3.15,False
+USA,United States,2000,Reading,504.42,7.045,True
+USA,United States,2003,Reading,495.19,3.222,True
+USA,United States,2009,Reading,499.83,3.654,True
+USA,United States,2012,Reading,497.58,3.744,True
+USA,United States,2015,Reading,496.94,3.407,True
+USA,United States,2018,Reading,505.35,3.569,True
+USA,United States,2022,Reading,503.94,4.326,True
+USA,United States,2025,Reading,489.52,5.837,True
+AUS,Australia,2006,Science,526.88,2.26,False
+AUS,Australia,2009,Science,527.27,2.531,False
+AUS,Australia,2012,Science,521.49,1.758,False
+AUS,Australia,2015,Science,509.99,1.535,False
+AUS,Australia,2018,Science,502.96,1.795,False
+AUS,Australia,2022,Science,507.0,1.933,False
+AUS,Australia,2025,Science,509.11,1.885,False
+CAN,Canada,2006,Science,534.47,2.032,True
+CAN,Canada,2009,Science,528.7,1.621,True
+CAN,Canada,2012,Science,525.44,1.93,True
+CAN,Canada,2015,Science,527.7,2.08,True
+CAN,Canada,2018,Science,518.0,2.154,True
+CAN,Canada,2022,Science,515.02,1.929,True
+CAN,Canada,2025,Science,510.05,1.789,True
+CHE,Switzerland,2006,Science,511.52,3.162,False
+CHE,Switzerland,2009,Science,516.57,2.817,False
+CHE,Switzerland,2012,Science,515.3,2.714,False
+CHE,Switzerland,2015,Science,505.51,2.9,False
+CHE,Switzerland,2018,Science,495.28,3.005,False
+CHE,Switzerland,2022,Science,502.52,2.186,False
+CHE,Switzerland,2025,Science,501.24,2.591,False
+DEU,Germany,2006,Science,515.65,3.796,False
+DEU,Germany,2009,Science,520.41,2.799,False
+DEU,Germany,2012,Science,524.12,2.963,False
+DEU,Germany,2015,Science,509.14,2.699,False
+DEU,Germany,2018,Science,502.99,2.912,False
+DEU,Germany,2022,Science,492.43,3.483,False
+DEU,Germany,2025,Science,485.52,3.521,False
+DNK,Denmark,2006,Science,495.89,3.109,False
+DNK,Denmark,2009,Science,499.34,2.482,False
+DNK,Denmark,2012,Science,498.47,2.742,False
+DNK,Denmark,2015,Science,501.94,2.375,False
+DNK,Denmark,2018,Science,492.64,1.938,False
+DNK,Denmark,2022,Science,493.82,2.498,False
+DNK,Denmark,2025,Science,477.54,2.39,False
+FIN,Finland,2006,Science,563.32,2.018,False
+FIN,Finland,2009,Science,554.08,2.336,False
+FIN,Finland,2012,Science,545.44,2.199,False
+FIN,Finland,2015,Science,530.66,2.392,False
+FIN,Finland,2018,Science,521.88,2.51,False
+FIN,Finland,2022,Science,510.96,2.501,False
+FIN,Finland,2025,Science,504.37,2.261,False
+FRA,France,2006,Science,495.22,3.36,False
+FRA,France,2009,Science,498.23,3.601,False
+FRA,France,2012,Science,498.97,2.579,False
+FRA,France,2015,Science,494.98,2.061,False
+FRA,France,2018,Science,492.98,2.224,False
+FRA,France,2022,Science,487.23,2.73,False
+FRA,France,2025,Science,483.42,3.206,False
+GBR,United Kingdom,2006,Science,514.77,2.289,False
+GBR,United Kingdom,2009,Science,513.71,2.518,False
+GBR,United Kingdom,2012,Science,514.13,3.382,False
+GBR,United Kingdom,2015,Science,509.22,2.564,False
+GBR,United Kingdom,2018,Science,504.67,2.564,False
+GBR,United Kingdom,2022,Science,499.67,2.376,False
+GBR,United Kingdom,2025,Science,511.36,2.102,False
+ISR,Israel,2006,Science,453.9,3.707,False
+ISR,Israel,2009,Science,454.85,3.112,False
+ISR,Israel,2012,Science,470.07,4.958,False
+ISR,Israel,2015,Science,466.55,3.438,False
+ISR,Israel,2018,Science,462.2,3.618,False
+ISR,Israel,2022,Science,464.75,3.385,False
+ISR,Israel,2025,Science,442.01,3.351,False
+ITA,Italy,2006,Science,475.4,2.019,False
+ITA,Italy,2009,Science,488.83,1.773,False
+ITA,Italy,2012,Science,493.54,1.936,False
+ITA,Italy,2015,Science,480.55,2.516,False
+ITA,Italy,2018,Science,468.01,2.43,False
+ITA,Italy,2022,Science,477.46,3.178,False
+ITA,Italy,2025,Science,482.98,2.479,False
+JPN,Japan,2006,Science,531.39,3.374,False
+JPN,Japan,2009,Science,539.43,3.413,False
+JPN,Japan,2012,Science,546.74,3.605,False
+JPN,Japan,2015,Science,538.39,2.966,False
+JPN,Japan,2018,Science,529.14,2.593,False
+JPN,Japan,2022,Science,546.63,2.804,False
+JPN,Japan,2025,Science,537.59,3.806,False
+KOR,South Korea,2006,Science,522.15,3.358,False
+KOR,South Korea,2009,Science,537.99,3.439,False
+KOR,South Korea,2012,Science,537.79,3.658,False
+KOR,South Korea,2015,Science,515.81,3.132,False
+KOR,South Korea,2018,Science,519.01,2.803,False
+KOR,South Korea,2022,Science,527.82,3.58,False
+KOR,South Korea,2025,Science,526.11,3.37,False
+NLD,Netherlands,2006,Science,524.86,2.742,True
+NLD,Netherlands,2009,Science,522.22,5.419,True
+NLD,Netherlands,2012,Science,522.06,3.508,True
+NLD,Netherlands,2015,Science,508.57,2.257,True
+NLD,Netherlands,2018,Science,503.38,2.841,True
+NLD,Netherlands,2022,Science,488.32,4.073,True
+NLD,Netherlands,2025,Science,485.45,2.821,True
+NOR,Norway,2006,Science,486.53,3.111,True
+NOR,Norway,2009,Science,499.88,2.6,True
+NOR,Norway,2012,Science,494.52,3.087,True
+NOR,Norway,2015,Science,498.48,2.262,True
+NOR,Norway,2018,Science,490.41,2.283,True
+NOR,Norway,2022,Science,478.23,2.373,True
+NOR,Norway,2025,Science,470.21,2.022,True
+NZL,New Zealand,2006,Science,530.38,2.693,True
+NZL,New Zealand,2009,Science,532.01,2.579,True
+NZL,New Zealand,2012,Science,515.64,2.144,True
+NZL,New Zealand,2015,Science,513.3,2.384,True
+NZL,New Zealand,2018,Science,508.49,2.105,True
+NZL,New Zealand,2022,Science,504.13,2.242,True
+NZL,New Zealand,2025,Science,509.4,2.311,True
+OECD,OECD average,2012,Science,496.44,0.465,False
+OECD,OECD average,2015,Science,488.76,0.409,False
+OECD,OECD average,2025,Science,481.91,0.438,False
+OECD23,OECD average (23 countries with data since 2000),2006,Science,502.74,0.595,False
+OECD23,OECD average (23 countries with data since 2000),2009,Science,505.74,0.58,False
+OECD23,OECD average (23 countries with data since 2000),2012,Science,504.73,0.568,False
+OECD23,OECD average (23 countries with data since 2000),2015,Science,496.98,0.525,False
+OECD23,OECD average (23 countries with data since 2000),2018,Science,493.46,0.513,False
+OECD23,OECD average (23 countries with data since 2000),2022,Science,490.86,0.533,False
+OECD23,OECD average (23 countries with data since 2000),2025,Science,485.94,0.554,False
+OECD35,OECD average (35 countries),2006,Science,495.23,0.506,False
+OECD35,OECD average (35 countries),2012,Science,498.51,0.493,False
+OECD35,OECD average (35 countries),2015,Science,490.79,0.435,False
+OECD35,OECD average (35 countries),2018,Science,489.16,0.422,False
+OECD35,OECD average (35 countries),2022,Science,486.75,0.453,False
+OECD35,OECD average (35 countries),2025,Science,483.93,0.466,False
+SWE,Sweden,2006,Science,503.33,2.375,False
+SWE,Sweden,2009,Science,495.11,2.721,False
+SWE,Sweden,2012,Science,484.8,3.002,False
+SWE,Sweden,2015,Science,493.42,3.601,False
+SWE,Sweden,2018,Science,499.44,3.07,False
+SWE,Sweden,2022,Science,493.55,2.35,False
+SWE,Sweden,2025,Science,485.11,2.994,False
+USA,United States,2006,Science,488.91,4.224,True
+USA,United States,2009,Science,502.0,3.644,True
+USA,United States,2012,Science,497.41,3.776,True
+USA,United States,2015,Science,496.24,3.181,True
+USA,United States,2018,Science,502.38,3.318,True
+USA,United States,2022,Science,499.41,4.319,True
+USA,United States,2025,Science,501.58,5.817,True
