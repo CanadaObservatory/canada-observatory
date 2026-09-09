@@ -3,12 +3,13 @@
   "source": "Statistics Canada",
   "source_table": "Statistics Canada 12-10-0011-01",
   "frequency": "monthly",
-  "unit": "$ millions (Customs basis, seasonally adjusted)",
-  "retrieved_at": "2026-09-08T17:52:20.267769+00:00",
+  "unit": "$ millions (Balance of payments basis, seasonally adjusted)",
+  "retrieved_at": "2026-09-09T17:44:04.173086+00:00",
   "latest_observation_date": "2026-07-01",
   "next_release_date": null,
   "transformations": [
-    "US vs. all-countries exports/imports; export shares for the US, China and the EU; balances computed as exports \u2212 imports"
+    "US vs. all-countries exports/imports; export shares for the US, China and the EU; balances computed as exports \u2212 imports",
+    "EU (27 members) columns: the published European Union aggregate minus the United Kingdom through December 2020 (the aggregate included the UK until then), the aggregate itself from January 2021"
   ],
   "notes": null,
   "row_count": 355
