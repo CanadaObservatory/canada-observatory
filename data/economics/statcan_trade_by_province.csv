@@ -1,0 +1,3025 @@
+year,geo,partner,exports_millions,share_pct
+1999,Alberta,All countries,34617.247,100.0
+1999,Alberta,China,558.503,1.613
+1999,Alberta,European Union (27 members),778.988,2.25
+1999,Alberta,Japan,1327.599,3.835
+1999,Alberta,Mexico,244.847,0.707
+1999,Alberta,Other countries,2453.898,7.089
+1999,Alberta,United Kingdom,179.403,0.518
+1999,Alberta,United States,29074.008,83.987
+1999,British Columbia,All countries,29113.406,100.0
+1999,British Columbia,China,593.249,2.038
+1999,British Columbia,European Union (27 members),1623.643,5.577
+1999,British Columbia,Japan,4468.267,15.348
+1999,British Columbia,Mexico,42.216,0.145
+1999,British Columbia,Other countries,2696.112,9.261
+1999,British Columbia,United Kingdom,319.221,1.096
+1999,British Columbia,United States,19370.699,66.535
+1999,Canada,All countries,331748.721,100.0
+1999,Canada,China,2521.61,0.76
+1999,Canada,European Union (27 members),11617.314,3.502
+1999,Canada,Japan,8469.799,2.553
+1999,Canada,Mexico,1506.956,0.454
+1999,Canada,Other countries,16556.145,4.991
+1999,Canada,United Kingdom,4515.642,1.361
+1999,Canada,United States,286561.255,86.379
+1999,Manitoba,All countries,8041.037,100.0
+1999,Manitoba,China,161.013,2.002
+1999,Manitoba,European Union (27 members),237.978,2.96
+1999,Manitoba,Japan,378.272,4.704
+1999,Manitoba,Mexico,105.544,1.313
+1999,Manitoba,Other countries,592.947,7.374
+1999,Manitoba,United Kingdom,68.325,0.85
+1999,Manitoba,United States,6496.957,80.798
+1999,New Brunswick,All countries,6085.649,100.0
+1999,New Brunswick,China,7.856,0.129
+1999,New Brunswick,European Union (27 members),281.199,4.621
+1999,New Brunswick,Japan,195.624,3.215
+1999,New Brunswick,Mexico,13.457,0.221
+1999,New Brunswick,Other countries,419.508,6.893
+1999,New Brunswick,United Kingdom,74.089,1.217
+1999,New Brunswick,United States,5093.916,83.704
+1999,Newfoundland and Labrador,All countries,2933.509,100.0
+1999,Newfoundland and Labrador,China,82.248,2.804
+1999,Newfoundland and Labrador,European Union (27 members),373.06,12.717
+1999,Newfoundland and Labrador,Japan,91.37,3.115
+1999,Newfoundland and Labrador,Mexico,2.41,0.082
+1999,Newfoundland and Labrador,Other countries,246.108,8.39
+1999,Newfoundland and Labrador,United Kingdom,168.252,5.736
+1999,Newfoundland and Labrador,United States,1970.061,67.157
+1999,Northwest Territories,All countries,556.092,100.0
+1999,Northwest Territories,China,0.0,0.0
+1999,Northwest Territories,European Union (27 members),522.229,93.911
+1999,Northwest Territories,Japan,0.22,0.04
+1999,Northwest Territories,Mexico,0.009,0.002
+1999,Northwest Territories,Other countries,0.124,0.022
+1999,Northwest Territories,United Kingdom,21.178,3.808
+1999,Northwest Territories,United States,12.332,2.218
+1999,Nova Scotia,All countries,3984.559,100.0
+1999,Nova Scotia,China,17.442,0.438
+1999,Nova Scotia,European Union (27 members),292.585,7.343
+1999,Nova Scotia,Japan,182.032,4.568
+1999,Nova Scotia,Mexico,17.242,0.433
+1999,Nova Scotia,Other countries,276.668,6.944
+1999,Nova Scotia,United Kingdom,116.565,2.925
+1999,Nova Scotia,United States,3082.026,77.349
+1999,Nunavut,All countries,304.14,100.0
+1999,Nunavut,China,0.0,0.0
+1999,Nunavut,European Union (27 members),270.081,88.801
+1999,Nunavut,Japan,0.055,0.018
+1999,Nunavut,Mexico,0.097,0.032
+1999,Nunavut,Other countries,33.132,10.894
+1999,Nunavut,United Kingdom,0.014,0.005
+1999,Nunavut,United States,0.76,0.25
+1999,Ontario,All countries,176007.196,100.0
+1999,Ontario,China,356.383,0.202
+1999,Ontario,European Union (27 members),2917.235,1.657
+1999,Ontario,Japan,748.024,0.425
+1999,Ontario,Mexico,719.336,0.409
+1999,Ontario,Other countries,4639.923,2.636
+1999,Ontario,United Kingdom,2136.41,1.214
+1999,Ontario,United States,164489.885,93.456
+1999,Prince Edward Island,All countries,566.415,100.0
+1999,Prince Edward Island,China,0.325,0.057
+1999,Prince Edward Island,European Union (27 members),27.914,4.928
+1999,Prince Edward Island,Japan,8.822,1.558
+1999,Prince Edward Island,Mexico,0.553,0.098
+1999,Prince Edward Island,Other countries,44.564,7.868
+1999,Prince Edward Island,United Kingdom,3.458,0.611
+1999,Prince Edward Island,United States,480.778,84.881
+1999,Quebec,All countries,59761.224,100.0
+1999,Quebec,China,172.53,0.289
+1999,Quebec,European Union (27 members),3768.871,6.307
+1999,Quebec,Japan,428.052,0.716
+1999,Quebec,Mexico,156.088,0.261
+1999,Quebec,Other countries,2984.075,4.993
+1999,Quebec,United Kingdom,1365.18,2.284
+1999,Quebec,United States,50886.428,85.15
+1999,Saskatchewan,All countries,9763.199,100.0
+1999,Saskatchewan,China,572.061,5.859
+1999,Saskatchewan,European Union (27 members),523.53,5.362
+1999,Saskatchewan,Japan,641.46,6.57
+1999,Saskatchewan,Mexico,205.158,2.101
+1999,Saskatchewan,Other countries,2169.03,22.216
+1999,Saskatchewan,United Kingdom,63.547,0.651
+1999,Saskatchewan,United States,5588.413,57.24
+1999,Yukon,All countries,15.048,100.0
+1999,Yukon,China,0.0,0.0
+1999,Yukon,European Union (27 members),0.0,0.0
+1999,Yukon,Japan,0.0,0.0
+1999,Yukon,Mexico,0.0,0.0
+1999,Yukon,Other countries,0.054,0.362
+1999,Yukon,United Kingdom,0.0,0.0
+1999,Yukon,United States,14.994,99.638
+2000,Alberta,All countries,55340.827,100.0
+2000,Alberta,China,776.507,1.403
+2000,Alberta,European Union (27 members),885.853,1.601
+2000,Alberta,Japan,1349.487,2.439
+2000,Alberta,Mexico,352.633,0.637
+2000,Alberta,Other countries,3047.593,5.507
+2000,Alberta,United Kingdom,198.467,0.359
+2000,Alberta,United States,48730.286,88.055
+2000,British Columbia,All countries,33752.317,100.0
+2000,British Columbia,China,740.745,2.195
+2000,British Columbia,European Union (27 members),2216.902,6.568
+2000,British Columbia,Japan,4890.837,14.49
+2000,British Columbia,Mexico,57.686,0.171
+2000,British Columbia,Other countries,3267.328,9.68
+2000,British Columbia,United Kingdom,381.257,1.13
+2000,British Columbia,United States,22197.562,65.766
+2000,Canada,All countries,385678.768,100.0
+2000,Canada,China,3293.517,0.854
+2000,Canada,European Union (27 members),13391.382,3.472
+2000,Canada,Japan,9170.732,2.378
+2000,Canada,Mexico,1930.987,0.501
+2000,Canada,Other countries,18333.677,4.754
+2000,Canada,United Kingdom,5412.72,1.403
+2000,Canada,United States,334145.754,86.638
+2000,Manitoba,All countries,9577.885,100.0
+2000,Manitoba,China,108.476,1.133
+2000,Manitoba,European Union (27 members),277.06,2.893
+2000,Manitoba,Japan,370.34,3.867
+2000,Manitoba,Mexico,124.805,1.303
+2000,Manitoba,Other countries,763.449,7.971
+2000,Manitoba,United Kingdom,61.336,0.64
+2000,Manitoba,United States,7872.42,82.194
+2000,New Brunswick,All countries,7402.616,100.0
+2000,New Brunswick,China,12.115,0.164
+2000,New Brunswick,European Union (27 members),311.933,4.214
+2000,New Brunswick,Japan,230.72,3.117
+2000,New Brunswick,Mexico,17.565,0.237
+2000,New Brunswick,Other countries,321.617,4.345
+2000,New Brunswick,United Kingdom,97.573,1.318
+2000,New Brunswick,United States,6411.093,86.606
+2000,Newfoundland and Labrador,All countries,3892.18,100.0
+2000,Newfoundland and Labrador,China,92.839,2.385
+2000,Newfoundland and Labrador,European Union (27 members),455.165,11.694
+2000,Newfoundland and Labrador,Japan,66.646,1.712
+2000,Newfoundland and Labrador,Mexico,3.064,0.079
+2000,Newfoundland and Labrador,Other countries,301.622,7.749
+2000,Newfoundland and Labrador,United Kingdom,127.477,3.275
+2000,Newfoundland and Labrador,United States,2845.367,73.105
+2000,Northwest Territories,All countries,661.776,100.0
+2000,Northwest Territories,China,0.0,0.0
+2000,Northwest Territories,European Union (27 members),470.987,71.17
+2000,Northwest Territories,Japan,0.158,0.024
+2000,Northwest Territories,Mexico,0.0,0.0
+2000,Northwest Territories,Other countries,0.684,0.103
+2000,Northwest Territories,United Kingdom,182.747,27.615
+2000,Northwest Territories,United States,7.2,1.088
+2000,Nova Scotia,All countries,5131.808,100.0
+2000,Nova Scotia,China,28.179,0.549
+2000,Nova Scotia,European Union (27 members),286.826,5.589
+2000,Nova Scotia,Japan,179.772,3.503
+2000,Nova Scotia,Mexico,24.456,0.477
+2000,Nova Scotia,Other countries,324.793,6.329
+2000,Nova Scotia,United Kingdom,93.53,1.823
+2000,Nova Scotia,United States,4194.252,81.73
+2000,Nunavut,All countries,273.582,100.0
+2000,Nunavut,China,0.0,0.0
+2000,Nunavut,European Union (27 members),237.243,86.717
+2000,Nunavut,Japan,0.01,0.004
+2000,Nunavut,Mexico,0.0,0.0
+2000,Nunavut,Other countries,35.541,12.991
+2000,Nunavut,United Kingdom,0.002,0.001
+2000,Nunavut,United States,0.786,0.287
+2000,Ontario,All countries,185079.332,100.0
+2000,Ontario,China,485.7,0.262
+2000,Ontario,European Union (27 members),3645.67,1.97
+2000,Ontario,Japan,811.086,0.438
+2000,Ontario,Mexico,874.339,0.472
+2000,Ontario,Other countries,4606.756,2.489
+2000,Ontario,United Kingdom,2187.866,1.182
+2000,Ontario,United States,172467.916,93.186
+2000,Prince Edward Island,All countries,683.052,100.0
+2000,Prince Edward Island,China,0.265,0.039
+2000,Prince Edward Island,European Union (27 members),25.6,3.748
+2000,Prince Edward Island,Japan,5.598,0.819
+2000,Prince Edward Island,Mexico,1.259,0.184
+2000,Prince Edward Island,Other countries,34.253,5.015
+2000,Prince Edward Island,United Kingdom,2.029,0.297
+2000,Prince Edward Island,United States,614.048,89.898
+2000,Quebec,All countries,71302.546,100.0
+2000,Quebec,China,317.205,0.445
+2000,Quebec,European Union (27 members),4020.815,5.639
+2000,Quebec,Japan,618.773,0.868
+2000,Quebec,Mexico,244.432,0.343
+2000,Quebec,Other countries,2940.792,4.124
+2000,Quebec,United Kingdom,2020.44,2.834
+2000,Quebec,United States,61140.09,85.747
+2000,Saskatchewan,All countries,12562.256,100.0
+2000,Saskatchewan,China,731.423,5.822
+2000,Saskatchewan,European Union (27 members),557.306,4.436
+2000,Saskatchewan,Japan,647.305,5.153
+2000,Saskatchewan,Mexico,230.748,1.837
+2000,Saskatchewan,Other countries,2689.202,21.407
+2000,Saskatchewan,United Kingdom,59.996,0.478
+2000,Saskatchewan,United States,7646.277,60.867
+2000,Yukon,All countries,18.591,100.0
+2000,Yukon,China,0.064,0.345
+2000,Yukon,European Union (27 members),0.024,0.126
+2000,Yukon,Japan,0.0,0.0
+2000,Yukon,Mexico,0.0,0.0
+2000,Yukon,Other countries,0.046,0.247
+2000,Yukon,United Kingdom,0.0,0.0
+2000,Yukon,United States,18.457,99.281
+2001,Alberta,All countries,56897.177,100.0
+2001,Alberta,China,873.037,1.534
+2001,Alberta,European Union (27 members),778.387,1.368
+2001,Alberta,Japan,1281.488,2.252
+2001,Alberta,Mexico,477.189,0.839
+2001,Alberta,Other countries,2678.684,4.708
+2001,Alberta,United Kingdom,175.547,0.309
+2001,Alberta,United States,50632.846,88.99
+2001,British Columbia,All countries,31814.228,100.0
+2001,British Columbia,China,768.21,2.415
+2001,British Columbia,European Union (27 members),1789.193,5.624
+2001,British Columbia,Japan,4067.636,12.786
+2001,British Columbia,Mexico,83.252,0.262
+2001,British Columbia,Other countries,2640.15,8.299
+2001,British Columbia,United Kingdom,355.05,1.116
+2001,British Columbia,United States,22110.738,69.5
+2001,Canada,All countries,375230.158,100.0
+2001,Canada,China,3978.489,1.06
+2001,Canada,European Union (27 members),13094.263,3.49
+2001,Canada,Japan,8270.677,2.204
+2001,Canada,Mexico,2646.59,0.705
+2001,Canada,Other countries,17125.326,4.564
+2001,Canada,United Kingdom,4754.458,1.267
+2001,Canada,United States,325360.355,86.71
+2001,Manitoba,All countries,9576.378,100.0
+2001,Manitoba,China,167.916,1.753
+2001,Manitoba,European Union (27 members),317.161,3.312
+2001,Manitoba,Japan,454.656,4.748
+2001,Manitoba,Mexico,177.312,1.852
+2001,Manitoba,Other countries,885.433,9.246
+2001,Manitoba,United Kingdom,56.134,0.586
+2001,Manitoba,United States,7517.765,78.503
+2001,New Brunswick,All countries,8270.769,100.0
+2001,New Brunswick,China,20.636,0.25
+2001,New Brunswick,European Union (27 members),265.93,3.215
+2001,New Brunswick,Japan,174.568,2.111
+2001,New Brunswick,Mexico,14.237,0.172
+2001,New Brunswick,Other countries,359.99,4.353
+2001,New Brunswick,United Kingdom,80.315,0.971
+2001,New Brunswick,United States,7355.092,88.929
+2001,Newfoundland and Labrador,All countries,3463.902,100.0
+2001,Newfoundland and Labrador,China,91.773,2.649
+2001,Newfoundland and Labrador,European Union (27 members),644.001,18.592
+2001,Newfoundland and Labrador,Japan,45.656,1.318
+2001,Newfoundland and Labrador,Mexico,1.866,0.054
+2001,Newfoundland and Labrador,Other countries,327.892,9.466
+2001,Newfoundland and Labrador,United Kingdom,117.548,3.394
+2001,Newfoundland and Labrador,United States,2235.166,64.527
+2001,Northwest Territories,All countries,769.352,100.0
+2001,Northwest Territories,China,0.0,0.0
+2001,Northwest Territories,European Union (27 members),548.067,71.237
+2001,Northwest Territories,Japan,0.021,0.003
+2001,Northwest Territories,Mexico,0.006,0.001
+2001,Northwest Territories,Other countries,0.272,0.035
+2001,Northwest Territories,United Kingdom,207.996,27.035
+2001,Northwest Territories,United States,12.99,1.688
+2001,Nova Scotia,All countries,5706.687,100.0
+2001,Nova Scotia,China,30.354,0.532
+2001,Nova Scotia,European Union (27 members),297.158,5.207
+2001,Nova Scotia,Japan,155.514,2.725
+2001,Nova Scotia,Mexico,52.775,0.925
+2001,Nova Scotia,Other countries,365.323,6.402
+2001,Nova Scotia,United Kingdom,81.847,1.434
+2001,Nova Scotia,United States,4723.716,82.775
+2001,Nunavut,All countries,220.733,100.0
+2001,Nunavut,China,0.01,0.004
+2001,Nunavut,European Union (27 members),200.252,90.721
+2001,Nunavut,Japan,0.052,0.023
+2001,Nunavut,Mexico,0.0,0.0
+2001,Nunavut,Other countries,19.757,8.951
+2001,Nunavut,United Kingdom,0.039,0.018
+2001,Nunavut,United States,0.624,0.283
+2001,Ontario,All countries,178010.825,100.0
+2001,Ontario,China,624.586,0.351
+2001,Ontario,European Union (27 members),3179.297,1.786
+2001,Ontario,Japan,834.446,0.469
+2001,Ontario,Mexico,1287.047,0.723
+2001,Ontario,Other countries,4387.324,2.465
+2001,Ontario,United Kingdom,2024.95,1.138
+2001,Ontario,United States,165673.175,93.069
+2001,Prince Edward Island,All countries,666.422,100.0
+2001,Prince Edward Island,China,0.499,0.075
+2001,Prince Edward Island,European Union (27 members),23.831,3.576
+2001,Prince Edward Island,Japan,8.641,1.297
+2001,Prince Edward Island,Mexico,0.851,0.128
+2001,Prince Edward Island,Other countries,38.004,5.703
+2001,Prince Edward Island,United Kingdom,4.07,0.611
+2001,Prince Edward Island,United States,590.526,88.611
+2001,Quebec,All countries,68167.338,100.0
+2001,Quebec,China,714.322,1.048
+2001,Quebec,European Union (27 members),4371.401,6.413
+2001,Quebec,Japan,600.721,0.881
+2001,Quebec,Mexico,286.075,0.42
+2001,Quebec,Other countries,2922.276,4.287
+2001,Quebec,United Kingdom,1585.907,2.326
+2001,Quebec,United States,57686.636,84.625
+2001,Saskatchewan,All countries,11656.51,100.0
+2001,Saskatchewan,China,687.147,5.895
+2001,Saskatchewan,European Union (27 members),679.583,5.83
+2001,Saskatchewan,Japan,647.211,5.552
+2001,Saskatchewan,Mexico,265.98,2.282
+2001,Saskatchewan,Other countries,2500.22,21.449
+2001,Saskatchewan,United Kingdom,65.056,0.558
+2001,Saskatchewan,United States,6811.313,58.434
+2001,Yukon,All countries,9.837,100.0
+2001,Yukon,China,0.0,0.0
+2001,Yukon,European Union (27 members),0.0,0.0
+2001,Yukon,Japan,0.067,0.683
+2001,Yukon,Mexico,0.0,0.0
+2001,Yukon,Other countries,0.002,0.025
+2001,Yukon,United Kingdom,0.0,0.0
+2001,Yukon,United States,9.767,99.291
+2002,Alberta,All countries,48931.634,100.0
+2002,Alberta,China,833.466,1.703
+2002,Alberta,European Union (27 members),716.71,1.465
+2002,Alberta,Japan,1233.329,2.521
+2002,Alberta,Mexico,447.358,0.914
+2002,Alberta,Other countries,2514.416,5.139
+2002,Alberta,United Kingdom,181.079,0.37
+2002,Alberta,United States,43005.275,87.888
+2002,British Columbia,All countries,28828.407,100.0
+2002,British Columbia,China,756.299,2.623
+2002,British Columbia,European Union (27 members),1481.533,5.139
+2002,British Columbia,Japan,3858.539,13.385
+2002,British Columbia,Mexico,79.009,0.274
+2002,British Columbia,Other countries,2650.158,9.193
+2002,British Columbia,United Kingdom,337.032,1.169
+2002,British Columbia,United States,19665.837,68.217
+2002,Canada,All countries,365294.802,100.0
+2002,Canada,China,3639.46,0.996
+2002,Canada,European Union (27 members),12767.309,3.495
+2002,Canada,Japan,8258.972,2.261
+2002,Canada,Mexico,2294.593,0.628
+2002,Canada,Other countries,17111.818,4.684
+2002,Canada,United Kingdom,4209.983,1.152
+2002,Canada,United States,317012.668,86.783
+2002,Manitoba,All countries,9404.408,100.0
+2002,Manitoba,China,79.538,0.846
+2002,Manitoba,European Union (27 members),273.451,2.908
+2002,Manitoba,Japan,474.978,5.051
+2002,Manitoba,Mexico,148.046,1.574
+2002,Manitoba,Other countries,750.944,7.985
+2002,Manitoba,United Kingdom,72.752,0.774
+2002,Manitoba,United States,7604.699,80.863
+2002,New Brunswick,All countries,8165.849,100.0
+2002,New Brunswick,China,25.942,0.318
+2002,New Brunswick,European Union (27 members),209.049,2.56
+2002,New Brunswick,Japan,197.014,2.413
+2002,New Brunswick,Mexico,9.516,0.117
+2002,New Brunswick,Other countries,327.683,4.013
+2002,New Brunswick,United Kingdom,117.398,1.438
+2002,New Brunswick,United States,7279.248,89.143
+2002,Newfoundland and Labrador,All countries,5534.434,100.0
+2002,Newfoundland and Labrador,China,176.355,3.187
+2002,Newfoundland and Labrador,European Union (27 members),565.582,10.219
+2002,Newfoundland and Labrador,Japan,91.002,1.644
+2002,Newfoundland and Labrador,Mexico,9.784,0.177
+2002,Newfoundland and Labrador,Other countries,450.095,8.133
+2002,Newfoundland and Labrador,United Kingdom,114.882,2.076
+2002,Newfoundland and Labrador,United States,4126.734,74.565
+2002,Northwest Territories,All countries,897.283,100.0
+2002,Northwest Territories,China,0.0,0.0
+2002,Northwest Territories,European Union (27 members),596.567,66.486
+2002,Northwest Territories,Japan,0.175,0.019
+2002,Northwest Territories,Mexico,0.0,0.0
+2002,Northwest Territories,Other countries,0.662,0.074
+2002,Northwest Territories,United Kingdom,258.33,28.79
+2002,Northwest Territories,United States,41.549,4.631
+2002,Nova Scotia,All countries,5225.572,100.0
+2002,Nova Scotia,China,58.177,1.113
+2002,Nova Scotia,European Union (27 members),274.766,5.258
+2002,Nova Scotia,Japan,218.77,4.187
+2002,Nova Scotia,Mexico,44.547,0.852
+2002,Nova Scotia,Other countries,288.318,5.517
+2002,Nova Scotia,United Kingdom,59.406,1.137
+2002,Nova Scotia,United States,4281.588,81.935
+2002,Nunavut,All countries,151.625,100.0
+2002,Nunavut,China,0.0,0.0
+2002,Nunavut,European Union (27 members),144.142,95.065
+2002,Nunavut,Japan,0.109,0.072
+2002,Nunavut,Mexico,0.007,0.005
+2002,Nunavut,Other countries,6.672,4.401
+2002,Nunavut,United Kingdom,0.007,0.005
+2002,Nunavut,United States,0.688,0.453
+2002,Ontario,All countries,180802.268,100.0
+2002,Ontario,China,533.497,0.295
+2002,Ontario,European Union (27 members),3223.258,1.783
+2002,Ontario,Japan,874.4,0.484
+2002,Ontario,Mexico,1026.354,0.568
+2002,Ontario,Other countries,4575.766,2.531
+2002,Ontario,United Kingdom,1953.522,1.08
+2002,Ontario,United States,168615.471,93.26
+2002,Prince Edward Island,All countries,682.948,100.0
+2002,Prince Edward Island,China,0.09,0.013
+2002,Prince Edward Island,European Union (27 members),22.391,3.279
+2002,Prince Edward Island,Japan,10.364,1.518
+2002,Prince Edward Island,Mexico,0.669,0.098
+2002,Prince Edward Island,Other countries,26.906,3.94
+2002,Prince Edward Island,United Kingdom,4.0,0.586
+2002,Prince Edward Island,United States,618.527,90.567
+2002,Quebec,All countries,65501.646,100.0
+2002,Quebec,China,690.887,1.055
+2002,Quebec,European Union (27 members),4624.88,7.061
+2002,Quebec,Japan,692.301,1.057
+2002,Quebec,Mexico,326.585,0.499
+2002,Quebec,Other countries,3265.697,4.986
+2002,Quebec,United Kingdom,1024.962,1.565
+2002,Quebec,United States,54876.333,83.779
+2002,Saskatchewan,All countries,11164.719,100.0
+2002,Saskatchewan,China,485.188,4.346
+2002,Saskatchewan,European Union (27 members),634.907,5.687
+2002,Saskatchewan,Japan,607.991,5.446
+2002,Saskatchewan,Mexico,202.718,1.816
+2002,Saskatchewan,Other countries,2254.3,20.191
+2002,Saskatchewan,United Kingdom,86.613,0.776
+2002,Saskatchewan,United States,6893.002,61.739
+2002,Yukon,All countries,4.01,100.0
+2002,Yukon,China,0.022,0.546
+2002,Yukon,European Union (27 members),0.074,1.84
+2002,Yukon,Japan,0.0,0.0
+2002,Yukon,Mexico,0.0,0.0
+2002,Yukon,Other countries,0.2,4.985
+2002,Yukon,United Kingdom,0.0,0.0
+2002,Yukon,United States,3.714,92.629
+2003,Alberta,All countries,57112.89,100.0
+2003,Alberta,China,957.161,1.676
+2003,Alberta,European Union (27 members),813.828,1.425
+2003,Alberta,Japan,1042.955,1.826
+2003,Alberta,Mexico,379.601,0.665
+2003,Alberta,Other countries,2513.343,4.401
+2003,Alberta,United Kingdom,185.788,0.325
+2003,Alberta,United States,51220.214,89.682
+2003,British Columbia,All countries,28265.325,100.0
+2003,British Columbia,China,919.508,3.253
+2003,British Columbia,European Union (27 members),1578.008,5.583
+2003,British Columbia,Japan,3660.01,12.949
+2003,British Columbia,Mexico,108.586,0.384
+2003,British Columbia,Other countries,2900.428,10.261
+2003,British Columbia,United Kingdom,305.584,1.081
+2003,British Columbia,United States,18793.201,66.489
+2003,Canada,All countries,354394.9,100.0
+2003,Canada,China,3998.562,1.128
+2003,Canada,European Union (27 members),13059.186,3.685
+2003,Canada,Japan,8032.359,2.266
+2003,Canada,Mexico,2145.061,0.605
+2003,Canada,Other countries,17732.332,5.004
+2003,Canada,United Kingdom,5773.2,1.629
+2003,Canada,United States,303654.199,85.682
+2003,Manitoba,All countries,9194.44,100.0
+2003,Manitoba,China,157.52,1.713
+2003,Manitoba,European Union (27 members),352.056,3.829
+2003,Manitoba,Japan,507.976,5.525
+2003,Manitoba,Mexico,204.642,2.226
+2003,Manitoba,Other countries,914.97,9.951
+2003,Manitoba,United Kingdom,70.831,0.77
+2003,Manitoba,United States,6986.446,75.986
+2003,New Brunswick,All countries,8518.812,100.0
+2003,New Brunswick,China,42.707,0.501
+2003,New Brunswick,European Union (27 members),237.259,2.785
+2003,New Brunswick,Japan,147.344,1.73
+2003,New Brunswick,Mexico,10.444,0.123
+2003,New Brunswick,Other countries,401.689,4.715
+2003,New Brunswick,United Kingdom,100.917,1.185
+2003,New Brunswick,United States,7578.452,88.961
+2003,Newfoundland and Labrador,All countries,4761.632,100.0
+2003,Newfoundland and Labrador,China,262.064,5.504
+2003,Newfoundland and Labrador,European Union (27 members),601.366,12.629
+2003,Newfoundland and Labrador,Japan,114.094,2.396
+2003,Newfoundland and Labrador,Mexico,13.7,0.288
+2003,Newfoundland and Labrador,Other countries,447.047,9.389
+2003,Newfoundland and Labrador,United Kingdom,120.776,2.536
+2003,Newfoundland and Labrador,United States,3202.583,67.258
+2003,Northwest Territories,All countries,1586.812,100.0
+2003,Northwest Territories,China,0.0,0.0
+2003,Northwest Territories,European Union (27 members),471.602,29.72
+2003,Northwest Territories,Japan,0.505,0.032
+2003,Northwest Territories,Mexico,0.0,0.0
+2003,Northwest Territories,Other countries,1.434,0.09
+2003,Northwest Territories,United Kingdom,1053.151,66.369
+2003,Northwest Territories,United States,60.12,3.789
+2003,Nova Scotia,All countries,5351.336,100.0
+2003,Nova Scotia,China,64.176,1.199
+2003,Nova Scotia,European Union (27 members),333.007,6.223
+2003,Nova Scotia,Japan,159.546,2.981
+2003,Nova Scotia,Mexico,38.547,0.72
+2003,Nova Scotia,Other countries,325.468,6.082
+2003,Nova Scotia,United Kingdom,82.713,1.546
+2003,Nova Scotia,United States,4347.879,81.248
+2003,Nunavut,All countries,2.103,100.0
+2003,Nunavut,China,0.255,12.131
+2003,Nunavut,European Union (27 members),0.356,16.954
+2003,Nunavut,Japan,0.05,2.373
+2003,Nunavut,Mexico,0.136,6.444
+2003,Nunavut,Other countries,0.517,24.562
+2003,Nunavut,United Kingdom,0.34,16.188
+2003,Nunavut,United States,0.449,21.348
+2003,Ontario,All countries,167678.642,100.0
+2003,Ontario,China,653.151,0.39
+2003,Ontario,European Union (27 members),3752.296,2.238
+2003,Ontario,Japan,1047.629,0.625
+2003,Ontario,Mexico,853.676,0.509
+2003,Ontario,Other countries,5352.088,3.192
+2003,Ontario,United Kingdom,2597.96,1.549
+2003,Ontario,United States,153421.843,91.498
+2003,Prince Edward Island,All countries,637.748,100.0
+2003,Prince Edward Island,China,1.924,0.302
+2003,Prince Edward Island,European Union (27 members),25.505,3.999
+2003,Prince Edward Island,Japan,5.056,0.793
+2003,Prince Edward Island,Mexico,0.448,0.07
+2003,Prince Edward Island,Other countries,32.052,5.026
+2003,Prince Edward Island,United Kingdom,3.468,0.544
+2003,Prince Edward Island,United States,569.294,89.266
+2003,Quebec,All countries,61000.039,100.0
+2003,Quebec,China,517.347,0.848
+2003,Quebec,European Union (27 members),4142.455,6.791
+2003,Quebec,Japan,834.357,1.368
+2003,Quebec,Mexico,307.067,0.503
+2003,Quebec,Other countries,3044.987,4.992
+2003,Quebec,United Kingdom,1173.959,1.925
+2003,Quebec,United States,50979.868,83.573
+2003,Saskatchewan,All countries,10281.391,100.0
+2003,Saskatchewan,China,422.585,4.11
+2003,Saskatchewan,European Union (27 members),751.347,7.308
+2003,Saskatchewan,Japan,512.836,4.988
+2003,Saskatchewan,Mexico,228.216,2.22
+2003,Saskatchewan,Other countries,1797.961,17.488
+2003,Saskatchewan,United Kingdom,77.677,0.756
+2003,Saskatchewan,United States,6490.769,63.131
+2003,Yukon,All countries,3.73,100.0
+2003,Yukon,China,0.164,4.394
+2003,Yukon,European Union (27 members),0.101,2.71
+2003,Yukon,Japan,0.0,0.0
+2003,Yukon,Mexico,0.0,0.0
+2003,Yukon,Other countries,0.349,9.359
+2003,Yukon,United Kingdom,0.035,0.93
+2003,Yukon,United States,3.081,82.606
+2004,Alberta,All countries,63687.582,100.0
+2004,Alberta,China,1910.236,2.999
+2004,Alberta,European Union (27 members),932.596,1.464
+2004,Alberta,Japan,1303.755,2.047
+2004,Alberta,Mexico,698.277,1.096
+2004,Alberta,Other countries,2868.279,4.504
+2004,Alberta,United Kingdom,215.18,0.338
+2004,Alberta,United States,55759.26,87.551
+2004,British Columbia,All countries,31007.834,100.0
+2004,British Columbia,China,1225.418,3.952
+2004,British Columbia,European Union (27 members),1845.682,5.952
+2004,British Columbia,Japan,3805.094,12.271
+2004,British Columbia,Mexico,198.373,0.64
+2004,British Columbia,Other countries,3454.593,11.141
+2004,British Columbia,United Kingdom,341.317,1.101
+2004,British Columbia,United States,20137.357,64.943
+2004,Canada,All countries,385525.865,100.0
+2004,Canada,China,6156.511,1.597
+2004,Canada,European Union (27 members),13614.158,3.531
+2004,Canada,Japan,8410.886,2.182
+2004,Canada,Mexico,2972.591,0.771
+2004,Canada,Other countries,21098.713,5.473
+2004,Canada,United Kingdom,7246.97,1.88
+2004,Canada,United States,326026.036,84.567
+2004,Manitoba,All countries,9296.934,100.0
+2004,Manitoba,China,413.938,4.452
+2004,Manitoba,European Union (27 members),308.765,3.321
+2004,Manitoba,Japan,455.02,4.894
+2004,Manitoba,Mexico,254.992,2.743
+2004,Manitoba,Other countries,943.104,10.144
+2004,Manitoba,United Kingdom,62.6,0.673
+2004,Manitoba,United States,6858.516,73.772
+2004,New Brunswick,All countries,9437.736,100.0
+2004,New Brunswick,China,21.374,0.226
+2004,New Brunswick,European Union (27 members),282.247,2.991
+2004,New Brunswick,Japan,130.637,1.384
+2004,New Brunswick,Mexico,15.698,0.166
+2004,New Brunswick,Other countries,442.278,4.686
+2004,New Brunswick,United Kingdom,63.724,0.675
+2004,New Brunswick,United States,8481.779,89.871
+2004,Newfoundland and Labrador,All countries,7099.875,100.0
+2004,Newfoundland and Labrador,China,286.299,4.032
+2004,Newfoundland and Labrador,European Union (27 members),798.038,11.24
+2004,Newfoundland and Labrador,Japan,84.594,1.191
+2004,Newfoundland and Labrador,Mexico,0.041,0.001
+2004,Newfoundland and Labrador,Other countries,413.203,5.82
+2004,Newfoundland and Labrador,United Kingdom,187.438,2.64
+2004,Newfoundland and Labrador,United States,5330.263,75.075
+2004,Northwest Territories,All countries,1973.78,100.0
+2004,Northwest Territories,China,0.276,0.014
+2004,Northwest Territories,European Union (27 members),827.252,41.912
+2004,Northwest Territories,Japan,0.376,0.019
+2004,Northwest Territories,Mexico,0.239,0.012
+2004,Northwest Territories,Other countries,3.823,0.194
+2004,Northwest Territories,United Kingdom,1092.065,55.329
+2004,Northwest Territories,United States,49.749,2.52
+2004,Nova Scotia,All countries,5430.49,100.0
+2004,Nova Scotia,China,68.327,1.258
+2004,Nova Scotia,European Union (27 members),335.149,6.172
+2004,Nova Scotia,Japan,136.135,2.507
+2004,Nova Scotia,Mexico,22.989,0.423
+2004,Nova Scotia,Other countries,393.364,7.244
+2004,Nova Scotia,United Kingdom,106.83,1.967
+2004,Nova Scotia,United States,4367.697,80.429
+2004,Nunavut,All countries,2.844,100.0
+2004,Nunavut,China,0.182,6.406
+2004,Nunavut,European Union (27 members),0.322,11.338
+2004,Nunavut,Japan,0.054,1.906
+2004,Nunavut,Mexico,0.043,1.505
+2004,Nunavut,Other countries,1.507,52.98
+2004,Nunavut,United Kingdom,0.105,3.685
+2004,Nunavut,United States,0.631,22.181
+2004,Ontario,All countries,179053.713,100.0
+2004,Ontario,China,809.36,0.452
+2004,Ontario,European Union (27 members),3770.656,2.106
+2004,Ontario,Japan,908.132,0.507
+2004,Ontario,Mexico,1110.648,0.62
+2004,Ontario,Other countries,6657.268,3.718
+2004,Ontario,United Kingdom,3732.476,2.085
+2004,Ontario,United States,162065.174,90.512
+2004,Prince Edward Island,All countries,644.503,100.0
+2004,Prince Edward Island,China,3.143,0.488
+2004,Prince Edward Island,European Union (27 members),27.459,4.26
+2004,Prince Edward Island,Japan,13.703,2.126
+2004,Prince Edward Island,Mexico,0.333,0.052
+2004,Prince Edward Island,Other countries,42.278,6.56
+2004,Prince Edward Island,United Kingdom,5.427,0.842
+2004,Prince Edward Island,United States,552.16,85.672
+2004,Quebec,All countries,64568.233,100.0
+2004,Quebec,China,645.869,1.0
+2004,Quebec,European Union (27 members),3795.01,5.878
+2004,Quebec,Japan,1056.481,1.636
+2004,Quebec,Mexico,348.845,0.54
+2004,Quebec,Other countries,3833.472,5.937
+2004,Quebec,United Kingdom,1377.494,2.133
+2004,Quebec,United States,53511.062,82.875
+2004,Saskatchewan,All countries,13318.086,100.0
+2004,Saskatchewan,China,772.088,5.797
+2004,Saskatchewan,European Union (27 members),690.942,5.188
+2004,Saskatchewan,Japan,516.706,3.88
+2004,Saskatchewan,Mexico,322.032,2.418
+2004,Saskatchewan,Other countries,2045.379,15.358
+2004,Saskatchewan,United Kingdom,62.316,0.468
+2004,Saskatchewan,United States,8908.624,66.891
+2004,Yukon,All countries,4.254,100.0
+2004,Yukon,China,0.0,0.0
+2004,Yukon,European Union (27 members),0.042,0.987
+2004,Yukon,Japan,0.198,4.66
+2004,Yukon,Mexico,0.082,1.928
+2004,Yukon,Other countries,0.166,3.912
+2004,Yukon,United Kingdom,0.0,0.0
+2004,Yukon,United States,3.765,88.513
+2005,Alberta,All countries,76279.728,100.0
+2005,Alberta,China,2015.224,2.642
+2005,Alberta,European Union (27 members),968.797,1.27
+2005,Alberta,Japan,1343.525,1.761
+2005,Alberta,Mexico,528.792,0.693
+2005,Alberta,Other countries,3077.189,4.034
+2005,Alberta,United Kingdom,213.341,0.28
+2005,Alberta,United States,68132.861,89.32
+2005,British Columbia,All countries,34167.276,100.0
+2005,British Columbia,China,1325.453,3.879
+2005,British Columbia,European Union (27 members),2033.173,5.951
+2005,British Columbia,Japan,4163.763,12.186
+2005,British Columbia,Mexico,236.979,0.694
+2005,British Columbia,Other countries,3885.462,11.372
+2005,British Columbia,United Kingdom,420.97,1.232
+2005,British Columbia,United States,22101.476,64.686
+2005,Canada,All countries,408550.274,100.0
+2005,Canada,China,6756.266,1.654
+2005,Canada,European Union (27 members),15082.474,3.692
+2005,Canada,Japan,8966.527,2.195
+2005,Canada,Mexico,3216.2,0.787
+2005,Canada,Other countries,23605.153,5.778
+2005,Canada,United Kingdom,7631.833,1.868
+2005,Canada,United States,343291.822,84.027
+2005,Manitoba,All countries,9300.502,100.0
+2005,Manitoba,China,317.624,3.415
+2005,Manitoba,European Union (27 members),297.203,3.196
+2005,Manitoba,Japan,476.558,5.124
+2005,Manitoba,Mexico,176.231,1.895
+2005,Manitoba,Other countries,976.546,10.5
+2005,Manitoba,United Kingdom,83.557,0.898
+2005,Manitoba,United States,6972.783,74.972
+2005,New Brunswick,All countries,10677.897,100.0
+2005,New Brunswick,China,20.055,0.188
+2005,New Brunswick,European Union (27 members),345.117,3.232
+2005,New Brunswick,Japan,88.455,0.828
+2005,New Brunswick,Mexico,20.406,0.191
+2005,New Brunswick,Other countries,458.91,4.298
+2005,New Brunswick,United Kingdom,73.436,0.688
+2005,New Brunswick,United States,9671.518,90.575
+2005,Newfoundland and Labrador,All countries,8060.666,100.0
+2005,Newfoundland and Labrador,China,414.488,5.142
+2005,Newfoundland and Labrador,European Union (27 members),863.514,10.713
+2005,Newfoundland and Labrador,Japan,135.234,1.678
+2005,Newfoundland and Labrador,Mexico,0.185,0.002
+2005,Newfoundland and Labrador,Other countries,562.5,6.978
+2005,Newfoundland and Labrador,United Kingdom,211.009,2.618
+2005,Newfoundland and Labrador,United States,5873.738,72.869
+2005,Northwest Territories,All countries,1684.598,100.0
+2005,Northwest Territories,China,0.0,0.0
+2005,Northwest Territories,European Union (27 members),860.077,51.055
+2005,Northwest Territories,Japan,0.028,0.002
+2005,Northwest Territories,Mexico,0.0,0.0
+2005,Northwest Territories,Other countries,24.691,1.466
+2005,Northwest Territories,United Kingdom,786.476,46.686
+2005,Northwest Territories,United States,13.326,0.791
+2005,Nova Scotia,All countries,5654.011,100.0
+2005,Nova Scotia,China,78.352,1.386
+2005,Nova Scotia,European Union (27 members),343.051,6.067
+2005,Nova Scotia,Japan,111.254,1.968
+2005,Nova Scotia,Mexico,38.49,0.681
+2005,Nova Scotia,Other countries,405.731,7.176
+2005,Nova Scotia,United Kingdom,102.131,1.806
+2005,Nova Scotia,United States,4575.0,80.916
+2005,Nunavut,All countries,3.233,100.0
+2005,Nunavut,China,0.202,6.242
+2005,Nunavut,European Union (27 members),0.702,21.7
+2005,Nunavut,Japan,0.049,1.513
+2005,Nunavut,Mexico,0.066,2.042
+2005,Nunavut,Other countries,1.273,39.385
+2005,Nunavut,United Kingdom,0.189,5.856
+2005,Nunavut,United States,0.752,23.262
+2005,Ontario,All countries,180233.511,100.0
+2005,Ontario,China,1065.827,0.591
+2005,Ontario,European Union (27 members),4392.883,2.437
+2005,Ontario,Japan,1012.228,0.562
+2005,Ontario,Mexico,1572.57,0.873
+2005,Ontario,Other countries,7775.161,4.314
+2005,Ontario,United Kingdom,4287.335,2.379
+2005,Ontario,United States,160127.506,88.844
+2005,Prince Edward Island,All countries,772.632,100.0
+2005,Prince Edward Island,China,4.679,0.606
+2005,Prince Edward Island,European Union (27 members),37.959,4.913
+2005,Prince Edward Island,Japan,13.789,1.785
+2005,Prince Edward Island,Mexico,0.815,0.106
+2005,Prince Edward Island,Other countries,51.799,6.704
+2005,Prince Edward Island,United Kingdom,25.007,3.237
+2005,Prince Edward Island,United States,638.584,82.65
+2005,Quebec,All countries,66883.867,100.0
+2005,Quebec,China,757.678,1.133
+2005,Quebec,European Union (27 members),4221.843,6.312
+2005,Quebec,Japan,1107.76,1.656
+2005,Quebec,Mexico,359.855,0.538
+2005,Quebec,Other countries,4269.627,6.384
+2005,Quebec,United Kingdom,1276.138,1.908
+2005,Quebec,United States,54890.966,82.069
+2005,Saskatchewan,All countries,14822.098,100.0
+2005,Saskatchewan,China,751.755,5.072
+2005,Saskatchewan,European Union (27 members),717.693,4.842
+2005,Saskatchewan,Japan,513.816,3.467
+2005,Saskatchewan,Mexico,281.612,1.9
+2005,Saskatchewan,Other countries,2115.88,14.275
+2005,Saskatchewan,United Kingdom,152.189,1.027
+2005,Saskatchewan,United States,10289.153,69.418
+2005,Yukon,All countries,10.255,100.0
+2005,Yukon,China,4.929,48.067
+2005,Yukon,European Union (27 members),0.463,4.511
+2005,Yukon,Japan,0.069,0.671
+2005,Yukon,Mexico,0.198,1.926
+2005,Yukon,Other countries,0.385,3.754
+2005,Yukon,United Kingdom,0.054,0.53
+2005,Yukon,United States,4.158,40.54
+2006,Alberta,All countries,77743.862,100.0
+2006,Alberta,China,2174.307,2.797
+2006,Alberta,European Union (27 members),969.043,1.246
+2006,Alberta,Japan,1299.381,1.671
+2006,Alberta,Mexico,615.278,0.791
+2006,Alberta,Other countries,3739.345,4.81
+2006,Alberta,United Kingdom,239.343,0.308
+2006,Alberta,United States,68707.165,88.376
+2006,British Columbia,All countries,33466.008,100.0
+2006,British Columbia,China,1485.57,4.439
+2006,British Columbia,European Union (27 members),1871.603,5.593
+2006,British Columbia,Japan,4709.846,14.074
+2006,British Columbia,Mexico,185.277,0.554
+2006,British Columbia,Other countries,4310.195,12.879
+2006,British Columbia,United Kingdom,386.23,1.154
+2006,British Columbia,United States,20517.288,61.308
+2006,Canada,All countries,411493.463,100.0
+2006,Canada,China,7325.136,1.78
+2006,Canada,European Union (27 members),17309.58,4.207
+2006,Canada,Japan,9225.436,2.242
+2006,Canada,Mexico,4021.638,0.977
+2006,Canada,Other countries,27797.849,6.755
+2006,Canada,United Kingdom,9222.282,2.241
+2006,Canada,United States,336591.542,81.798
+2006,Manitoba,All countries,10195.188,100.0
+2006,Manitoba,China,430.968,4.227
+2006,Manitoba,European Union (27 members),265.343,2.603
+2006,Manitoba,Japan,386.644,3.792
+2006,Manitoba,Mexico,152.949,1.5
+2006,Manitoba,Other countries,1216.717,11.934
+2006,Manitoba,United Kingdom,71.731,0.704
+2006,Manitoba,United States,7670.836,75.24
+2006,New Brunswick,All countries,10377.526,100.0
+2006,New Brunswick,China,36.522,0.352
+2006,New Brunswick,European Union (27 members),264.447,2.548
+2006,New Brunswick,Japan,55.413,0.534
+2006,New Brunswick,Mexico,20.324,0.196
+2006,New Brunswick,Other countries,590.673,5.692
+2006,New Brunswick,United Kingdom,59.606,0.574
+2006,New Brunswick,United States,9350.542,90.104
+2006,Newfoundland and Labrador,All countries,9520.062,100.0
+2006,Newfoundland and Labrador,China,412.295,4.331
+2006,Newfoundland and Labrador,European Union (27 members),931.432,9.784
+2006,Newfoundland and Labrador,Japan,132.981,1.397
+2006,Newfoundland and Labrador,Mexico,21.608,0.227
+2006,Newfoundland and Labrador,Other countries,601.547,6.319
+2006,Newfoundland and Labrador,United Kingdom,174.633,1.834
+2006,Newfoundland and Labrador,United States,7245.565,76.108
+2006,Northwest Territories,All countries,1609.285,100.0
+2006,Northwest Territories,China,6.67,0.414
+2006,Northwest Territories,European Union (27 members),1021.914,63.501
+2006,Northwest Territories,Japan,0.579,0.036
+2006,Northwest Territories,Mexico,0.263,0.016
+2006,Northwest Territories,Other countries,34.091,2.118
+2006,Northwest Territories,United Kingdom,542.978,33.74
+2006,Northwest Territories,United States,2.79,0.173
+2006,Nova Scotia,All countries,5070.675,100.0
+2006,Nova Scotia,China,87.534,1.726
+2006,Nova Scotia,European Union (27 members),367.065,7.239
+2006,Nova Scotia,Japan,91.19,1.798
+2006,Nova Scotia,Mexico,33.928,0.669
+2006,Nova Scotia,Other countries,456.196,8.997
+2006,Nova Scotia,United Kingdom,153.768,3.032
+2006,Nova Scotia,United States,3880.994,76.538
+2006,Nunavut,All countries,5.362,100.0
+2006,Nunavut,China,0.559,10.421
+2006,Nunavut,European Union (27 members),0.527,9.828
+2006,Nunavut,Japan,0.053,0.99
+2006,Nunavut,Mexico,0.258,4.804
+2006,Nunavut,Other countries,2.895,53.996
+2006,Nunavut,United Kingdom,0.457,8.525
+2006,Nunavut,United States,0.613,11.436
+2006,Ontario,All countries,177472.879,100.0
+2006,Ontario,China,1310.652,0.739
+2006,Ontario,European Union (27 members),5103.908,2.876
+2006,Ontario,Japan,1085.447,0.612
+2006,Ontario,Mexico,1970.439,1.11
+2006,Ontario,Other countries,8628.608,4.862
+2006,Ontario,United Kingdom,5881.23,3.314
+2006,Ontario,United States,153492.596,86.488
+2006,Prince Edward Island,All countries,786.463,100.0
+2006,Prince Edward Island,China,3.457,0.44
+2006,Prince Edward Island,European Union (27 members),41.503,5.277
+2006,Prince Edward Island,Japan,15.313,1.947
+2006,Prince Edward Island,Mexico,2.315,0.294
+2006,Prince Edward Island,Other countries,81.331,10.341
+2006,Prince Edward Island,United Kingdom,19.037,2.421
+2006,Prince Edward Island,United States,623.506,79.28
+2006,Quebec,All countries,69060.303,100.0
+2006,Quebec,China,836.131,1.211
+2006,Quebec,European Union (27 members),5713.402,8.273
+2006,Quebec,Japan,897.016,1.299
+2006,Quebec,Mexico,664.564,0.962
+2006,Quebec,Other countries,5221.954,7.561
+2006,Quebec,United Kingdom,1405.258,2.035
+2006,Quebec,United States,54321.978,78.659
+2006,Saskatchewan,All countries,16147.743,100.0
+2006,Saskatchewan,China,508.472,3.149
+2006,Saskatchewan,European Union (27 members),759.045,4.701
+2006,Saskatchewan,Japan,551.544,3.416
+2006,Saskatchewan,Mexico,354.434,2.195
+2006,Saskatchewan,Other countries,2914.229,18.047
+2006,Saskatchewan,United Kingdom,287.998,1.784
+2006,Saskatchewan,United States,10772.023,66.709
+2006,Yukon,All countries,38.108,100.0
+2006,Yukon,China,31.999,83.969
+2006,Yukon,European Union (27 members),0.35,0.918
+2006,Yukon,Japan,0.029,0.075
+2006,Yukon,Mexico,0.003,0.008
+2006,Yukon,Other countries,0.067,0.176
+2006,Yukon,United Kingdom,0.014,0.037
+2006,Yukon,United States,5.646,14.817
+2007,Alberta,All countries,81558.818,100.0
+2007,Alberta,China,2816.934,3.454
+2007,Alberta,European Union (27 members),1430.305,1.754
+2007,Alberta,Japan,1458.971,1.789
+2007,Alberta,Mexico,720.023,0.883
+2007,Alberta,Other countries,4310.975,5.286
+2007,Alberta,United Kingdom,248.204,0.304
+2007,Alberta,United States,70573.406,86.531
+2007,British Columbia,All countries,31523.637,100.0
+2007,British Columbia,China,1722.832,5.465
+2007,British Columbia,European Union (27 members),1919.702,6.09
+2007,British Columbia,Japan,4134.523,13.116
+2007,British Columbia,Mexico,195.764,0.621
+2007,British Columbia,Other countries,4072.721,12.92
+2007,British Columbia,United Kingdom,401.3,1.273
+2007,British Columbia,United States,19076.795,60.516
+2007,Canada,All countries,419943.812,100.0
+2007,Canada,China,9016.245,2.147
+2007,Canada,European Union (27 members),20076.722,4.781
+2007,Canada,Japan,8941.28,2.129
+2007,Canada,Mexico,4300.11,1.024
+2007,Canada,Other countries,33262.349,7.921
+2007,Canada,United Kingdom,11381.767,2.71
+2007,Canada,United States,332965.339,79.288
+2007,Manitoba,All countries,12196.02,100.0
+2007,Manitoba,China,764.829,6.271
+2007,Manitoba,European Union (27 members),353.302,2.897
+2007,Manitoba,Japan,517.483,4.243
+2007,Manitoba,Mexico,218.782,1.794
+2007,Manitoba,Other countries,1876.265,15.384
+2007,Manitoba,United Kingdom,117.815,0.966
+2007,Manitoba,United States,8347.544,68.445
+2007,New Brunswick,All countries,11182.641,100.0
+2007,New Brunswick,China,48.435,0.433
+2007,New Brunswick,European Union (27 members),440.148,3.936
+2007,New Brunswick,Japan,68.542,0.613
+2007,New Brunswick,Mexico,34.776,0.311
+2007,New Brunswick,Other countries,657.966,5.884
+2007,New Brunswick,United Kingdom,82.89,0.741
+2007,New Brunswick,United States,9849.884,88.082
+2007,Newfoundland and Labrador,All countries,11686.174,100.0
+2007,Newfoundland and Labrador,China,359.258,3.074
+2007,Newfoundland and Labrador,European Union (27 members),1256.538,10.752
+2007,Newfoundland and Labrador,Japan,160.437,1.373
+2007,Newfoundland and Labrador,Mexico,0.153,0.001
+2007,Newfoundland and Labrador,Other countries,778.295,6.66
+2007,Newfoundland and Labrador,United Kingdom,180.695,1.546
+2007,Newfoundland and Labrador,United States,8950.798,76.593
+2007,Northwest Territories,All countries,1882.262,100.0
+2007,Northwest Territories,China,34.55,1.836
+2007,Northwest Territories,European Union (27 members),1147.332,60.955
+2007,Northwest Territories,Japan,0.033,0.002
+2007,Northwest Territories,Mexico,0.08,0.004
+2007,Northwest Territories,Other countries,27.805,1.477
+2007,Northwest Territories,United Kingdom,657.507,34.932
+2007,Northwest Territories,United States,14.955,0.795
+2007,Nova Scotia,All countries,5287.679,100.0
+2007,Nova Scotia,China,78.309,1.481
+2007,Nova Scotia,European Union (27 members),386.594,7.311
+2007,Nova Scotia,Japan,83.769,1.584
+2007,Nova Scotia,Mexico,52.184,0.987
+2007,Nova Scotia,Other countries,417.147,7.889
+2007,Nova Scotia,United Kingdom,115.251,2.18
+2007,Nova Scotia,United States,4154.424,78.568
+2007,Nunavut,All countries,4.947,100.0
+2007,Nunavut,China,0.374,7.552
+2007,Nunavut,European Union (27 members),1.332,26.923
+2007,Nunavut,Japan,0.711,14.368
+2007,Nunavut,Mexico,0.153,3.085
+2007,Nunavut,Other countries,1.024,20.689
+2007,Nunavut,United Kingdom,0.61,12.331
+2007,Nunavut,United States,0.745,15.052
+2007,Ontario,All countries,177379.028,100.0
+2007,Ontario,China,1439.278,0.811
+2007,Ontario,European Union (27 members),5503.431,3.103
+2007,Ontario,Japan,1136.98,0.641
+2007,Ontario,Mexico,2127.533,1.199
+2007,Ontario,Other countries,11634.87,6.559
+2007,Ontario,United Kingdom,7420.32,4.183
+2007,Ontario,United States,148116.616,83.503
+2007,Prince Edward Island,All countries,738.418,100.0
+2007,Prince Edward Island,China,2.969,0.402
+2007,Prince Edward Island,European Union (27 members),50.702,6.866
+2007,Prince Edward Island,Japan,15.63,2.117
+2007,Prince Edward Island,Mexico,3.146,0.426
+2007,Prince Edward Island,Other countries,91.054,12.331
+2007,Prince Edward Island,United Kingdom,14.208,1.924
+2007,Prince Edward Island,United States,560.71,75.934
+2007,Quebec,All countries,67154.409,100.0
+2007,Quebec,China,902.222,1.344
+2007,Quebec,European Union (27 members),6666.513,9.927
+2007,Quebec,Japan,750.267,1.117
+2007,Quebec,Mexico,589.755,0.878
+2007,Quebec,Other countries,5549.309,8.264
+2007,Quebec,United Kingdom,1445.318,2.152
+2007,Quebec,United States,51251.025,76.318
+2007,Saskatchewan,All countries,19328.177,100.0
+2007,Saskatchewan,China,846.206,4.378
+2007,Saskatchewan,European Union (27 members),920.644,4.763
+2007,Saskatchewan,Japan,613.835,3.176
+2007,Saskatchewan,Mexico,357.743,1.851
+2007,Saskatchewan,Other countries,3843.857,19.887
+2007,Saskatchewan,United Kingdom,697.521,3.609
+2007,Saskatchewan,United States,12048.371,62.336
+2007,Yukon,All countries,21.604,100.0
+2007,Yukon,China,0.048,0.221
+2007,Yukon,European Union (27 members),0.18,0.831
+2007,Yukon,Japan,0.099,0.458
+2007,Yukon,Mexico,0.02,0.092
+2007,Yukon,Other countries,1.061,4.911
+2007,Yukon,United Kingdom,0.129,0.597
+2007,Yukon,United States,20.068,92.89
+2008,Alberta,All countries,110248.21,100.0
+2008,Alberta,China,3117.521,2.828
+2008,Alberta,European Union (27 members),1036.565,0.94
+2008,Alberta,Japan,2030.755,1.842
+2008,Alberta,Mexico,1077.123,0.977
+2008,Alberta,Other countries,6081.284,5.516
+2008,Alberta,United Kingdom,218.36,0.198
+2008,Alberta,United States,96686.603,87.699
+2008,British Columbia,All countries,33124.055,100.0
+2008,British Columbia,China,1961.747,5.922
+2008,British Columbia,European Union (27 members),2213.597,6.683
+2008,British Columbia,Japan,5026.083,15.174
+2008,British Columbia,Mexico,343.616,1.037
+2008,British Columbia,Other countries,5591.834,16.881
+2008,British Columbia,United Kingdom,405.163,1.223
+2008,British Columbia,United States,17582.015,53.079
+2008,Canada,All countries,455337.017,100.0
+2008,Canada,China,10084.263,2.215
+2008,Canada,European Union (27 members),21778.042,4.783
+2008,Canada,Japan,10889.146,2.391
+2008,Canada,Mexico,5152.128,1.131
+2008,Canada,Other countries,41751.513,9.169
+2008,Canada,United Kingdom,12388.539,2.721
+2008,Canada,United States,353293.386,77.589
+2008,Manitoba,All countries,12971.866,100.0
+2008,Manitoba,China,622.22,4.797
+2008,Manitoba,European Union (27 members),318.699,2.457
+2008,Manitoba,Japan,660.519,5.092
+2008,Manitoba,Mexico,320.809,2.473
+2008,Manitoba,Other countries,2045.191,15.766
+2008,Manitoba,United Kingdom,99.827,0.77
+2008,Manitoba,United States,8904.601,68.645
+2008,New Brunswick,All countries,12808.246,100.0
+2008,New Brunswick,China,45.675,0.357
+2008,New Brunswick,European Union (27 members),1063.66,8.304
+2008,New Brunswick,Japan,55.817,0.436
+2008,New Brunswick,Mexico,61.065,0.477
+2008,New Brunswick,Other countries,972.263,7.591
+2008,New Brunswick,United Kingdom,26.806,0.209
+2008,New Brunswick,United States,10582.96,82.626
+2008,Newfoundland and Labrador,All countries,15047.602,100.0
+2008,Newfoundland and Labrador,China,480.847,3.196
+2008,Newfoundland and Labrador,European Union (27 members),2282.785,15.17
+2008,Newfoundland and Labrador,Japan,219.369,1.458
+2008,Newfoundland and Labrador,Mexico,3.392,0.023
+2008,Newfoundland and Labrador,Other countries,1123.509,7.466
+2008,Newfoundland and Labrador,United Kingdom,169.543,1.127
+2008,Newfoundland and Labrador,United States,10768.157,71.561
+2008,Northwest Territories,All countries,2338.945,100.0
+2008,Northwest Territories,China,38.438,1.643
+2008,Northwest Territories,European Union (27 members),1131.814,48.39
+2008,Northwest Territories,Japan,0.96,0.041
+2008,Northwest Territories,Mexico,0.0,0.0
+2008,Northwest Territories,Other countries,36.059,1.542
+2008,Northwest Territories,United Kingdom,1099.886,47.025
+2008,Northwest Territories,United States,31.788,1.359
+2008,Nova Scotia,All countries,5644.725,100.0
+2008,Nova Scotia,China,63.793,1.13
+2008,Nova Scotia,European Union (27 members),374.46,6.634
+2008,Nova Scotia,Japan,82.717,1.465
+2008,Nova Scotia,Mexico,34.984,0.62
+2008,Nova Scotia,Other countries,462.913,8.201
+2008,Nova Scotia,United Kingdom,110.178,1.952
+2008,Nova Scotia,United States,4515.681,79.998
+2008,Nunavut,All countries,22.887,100.0
+2008,Nunavut,China,0.237,1.036
+2008,Nunavut,European Union (27 members),17.856,78.019
+2008,Nunavut,Japan,0.907,3.963
+2008,Nunavut,Mexico,0.072,0.314
+2008,Nunavut,Other countries,3.055,13.35
+2008,Nunavut,United Kingdom,0.183,0.799
+2008,Nunavut,United States,0.576,2.518
+2008,Ontario,All countries,163649.371,100.0
+2008,Ontario,China,1676.346,1.024
+2008,Ontario,European Union (27 members),5597.185,3.42
+2008,Ontario,Japan,1030.975,0.63
+2008,Ontario,Mexico,2041.761,1.248
+2008,Ontario,Other countries,11888.859,7.265
+2008,Ontario,United Kingdom,7686.155,4.697
+2008,Ontario,United States,133728.089,81.716
+2008,Prince Edward Island,All countries,785.658,100.0
+2008,Prince Edward Island,China,2.882,0.367
+2008,Prince Edward Island,European Union (27 members),35.517,4.521
+2008,Prince Edward Island,Japan,12.059,1.535
+2008,Prince Edward Island,Mexico,3.522,0.448
+2008,Prince Edward Island,Other countries,84.293,10.729
+2008,Prince Edward Island,United Kingdom,10.542,1.342
+2008,Prince Edward Island,United States,636.844,81.059
+2008,Quebec,All countries,69071.596,100.0
+2008,Quebec,China,923.852,1.338
+2008,Quebec,European Union (27 members),6807.875,9.856
+2008,Quebec,Japan,827.087,1.197
+2008,Quebec,Mexico,758.434,1.098
+2008,Quebec,Other countries,7116.752,10.303
+2008,Quebec,United Kingdom,1650.696,2.39
+2008,Quebec,United States,50986.9,73.817
+2008,Saskatchewan,All countries,29491.857,100.0
+2008,Saskatchewan,China,1149.716,3.898
+2008,Saskatchewan,European Union (27 members),897.906,3.045
+2008,Saskatchewan,Japan,941.749,3.193
+2008,Saskatchewan,Mexico,507.334,1.72
+2008,Saskatchewan,Other countries,6342.971,21.508
+2008,Saskatchewan,United Kingdom,911.178,3.09
+2008,Saskatchewan,United States,18741.002,63.546
+2008,Yukon,All countries,132.001,100.0
+2008,Yukon,China,0.992,0.751
+2008,Yukon,European Union (27 members),0.123,0.093
+2008,Yukon,Japan,0.152,0.115
+2008,Yukon,Mexico,0.016,0.012
+2008,Yukon,Other countries,2.529,1.916
+2008,Yukon,United Kingdom,0.022,0.017
+2008,Yukon,United States,128.169,97.096
+2009,Alberta,All countries,69846.341,100.0
+2009,Alberta,China,2706.496,3.875
+2009,Alberta,European Union (27 members),862.003,1.234
+2009,Alberta,Japan,1491.322,2.135
+2009,Alberta,Mexico,977.343,1.399
+2009,Alberta,Other countries,4735.125,6.779
+2009,Alberta,United Kingdom,161.244,0.231
+2009,Alberta,United States,58912.808,84.346
+2009,British Columbia,All countries,25240.295,100.0
+2009,British Columbia,China,2501.363,9.91
+2009,British Columbia,European Union (27 members),1423.995,5.642
+2009,British Columbia,Japan,3551.032,14.069
+2009,British Columbia,Mexico,162.086,0.642
+2009,British Columbia,Other countries,4415.387,17.493
+2009,British Columbia,United Kingdom,266.201,1.055
+2009,British Columbia,United States,12920.231,51.189
+2009,Canada,All countries,334448.413,100.0
+2009,Canada,China,10935.79,3.27
+2009,Canada,European Union (27 members),16239.076,4.855
+2009,Canada,Japan,8071.439,2.413
+2009,Canada,Mexico,3837.15,1.147
+2009,Canada,Other countries,32792.705,9.805
+2009,Canada,United Kingdom,11473.445,3.431
+2009,Canada,United States,251098.808,75.078
+2009,Manitoba,All countries,10566.632,100.0
+2009,Manitoba,China,634.343,6.003
+2009,Manitoba,European Union (27 members),216.335,2.047
+2009,Manitoba,Japan,498.01,4.713
+2009,Manitoba,Mexico,259.667,2.457
+2009,Manitoba,Other countries,1727.426,16.348
+2009,Manitoba,United Kingdom,92.416,0.875
+2009,Manitoba,United States,7138.435,67.556
+2009,New Brunswick,All countries,9825.207,100.0
+2009,New Brunswick,China,117.315,1.194
+2009,New Brunswick,European Union (27 members),490.834,4.996
+2009,New Brunswick,Japan,53.992,0.55
+2009,New Brunswick,Mexico,32.192,0.328
+2009,New Brunswick,Other countries,681.611,6.937
+2009,New Brunswick,United Kingdom,10.254,0.104
+2009,New Brunswick,United States,8439.009,85.891
+2009,Newfoundland and Labrador,All countries,8617.396,100.0
+2009,Newfoundland and Labrador,China,1012.844,11.753
+2009,Newfoundland and Labrador,European Union (27 members),817.487,9.486
+2009,Newfoundland and Labrador,Japan,85.839,0.996
+2009,Newfoundland and Labrador,Mexico,0.042,0.0
+2009,Newfoundland and Labrador,Other countries,563.209,6.536
+2009,Newfoundland and Labrador,United Kingdom,151.36,1.756
+2009,Newfoundland and Labrador,United States,5986.615,69.471
+2009,Northwest Territories,All countries,1528.584,100.0
+2009,Northwest Territories,China,26.208,1.715
+2009,Northwest Territories,European Union (27 members),524.354,34.303
+2009,Northwest Territories,Japan,0.01,0.001
+2009,Northwest Territories,Mexico,0.003,0.0
+2009,Northwest Territories,Other countries,24.546,1.606
+2009,Northwest Territories,United Kingdom,927.955,60.707
+2009,Northwest Territories,United States,25.507,1.669
+2009,Nova Scotia,All countries,4236.599,100.0
+2009,Nova Scotia,China,54.381,1.284
+2009,Nova Scotia,European Union (27 members),292.061,6.894
+2009,Nova Scotia,Japan,61.779,1.458
+2009,Nova Scotia,Mexico,28.29,0.668
+2009,Nova Scotia,Other countries,337.848,7.975
+2009,Nova Scotia,United Kingdom,106.388,2.511
+2009,Nova Scotia,United States,3355.852,79.211
+2009,Nunavut,All countries,3.536,100.0
+2009,Nunavut,China,0.274,7.749
+2009,Nunavut,European Union (27 members),0.514,14.55
+2009,Nunavut,Japan,0.08,2.271
+2009,Nunavut,Mexico,0.166,4.7
+2009,Nunavut,Other countries,1.775,50.209
+2009,Nunavut,United Kingdom,0.133,3.758
+2009,Nunavut,United States,0.593,16.762
+2009,Ontario,All countries,125597.767,100.0
+2009,Ontario,China,1641.897,1.307
+2009,Ontario,European Union (27 members),4642.902,3.697
+2009,Ontario,Japan,877.097,0.698
+2009,Ontario,Mexico,1435.502,1.143
+2009,Ontario,Other countries,9186.539,7.314
+2009,Ontario,United Kingdom,7561.582,6.02
+2009,Ontario,United States,100252.248,79.82
+2009,Prince Edward Island,All countries,759.156,100.0
+2009,Prince Edward Island,China,3.933,0.518
+2009,Prince Edward Island,European Union (27 members),40.214,5.297
+2009,Prince Edward Island,Japan,21.291,2.805
+2009,Prince Edward Island,Mexico,2.253,0.297
+2009,Prince Edward Island,Other countries,94.828,12.491
+2009,Prince Edward Island,United Kingdom,11.864,1.563
+2009,Prince Edward Island,United States,584.774,77.03
+2009,Quebec,All countries,56339.801,100.0
+2009,Quebec,China,1066.417,1.893
+2009,Quebec,European Union (27 members),6103.644,10.834
+2009,Quebec,Japan,762.467,1.353
+2009,Quebec,Mexico,542.625,0.963
+2009,Quebec,Other countries,6018.464,10.682
+2009,Quebec,United Kingdom,1635.038,2.902
+2009,Quebec,United States,40211.146,71.373
+2009,Saskatchewan,All countries,21758.531,100.0
+2009,Saskatchewan,China,1170.312,5.379
+2009,Saskatchewan,European Union (27 members),824.642,3.79
+2009,Saskatchewan,Japan,668.37,3.072
+2009,Saskatchewan,Mexico,396.831,1.824
+2009,Saskatchewan,Other countries,5000.729,22.983
+2009,Saskatchewan,United Kingdom,549.009,2.523
+2009,Saskatchewan,United States,13148.638,60.43
+2009,Yukon,All countries,128.567,100.0
+2009,Yukon,China,0.007,0.006
+2009,Yukon,European Union (27 members),0.09,0.07
+2009,Yukon,Japan,0.15,0.117
+2009,Yukon,Mexico,0.15,0.117
+2009,Yukon,Other countries,5.217,4.057
+2009,Yukon,United Kingdom,0.001,0.001
+2009,Yukon,United States,122.952,95.632
+2010,Alberta,All countries,78743.193,100.0
+2010,Alberta,China,2880.828,3.659
+2010,Alberta,European Union (27 members),1003.127,1.274
+2010,Alberta,Japan,1472.425,1.87
+2010,Alberta,Mexico,743.988,0.945
+2010,Alberta,Other countries,4220.115,5.359
+2010,Alberta,United Kingdom,149.562,0.19
+2010,Alberta,United States,68273.147,86.704
+2010,British Columbia,All countries,28646.11,100.0
+2010,British Columbia,China,3837.092,13.395
+2010,British Columbia,European Union (27 members),1729.667,6.038
+2010,British Columbia,Japan,4193.171,14.638
+2010,British Columbia,Mexico,192.255,0.671
+2010,British Columbia,Other countries,5148.154,17.972
+2010,British Columbia,United Kingdom,293.676,1.025
+2010,British Columbia,United States,13252.095,46.261
+2010,Canada,All countries,374014.807,100.0
+2010,Canada,China,12879.125,3.443
+2010,Canada,European Union (27 members),16941.825,4.53
+2010,Canada,Japan,9060.35,2.422
+2010,Canada,Mexico,4303.453,1.151
+2010,Canada,Other countries,35915.992,9.603
+2010,Canada,United Kingdom,15518.062,4.149
+2010,Canada,United States,279396.001,74.702
+2010,Manitoba,All countries,10237.782,100.0
+2010,Manitoba,China,670.375,6.548
+2010,Manitoba,European Union (27 members),300.5,2.935
+2010,Manitoba,Japan,579.754,5.663
+2010,Manitoba,Mexico,340.522,3.326
+2010,Manitoba,Other countries,1714.076,16.743
+2010,Manitoba,United Kingdom,87.537,0.855
+2010,Manitoba,United States,6545.018,63.93
+2010,New Brunswick,All countries,12665.804,100.0
+2010,New Brunswick,China,101.078,0.798
+2010,New Brunswick,European Union (27 members),564.706,4.459
+2010,New Brunswick,Japan,58.132,0.459
+2010,New Brunswick,Mexico,29.806,0.235
+2010,New Brunswick,Other countries,824.283,6.508
+2010,New Brunswick,United Kingdom,11.994,0.095
+2010,New Brunswick,United States,11075.804,87.447
+2010,Newfoundland and Labrador,All countries,9211.812,100.0
+2010,Newfoundland and Labrador,China,715.365,7.766
+2010,Newfoundland and Labrador,European Union (27 members),1292.668,14.033
+2010,Newfoundland and Labrador,Japan,111.491,1.21
+2010,Newfoundland and Labrador,Mexico,0.103,0.001
+2010,Newfoundland and Labrador,Other countries,603.228,6.548
+2010,Newfoundland and Labrador,United Kingdom,67.979,0.738
+2010,Newfoundland and Labrador,United States,6420.978,69.704
+2010,Northwest Territories,All countries,2069.397,100.0
+2010,Northwest Territories,China,8.854,0.428
+2010,Northwest Territories,European Union (27 members),702.914,33.967
+2010,Northwest Territories,Japan,0.398,0.019
+2010,Northwest Territories,Mexico,0.001,0.0
+2010,Northwest Territories,Other countries,36.916,1.784
+2010,Northwest Territories,United Kingdom,1317.302,63.656
+2010,Northwest Territories,United States,3.012,0.146
+2010,Nova Scotia,All countries,4278.964,100.0
+2010,Nova Scotia,China,68.655,1.604
+2010,Nova Scotia,European Union (27 members),343.842,8.036
+2010,Nova Scotia,Japan,59.02,1.379
+2010,Nova Scotia,Mexico,23.436,0.548
+2010,Nova Scotia,Other countries,382.048,8.929
+2010,Nova Scotia,United Kingdom,114.258,2.67
+2010,Nova Scotia,United States,3287.704,76.834
+2010,Nunavut,All countries,5.731,100.0
+2010,Nunavut,China,0.68,11.86
+2010,Nunavut,European Union (27 members),1.908,33.291
+2010,Nunavut,Japan,0.344,6.009
+2010,Nunavut,Mexico,0.213,3.715
+2010,Nunavut,Other countries,2.041,35.612
+2010,Nunavut,United Kingdom,0.187,3.261
+2010,Nunavut,United States,0.358,6.252
+2010,Ontario,All countries,145966.087,100.0
+2010,Ontario,China,1525.394,1.045
+2010,Ontario,European Union (27 members),5019.876,3.439
+2010,Ontario,Japan,1067.123,0.731
+2010,Ontario,Mexico,1742.846,1.194
+2010,Ontario,Other countries,10487.034,7.185
+2010,Ontario,United Kingdom,11148.727,7.638
+2010,Ontario,United States,114975.086,78.768
+2010,Prince Edward Island,All countries,691.398,100.0
+2010,Prince Edward Island,China,3.922,0.567
+2010,Prince Edward Island,European Union (27 members),38.03,5.5
+2010,Prince Edward Island,Japan,17.15,2.48
+2010,Prince Edward Island,Mexico,2.104,0.304
+2010,Prince Edward Island,Other countries,97.16,14.053
+2010,Prince Edward Island,United Kingdom,20.124,2.911
+2010,Prince Edward Island,United States,512.908,74.184
+2010,Quebec,All countries,57785.903,100.0
+2010,Quebec,China,1599.56,2.768
+2010,Quebec,European Union (27 members),5369.956,9.293
+2010,Quebec,Japan,773.041,1.338
+2010,Quebec,Mexico,716.383,1.24
+2010,Quebec,Other countries,7269.936,12.581
+2010,Quebec,United Kingdom,1866.748,3.23
+2010,Quebec,United States,40190.28,69.55
+2010,Saskatchewan,All countries,23614.014,100.0
+2010,Saskatchewan,China,1467.272,6.214
+2010,Saskatchewan,European Union (27 members),574.401,2.432
+2010,Saskatchewan,Japan,728.224,3.084
+2010,Saskatchewan,Mexico,509.572,2.158
+2010,Saskatchewan,Other countries,5128.05,21.716
+2010,Saskatchewan,United Kingdom,439.916,1.863
+2010,Saskatchewan,United States,14766.579,62.533
+2010,Yukon,All countries,98.613,100.0
+2010,Yukon,China,0.051,0.052
+2010,Yukon,European Union (27 members),0.232,0.235
+2010,Yukon,Japan,0.076,0.078
+2010,Yukon,Mexico,2.222,2.254
+2010,Yukon,Other countries,2.948,2.99
+2010,Yukon,United Kingdom,0.05,0.051
+2010,Yukon,United States,93.032,94.341
+2011,Alberta,All countries,93216.776,100.0
+2011,Alberta,China,3039.34,3.261
+2011,Alberta,European Union (27 members),1413.242,1.516
+2011,Alberta,Japan,1832.285,1.966
+2011,Alberta,Mexico,936.37,1.005
+2011,Alberta,Other countries,5107.608,5.479
+2011,Alberta,United Kingdom,137.972,0.148
+2011,Alberta,United States,80749.958,86.626
+2011,British Columbia,All countries,32671.48,100.0
+2011,British Columbia,China,4802.432,14.699
+2011,British Columbia,European Union (27 members),1903.752,5.827
+2011,British Columbia,Japan,4642.812,14.211
+2011,British Columbia,Mexico,156.11,0.478
+2011,British Columbia,Other countries,6743.485,20.64
+2011,British Columbia,United Kingdom,417.506,1.278
+2011,British Columbia,United States,14005.383,42.867
+2011,Canada,All countries,419035.339,100.0
+2011,Canada,China,16382.666,3.91
+2011,Canada,European Union (27 members),19806.429,4.727
+2011,Canada,Japan,10528.891,2.513
+2011,Canada,Mexico,4684.708,1.118
+2011,Canada,Other countries,42287.311,10.092
+2011,Canada,United Kingdom,18257.279,4.357
+2011,Canada,United States,307088.055,73.285
+2011,Manitoba,All countries,11678.11,100.0
+2011,Manitoba,China,968.57,8.294
+2011,Manitoba,European Union (27 members),516.199,4.42
+2011,Manitoba,Japan,658.367,5.638
+2011,Manitoba,Mexico,324.272,2.777
+2011,Manitoba,Other countries,2024.795,17.338
+2011,Manitoba,United Kingdom,90.224,0.773
+2011,Manitoba,United States,7095.683,60.761
+2011,New Brunswick,All countries,14789.644,100.0
+2011,New Brunswick,China,137.233,0.928
+2011,New Brunswick,European Union (27 members),972.457,6.575
+2011,New Brunswick,Japan,63.556,0.43
+2011,New Brunswick,Mexico,55.642,0.376
+2011,New Brunswick,Other countries,1080.952,7.309
+2011,New Brunswick,United Kingdom,12.338,0.083
+2011,New Brunswick,United States,12467.467,84.299
+2011,Newfoundland and Labrador,All countries,12121.723,100.0
+2011,Newfoundland and Labrador,China,1039.043,8.572
+2011,Newfoundland and Labrador,European Union (27 members),1744.696,14.393
+2011,Newfoundland and Labrador,Japan,185.184,1.528
+2011,Newfoundland and Labrador,Mexico,33.49,0.276
+2011,Newfoundland and Labrador,Other countries,928.515,7.66
+2011,Newfoundland and Labrador,United Kingdom,114.841,0.947
+2011,Newfoundland and Labrador,United States,8075.954,66.624
+2011,Northwest Territories,All countries,2087.386,100.0
+2011,Northwest Territories,China,42.483,2.035
+2011,Northwest Territories,European Union (27 members),846.838,40.569
+2011,Northwest Territories,Japan,5.059,0.242
+2011,Northwest Territories,Mexico,0.276,0.013
+2011,Northwest Territories,Other countries,195.623,9.372
+2011,Northwest Territories,United Kingdom,991.777,47.513
+2011,Northwest Territories,United States,5.33,0.255
+2011,Nova Scotia,All countries,4394.542,100.0
+2011,Nova Scotia,China,114.026,2.595
+2011,Nova Scotia,European Union (27 members),367.784,8.369
+2011,Nova Scotia,Japan,77.378,1.761
+2011,Nova Scotia,Mexico,29.636,0.674
+2011,Nova Scotia,Other countries,472.63,10.755
+2011,Nova Scotia,United Kingdom,86.239,1.962
+2011,Nova Scotia,United States,3246.85,73.884
+2011,Nunavut,All countries,6.724,100.0
+2011,Nunavut,China,1.05,15.619
+2011,Nunavut,European Union (27 members),1.031,15.328
+2011,Nunavut,Japan,0.391,5.809
+2011,Nunavut,Mexico,0.31,4.609
+2011,Nunavut,Other countries,3.513,52.253
+2011,Nunavut,United Kingdom,0.106,1.584
+2011,Nunavut,United States,0.323,4.798
+2011,Ontario,All countries,155465.267,100.0
+2011,Ontario,China,2174.613,1.399
+2011,Ontario,European Union (27 members),4786.724,3.079
+2011,Ontario,Japan,1249.888,0.804
+2011,Ontario,Mexico,1610.439,1.036
+2011,Ontario,Other countries,11515.634,7.407
+2011,Ontario,United Kingdom,14540.579,9.353
+2011,Ontario,United States,119587.39,76.922
+2011,Prince Edward Island,All countries,731.377,100.0
+2011,Prince Edward Island,China,9.313,1.273
+2011,Prince Edward Island,European Union (27 members),41.871,5.725
+2011,Prince Edward Island,Japan,11.838,1.619
+2011,Prince Edward Island,Mexico,2.357,0.322
+2011,Prince Edward Island,Other countries,138.032,18.873
+2011,Prince Edward Island,United Kingdom,15.545,2.125
+2011,Prince Edward Island,United States,512.419,70.062
+2011,Quebec,All countries,62173.105,100.0
+2011,Quebec,China,2359.273,3.795
+2011,Quebec,European Union (27 members),6408.783,10.308
+2011,Quebec,Japan,782.04,1.258
+2011,Quebec,Mexico,888.406,1.429
+2011,Quebec,Other countries,7737.024,12.444
+2011,Quebec,United Kingdom,1087.67,1.749
+2011,Quebec,United States,42909.908,69.017
+2011,Saskatchewan,All countries,29549.798,100.0
+2011,Saskatchewan,China,1667.582,5.643
+2011,Saskatchewan,European Union (27 members),802.789,2.717
+2011,Saskatchewan,Japan,1019.936,3.452
+2011,Saskatchewan,Mexico,640.483,2.167
+2011,Saskatchewan,Other countries,6328.395,21.416
+2011,Saskatchewan,United Kingdom,762.444,2.58
+2011,Saskatchewan,United States,18328.168,62.025
+2011,Yukon,All countries,149.406,100.0
+2011,Yukon,China,27.708,18.546
+2011,Yukon,European Union (27 members),0.262,0.176
+2011,Yukon,Japan,0.155,0.103
+2011,Yukon,Mexico,6.918,4.63
+2011,Yukon,Other countries,11.103,7.431
+2011,Yukon,United Kingdom,0.038,0.026
+2011,Yukon,United States,103.222,69.088
+2012,Alberta,All countries,95048.36,100.0
+2012,Alberta,China,3683.606,3.876
+2012,Alberta,European Union (27 members),1126.377,1.185
+2012,Alberta,Japan,1978.7,2.082
+2012,Alberta,Mexico,970.178,1.021
+2012,Alberta,Other countries,4886.577,5.141
+2012,Alberta,United Kingdom,156.097,0.164
+2012,Alberta,United States,82246.825,86.532
+2012,British Columbia,All countries,31484.047,100.0
+2012,British Columbia,China,5752.284,18.27
+2012,British Columbia,European Union (27 members),1464.87,4.653
+2012,British Columbia,Japan,4139.156,13.147
+2012,British Columbia,Mexico,101.235,0.322
+2012,British Columbia,Other countries,5666.576,17.998
+2012,British Columbia,United Kingdom,328.441,1.043
+2012,British Columbia,United States,14031.485,44.567
+2012,Canada,All countries,428048.717,100.0
+2012,Canada,China,19055.479,4.452
+2012,Canada,European Union (27 members),18717.138,4.373
+2012,Canada,Japan,10219.859,2.388
+2012,Canada,Mexico,4866.314,1.137
+2012,Canada,Other countries,39417.637,9.209
+2012,Canada,United Kingdom,18083.726,4.225
+2012,Canada,United States,317688.564,74.218
+2012,Manitoba,All countries,11362.551,100.0
+2012,Manitoba,China,962.3,8.469
+2012,Manitoba,European Union (27 members),381.666,3.359
+2012,Manitoba,Japan,580.101,5.105
+2012,Manitoba,Mexico,289.442,2.547
+2012,Manitoba,Other countries,1421.36,12.509
+2012,Manitoba,United Kingdom,72.64,0.639
+2012,Manitoba,United States,7655.042,67.371
+2012,New Brunswick,All countries,14902.537,100.0
+2012,New Brunswick,China,143.255,0.961
+2012,New Brunswick,European Union (27 members),733.413,4.921
+2012,New Brunswick,Japan,102.416,0.687
+2012,New Brunswick,Mexico,22.75,0.153
+2012,New Brunswick,Other countries,1001.079,6.718
+2012,New Brunswick,United Kingdom,13.278,0.089
+2012,New Brunswick,United States,12886.346,86.471
+2012,Newfoundland and Labrador,All countries,11552.447,100.0
+2012,Newfoundland and Labrador,China,1344.99,11.642
+2012,Newfoundland and Labrador,European Union (27 members),1774.187,15.358
+2012,Newfoundland and Labrador,Japan,103.249,0.894
+2012,Newfoundland and Labrador,Mexico,0.04,0.0
+2012,Newfoundland and Labrador,Other countries,1060.299,9.178
+2012,Newfoundland and Labrador,United Kingdom,499.056,4.32
+2012,Newfoundland and Labrador,United States,6770.626,58.608
+2012,Northwest Territories,All countries,1831.304,100.0
+2012,Northwest Territories,China,46.863,2.559
+2012,Northwest Territories,European Union (27 members),851.705,46.508
+2012,Northwest Territories,Japan,4.552,0.249
+2012,Northwest Territories,Mexico,3.027,0.165
+2012,Northwest Territories,Other countries,177.11,9.671
+2012,Northwest Territories,United Kingdom,730.075,39.866
+2012,Northwest Territories,United States,17.974,0.981
+2012,Nova Scotia,All countries,3834.519,100.0
+2012,Nova Scotia,China,149.593,3.901
+2012,Nova Scotia,European Union (27 members),295.988,7.719
+2012,Nova Scotia,Japan,74.521,1.943
+2012,Nova Scotia,Mexico,31.341,0.817
+2012,Nova Scotia,Other countries,432.993,11.292
+2012,Nova Scotia,United Kingdom,70.07,1.827
+2012,Nova Scotia,United States,2780.012,72.5
+2012,Nunavut,All countries,10.617,100.0
+2012,Nunavut,China,1.35,12.718
+2012,Nunavut,European Union (27 members),4.196,39.523
+2012,Nunavut,Japan,0.315,2.965
+2012,Nunavut,Mexico,0.097,0.911
+2012,Nunavut,Other countries,3.938,37.092
+2012,Nunavut,United Kingdom,0.418,3.94
+2012,Nunavut,United States,0.303,2.852
+2012,Ontario,All countries,162689.056,100.0
+2012,Ontario,China,1964.085,1.207
+2012,Ontario,European Union (27 members),5219.88,3.209
+2012,Ontario,Japan,1077.42,0.662
+2012,Ontario,Mexico,1830.113,1.125
+2012,Ontario,Other countries,11157.476,6.858
+2012,Ontario,United Kingdom,14651.482,9.006
+2012,Ontario,United States,126788.6,77.933
+2012,Prince Edward Island,All countries,840.223,100.0
+2012,Prince Edward Island,China,13.07,1.556
+2012,Prince Edward Island,European Union (27 members),54.203,6.451
+2012,Prince Edward Island,Japan,12.023,1.431
+2012,Prince Edward Island,Mexico,1.511,0.18
+2012,Prince Edward Island,Other countries,163.626,19.474
+2012,Prince Edward Island,United Kingdom,12.518,1.49
+2012,Prince Edward Island,United States,583.272,69.419
+2012,Quebec,All countries,62601.778,100.0
+2012,Quebec,China,2570.128,4.106
+2012,Quebec,European Union (27 members),5865.392,9.369
+2012,Quebec,Japan,965.597,1.542
+2012,Quebec,Mexico,879.818,1.405
+2012,Quebec,Other countries,7470.125,11.933
+2012,Quebec,United Kingdom,979.135,1.564
+2012,Quebec,United States,43871.582,70.08
+2012,Saskatchewan,All countries,31675.904,100.0
+2012,Saskatchewan,China,2394.867,7.561
+2012,Saskatchewan,European Union (27 members),944.941,2.983
+2012,Saskatchewan,Japan,1181.595,3.73
+2012,Saskatchewan,Mexico,732.415,2.312
+2012,Saskatchewan,Other countries,5876.391,18.552
+2012,Saskatchewan,United Kingdom,570.516,1.801
+2012,Saskatchewan,United States,19975.179,63.061
+2012,Yukon,All countries,215.374,100.0
+2012,Yukon,China,29.088,13.506
+2012,Yukon,European Union (27 members),0.319,0.148
+2012,Yukon,Japan,0.214,0.1
+2012,Yukon,Mexico,4.348,2.019
+2012,Yukon,Other countries,100.087,46.471
+2012,Yukon,United Kingdom,0.0,0.0
+2012,Yukon,United States,81.318,37.757
+2013,Alberta,All countries,103013.678,100.0
+2013,Alberta,China,3327.749,3.23
+2013,Alberta,European Union (27 members),1008.811,0.979
+2013,Alberta,Japan,1863.62,1.809
+2013,Alberta,Mexico,905.554,0.879
+2013,Alberta,Other countries,4694.644,4.557
+2013,Alberta,United Kingdom,137.296,0.133
+2013,Alberta,United States,91076.005,88.412
+2013,British Columbia,All countries,33421.473,100.0
+2013,British Columbia,China,6600.604,19.75
+2013,British Columbia,European Union (27 members),1234.409,3.693
+2013,British Columbia,Japan,4050.882,12.121
+2013,British Columbia,Mexico,124.621,0.373
+2013,British Columbia,Other countries,5550.131,16.606
+2013,British Columbia,United Kingdom,336.454,1.007
+2013,British Columbia,United States,15524.371,46.45
+2013,Canada,All countries,443619.638,100.0
+2013,Canada,China,20146.874,4.541
+2013,Canada,European Union (27 members),17960.966,4.049
+2013,Canada,Japan,10513.573,2.37
+2013,Canada,Mexico,4871.736,1.098
+2013,Canada,Other countries,41725.293,9.406
+2013,Canada,United Kingdom,13269.633,2.991
+2013,Canada,United States,335131.564,75.545
+2013,Manitoba,All countries,12549.867,100.0
+2013,Manitoba,China,1033.511,8.235
+2013,Manitoba,European Union (27 members),558.742,4.452
+2013,Manitoba,Japan,645.647,5.145
+2013,Manitoba,Mexico,295.112,2.352
+2013,Manitoba,Other countries,1513.866,12.063
+2013,Manitoba,United Kingdom,96.431,0.768
+2013,Manitoba,United States,8406.559,66.985
+2013,New Brunswick,All countries,14459.77,100.0
+2013,New Brunswick,China,121.62,0.841
+2013,New Brunswick,European Union (27 members),276.942,1.915
+2013,New Brunswick,Japan,106.947,0.74
+2013,New Brunswick,Mexico,15.665,0.108
+2013,New Brunswick,Other countries,880.538,6.09
+2013,New Brunswick,United Kingdom,26.712,0.185
+2013,New Brunswick,United States,13031.346,90.121
+2013,Newfoundland and Labrador,All countries,11920.274,100.0
+2013,Newfoundland and Labrador,China,1466.294,12.301
+2013,Newfoundland and Labrador,European Union (27 members),1863.988,15.637
+2013,Newfoundland and Labrador,Japan,242.857,2.037
+2013,Newfoundland and Labrador,Mexico,0.08,0.001
+2013,Newfoundland and Labrador,Other countries,713.026,5.982
+2013,Newfoundland and Labrador,United Kingdom,867.752,7.28
+2013,Newfoundland and Labrador,United States,6766.279,56.763
+2013,Northwest Territories,All countries,1587.841,100.0
+2013,Northwest Territories,China,26.862,1.692
+2013,Northwest Territories,European Union (27 members),1065.872,67.127
+2013,Northwest Territories,Japan,0.467,0.029
+2013,Northwest Territories,Mexico,2.517,0.159
+2013,Northwest Territories,Other countries,260.574,16.411
+2013,Northwest Territories,United Kingdom,220.492,13.886
+2013,Northwest Territories,United States,11.057,0.696
+2013,Nova Scotia,All countries,4323.878,100.0
+2013,Nova Scotia,China,197.311,4.563
+2013,Nova Scotia,European Union (27 members),347.64,8.04
+2013,Nova Scotia,Japan,72.503,1.677
+2013,Nova Scotia,Mexico,35.138,0.813
+2013,Nova Scotia,Other countries,530.775,12.275
+2013,Nova Scotia,United Kingdom,68.867,1.593
+2013,Nova Scotia,United States,3071.644,71.039
+2013,Nunavut,All countries,8.969,100.0
+2013,Nunavut,China,1.806,20.142
+2013,Nunavut,European Union (27 members),3.001,33.46
+2013,Nunavut,Japan,0.404,4.502
+2013,Nunavut,Mexico,0.246,2.738
+2013,Nunavut,Other countries,2.984,33.268
+2013,Nunavut,United Kingdom,0.132,1.475
+2013,Nunavut,United States,0.396,4.414
+2013,Ontario,All countries,164197.398,100.0
+2013,Ontario,China,2155.838,1.313
+2013,Ontario,European Union (27 members),5179.768,3.155
+2013,Ontario,Japan,1538.018,0.937
+2013,Ontario,Mexico,1942.59,1.183
+2013,Ontario,Other countries,14075.146,8.572
+2013,Ontario,United Kingdom,10452.758,6.366
+2013,Ontario,United States,128853.279,78.475
+2013,Prince Edward Island,All countries,889.895,100.0
+2013,Prince Edward Island,China,10.746,1.208
+2013,Prince Edward Island,European Union (27 members),57.603,6.473
+2013,Prince Edward Island,Japan,17.379,1.953
+2013,Prince Edward Island,Mexico,0.567,0.064
+2013,Prince Edward Island,Other countries,158.453,17.806
+2013,Prince Edward Island,United Kingdom,10.453,1.175
+2013,Prince Edward Island,United States,634.693,71.322
+2013,Quebec,All countries,64858.606,100.0
+2013,Quebec,China,2528.976,3.899
+2013,Quebec,European Union (27 members),5589.826,8.618
+2013,Quebec,Japan,919.744,1.418
+2013,Quebec,Mexico,969.14,1.494
+2013,Quebec,Other countries,7256.388,11.188
+2013,Quebec,United Kingdom,739.651,1.14
+2013,Quebec,United States,46854.881,72.242
+2013,Saskatchewan,All countries,32246.191,100.0
+2013,Saskatchewan,China,2655.067,8.234
+2013,Saskatchewan,European Union (27 members),774.018,2.4
+2013,Saskatchewan,Japan,1054.923,3.271
+2013,Saskatchewan,Mexico,580.499,1.8
+2013,Saskatchewan,Other countries,6045.803,18.749
+2013,Saskatchewan,United Kingdom,312.345,0.969
+2013,Saskatchewan,United States,20823.536,64.577
+2013,Yukon,All countries,141.798,100.0
+2013,Yukon,China,20.487,14.448
+2013,Yukon,European Union (27 members),0.347,0.244
+2013,Yukon,Japan,0.183,0.129
+2013,Yukon,Mexico,0.007,0.005
+2013,Yukon,Other countries,42.967,30.301
+2013,Yukon,United Kingdom,0.29,0.205
+2013,Yukon,United States,77.517,54.667
+2014,Alberta,All countries,121580.686,100.0
+2014,Alberta,China,2867.445,2.358
+2014,Alberta,European Union (27 members),1219.664,1.003
+2014,Alberta,Japan,1717.839,1.413
+2014,Alberta,Mexico,937.579,0.771
+2014,Alberta,Other countries,5029.268,4.137
+2014,Alberta,United Kingdom,159.417,0.131
+2014,Alberta,United States,109649.473,90.187
+2014,British Columbia,All countries,35832.482,100.0
+2014,British Columbia,China,6387.48,17.826
+2014,British Columbia,European Union (27 members),1207.809,3.371
+2014,British Columbia,Japan,3665.465,10.229
+2014,British Columbia,Mexico,111.302,0.311
+2014,British Columbia,Other countries,6026.757,16.819
+2014,British Columbia,United Kingdom,383.559,1.07
+2014,British Columbia,United States,18050.11,50.374
+2014,Canada,All countries,493331.795,100.0
+2014,Canada,China,18805.213,3.812
+2014,Canada,European Union (27 members),22106.56,4.481
+2014,Canada,Japan,10620.401,2.153
+2014,Canada,Mexico,5341.3,1.083
+2014,Canada,Other countries,44875.415,9.096
+2014,Canada,United Kingdom,14309.365,2.901
+2014,Canada,United States,377273.54,76.475
+2014,Manitoba,All countries,13450.556,100.0
+2014,Manitoba,China,1000.712,7.44
+2014,Manitoba,European Union (27 members),387.057,2.878
+2014,Manitoba,Japan,714.404,5.311
+2014,Manitoba,Mexico,345.623,2.57
+2014,Manitoba,Other countries,1819.36,13.526
+2014,Manitoba,United Kingdom,90.088,0.67
+2014,Manitoba,United States,9093.311,67.605
+2014,New Brunswick,All countries,13031.75,100.0
+2014,New Brunswick,China,86.041,0.66
+2014,New Brunswick,European Union (27 members),138.233,1.061
+2014,New Brunswick,Japan,74.247,0.57
+2014,New Brunswick,Mexico,16.858,0.129
+2014,New Brunswick,Other countries,696.807,5.347
+2014,New Brunswick,United Kingdom,42.552,0.327
+2014,New Brunswick,United States,11977.013,91.906
+2014,Newfoundland and Labrador,All countries,13088.816,100.0
+2014,Newfoundland and Labrador,China,607.089,4.638
+2014,Newfoundland and Labrador,European Union (27 members),3202.517,24.468
+2014,Newfoundland and Labrador,Japan,216.6,1.655
+2014,Newfoundland and Labrador,Mexico,7.302,0.056
+2014,Newfoundland and Labrador,Other countries,1264.897,9.664
+2014,Newfoundland and Labrador,United Kingdom,918.204,7.015
+2014,Newfoundland and Labrador,United States,6872.206,52.504
+2014,Northwest Territories,All countries,2084.314,100.0
+2014,Northwest Territories,China,0.795,0.038
+2014,Northwest Territories,European Union (27 members),1587.827,76.18
+2014,Northwest Territories,Japan,0.015,0.001
+2014,Northwest Territories,Mexico,1.896,0.091
+2014,Northwest Territories,Other countries,492.012,23.605
+2014,Northwest Territories,United Kingdom,0.356,0.017
+2014,Northwest Territories,United States,1.413,0.068
+2014,Nova Scotia,All countries,5249.998,100.0
+2014,Nova Scotia,China,275.645,5.25
+2014,Nova Scotia,European Union (27 members),318.966,6.076
+2014,Nova Scotia,Japan,79.433,1.513
+2014,Nova Scotia,Mexico,47.01,0.895
+2014,Nova Scotia,Other countries,558.141,10.631
+2014,Nova Scotia,United Kingdom,85.7,1.632
+2014,Nova Scotia,United States,3885.102,74.002
+2014,Nunavut,All countries,9.491,100.0
+2014,Nunavut,China,1.209,12.738
+2014,Nunavut,European Union (27 members),1.708,17.991
+2014,Nunavut,Japan,0.35,3.687
+2014,Nunavut,Mexico,0.134,1.415
+2014,Nunavut,Other countries,5.4,56.898
+2014,Nunavut,United Kingdom,0.176,1.849
+2014,Nunavut,United States,0.515,5.422
+2014,Ontario,All countries,177947.857,100.0
+2014,Ontario,China,2061.622,1.159
+2014,Ontario,European Union (27 members),5714.091,3.211
+2014,Ontario,Japan,1982.085,1.114
+2014,Ontario,Mexico,2136.164,1.2
+2014,Ontario,Other countries,13686.499,7.691
+2014,Ontario,United Kingdom,11371.136,6.39
+2014,Ontario,United States,140996.259,79.235
+2014,Prince Edward Island,All countries,1069.305,100.0
+2014,Prince Edward Island,China,9.706,0.908
+2014,Prince Edward Island,European Union (27 members),101.882,9.528
+2014,Prince Edward Island,Japan,24.027,2.247
+2014,Prince Edward Island,Mexico,0.395,0.037
+2014,Prince Edward Island,Other countries,225.862,21.122
+2014,Prince Edward Island,United Kingdom,19.182,1.794
+2014,Prince Edward Island,United States,688.251,64.364
+2014,Quebec,All countries,74560.246,100.0
+2014,Quebec,China,2686.189,3.603
+2014,Quebec,European Union (27 members),7029.728,9.428
+2014,Quebec,Japan,1178.766,1.581
+2014,Quebec,Mexico,1125.221,1.509
+2014,Quebec,Other countries,8159.243,10.943
+2014,Quebec,United Kingdom,1166.329,1.564
+2014,Quebec,United States,53214.77,71.372
+2014,Saskatchewan,All countries,35313.381,100.0
+2014,Saskatchewan,China,2821.203,7.989
+2014,Saskatchewan,European Union (27 members),1196.907,3.389
+2014,Saskatchewan,Japan,967.056,2.738
+2014,Saskatchewan,Mexico,608.765,1.724
+2014,Saskatchewan,Other countries,6910.275,19.568
+2014,Saskatchewan,United Kingdom,72.661,0.206
+2014,Saskatchewan,United States,22736.515,64.385
+2014,Yukon,All countries,112.912,100.0
+2014,Yukon,China,0.077,0.068
+2014,Yukon,European Union (27 members),0.17,0.151
+2014,Yukon,Japan,0.115,0.102
+2014,Yukon,Mexico,3.05,2.701
+2014,Yukon,Other countries,0.892,0.79
+2014,Yukon,United Kingdom,0.006,0.006
+2014,Yukon,United States,108.602,96.183
+2015,Alberta,All countries,92428.87,100.0
+2015,Alberta,China,3339.715,3.613
+2015,Alberta,European Union (27 members),1081.567,1.17
+2015,Alberta,Japan,1593.162,1.724
+2015,Alberta,Mexico,998.066,1.08
+2015,Alberta,Other countries,4669.155,5.052
+2015,Alberta,United Kingdom,191.452,0.207
+2015,Alberta,United States,80555.755,87.154
+2015,British Columbia,All countries,35497.045,100.0
+2015,British Columbia,China,5724.772,16.127
+2015,British Columbia,European Union (27 members),1097.584,3.092
+2015,British Columbia,Japan,3617.17,10.19
+2015,British Columbia,Mexico,182.184,0.513
+2015,British Columbia,Other countries,5665.854,15.961
+2015,British Columbia,United Kingdom,397.57,1.12
+2015,British Columbia,United States,18811.91,52.996
+2015,Canada,All countries,481382.814,100.0
+2015,Canada,China,19341.054,4.018
+2015,Canada,European Union (27 members),20021.539,4.159
+2015,Canada,Japan,9600.682,1.994
+2015,Canada,Mexico,6325.549,1.314
+2015,Canada,Other countries,44417.905,9.227
+2015,Canada,United Kingdom,15149.593,3.147
+2015,Canada,United States,366526.493,76.14
+2015,Manitoba,All countries,13751.527,100.0
+2015,Manitoba,China,973.179,7.077
+2015,Manitoba,European Union (27 members),528.405,3.843
+2015,Manitoba,Japan,637.974,4.639
+2015,Manitoba,Mexico,340.406,2.475
+2015,Manitoba,Other countries,1650.886,12.005
+2015,Manitoba,United Kingdom,93.127,0.677
+2015,Manitoba,United States,9527.55,69.284
+2015,New Brunswick,All countries,12210.225,100.0
+2015,New Brunswick,China,86.23,0.706
+2015,New Brunswick,European Union (27 members),146.085,1.196
+2015,New Brunswick,Japan,71.088,0.582
+2015,New Brunswick,Mexico,19.046,0.156
+2015,New Brunswick,Other countries,798.03,6.536
+2015,New Brunswick,United Kingdom,37.093,0.304
+2015,New Brunswick,United States,11052.654,90.52
+2015,Newfoundland and Labrador,All countries,9139.532,100.0
+2015,Newfoundland and Labrador,China,474.428,5.191
+2015,Newfoundland and Labrador,European Union (27 members),1160.428,12.697
+2015,Newfoundland and Labrador,Japan,190.73,2.087
+2015,Newfoundland and Labrador,Mexico,2.003,0.022
+2015,Newfoundland and Labrador,Other countries,525.68,5.752
+2015,Newfoundland and Labrador,United Kingdom,593.973,6.499
+2015,Newfoundland and Labrador,United States,6192.289,67.753
+2015,Northwest Territories,All countries,1853.851,100.0
+2015,Northwest Territories,China,0.305,0.016
+2015,Northwest Territories,European Union (27 members),1239.133,66.841
+2015,Northwest Territories,Japan,0.004,0.0
+2015,Northwest Territories,Mexico,1.327,0.072
+2015,Northwest Territories,Other countries,611.122,32.965
+2015,Northwest Territories,United Kingdom,0.108,0.006
+2015,Northwest Territories,United States,1.852,0.1
+2015,Nova Scotia,All countries,5345.62,100.0
+2015,Nova Scotia,China,419.83,7.854
+2015,Nova Scotia,European Union (27 members),386.109,7.223
+2015,Nova Scotia,Japan,78.094,1.461
+2015,Nova Scotia,Mexico,64.956,1.215
+2015,Nova Scotia,Other countries,506.658,9.478
+2015,Nova Scotia,United Kingdom,102.94,1.926
+2015,Nova Scotia,United States,3787.033,70.844
+2015,Nunavut,All countries,9.663,100.0
+2015,Nunavut,China,1.206,12.482
+2015,Nunavut,European Union (27 members),2.271,23.503
+2015,Nunavut,Japan,0.083,0.856
+2015,Nunavut,Mexico,0.796,8.235
+2015,Nunavut,Other countries,4.518,46.762
+2015,Nunavut,United Kingdom,0.237,2.456
+2015,Nunavut,United States,0.552,5.707
+2015,Ontario,All countries,196929.861,100.0
+2015,Ontario,China,2319.834,1.178
+2015,Ontario,European Union (27 members),6017.624,3.056
+2015,Ontario,Japan,1424.896,0.724
+2015,Ontario,Mexico,2846.328,1.445
+2015,Ontario,Other countries,13181.857,6.694
+2015,Ontario,United Kingdom,12544.507,6.37
+2015,Ontario,United States,158594.815,80.534
+2015,Prince Edward Island,All countries,1243.012,100.0
+2015,Prince Edward Island,China,11.672,0.939
+2015,Prince Edward Island,European Union (27 members),103.272,8.308
+2015,Prince Edward Island,Japan,30.341,2.441
+2015,Prince Edward Island,Mexico,5.962,0.48
+2015,Prince Edward Island,Other countries,271.645,21.854
+2015,Prince Edward Island,United Kingdom,16.106,1.296
+2015,Prince Edward Island,United States,804.013,64.683
+2015,Quebec,All countries,80044.849,100.0
+2015,Quebec,China,2496.074,3.118
+2015,Quebec,European Union (27 members),7187.653,8.98
+2015,Quebec,Japan,1062.129,1.327
+2015,Quebec,Mexico,1226.862,1.533
+2015,Quebec,Other countries,7529.822,9.407
+2015,Quebec,United Kingdom,1079.873,1.349
+2015,Quebec,United States,59462.436,74.286
+2015,Saskatchewan,All countries,32819.44,100.0
+2015,Saskatchewan,China,3493.363,10.644
+2015,Saskatchewan,European Union (27 members),1071.193,3.264
+2015,Saskatchewan,Japan,894.658,2.726
+2015,Saskatchewan,Mexico,636.739,1.94
+2015,Saskatchewan,Other countries,9001.572,27.428
+2015,Saskatchewan,United Kingdom,92.597,0.282
+2015,Saskatchewan,United States,17629.318,53.716
+2015,Yukon,All countries,109.319,100.0
+2015,Yukon,China,0.446,0.408
+2015,Yukon,European Union (27 members),0.213,0.195
+2015,Yukon,Japan,0.352,0.322
+2015,Yukon,Mexico,0.875,0.801
+2015,Yukon,Other countries,1.106,1.012
+2015,Yukon,United Kingdom,0.009,0.008
+2015,Yukon,United States,106.317,97.254
+2016,Alberta,All countries,79333.239,100.0
+2016,Alberta,China,2984.489,3.762
+2016,Alberta,European Union (27 members),912.221,1.15
+2016,Alberta,Japan,1688.978,2.129
+2016,Alberta,Mexico,927.574,1.169
+2016,Alberta,Other countries,4078.599,5.141
+2016,Alberta,United Kingdom,119.899,0.151
+2016,Alberta,United States,68621.48,86.498
+2016,British Columbia,All countries,38422.544,100.0
+2016,British Columbia,China,5639.087,14.677
+2016,British Columbia,European Union (27 members),1250.168,3.254
+2016,British Columbia,Japan,3728.808,9.705
+2016,British Columbia,Mexico,95.023,0.247
+2016,British Columbia,Other countries,6406.988,16.675
+2016,British Columbia,United Kingdom,410.03,1.067
+2016,British Columbia,United States,20892.44,54.375
+2016,Canada,All countries,468225.696,100.0
+2016,Canada,China,19255.801,4.113
+2016,Canada,European Union (27 members),20745.175,4.431
+2016,Canada,Japan,10576.905,2.259
+2016,Canada,Mexico,7260.556,1.551
+2016,Canada,Other countries,40288.284,8.604
+2016,Canada,United Kingdom,16323.534,3.486
+2016,Canada,United States,353775.441,75.557
+2016,Manitoba,All countries,13450.552,100.0
+2016,Manitoba,China,952.807,7.084
+2016,Manitoba,European Union (27 members),493.58,3.67
+2016,Manitoba,Japan,741.209,5.511
+2016,Manitoba,Mexico,358.767,2.667
+2016,Manitoba,Other countries,1693.267,12.589
+2016,Manitoba,United Kingdom,66.847,0.497
+2016,Manitoba,United States,9144.074,67.983
+2016,New Brunswick,All countries,10642.253,100.0
+2016,New Brunswick,China,89.174,0.838
+2016,New Brunswick,European Union (27 members),80.194,0.754
+2016,New Brunswick,Japan,82.582,0.776
+2016,New Brunswick,Mexico,14.322,0.135
+2016,New Brunswick,Other countries,585.858,5.505
+2016,New Brunswick,United Kingdom,40.054,0.376
+2016,New Brunswick,United States,9750.068,91.617
+2016,Newfoundland and Labrador,All countries,8396.41,100.0
+2016,Newfoundland and Labrador,China,538.106,6.409
+2016,Newfoundland and Labrador,European Union (27 members),1225.113,14.591
+2016,Newfoundland and Labrador,Japan,236.486,2.817
+2016,Newfoundland and Labrador,Mexico,1.542,0.018
+2016,Newfoundland and Labrador,Other countries,703.515,8.379
+2016,Newfoundland and Labrador,United Kingdom,721.062,8.588
+2016,Newfoundland and Labrador,United States,4970.586,59.199
+2016,Northwest Territories,All countries,1436.529,100.0
+2016,Northwest Territories,China,0.278,0.019
+2016,Northwest Territories,European Union (27 members),1042.429,72.566
+2016,Northwest Territories,Japan,0.0,0.0
+2016,Northwest Territories,Mexico,0.0,0.0
+2016,Northwest Territories,Other countries,391.306,27.24
+2016,Northwest Territories,United Kingdom,0.041,0.003
+2016,Northwest Territories,United States,2.475,0.172
+2016,Nova Scotia,All countries,5227.419,100.0
+2016,Nova Scotia,China,488.465,9.344
+2016,Nova Scotia,European Union (27 members),320.834,6.138
+2016,Nova Scotia,Japan,88.806,1.699
+2016,Nova Scotia,Mexico,79.823,1.527
+2016,Nova Scotia,Other countries,559.065,10.695
+2016,Nova Scotia,United Kingdom,84.709,1.62
+2016,Nova Scotia,United States,3605.717,68.977
+2016,Nunavut,All countries,2.164,100.0
+2016,Nunavut,China,0.619,28.605
+2016,Nunavut,European Union (27 members),0.402,18.556
+2016,Nunavut,Japan,0.011,0.494
+2016,Nunavut,Mexico,0.082,3.807
+2016,Nunavut,Other countries,0.382,17.65
+2016,Nunavut,United Kingdom,0.017,0.772
+2016,Nunavut,United States,0.652,30.116
+2016,Ontario,All countries,205040.39,100.0
+2016,Ontario,China,2485.112,1.212
+2016,Ontario,European Union (27 members),6299.37,3.072
+2016,Ontario,Japan,1752.376,0.855
+2016,Ontario,Mexico,3446.028,1.681
+2016,Ontario,Other countries,11281.776,5.502
+2016,Ontario,United Kingdom,13720.864,6.692
+2016,Ontario,United States,166054.863,80.986
+2016,Prince Edward Island,All countries,1255.703,100.0
+2016,Prince Edward Island,China,10.934,0.871
+2016,Prince Edward Island,European Union (27 members),84.748,6.749
+2016,Prince Edward Island,Japan,31.55,2.513
+2016,Prince Edward Island,Mexico,4.154,0.331
+2016,Prince Edward Island,Other countries,189.215,15.068
+2016,Prince Edward Island,United Kingdom,10.173,0.81
+2016,Prince Edward Island,United States,924.928,73.658
+2016,Quebec,All countries,78361.346,100.0
+2016,Quebec,China,2699.983,3.446
+2016,Quebec,European Union (27 members),8032.059,10.25
+2016,Quebec,Japan,1247.514,1.592
+2016,Quebec,Mexico,1635.875,2.088
+2016,Quebec,Other countries,6624.636,8.454
+2016,Quebec,United Kingdom,1069.952,1.365
+2016,Quebec,United States,57051.326,72.805
+2016,Saskatchewan,All countries,26437.17,100.0
+2016,Saskatchewan,China,3366.736,12.735
+2016,Saskatchewan,European Union (27 members),1003.612,3.796
+2016,Saskatchewan,Japan,978.55,3.701
+2016,Saskatchewan,Mexico,694.982,2.629
+2016,Saskatchewan,Other countries,7769.846,29.39
+2016,Saskatchewan,United Kingdom,79.872,0.302
+2016,Saskatchewan,United States,12543.573,47.447
+2016,Yukon,All countries,219.977,100.0
+2016,Yukon,China,0.011,0.005
+2016,Yukon,European Union (27 members),0.446,0.203
+2016,Yukon,Japan,0.034,0.015
+2016,Yukon,Mexico,2.382,1.083
+2016,Yukon,Other countries,3.832,1.742
+2016,Yukon,United Kingdom,0.013,0.006
+2016,Yukon,United States,213.261,96.947
+2017,Alberta,All countries,100492.617,100.0
+2017,Alberta,China,3999.848,3.98
+2017,Alberta,European Union (27 members),1045.721,1.041
+2017,Alberta,Japan,1763.88,1.755
+2017,Alberta,Mexico,1302.648,1.296
+2017,Alberta,Other countries,4718.956,4.696
+2017,Alberta,United Kingdom,142.506,0.142
+2017,Alberta,United States,87519.058,87.09
+2017,British Columbia,All countries,43240.504,100.0
+2017,British Columbia,China,6374.146,14.741
+2017,British Columbia,European Union (27 members),1714.401,3.965
+2017,British Columbia,Japan,4502.956,10.414
+2017,British Columbia,Mexico,251.574,0.582
+2017,British Columbia,Other countries,7696.337,17.799
+2017,British Columbia,United Kingdom,411.739,0.952
+2017,British Columbia,United States,22289.351,51.547
+2017,Canada,All countries,500761.417,100.0
+2017,Canada,China,21844.688,4.362
+2017,Canada,European Union (27 members),21915.141,4.376
+2017,Canada,Japan,11692.604,2.335
+2017,Canada,Mexico,7492.761,1.496
+2017,Canada,Other countries,44041.344,8.795
+2017,Canada,United Kingdom,17129.845,3.421
+2017,Canada,United States,376645.034,75.214
+2017,Manitoba,All countries,13885.793,100.0
+2017,Manitoba,China,1388.694,10.001
+2017,Manitoba,European Union (27 members),533.913,3.845
+2017,Manitoba,Japan,812.81,5.854
+2017,Manitoba,Mexico,400.988,2.888
+2017,Manitoba,Other countries,1714.185,12.345
+2017,Manitoba,United Kingdom,77.805,0.56
+2017,Manitoba,United States,8957.399,64.508
+2017,New Brunswick,All countries,12856.294,100.0
+2017,New Brunswick,China,133.808,1.041
+2017,New Brunswick,European Union (27 members),202.446,1.575
+2017,New Brunswick,Japan,104.224,0.811
+2017,New Brunswick,Mexico,45.237,0.352
+2017,New Brunswick,Other countries,699.262,5.439
+2017,New Brunswick,United Kingdom,33.287,0.259
+2017,New Brunswick,United States,11638.031,90.524
+2017,Newfoundland and Labrador,All countries,10201.588,100.0
+2017,Newfoundland and Labrador,China,794.669,7.79
+2017,Newfoundland and Labrador,European Union (27 members),1782.482,17.473
+2017,Newfoundland and Labrador,Japan,333.898,3.273
+2017,Newfoundland and Labrador,Mexico,2.403,0.024
+2017,Newfoundland and Labrador,Other countries,1165.962,11.429
+2017,Newfoundland and Labrador,United Kingdom,682.414,6.689
+2017,Newfoundland and Labrador,United States,5439.76,53.323
+2017,Northwest Territories,All countries,2025.734,100.0
+2017,Northwest Territories,China,1.998,0.099
+2017,Northwest Territories,European Union (27 members),1151.322,56.835
+2017,Northwest Territories,Japan,0.0,0.0
+2017,Northwest Territories,Mexico,0.001,0.0
+2017,Northwest Territories,Other countries,866.687,42.784
+2017,Northwest Territories,United Kingdom,0.004,0.0
+2017,Northwest Territories,United States,5.722,0.282
+2017,Nova Scotia,All countries,5348.078,100.0
+2017,Nova Scotia,China,602.46,11.265
+2017,Nova Scotia,European Union (27 members),343.284,6.419
+2017,Nova Scotia,Japan,110.392,2.064
+2017,Nova Scotia,Mexico,68.652,1.284
+2017,Nova Scotia,Other countries,661.835,12.375
+2017,Nova Scotia,United Kingdom,85.514,1.599
+2017,Nova Scotia,United States,3475.941,64.994
+2017,Nunavut,All countries,321.864,100.0
+2017,Nunavut,China,0.458,0.142
+2017,Nunavut,European Union (27 members),0.369,0.115
+2017,Nunavut,Japan,0.004,0.001
+2017,Nunavut,Mexico,0.08,0.025
+2017,Nunavut,Other countries,319.86,99.378
+2017,Nunavut,United Kingdom,0.032,0.01
+2017,Nunavut,United States,1.062,0.33
+2017,Ontario,All countries,199098.525,100.0
+2017,Ontario,China,2723.781,1.368
+2017,Ontario,European Union (27 members),5995.41,3.011
+2017,Ontario,Japan,1598.26,0.803
+2017,Ontario,Mexico,2986.841,1.5
+2017,Ontario,Other countries,11321.484,5.686
+2017,Ontario,United Kingdom,14466.62,7.266
+2017,Ontario,United States,160006.13,80.365
+2017,Prince Edward Island,All countries,1318.08,100.0
+2017,Prince Edward Island,China,11.939,0.906
+2017,Prince Edward Island,European Union (27 members),80.214,6.086
+2017,Prince Edward Island,Japan,13.402,1.017
+2017,Prince Edward Island,Mexico,2.182,0.166
+2017,Prince Edward Island,Other countries,180.506,13.695
+2017,Prince Edward Island,United Kingdom,12.141,0.921
+2017,Prince Edward Island,United States,1017.697,77.211
+2017,Quebec,All countries,83207.452,100.0
+2017,Quebec,China,2468.157,2.966
+2017,Quebec,European Union (27 members),8279.832,9.951
+2017,Quebec,Japan,1328.207,1.596
+2017,Quebec,Mexico,1654.997,1.989
+2017,Quebec,Other countries,8186.926,9.839
+2017,Quebec,United Kingdom,1131.83,1.36
+2017,Quebec,United States,60157.503,72.298
+2017,Saskatchewan,All countries,28656.993,100.0
+2017,Saskatchewan,China,3344.692,11.671
+2017,Saskatchewan,European Union (27 members),785.541,2.741
+2017,Saskatchewan,Japan,1124.542,3.924
+2017,Saskatchewan,Mexico,775.134,2.705
+2017,Saskatchewan,Other countries,6506.912,22.706
+2017,Saskatchewan,United Kingdom,85.945,0.3
+2017,Saskatchewan,United States,16034.227,55.952
+2017,Yukon,All countries,107.895,100.0
+2017,Yukon,China,0.04,0.038
+2017,Yukon,European Union (27 members),0.206,0.191
+2017,Yukon,Japan,0.03,0.028
+2017,Yukon,Mexico,2.023,1.875
+2017,Yukon,Other countries,2.432,2.254
+2017,Yukon,United Kingdom,0.008,0.007
+2017,Yukon,United States,103.156,95.608
+2018,Alberta,All countries,117654.074,100.0
+2018,Alberta,China,5262.761,4.473
+2018,Alberta,European Union (27 members),1133.847,0.964
+2018,Alberta,Japan,1954.023,1.661
+2018,Alberta,Mexico,1215.926,1.033
+2018,Alberta,Other countries,4814.064,4.092
+2018,Alberta,United Kingdom,234.279,0.199
+2018,Alberta,United States,103039.173,87.578
+2018,British Columbia,All countries,46279.54,100.0
+2018,British Columbia,China,6723.149,14.527
+2018,British Columbia,European Union (27 members),2009.486,4.342
+2018,British Columbia,Japan,5081.19,10.979
+2018,British Columbia,Mexico,197.957,0.428
+2018,British Columbia,Other countries,9100.993,19.665
+2018,British Columbia,United Kingdom,501.138,1.083
+2018,British Columbia,United States,22665.627,48.975
+2018,Canada,All countries,538132.793,100.0
+2018,Canada,China,26827.984,4.985
+2018,Canada,European Union (27 members),25977.326,4.827
+2018,Canada,Japan,12754.236,2.37
+2018,Canada,Mexico,7765.962,1.443
+2018,Canada,Other countries,49622.254,9.221
+2018,Canada,United Kingdom,15915.171,2.957
+2018,Canada,United States,399269.86,74.195
+2018,Manitoba,All countries,15483.754,100.0
+2018,Manitoba,China,1220.729,7.884
+2018,Manitoba,European Union (27 members),436.935,2.822
+2018,Manitoba,Japan,826.524,5.338
+2018,Manitoba,Mexico,416.396,2.689
+2018,Manitoba,Other countries,1602.36,10.349
+2018,Manitoba,United Kingdom,56.271,0.363
+2018,Manitoba,United States,10924.539,70.555
+2018,New Brunswick,All countries,12614.509,100.0
+2018,New Brunswick,China,125.857,0.998
+2018,New Brunswick,European Union (27 members),215.428,1.708
+2018,New Brunswick,Japan,63.082,0.5
+2018,New Brunswick,Mexico,13.332,0.106
+2018,New Brunswick,Other countries,767.655,6.085
+2018,New Brunswick,United Kingdom,27.13,0.215
+2018,New Brunswick,United States,11402.024,90.388
+2018,Newfoundland and Labrador,All countries,13462.028,100.0
+2018,Newfoundland and Labrador,China,729.541,5.419
+2018,Newfoundland and Labrador,European Union (27 members),3079.686,22.877
+2018,Newfoundland and Labrador,Japan,293.923,2.183
+2018,Newfoundland and Labrador,Mexico,2.233,0.017
+2018,Newfoundland and Labrador,Other countries,1352.652,10.048
+2018,Newfoundland and Labrador,United Kingdom,1633.814,12.136
+2018,Newfoundland and Labrador,United States,6370.18,47.32
+2018,Northwest Territories,All countries,2095.75,100.0
+2018,Northwest Territories,China,0.364,0.017
+2018,Northwest Territories,European Union (27 members),1125.016,53.681
+2018,Northwest Territories,Japan,0.0,0.0
+2018,Northwest Territories,Mexico,0.0,0.0
+2018,Northwest Territories,Other countries,969.473,46.259
+2018,Northwest Territories,United Kingdom,0.006,0.0
+2018,Northwest Territories,United States,0.892,0.043
+2018,Nova Scotia,All countries,5723.394,100.0
+2018,Nova Scotia,China,792.924,13.854
+2018,Nova Scotia,European Union (27 members),431.623,7.541
+2018,Nova Scotia,Japan,93.874,1.64
+2018,Nova Scotia,Mexico,69.513,1.215
+2018,Nova Scotia,Other countries,635.936,11.111
+2018,Nova Scotia,United Kingdom,84.551,1.477
+2018,Nova Scotia,United States,3614.973,63.161
+2018,Nunavut,All countries,706.717,100.0
+2018,Nunavut,China,0.054,0.008
+2018,Nunavut,European Union (27 members),488.088,69.064
+2018,Nunavut,Japan,28.254,3.998
+2018,Nunavut,Mexico,0.006,0.001
+2018,Nunavut,Other countries,184.696,26.134
+2018,Nunavut,United Kingdom,4.852,0.687
+2018,Nunavut,United States,0.766,0.108
+2018,Ontario,All countries,201764.369,100.0
+2018,Ontario,China,3975.918,1.971
+2018,Ontario,European Union (27 members),7371.184,3.653
+2018,Ontario,Japan,1748.126,0.866
+2018,Ontario,Mexico,3065.642,1.519
+2018,Ontario,Other countries,14301.402,7.088
+2018,Ontario,United Kingdom,12334.332,6.113
+2018,Ontario,United States,158967.766,78.789
+2018,Prince Edward Island,All countries,1384.936,100.0
+2018,Prince Edward Island,China,17.026,1.229
+2018,Prince Edward Island,European Union (27 members),96.716,6.983
+2018,Prince Edward Island,Japan,16.208,1.17
+2018,Prince Edward Island,Mexico,4.157,0.3
+2018,Prince Edward Island,Other countries,159.659,11.528
+2018,Prince Edward Island,United Kingdom,14.494,1.047
+2018,Prince Edward Island,United States,1076.677,77.742
+2018,Quebec,All countries,90248.816,100.0
+2018,Quebec,China,3379.064,3.744
+2018,Quebec,European Union (27 members),8903.591,9.866
+2018,Quebec,Japan,1539.046,1.705
+2018,Quebec,Mexico,1959.545,2.171
+2018,Quebec,Other countries,9229.45,10.227
+2018,Quebec,United Kingdom,941.967,1.044
+2018,Quebec,United States,64296.151,71.243
+2018,Saskatchewan,All countries,30633.84,100.0
+2018,Saskatchewan,China,4600.597,15.018
+2018,Saskatchewan,European Union (27 members),685.284,2.237
+2018,Saskatchewan,Japan,1109.928,3.623
+2018,Saskatchewan,Mexico,819.837,2.676
+2018,Saskatchewan,Other countries,6502.309,21.226
+2018,Saskatchewan,United Kingdom,82.324,0.269
+2018,Saskatchewan,United States,16833.56,54.951
+2018,Yukon,All countries,81.067,100.0
+2018,Yukon,China,0.0,0.0
+2018,Yukon,European Union (27 members),0.444,0.547
+2018,Yukon,Japan,0.06,0.073
+2018,Yukon,Mexico,1.416,1.747
+2018,Yukon,Other countries,1.604,1.978
+2018,Yukon,United Kingdom,0.012,0.015
+2018,Yukon,United States,77.531,95.639
+2019,Alberta,All countries,117201.736,100.0
+2019,Alberta,China,4225.521,3.605
+2019,Alberta,European Union (27 members),1286.16,1.097
+2019,Alberta,Japan,1708.922,1.458
+2019,Alberta,Mexico,1077.115,0.919
+2019,Alberta,Other countries,5204.949,4.441
+2019,Alberta,United Kingdom,175.951,0.15
+2019,Alberta,United States,103523.119,88.329
+2019,British Columbia,All countries,43347.903,100.0
+2019,British Columbia,China,6480.113,14.949
+2019,British Columbia,European Union (27 members),1722.369,3.973
+2019,British Columbia,Japan,4533.028,10.457
+2019,British Columbia,Mexico,179.745,0.415
+2019,British Columbia,Other countries,8089.911,18.663
+2019,British Columbia,United Kingdom,467.515,1.079
+2019,British Columbia,United States,21875.222,50.464
+2019,Canada,All countries,544110.073,100.0
+2019,Canada,China,22391.018,4.115
+2019,Canada,European Union (27 members),26064.883,4.79
+2019,Canada,Japan,12401.943,2.279
+2019,Canada,Mexico,6954.292,1.278
+2019,Canada,Other countries,51180.002,9.406
+2019,Canada,United Kingdom,19194.588,3.528
+2019,Canada,United States,405923.347,74.603
+2019,Manitoba,All countries,15924.708,100.0
+2019,Manitoba,China,521.037,3.272
+2019,Manitoba,European Union (27 members),351.124,2.205
+2019,Manitoba,Japan,902.293,5.666
+2019,Manitoba,Mexico,373.113,2.343
+2019,Manitoba,Other countries,1615.829,10.147
+2019,Manitoba,United Kingdom,66.666,0.419
+2019,Manitoba,United States,12094.646,75.949
+2019,New Brunswick,All countries,13089.829,100.0
+2019,New Brunswick,China,131.5,1.005
+2019,New Brunswick,European Union (27 members),433.47,3.312
+2019,New Brunswick,Japan,81.357,0.622
+2019,New Brunswick,Mexico,15.181,0.116
+2019,New Brunswick,Other countries,840.239,6.419
+2019,New Brunswick,United Kingdom,38.314,0.293
+2019,New Brunswick,United States,11549.766,88.235
+2019,Newfoundland and Labrador,All countries,14762.217,100.0
+2019,Newfoundland and Labrador,China,800.059,5.42
+2019,Newfoundland and Labrador,European Union (27 members),2702.449,18.307
+2019,Newfoundland and Labrador,Japan,442.975,3.001
+2019,Newfoundland and Labrador,Mexico,2.951,0.02
+2019,Newfoundland and Labrador,Other countries,1029.241,6.972
+2019,Newfoundland and Labrador,United Kingdom,1158.394,7.847
+2019,Newfoundland and Labrador,United States,8626.149,58.434
+2019,Northwest Territories,All countries,1657.924,100.0
+2019,Northwest Territories,China,0.311,0.019
+2019,Northwest Territories,European Union (27 members),495.13,29.864
+2019,Northwest Territories,Japan,0.0,0.0
+2019,Northwest Territories,Mexico,0.0,0.0
+2019,Northwest Territories,Other countries,1160.62,70.004
+2019,Northwest Territories,United Kingdom,0.008,0.0
+2019,Northwest Territories,United States,1.856,0.112
+2019,Nova Scotia,All countries,6050.765,100.0
+2019,Nova Scotia,China,995.962,16.46
+2019,Nova Scotia,European Union (27 members),437.746,7.235
+2019,Nova Scotia,Japan,105.784,1.748
+2019,Nova Scotia,Mexico,63.526,1.05
+2019,Nova Scotia,Other countries,595.03,9.834
+2019,Nova Scotia,United Kingdom,89.756,1.483
+2019,Nova Scotia,United States,3762.962,62.19
+2019,Nunavut,All countries,1190.812,100.0
+2019,Nunavut,China,22.699,1.906
+2019,Nunavut,European Union (27 members),619.844,52.052
+2019,Nunavut,Japan,9.973,0.838
+2019,Nunavut,Mexico,0.008,0.001
+2019,Nunavut,Other countries,514.812,43.232
+2019,Nunavut,United Kingdom,22.99,1.931
+2019,Nunavut,United States,0.484,0.041
+2019,Ontario,All countries,209783.604,100.0
+2019,Ontario,China,2942.089,1.402
+2019,Ontario,European Union (27 members),8194.13,3.906
+2019,Ontario,Japan,1886.451,0.899
+2019,Ontario,Mexico,3004.077,1.432
+2019,Ontario,Other countries,15692.555,7.48
+2019,Ontario,United Kingdom,16097.754,7.674
+2019,Ontario,United States,161966.548,77.206
+2019,Prince Edward Island,All countries,1491.716,100.0
+2019,Prince Edward Island,China,26.193,1.756
+2019,Prince Edward Island,European Union (27 members),109.209,7.321
+2019,Prince Edward Island,Japan,19.069,1.278
+2019,Prince Edward Island,Mexico,4.992,0.335
+2019,Prince Edward Island,Other countries,213.609,14.32
+2019,Prince Edward Island,United Kingdom,11.105,0.744
+2019,Prince Edward Island,United States,1107.538,74.246
+2019,Quebec,All countries,89981.412,100.0
+2019,Quebec,China,3114.461,3.461
+2019,Quebec,European Union (27 members),8570.793,9.525
+2019,Quebec,Japan,1636.738,1.819
+2019,Quebec,Mexico,1636.228,1.818
+2019,Quebec,Other countries,8698.156,9.667
+2019,Quebec,United Kingdom,990.075,1.1
+2019,Quebec,United States,65334.962,72.609
+2019,Saskatchewan,All countries,29610.899,100.0
+2019,Saskatchewan,China,3130.966,10.574
+2019,Saskatchewan,European Union (27 members),1142.073,3.857
+2019,Saskatchewan,Japan,1075.227,3.631
+2019,Saskatchewan,Mexico,596.137,2.013
+2019,Saskatchewan,Other countries,7523.577,25.408
+2019,Saskatchewan,United Kingdom,76.055,0.257
+2019,Saskatchewan,United States,16066.864,54.26
+2019,Yukon,All countries,16.549,100.0
+2019,Yukon,China,0.107,0.644
+2019,Yukon,European Union (27 members),0.387,2.341
+2019,Yukon,Japan,0.126,0.763
+2019,Yukon,Mexico,1.22,7.371
+2019,Yukon,Other countries,1.474,8.904
+2019,Yukon,United Kingdom,0.004,0.024
+2019,Yukon,United States,13.232,79.953
+2020,Alberta,All countries,92001.358,100.0
+2020,Alberta,China,4770.115,5.185
+2020,Alberta,European Union (27 members),1400.903,1.523
+2020,Alberta,Japan,2022.4,2.198
+2020,Alberta,Mexico,825.847,0.898
+2020,Alberta,Other countries,5286.897,5.747
+2020,Alberta,United Kingdom,148.552,0.161
+2020,Alberta,United States,77546.643,84.289
+2020,British Columbia,All countries,39597.925,100.0
+2020,British Columbia,China,5740.776,14.498
+2020,British Columbia,European Union (27 members),1314.231,3.319
+2020,British Columbia,Japan,3573.465,9.024
+2020,British Columbia,Mexico,134.595,0.34
+2020,British Columbia,Other countries,6649.475,16.792
+2020,British Columbia,United Kingdom,470.691,1.189
+2020,British Columbia,United States,21714.692,54.838
+2020,Canada,All countries,478638.824,100.0
+2020,Canada,China,24540.701,5.127
+2020,Canada,European Union (27 members),25618.054,5.352
+2020,Canada,Japan,12178.065,2.544
+2020,Canada,Mexico,5873.944,1.227
+2020,Canada,Other countries,44933.72,9.388
+2020,Canada,United Kingdom,19392.901,4.052
+2020,Canada,United States,346101.438,72.31
+2020,Manitoba,All countries,15750.432,100.0
+2020,Manitoba,China,977.47,6.206
+2020,Manitoba,European Union (27 members),447.472,2.841
+2020,Manitoba,Japan,1022.187,6.49
+2020,Manitoba,Mexico,383.374,2.434
+2020,Manitoba,Other countries,1777.817,11.287
+2020,Manitoba,United Kingdom,145.478,0.924
+2020,Manitoba,United States,10996.634,69.818
+2020,New Brunswick,All countries,10307.009,100.0
+2020,New Brunswick,China,143.836,1.396
+2020,New Brunswick,European Union (27 members),156.739,1.521
+2020,New Brunswick,Japan,60.259,0.585
+2020,New Brunswick,Mexico,23.44,0.227
+2020,New Brunswick,Other countries,534.588,5.187
+2020,New Brunswick,United Kingdom,19.577,0.19
+2020,New Brunswick,United States,9368.569,90.895
+2020,Newfoundland and Labrador,All countries,10418.409,100.0
+2020,Newfoundland and Labrador,China,1089.023,10.453
+2020,Newfoundland and Labrador,European Union (27 members),2433.291,23.356
+2020,Newfoundland and Labrador,Japan,369.099,3.543
+2020,Newfoundland and Labrador,Mexico,2.671,0.026
+2020,Newfoundland and Labrador,Other countries,833.442,8.0
+2020,Newfoundland and Labrador,United Kingdom,874.342,8.392
+2020,Newfoundland and Labrador,United States,4816.541,46.231
+2020,Northwest Territories,All countries,1243.421,100.0
+2020,Northwest Territories,China,0.036,0.003
+2020,Northwest Territories,European Union (27 members),560.372,45.067
+2020,Northwest Territories,Japan,0.0,0.0
+2020,Northwest Territories,Mexico,0.0,0.0
+2020,Northwest Territories,Other countries,682.248,54.869
+2020,Northwest Territories,United Kingdom,0.0,0.0
+2020,Northwest Territories,United States,0.766,0.062
+2020,Nova Scotia,All countries,5222.205,100.0
+2020,Nova Scotia,China,653.388,12.512
+2020,Nova Scotia,European Union (27 members),455.711,8.726
+2020,Nova Scotia,Japan,86.633,1.659
+2020,Nova Scotia,Mexico,51.241,0.981
+2020,Nova Scotia,Other countries,528.439,10.119
+2020,Nova Scotia,United Kingdom,76.853,1.472
+2020,Nova Scotia,United States,3369.94,64.531
+2020,Nunavut,All countries,1225.462,100.0
+2020,Nunavut,China,105.528,8.611
+2020,Nunavut,European Union (27 members),510.647,41.67
+2020,Nunavut,Japan,0.002,0.0
+2020,Nunavut,Mexico,0.005,0.0
+2020,Nunavut,Other countries,539.752,44.045
+2020,Nunavut,United Kingdom,69.181,5.645
+2020,Nunavut,United States,0.346,0.028
+2020,Ontario,All countries,187104.22,100.0
+2020,Ontario,China,2510.81,1.342
+2020,Ontario,European Union (27 members),8434.19,4.508
+2020,Ontario,Japan,2184.745,1.168
+2020,Ontario,Mexico,2523.453,1.349
+2020,Ontario,Other countries,11317.235,6.049
+2020,Ontario,United Kingdom,16351.524,8.739
+2020,Ontario,United States,143782.264,76.846
+2020,Prince Edward Island,All countries,1507.733,100.0
+2020,Prince Edward Island,China,24.868,1.649
+2020,Prince Edward Island,European Union (27 members),141.274,9.37
+2020,Prince Edward Island,Japan,21.193,1.406
+2020,Prince Edward Island,Mexico,2.98,0.198
+2020,Prince Edward Island,Other countries,120.608,7.999
+2020,Prince Edward Island,United Kingdom,8.277,0.549
+2020,Prince Edward Island,United States,1188.532,78.829
+2020,Quebec,All countries,84427.46,100.0
+2020,Quebec,China,4662.683,5.523
+2020,Quebec,European Union (27 members),7885.783,9.34
+2020,Quebec,Japan,1604.986,1.901
+2020,Quebec,Mexico,1214.174,1.438
+2020,Quebec,Other countries,7805.481,9.245
+2020,Quebec,United Kingdom,1136.385,1.346
+2020,Quebec,United States,60117.968,71.207
+2020,Saskatchewan,All countries,29758.298,100.0
+2020,Saskatchewan,China,3861.87,12.977
+2020,Saskatchewan,European Union (27 members),1877.199,6.308
+2020,Saskatchewan,Japan,1232.91,4.143
+2020,Saskatchewan,Mexico,711.68,2.392
+2020,Saskatchewan,Other countries,8854.108,29.753
+2020,Saskatchewan,United Kingdom,92.038,0.309
+2020,Saskatchewan,United States,13128.494,44.117
+2020,Yukon,All countries,74.891,100.0
+2020,Yukon,China,0.298,0.398
+2020,Yukon,European Union (27 members),0.242,0.324
+2020,Yukon,Japan,0.185,0.247
+2020,Yukon,Mexico,0.484,0.646
+2020,Yukon,Other countries,3.629,4.846
+2020,Yukon,United Kingdom,0.003,0.004
+2020,Yukon,United States,70.05,93.536
+2021,Alberta,All countries,138070.541,100.0
+2021,Alberta,China,4516.012,3.271
+2021,Alberta,European Union (27 members),1209.203,0.876
+2021,Alberta,Japan,2540.09,1.84
+2021,Alberta,Mexico,1456.481,1.055
+2021,Alberta,Other countries,5497.059,3.981
+2021,Alberta,United Kingdom,210.296,0.152
+2021,Alberta,United States,122641.4,88.825
+2021,British Columbia,All countries,53936.423,100.0
+2021,British Columbia,China,8888.328,16.479
+2021,British Columbia,European Union (27 members),1553.117,2.88
+2021,British Columbia,Japan,4841.69,8.977
+2021,British Columbia,Mexico,99.634,0.185
+2021,British Columbia,Other countries,8269.496,15.332
+2021,British Columbia,United Kingdom,405.917,0.753
+2021,British Columbia,United States,29878.24,55.395
+2021,Canada,All countries,582529.066,100.0
+2021,Canada,China,27451.327,4.712
+2021,Canada,European Union (27 members),28389.466,4.873
+2021,Canada,Japan,14228.4,2.443
+2021,Canada,Mexico,7881.675,1.353
+2021,Canada,Other countries,54301.736,9.322
+2021,Canada,United Kingdom,16143.432,2.771
+2021,Canada,United States,434133.031,74.526
+2021,Manitoba,All countries,17436.436,100.0
+2021,Manitoba,China,953.171,5.467
+2021,Manitoba,European Union (27 members),376.623,2.16
+2021,Manitoba,Japan,1019.324,5.846
+2021,Manitoba,Mexico,663.873,3.807
+2021,Manitoba,Other countries,2006.118,11.505
+2021,Manitoba,United Kingdom,97.08,0.557
+2021,Manitoba,United States,12320.248,70.658
+2021,New Brunswick,All countries,14829.235,100.0
+2021,New Brunswick,China,157.021,1.059
+2021,New Brunswick,European Union (27 members),131.58,0.887
+2021,New Brunswick,Japan,66.267,0.447
+2021,New Brunswick,Mexico,11.919,0.08
+2021,New Brunswick,Other countries,725.846,4.895
+2021,New Brunswick,United Kingdom,52.493,0.354
+2021,New Brunswick,United States,13684.109,92.278
+2021,Newfoundland and Labrador,All countries,14362.546,100.0
+2021,Newfoundland and Labrador,China,1067.496,7.432
+2021,Newfoundland and Labrador,European Union (27 members),3764.21,26.209
+2021,Newfoundland and Labrador,Japan,474.028,3.3
+2021,Newfoundland and Labrador,Mexico,7.844,0.055
+2021,Newfoundland and Labrador,Other countries,1473.154,10.257
+2021,Newfoundland and Labrador,United Kingdom,791.928,5.514
+2021,Newfoundland and Labrador,United States,6783.886,47.233
+2021,Northwest Territories,All countries,1662.977,100.0
+2021,Northwest Territories,China,0.169,0.01
+2021,Northwest Territories,European Union (27 members),1148.162,69.043
+2021,Northwest Territories,Japan,0.0,0.0
+2021,Northwest Territories,Mexico,0.001,0.0
+2021,Northwest Territories,Other countries,513.195,30.86
+2021,Northwest Territories,United Kingdom,0.001,0.0
+2021,Northwest Territories,United States,1.45,0.087
+2021,Nova Scotia,All countries,6212.053,100.0
+2021,Nova Scotia,China,724.129,11.657
+2021,Nova Scotia,European Union (27 members),569.753,9.172
+2021,Nova Scotia,Japan,110.087,1.772
+2021,Nova Scotia,Mexico,56.475,0.909
+2021,Nova Scotia,Other countries,687.148,11.062
+2021,Nova Scotia,United Kingdom,91.353,1.471
+2021,Nova Scotia,United States,3973.107,63.958
+2021,Nunavut,All countries,1800.498,100.0
+2021,Nunavut,China,78.934,4.384
+2021,Nunavut,European Union (27 members),876.234,48.666
+2021,Nunavut,Japan,0.0,0.0
+2021,Nunavut,Mexico,0.004,0.0
+2021,Nunavut,Other countries,786.318,43.672
+2021,Nunavut,United Kingdom,58.709,3.261
+2021,Nunavut,United States,0.298,0.017
+2021,Ontario,All countries,197174.779,100.0
+2021,Ontario,China,2821.863,1.431
+2021,Ontario,European Union (27 members),8275.54,4.197
+2021,Ontario,Japan,2028.757,1.029
+2021,Ontario,Mexico,2795.734,1.418
+2021,Ontario,Other countries,15317.317,7.768
+2021,Ontario,United Kingdom,13314.319,6.753
+2021,Ontario,United States,152621.251,77.404
+2021,Prince Edward Island,All countries,1694.113,100.0
+2021,Prince Edward Island,China,27.49,1.623
+2021,Prince Edward Island,European Union (27 members),132.934,7.847
+2021,Prince Edward Island,Japan,13.429,0.793
+2021,Prince Edward Island,Mexico,0.707,0.042
+2021,Prince Edward Island,Other countries,132.181,7.802
+2021,Prince Edward Island,United Kingdom,10.211,0.603
+2021,Prince Edward Island,United States,1377.16,81.291
+2021,Quebec,All countries,98143.363,100.0
+2021,Quebec,China,4072.902,4.15
+2021,Quebec,European Union (27 members),8778.482,8.945
+2021,Quebec,Japan,1805.684,1.84
+2021,Quebec,Mexico,1794.857,1.829
+2021,Quebec,Other countries,10004.938,10.194
+2021,Quebec,United Kingdom,900.989,0.918
+2021,Quebec,United States,70785.512,72.125
+2021,Saskatchewan,All countries,37039.154,100.0
+2021,Saskatchewan,China,4143.812,11.188
+2021,Saskatchewan,European Union (27 members),1573.231,4.247
+2021,Saskatchewan,Japan,1328.887,3.588
+2021,Saskatchewan,Mexico,992.618,2.68
+2021,Saskatchewan,Other countries,8883.889,23.985
+2021,Saskatchewan,United Kingdom,210.124,0.567
+2021,Saskatchewan,United States,19906.594,53.745
+2021,Yukon,All countries,166.946,100.0
+2021,Yukon,China,0.0,0.0
+2021,Yukon,European Union (27 members),0.397,0.238
+2021,Yukon,Japan,0.158,0.094
+2021,Yukon,Mexico,1.528,0.915
+2021,Yukon,Other countries,5.077,3.041
+2021,Yukon,United Kingdom,0.011,0.007
+2021,Yukon,United States,159.775,95.705
+2022,Alberta,All countries,204989.933,100.0
+2022,Alberta,China,5048.786,2.463
+2022,Alberta,European Union (27 members),1562.698,0.762
+2022,Alberta,Japan,5146.197,2.51
+2022,Alberta,Mexico,1359.471,0.663
+2022,Alberta,Other countries,7802.08,3.806
+2022,Alberta,United Kingdom,209.141,0.102
+2022,Alberta,United States,183861.56,89.693
+2022,British Columbia,All countries,64944.131,100.0
+2022,British Columbia,China,8486.99,13.068
+2022,British Columbia,European Union (27 members),2086.333,3.213
+2022,British Columbia,Japan,6016.362,9.264
+2022,British Columbia,Mexico,179.114,0.276
+2022,British Columbia,Other countries,10321.889,15.893
+2022,British Columbia,United Kingdom,495.217,0.763
+2022,British Columbia,United States,37358.226,57.524
+2022,Canada,All countries,731201.339,100.0
+2022,Canada,China,27994.921,3.829
+2022,Canada,European Union (27 members),33579.46,4.592
+2022,Canada,Japan,17750.483,2.428
+2022,Canada,Mexico,8725.537,1.193
+2022,Canada,Other countries,65870.853,9.009
+2022,Canada,United Kingdom,21676.821,2.965
+2022,Canada,United States,555603.265,75.985
+2022,Manitoba,All countries,20712.348,100.0
+2022,Manitoba,China,1364.896,6.59
+2022,Manitoba,European Union (27 members),358.897,1.733
+2022,Manitoba,Japan,919.44,4.439
+2022,Manitoba,Mexico,708.794,3.422
+2022,Manitoba,Other countries,1984.377,9.581
+2022,Manitoba,United Kingdom,102.288,0.494
+2022,Manitoba,United States,15273.657,73.742
+2022,New Brunswick,All countries,18802.267,100.0
+2022,New Brunswick,China,209.891,1.116
+2022,New Brunswick,European Union (27 members),241.761,1.286
+2022,New Brunswick,Japan,79.998,0.425
+2022,New Brunswick,Mexico,63.133,0.336
+2022,New Brunswick,Other countries,721.049,3.835
+2022,New Brunswick,United Kingdom,113.51,0.604
+2022,New Brunswick,United States,17372.924,92.398
+2022,Newfoundland and Labrador,All countries,15849.981,100.0
+2022,Newfoundland and Labrador,China,848.934,5.356
+2022,Newfoundland and Labrador,European Union (27 members),4375.23,27.604
+2022,Newfoundland and Labrador,Japan,367.56,2.319
+2022,Newfoundland and Labrador,Mexico,12.445,0.079
+2022,Newfoundland and Labrador,Other countries,1462.242,9.226
+2022,Newfoundland and Labrador,United Kingdom,1557.986,9.83
+2022,Newfoundland and Labrador,United States,7225.585,45.587
+2022,Northwest Territories,All countries,2126.283,100.0
+2022,Northwest Territories,China,0.026,0.001
+2022,Northwest Territories,European Union (27 members),1572.861,73.972
+2022,Northwest Territories,Japan,0.0,0.0
+2022,Northwest Territories,Mexico,0.0,0.0
+2022,Northwest Territories,Other countries,550.845,25.906
+2022,Northwest Territories,United Kingdom,0.0,0.0
+2022,Northwest Territories,United States,2.55,0.12
+2022,Nova Scotia,All countries,6603.613,100.0
+2022,Nova Scotia,China,730.353,11.06
+2022,Nova Scotia,European Union (27 members),588.296,8.909
+2022,Nova Scotia,Japan,106.249,1.609
+2022,Nova Scotia,Mexico,33.769,0.511
+2022,Nova Scotia,Other countries,693.274,10.498
+2022,Nova Scotia,United Kingdom,118.034,1.787
+2022,Nova Scotia,United States,4333.639,65.625
+2022,Nunavut,All countries,1475.973,100.0
+2022,Nunavut,China,0.007,0.0
+2022,Nunavut,European Union (27 members),610.167,41.34
+2022,Nunavut,Japan,0.0,0.0
+2022,Nunavut,Mexico,0.029,0.002
+2022,Nunavut,Other countries,845.615,57.292
+2022,Nunavut,United Kingdom,19.798,1.341
+2022,Nunavut,United States,0.357,0.024
+2022,Ontario,All countries,229948.181,100.0
+2022,Ontario,China,2838.545,1.234
+2022,Ontario,European Union (27 members),10202.025,4.437
+2022,Ontario,Japan,2237.988,0.973
+2022,Ontario,Mexico,3249.006,1.413
+2022,Ontario,Other countries,17360.192,7.55
+2022,Ontario,United Kingdom,17391.825,7.563
+2022,Ontario,United States,176668.6,76.83
+2022,Prince Edward Island,All countries,1988.986,100.0
+2022,Prince Edward Island,China,31.815,1.6
+2022,Prince Edward Island,European Union (27 members),198.86,9.998
+2022,Prince Edward Island,Japan,27.935,1.404
+2022,Prince Edward Island,Mexico,0.96,0.048
+2022,Prince Edward Island,Other countries,164.545,8.273
+2022,Prince Edward Island,United Kingdom,13.289,0.668
+2022,Prince Edward Island,United States,1551.582,78.009
+2022,Quebec,All countries,111027.696,100.0
+2022,Quebec,China,3358.313,3.025
+2022,Quebec,European Union (27 members),9575.257,8.624
+2022,Quebec,Japan,1643.892,1.481
+2022,Quebec,Mexico,2096.41,1.888
+2022,Quebec,Other countries,10651.3,9.593
+2022,Quebec,United Kingdom,1271.054,1.145
+2022,Quebec,United States,82431.47,74.244
+2022,Saskatchewan,All countries,52533.624,100.0
+2022,Saskatchewan,China,5076.367,9.663
+2022,Saskatchewan,European Union (27 members),2206.6,4.2
+2022,Saskatchewan,Japan,1204.861,2.294
+2022,Saskatchewan,Mexico,1020.873,1.943
+2022,Saskatchewan,Other countries,13308.677,25.334
+2022,Saskatchewan,United Kingdom,384.662,0.732
+2022,Saskatchewan,United States,29331.584,55.834
+2022,Yukon,All countries,198.321,100.0
+2022,Yukon,China,0.0,0.0
+2022,Yukon,European Union (27 members),0.474,0.239
+2022,Yukon,Japan,0.0,0.0
+2022,Yukon,Mexico,1.534,0.773
+2022,Yukon,Other countries,4.768,2.404
+2022,Yukon,United Kingdom,0.017,0.009
+2022,Yukon,United States,191.529,96.575
+2023,Alberta,All countries,174760.164,100.0
+2023,Alberta,China,5481.79,3.137
+2023,Alberta,European Union (27 members),1736.653,0.994
+2023,Alberta,Japan,2862.464,1.638
+2023,Alberta,Mexico,908.78,0.52
+2023,Alberta,Other countries,7576.901,4.336
+2023,Alberta,United Kingdom,267.489,0.153
+2023,Alberta,United States,155926.087,89.223
+2023,British Columbia,All countries,56299.711,100.0
+2023,British Columbia,China,7939.481,14.102
+2023,British Columbia,European Union (27 members),2244.873,3.987
+2023,British Columbia,Japan,6235.453,11.075
+2023,British Columbia,Mexico,163.52,0.29
+2023,British Columbia,Other countries,9016.89,16.016
+2023,British Columbia,United Kingdom,283.414,0.503
+2023,British Columbia,United States,30416.079,54.025
+2023,Canada,All countries,712325.752,100.0
+2023,Canada,China,29489.971,4.14
+2023,Canada,European Union (27 members),31586.398,4.434
+2023,Canada,Japan,15584.352,2.188
+2023,Canada,Mexico,8389.014,1.178
+2023,Canada,Other countries,65319.165,9.17
+2023,Canada,United Kingdom,14388.758,2.02
+2023,Canada,United States,547568.094,76.87
+2023,Manitoba,All countries,21595.802,100.0
+2023,Manitoba,China,1818.79,8.422
+2023,Manitoba,European Union (27 members),427.828,1.981
+2023,Manitoba,Japan,828.482,3.836
+2023,Manitoba,Mexico,626.598,2.901
+2023,Manitoba,Other countries,2289.798,10.603
+2023,Manitoba,United Kingdom,124.894,0.578
+2023,Manitoba,United States,15479.412,71.678
+2023,New Brunswick,All countries,16904.037,100.0
+2023,New Brunswick,China,225.743,1.335
+2023,New Brunswick,European Union (27 members),203.236,1.202
+2023,New Brunswick,Japan,56.982,0.337
+2023,New Brunswick,Mexico,32.085,0.19
+2023,New Brunswick,Other countries,775.595,4.588
+2023,New Brunswick,United Kingdom,42.59,0.252
+2023,New Brunswick,United States,15567.806,92.095
+2023,Newfoundland and Labrador,All countries,12348.873,100.0
+2023,Newfoundland and Labrador,China,777.234,6.294
+2023,Newfoundland and Labrador,European Union (27 members),4316.596,34.955
+2023,Newfoundland and Labrador,Japan,324.721,2.63
+2023,Newfoundland and Labrador,Mexico,16.034,0.13
+2023,Newfoundland and Labrador,Other countries,843.44,6.83
+2023,Newfoundland and Labrador,United Kingdom,1491.938,12.082
+2023,Newfoundland and Labrador,United States,4578.91,37.08
+2023,Northwest Territories,All countries,1847.411,100.0
+2023,Northwest Territories,China,0.35,0.019
+2023,Northwest Territories,European Union (27 members),1316.353,71.254
+2023,Northwest Territories,Japan,0.0,0.0
+2023,Northwest Territories,Mexico,0.0,0.0
+2023,Northwest Territories,Other countries,525.102,28.424
+2023,Northwest Territories,United Kingdom,0.007,0.0
+2023,Northwest Territories,United States,5.599,0.303
+2023,Nova Scotia,All countries,6491.61,100.0
+2023,Nova Scotia,China,773.001,11.908
+2023,Nova Scotia,European Union (27 members),470.256,7.244
+2023,Nova Scotia,Japan,95.971,1.478
+2023,Nova Scotia,Mexico,28.568,0.44
+2023,Nova Scotia,Other countries,649.845,10.011
+2023,Nova Scotia,United Kingdom,96.022,1.479
+2023,Nova Scotia,United States,4377.948,67.44
+2023,Nunavut,All countries,2013.114,100.0
+2023,Nunavut,China,11.904,0.591
+2023,Nunavut,European Union (27 members),828.084,41.134
+2023,Nunavut,Japan,0.008,0.0
+2023,Nunavut,Mexico,0.004,0.0
+2023,Nunavut,Other countries,1153.37,57.293
+2023,Nunavut,United Kingdom,19.439,0.966
+2023,Nunavut,United States,0.304,0.015
+2023,Ontario,All countries,251996.306,100.0
+2023,Ontario,China,2896.138,1.149
+2023,Ontario,European Union (27 members),8122.481,3.223
+2023,Ontario,Japan,2406.057,0.955
+2023,Ontario,Mexico,3770.183,1.496
+2023,Ontario,Other countries,19664.747,7.804
+2023,Ontario,United Kingdom,10148.551,4.027
+2023,Ontario,United States,204988.148,81.346
+2023,Prince Edward Island,All countries,2337.431,100.0
+2023,Prince Edward Island,China,26.871,1.15
+2023,Prince Edward Island,European Union (27 members),232.751,9.958
+2023,Prince Edward Island,Japan,26.829,1.148
+2023,Prince Edward Island,Mexico,4.255,0.182
+2023,Prince Edward Island,Other countries,253.907,10.863
+2023,Prince Edward Island,United Kingdom,23.953,1.025
+2023,Prince Edward Island,United States,1768.865,75.676
+2023,Quebec,All countries,116109.238,100.0
+2023,Quebec,China,4062.676,3.499
+2023,Quebec,European Union (27 members),9076.112,7.817
+2023,Quebec,Japan,1737.892,1.497
+2023,Quebec,Mexico,1876.418,1.616
+2023,Quebec,Other countries,10826.897,9.325
+2023,Quebec,United Kingdom,1335.112,1.15
+2023,Quebec,United States,87194.131,75.097
+2023,Saskatchewan,All countries,49512.335,100.0
+2023,Saskatchewan,China,5475.994,11.06
+2023,Saskatchewan,European Union (27 members),2610.745,5.273
+2023,Saskatchewan,Japan,1009.22,2.038
+2023,Saskatchewan,Mexico,961.799,1.943
+2023,Saskatchewan,Other countries,11738.564,23.708
+2023,Saskatchewan,United Kingdom,555.333,1.122
+2023,Saskatchewan,United States,27160.681,54.856
+2023,Yukon,All countries,109.721,100.0
+2023,Yukon,China,0.0,0.0
+2023,Yukon,European Union (27 members),0.429,0.391
+2023,Yukon,Japan,0.273,0.249
+2023,Yukon,Mexico,0.772,0.704
+2023,Yukon,Other countries,4.108,3.744
+2023,Yukon,United Kingdom,0.016,0.015
+2023,Yukon,United States,104.123,94.898
+2024,Alberta,All countries,182634.257,100.0
+2024,Alberta,China,6785.453,3.715
+2024,Alberta,European Union (27 members),1677.509,0.919
+2024,Alberta,Japan,2655.479,1.454
+2024,Alberta,Mexico,788.121,0.432
+2024,Alberta,Other countries,8546.77,4.68
+2024,Alberta,United Kingdom,245.11,0.134
+2024,Alberta,United States,161935.816,88.667
+2024,British Columbia,All countries,54869.999,100.0
+2024,British Columbia,China,8533.958,15.553
+2024,British Columbia,European Union (27 members),1857.414,3.385
+2024,British Columbia,Japan,5660.492,10.316
+2024,British Columbia,Mexico,175.257,0.319
+2024,British Columbia,Other countries,9503.059,17.319
+2024,British Columbia,United Kingdom,289.332,0.527
+2024,British Columbia,United States,28850.488,52.58
+2024,Canada,All countries,723061.133,100.0
+2024,Canada,China,29412.774,4.068
+2024,Canada,European Union (27 members),31297.496,4.328
+2024,Canada,Japan,14820.773,2.05
+2024,Canada,Mexico,8166.598,1.129
+2024,Canada,Other countries,63802.7,8.824
+2024,Canada,United Kingdom,27509.806,3.805
+2024,Canada,United States,548050.986,75.796
+2024,Manitoba,All countries,21941.72,100.0
+2024,Manitoba,China,1606.608,7.322
+2024,Manitoba,European Union (27 members),527.789,2.405
+2024,Manitoba,Japan,952.936,4.343
+2024,Manitoba,Mexico,584.867,2.666
+2024,Manitoba,Other countries,2377.395,10.835
+2024,Manitoba,United Kingdom,170.053,0.775
+2024,Manitoba,United States,15722.073,71.654
+2024,New Brunswick,All countries,17474.967,100.0
+2024,New Brunswick,China,201.909,1.155
+2024,New Brunswick,European Union (27 members),341.036,1.952
+2024,New Brunswick,Japan,58.757,0.336
+2024,New Brunswick,Mexico,21.619,0.124
+2024,New Brunswick,Other countries,947.776,5.424
+2024,New Brunswick,United Kingdom,111.312,0.637
+2024,New Brunswick,United States,15792.558,90.372
+2024,Newfoundland and Labrador,All countries,13635.837,100.0
+2024,Newfoundland and Labrador,China,739.479,5.423
+2024,Newfoundland and Labrador,European Union (27 members),3763.007,27.596
+2024,Newfoundland and Labrador,Japan,340.292,2.496
+2024,Newfoundland and Labrador,Mexico,9.598,0.07
+2024,Newfoundland and Labrador,Other countries,1068.691,7.837
+2024,Newfoundland and Labrador,United Kingdom,839.716,6.158
+2024,Newfoundland and Labrador,United States,6875.054,50.419
+2024,Northwest Territories,All countries,1390.04,100.0
+2024,Northwest Territories,China,0.274,0.02
+2024,Northwest Territories,European Union (27 members),980.076,70.507
+2024,Northwest Territories,Japan,0.0,0.0
+2024,Northwest Territories,Mexico,0.002,0.0
+2024,Northwest Territories,Other countries,408.746,29.405
+2024,Northwest Territories,United Kingdom,0.01,0.001
+2024,Northwest Territories,United States,0.93,0.067
+2024,Nova Scotia,All countries,6632.624,100.0
+2024,Nova Scotia,China,688.802,10.385
+2024,Nova Scotia,European Union (27 members),481.505,7.26
+2024,Nova Scotia,Japan,94.481,1.424
+2024,Nova Scotia,Mexico,30.638,0.462
+2024,Nova Scotia,Other countries,635.694,9.584
+2024,Nova Scotia,United Kingdom,98.176,1.48
+2024,Nova Scotia,United States,4603.328,69.404
+2024,Nunavut,All countries,2280.054,100.0
+2024,Nunavut,China,0.135,0.006
+2024,Nunavut,European Union (27 members),700.84,30.738
+2024,Nunavut,Japan,0.0,0.0
+2024,Nunavut,Mexico,0.093,0.004
+2024,Nunavut,Other countries,1578.403,69.227
+2024,Nunavut,United Kingdom,0.127,0.006
+2024,Nunavut,United States,0.456,0.02
+2024,Ontario,All countries,252457.298,100.0
+2024,Ontario,China,2771.754,1.098
+2024,Ontario,European Union (27 members),7859.66,3.113
+2024,Ontario,Japan,2093.886,0.829
+2024,Ontario,Mexico,4088.031,1.619
+2024,Ontario,Other countries,17606.714,6.974
+2024,Ontario,United Kingdom,23543.227,9.326
+2024,Ontario,United States,194494.026,77.04
+2024,Prince Edward Island,All countries,2520.792,100.0
+2024,Prince Edward Island,China,28.041,1.112
+2024,Prince Edward Island,European Union (27 members),234.081,9.286
+2024,Prince Edward Island,Japan,18.338,0.727
+2024,Prince Edward Island,Mexico,1.282,0.051
+2024,Prince Edward Island,Other countries,312.625,12.402
+2024,Prince Edward Island,United Kingdom,20.542,0.815
+2024,Prince Edward Island,United States,1905.882,75.606
+2024,Quebec,All countries,121702.783,100.0
+2024,Quebec,China,3661.576,3.009
+2024,Quebec,European Union (27 members),10024.595,8.237
+2024,Quebec,Japan,2017.107,1.657
+2024,Quebec,Mexico,1827.419,1.502
+2024,Quebec,Other countries,11567.051,9.504
+2024,Quebec,United Kingdom,1596.923,1.312
+2024,Quebec,United States,91008.111,74.779
+2024,Saskatchewan,All countries,45371.088,100.0
+2024,Saskatchewan,China,4394.785,9.686
+2024,Saskatchewan,European Union (27 members),2849.291,6.28
+2024,Saskatchewan,Japan,928.67,2.047
+2024,Saskatchewan,Mexico,638.732,1.408
+2024,Saskatchewan,Other countries,9246.767,20.38
+2024,Saskatchewan,United Kingdom,595.278,1.312
+2024,Saskatchewan,United States,26717.564,58.887
+2024,Yukon,All countries,149.675,100.0
+2024,Yukon,China,0.0,0.0
+2024,Yukon,European Union (27 members),0.694,0.463
+2024,Yukon,Japan,0.334,0.223
+2024,Yukon,Mexico,0.94,0.628
+2024,Yukon,Other countries,3.008,2.01
+2024,Yukon,United Kingdom,0.0,0.0
+2024,Yukon,United States,144.699,96.676
+2025,Alberta,All countries,177964.624,100.0
+2025,Alberta,China,10192.668,5.727
+2025,Alberta,European Union (27 members),1993.953,1.12
+2025,Alberta,Japan,2387.586,1.342
+2025,Alberta,Mexico,992.365,0.558
+2025,Alberta,Other countries,10163.749,5.711
+2025,Alberta,United Kingdom,192.139,0.108
+2025,Alberta,United States,152042.164,85.434
+2025,British Columbia,All countries,54744.431,100.0
+2025,British Columbia,China,10826.484,19.776
+2025,British Columbia,European Union (27 members),1948.814,3.56
+2025,British Columbia,Japan,4706.829,8.598
+2025,British Columbia,Mexico,400.642,0.732
+2025,British Columbia,Other countries,8602.52,15.714
+2025,British Columbia,United Kingdom,342.929,0.626
+2025,British Columbia,United States,27916.212,50.994
+2025,Canada,All countries,720769.313,100.0
+2025,Canada,China,34368.387,4.768
+2025,Canada,European Union (27 members),38619.432,5.358
+2025,Canada,Japan,14385.616,1.996
+2025,Canada,Mexico,8450.508,1.172
+2025,Canada,Other countries,61964.479,8.597
+2025,Canada,United Kingdom,45698.158,6.34
+2025,Canada,United States,517282.733,71.768
+2025,Manitoba,All countries,19635.374,100.0
+2025,Manitoba,China,1191.034,6.066
+2025,Manitoba,European Union (27 members),830.293,4.229
+2025,Manitoba,Japan,1138.055,5.796
+2025,Manitoba,Mexico,702.261,3.577
+2025,Manitoba,Other countries,2638.902,13.44
+2025,Manitoba,United Kingdom,192.825,0.982
+2025,Manitoba,United States,12942.005,65.912
+2025,New Brunswick,All countries,16009.882,100.0
+2025,New Brunswick,China,149.558,0.934
+2025,New Brunswick,European Union (27 members),323.974,2.024
+2025,New Brunswick,Japan,56.205,0.351
+2025,New Brunswick,Mexico,22.131,0.138
+2025,New Brunswick,Other countries,815.576,5.094
+2025,New Brunswick,United Kingdom,169.369,1.058
+2025,New Brunswick,United States,14473.069,90.401
+2025,Newfoundland and Labrador,All countries,13676.662,100.0
+2025,Newfoundland and Labrador,China,799.121,5.843
+2025,Newfoundland and Labrador,European Union (27 members),5834.709,42.662
+2025,Newfoundland and Labrador,Japan,182.545,1.335
+2025,Newfoundland and Labrador,Mexico,9.406,0.069
+2025,Newfoundland and Labrador,Other countries,995.06,7.276
+2025,Newfoundland and Labrador,United Kingdom,1095.362,8.009
+2025,Newfoundland and Labrador,United States,4760.46,34.807
+2025,Northwest Territories,All countries,1009.315,100.0
+2025,Northwest Territories,China,0.133,0.013
+2025,Northwest Territories,European Union (27 members),772.811,76.568
+2025,Northwest Territories,Japan,0.0,0.0
+2025,Northwest Territories,Mexico,0.0,0.0
+2025,Northwest Territories,Other countries,233.806,23.165
+2025,Northwest Territories,United Kingdom,0.0,0.0
+2025,Northwest Territories,United States,2.566,0.254
+2025,Nova Scotia,All countries,6608.964,100.0
+2025,Nova Scotia,China,508.038,7.687
+2025,Nova Scotia,European Union (27 members),556.885,8.426
+2025,Nova Scotia,Japan,77.854,1.178
+2025,Nova Scotia,Mexico,28.808,0.436
+2025,Nova Scotia,Other countries,753.129,11.396
+2025,Nova Scotia,United Kingdom,100.119,1.515
+2025,Nova Scotia,United States,4584.131,69.362
+2025,Nunavut,All countries,1168.162,100.0
+2025,Nunavut,China,0.191,0.016
+2025,Nunavut,European Union (27 members),475.453,40.701
+2025,Nunavut,Japan,0.025,0.002
+2025,Nunavut,Mexico,0.237,0.02
+2025,Nunavut,Other countries,665.549,56.974
+2025,Nunavut,United Kingdom,26.216,2.244
+2025,Nunavut,United States,0.491,0.042
+2025,Ontario,All countries,265982.569,100.0
+2025,Ontario,China,3246.859,1.221
+2025,Ontario,European Union (27 members),9458.73,3.556
+2025,Ontario,Japan,2545.054,0.957
+2025,Ontario,Mexico,3709.173,1.395
+2025,Ontario,Other countries,15001.914,5.64
+2025,Ontario,United Kingdom,41702.965,15.679
+2025,Ontario,United States,190317.874,71.553
+2025,Prince Edward Island,All countries,2542.557,100.0
+2025,Prince Edward Island,China,20.474,0.805
+2025,Prince Edward Island,European Union (27 members),224.781,8.841
+2025,Prince Edward Island,Japan,26.033,1.024
+2025,Prince Edward Island,Mexico,1.985,0.078
+2025,Prince Edward Island,Other countries,210.462,8.278
+2025,Prince Edward Island,United Kingdom,23.395,0.92
+2025,Prince Edward Island,United States,2035.426,80.054
+2025,Quebec,All countries,117640.982,100.0
+2025,Quebec,China,4565.06,3.881
+2025,Quebec,European Union (27 members),12499.748,10.625
+2025,Quebec,Japan,2033.327,1.728
+2025,Quebec,Mexico,1633.217,1.388
+2025,Quebec,Other countries,11303.862,9.609
+2025,Quebec,United Kingdom,1266.757,1.077
+2025,Quebec,United States,84339.012,71.692
+2025,Saskatchewan,All countries,43580.371,100.0
+2025,Saskatchewan,China,2868.766,6.583
+2025,Saskatchewan,European Union (27 members),3692.994,8.474
+2025,Saskatchewan,Japan,1232.027,2.827
+2025,Saskatchewan,Mexico,948.742,2.177
+2025,Saskatchewan,Other countries,10568.371,24.25
+2025,Saskatchewan,United Kingdom,586.021,1.345
+2025,Saskatchewan,United States,23683.451,54.344
+2025,Yukon,All countries,205.418,100.0
+2025,Yukon,China,0.0,0.0
+2025,Yukon,European Union (27 members),6.289,3.061
+2025,Yukon,Japan,0.076,0.037
+2025,Yukon,Mexico,1.542,0.751
+2025,Yukon,Other countries,11.579,5.637
+2025,Yukon,United Kingdom,0.06,0.029
+2025,Yukon,United States,185.872,90.484

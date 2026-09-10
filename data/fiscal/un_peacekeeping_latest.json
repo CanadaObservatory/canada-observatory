@@ -4,7 +4,7 @@
   "source_table": "HDX: peacekeeping-uniformed-contributions-by-rank-of-tcc-pcc",
   "frequency": "monthly",
   "unit": "uniformed personnel; rank among contributors",
-  "retrieved_at": "2026-09-09T17:44:50.767719+00:00",
+  "retrieved_at": "2026-09-10T17:52:21.878311+00:00",
   "latest_observation_date": "2026-05-31",
   "next_release_date": null,
   "transformations": [

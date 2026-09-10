@@ -1,0 +1,18 @@
+{
+  "dataset_id": "statcan_trade_by_province",
+  "source": "Statistics Canada",
+  "source_table": "12-10-0173-01 (Canadian international merchandise trade by province and country, customs-based, annual), via WDS coordinates",
+  "frequency": "annual",
+  "unit": "$ millions (current; customs basis; domestic exports by province of origin)",
+  "retrieved_at": "2026-09-10T17:50:38.453607+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "European Union (27 members) = sum of the 27 current members in every year (the table lists countries only)",
+    "Other countries = All countries minus the named partners",
+    "share_pct = partner / All countries x 100, per province and year",
+    "exports only: imports by province are attributed to the customs office of clearance"
+  ],
+  "notes": null,
+  "row_count": 3024
+}

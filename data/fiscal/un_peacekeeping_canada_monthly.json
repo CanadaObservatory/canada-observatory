@@ -4,13 +4,13 @@
   "source_table": "HDX: dppadpo-ucpre2010 (1990\u20132009) + peacekeeping-uniformed-contributions-by-gender (2010\u2013)",
   "frequency": "monthly",
   "unit": "uniformed personnel (month-end count)",
-  "retrieved_at": "2026-09-09T17:44:50.374462+00:00",
+  "retrieved_at": "2026-09-10T17:51:32.788912+00:00",
   "latest_observation_date": "2026-05-31",
   "next_release_date": null,
   "transformations": [
     "Canada rows of both UN files, summed over missions",
     "personnel types folded into Troops / Police / Experts and staff officers"
   ],
-  "notes": "UN files last modified 2026-09-09 and 2026-08-18. Licence CC BY-IGO.",
+  "notes": "UN files last modified 2026-09-10 and 2026-08-18. Licence CC BY-IGO.",
   "row_count": 1281
 }

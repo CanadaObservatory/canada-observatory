@@ -4,7 +4,7 @@
   "source_table": "HDX: dppadpo-ucpre2010 + peacekeeping-uniformed-contributions-by-gender; population World Bank SP.POP.TOTL",
   "frequency": "annual (from monthly)",
   "unit": "uniformed personnel (annual mean of month-end counts); per million population",
-  "retrieved_at": "2026-09-09T17:44:50.765327+00:00",
+  "retrieved_at": "2026-09-10T17:52:21.876290+00:00",
   "latest_observation_date": "2026",
   "next_release_date": null,
   "transformations": [

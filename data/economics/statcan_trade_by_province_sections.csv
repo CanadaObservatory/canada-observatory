@@ -1,0 +1,529 @@
+year,geo,partner,section,exports_millions,share_of_partner_exports_pct
+2025,Alberta,China,Aircraft and other transportation equipment and parts,1.016,0.01
+2025,Alberta,China,"Basic and industrial chemical, plastic and rubber products",1245.944,12.224
+2025,Alberta,China,Consumer goods,92.381,0.906
+2025,Alberta,China,Electronic and electrical equipment and parts,44.477,0.436
+2025,Alberta,China,Energy products,6575.987,64.517
+2025,Alberta,China,"Farm, fishing and intermediate food products",1308.969,12.842
+2025,Alberta,China,Forestry products and building and packaging materials,579.234,5.683
+2025,Alberta,China,"Industrial machinery, equipment and parts",32.302,0.317
+2025,Alberta,China,Metal and non-metallic mineral products,65.925,0.647
+2025,Alberta,China,Metal ores and non-metallic minerals,244.812,2.402
+2025,Alberta,China,Motor vehicles and parts,1.57,0.015
+2025,Alberta,China,Special transactions trade,0.051,0.0
+2025,Alberta,European Union (27 members),Aircraft and other transportation equipment and parts,137.412,6.891
+2025,Alberta,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",138.055,6.924
+2025,Alberta,European Union (27 members),Consumer goods,41.743,2.093
+2025,Alberta,European Union (27 members),Electronic and electrical equipment and parts,110.414,5.537
+2025,Alberta,European Union (27 members),Energy products,122.002,6.119
+2025,Alberta,European Union (27 members),"Farm, fishing and intermediate food products",1014.876,50.898
+2025,Alberta,European Union (27 members),Forestry products and building and packaging materials,4.418,0.222
+2025,Alberta,European Union (27 members),"Industrial machinery, equipment and parts",63.545,3.187
+2025,Alberta,European Union (27 members),Metal and non-metallic mineral products,334.687,16.785
+2025,Alberta,European Union (27 members),Metal ores and non-metallic minerals,3.341,0.168
+2025,Alberta,European Union (27 members),Motor vehicles and parts,14.863,0.745
+2025,Alberta,European Union (27 members),Special transactions trade,8.6,0.431
+2025,Alberta,United Kingdom,Aircraft and other transportation equipment and parts,8.776,4.568
+2025,Alberta,United Kingdom,"Basic and industrial chemical, plastic and rubber products",11.8,6.141
+2025,Alberta,United Kingdom,Consumer goods,3.587,1.867
+2025,Alberta,United Kingdom,Electronic and electrical equipment and parts,27.446,14.285
+2025,Alberta,United Kingdom,Energy products,0.008,0.004
+2025,Alberta,United Kingdom,"Farm, fishing and intermediate food products",93.364,48.592
+2025,Alberta,United Kingdom,Forestry products and building and packaging materials,1.678,0.874
+2025,Alberta,United Kingdom,"Industrial machinery, equipment and parts",31.446,16.366
+2025,Alberta,United Kingdom,Metal and non-metallic mineral products,1.278,0.665
+2025,Alberta,United Kingdom,Metal ores and non-metallic minerals,0.094,0.049
+2025,Alberta,United Kingdom,Motor vehicles and parts,2.42,1.259
+2025,Alberta,United Kingdom,Special transactions trade,10.242,5.33
+2025,Alberta,United States,Aircraft and other transportation equipment and parts,374.898,0.247
+2025,Alberta,United States,"Basic and industrial chemical, plastic and rubber products",7520.951,4.947
+2025,Alberta,United States,Consumer goods,5076.564,3.339
+2025,Alberta,United States,Electronic and electrical equipment and parts,1057.164,0.695
+2025,Alberta,United States,Energy products,124534.14,81.908
+2025,Alberta,United States,"Farm, fishing and intermediate food products",4164.946,2.739
+2025,Alberta,United States,Forestry products and building and packaging materials,3300.5,2.171
+2025,Alberta,United States,"Industrial machinery, equipment and parts",3244.42,2.134
+2025,Alberta,United States,Metal and non-metallic mineral products,1058.132,0.696
+2025,Alberta,United States,Metal ores and non-metallic minerals,423.304,0.278
+2025,Alberta,United States,Motor vehicles and parts,619.438,0.407
+2025,Alberta,United States,Special transactions trade,667.708,0.439
+2025,British Columbia,China,Aircraft and other transportation equipment and parts,2.821,0.026
+2025,British Columbia,China,"Basic and industrial chemical, plastic and rubber products",54.847,0.507
+2025,British Columbia,China,Consumer goods,172.384,1.592
+2025,British Columbia,China,Electronic and electrical equipment and parts,179.236,1.656
+2025,British Columbia,China,Energy products,3660.286,33.809
+2025,British Columbia,China,"Farm, fishing and intermediate food products",237.095,2.19
+2025,British Columbia,China,Forestry products and building and packaging materials,2413.356,22.291
+2025,British Columbia,China,"Industrial machinery, equipment and parts",60.227,0.556
+2025,British Columbia,China,Metal and non-metallic mineral products,115.743,1.069
+2025,British Columbia,China,Metal ores and non-metallic minerals,3878.984,35.829
+2025,British Columbia,China,Motor vehicles and parts,50.099,0.463
+2025,British Columbia,China,Special transactions trade,1.408,0.013
+2025,British Columbia,European Union (27 members),Aircraft and other transportation equipment and parts,13.263,0.681
+2025,British Columbia,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",86.643,4.446
+2025,British Columbia,European Union (27 members),Consumer goods,187.92,9.643
+2025,British Columbia,European Union (27 members),Electronic and electrical equipment and parts,285.799,14.665
+2025,British Columbia,European Union (27 members),Energy products,496.051,25.454
+2025,British Columbia,European Union (27 members),"Farm, fishing and intermediate food products",126.547,6.494
+2025,British Columbia,European Union (27 members),Forestry products and building and packaging materials,145.642,7.473
+2025,British Columbia,European Union (27 members),"Industrial machinery, equipment and parts",133.197,6.835
+2025,British Columbia,European Union (27 members),Metal and non-metallic mineral products,350.282,17.974
+2025,British Columbia,European Union (27 members),Metal ores and non-metallic minerals,42.721,2.192
+2025,British Columbia,European Union (27 members),Motor vehicles and parts,26.699,1.37
+2025,British Columbia,European Union (27 members),Special transactions trade,54.051,2.774
+2025,British Columbia,United Kingdom,Aircraft and other transportation equipment and parts,12.936,3.772
+2025,British Columbia,United Kingdom,"Basic and industrial chemical, plastic and rubber products",6.897,2.011
+2025,British Columbia,United Kingdom,Consumer goods,50.678,14.778
+2025,British Columbia,United Kingdom,Electronic and electrical equipment and parts,44.112,12.863
+2025,British Columbia,United Kingdom,Energy products,78.554,22.907
+2025,British Columbia,United Kingdom,"Farm, fishing and intermediate food products",30.565,8.913
+2025,British Columbia,United Kingdom,Forestry products and building and packaging materials,62.33,18.176
+2025,British Columbia,United Kingdom,"Industrial machinery, equipment and parts",34.181,9.967
+2025,British Columbia,United Kingdom,Metal and non-metallic mineral products,5.747,1.676
+2025,British Columbia,United Kingdom,Metal ores and non-metallic minerals,0.0,0.0
+2025,British Columbia,United Kingdom,Motor vehicles and parts,1.677,0.489
+2025,British Columbia,United Kingdom,Special transactions trade,15.252,4.448
+2025,British Columbia,United States,Aircraft and other transportation equipment and parts,473.133,1.695
+2025,British Columbia,United States,"Basic and industrial chemical, plastic and rubber products",918.318,3.29
+2025,British Columbia,United States,Consumer goods,3109.268,11.138
+2025,British Columbia,United States,Electronic and electrical equipment and parts,2475.927,8.869
+2025,British Columbia,United States,Energy products,6133.271,21.97
+2025,British Columbia,United States,"Farm, fishing and intermediate food products",2159.592,7.736
+2025,British Columbia,United States,Forestry products and building and packaging materials,6481.619,23.218
+2025,British Columbia,United States,"Industrial machinery, equipment and parts",2014.632,7.217
+2025,British Columbia,United States,Metal and non-metallic mineral products,2977.147,10.665
+2025,British Columbia,United States,Metal ores and non-metallic minerals,115.846,0.415
+2025,British Columbia,United States,Motor vehicles and parts,625.276,2.24
+2025,British Columbia,United States,Special transactions trade,432.183,1.548
+2025,Canada,China,Aircraft and other transportation equipment and parts,147.461,0.429
+2025,Canada,China,"Basic and industrial chemical, plastic and rubber products",1542.916,4.489
+2025,Canada,China,Consumer goods,1739.549,5.061
+2025,Canada,China,Electronic and electrical equipment and parts,842.686,2.452
+2025,Canada,China,Energy products,10303.546,29.98
+2025,Canada,China,"Farm, fishing and intermediate food products",5877.843,17.102
+2025,Canada,China,Forestry products and building and packaging materials,3551.361,10.333
+2025,Canada,China,"Industrial machinery, equipment and parts",677.055,1.97
+2025,Canada,China,Metal and non-metallic mineral products,1440.788,4.192
+2025,Canada,China,Metal ores and non-metallic minerals,7947.91,23.126
+2025,Canada,China,Motor vehicles and parts,250.386,0.729
+2025,Canada,China,Special transactions trade,46.884,0.136
+2025,Canada,European Union (27 members),Aircraft and other transportation equipment and parts,5084.712,13.166
+2025,Canada,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",1388.954,3.597
+2025,Canada,European Union (27 members),Consumer goods,4261.523,11.035
+2025,Canada,European Union (27 members),Electronic and electrical equipment and parts,2227.702,5.768
+2025,Canada,European Union (27 members),Energy products,6312.662,16.346
+2025,Canada,European Union (27 members),"Farm, fishing and intermediate food products",5548.012,14.366
+2025,Canada,European Union (27 members),Forestry products and building and packaging materials,595.872,1.543
+2025,Canada,European Union (27 members),"Industrial machinery, equipment and parts",2265.108,5.865
+2025,Canada,European Union (27 members),Metal and non-metallic mineral products,4411.917,11.424
+2025,Canada,European Union (27 members),Metal ores and non-metallic minerals,5367.505,13.898
+2025,Canada,European Union (27 members),Motor vehicles and parts,666.046,1.725
+2025,Canada,European Union (27 members),Special transactions trade,489.418,1.267
+2025,Canada,United Kingdom,Aircraft and other transportation equipment and parts,457.085,1.0
+2025,Canada,United Kingdom,"Basic and industrial chemical, plastic and rubber products",228.095,0.499
+2025,Canada,United Kingdom,Consumer goods,711.687,1.557
+2025,Canada,United Kingdom,Electronic and electrical equipment and parts,414.784,0.908
+2025,Canada,United Kingdom,Energy products,1673.913,3.663
+2025,Canada,United Kingdom,"Farm, fishing and intermediate food products",792.887,1.735
+2025,Canada,United Kingdom,Forestry products and building and packaging materials,222.204,0.486
+2025,Canada,United Kingdom,"Industrial machinery, equipment and parts",388.152,0.849
+2025,Canada,United Kingdom,Metal and non-metallic mineral products,40556.872,88.749
+2025,Canada,United Kingdom,Metal ores and non-metallic minerals,75.209,0.165
+2025,Canada,United Kingdom,Motor vehicles and parts,45.681,0.1
+2025,Canada,United Kingdom,Special transactions trade,131.588,0.288
+2025,Canada,United States,Aircraft and other transportation equipment and parts,18148.377,3.508
+2025,Canada,United States,"Basic and industrial chemical, plastic and rubber products",31371.956,6.065
+2025,Canada,United States,Consumer goods,63093.757,12.197
+2025,Canada,United States,Electronic and electrical equipment and parts,19157.71,3.704
+2025,Canada,United States,Energy products,159262.208,30.788
+2025,Canada,United States,"Farm, fishing and intermediate food products",26580.312,5.138
+2025,Canada,United States,Forestry products and building and packaging materials,35475.864,6.858
+2025,Canada,United States,"Industrial machinery, equipment and parts",30758.376,5.946
+2025,Canada,United States,Metal and non-metallic mineral products,48441.707,9.365
+2025,Canada,United States,Metal ores and non-metallic minerals,6384.227,1.234
+2025,Canada,United States,Motor vehicles and parts,71347.882,13.793
+2025,Canada,United States,Special transactions trade,7260.356,1.404
+2025,Manitoba,China,Aircraft and other transportation equipment and parts,0.342,0.029
+2025,Manitoba,China,"Basic and industrial chemical, plastic and rubber products",0.962,0.081
+2025,Manitoba,China,Consumer goods,117.335,9.851
+2025,Manitoba,China,Electronic and electrical equipment and parts,58.885,4.944
+2025,Manitoba,China,Energy products,0.0,0.0
+2025,Manitoba,China,"Farm, fishing and intermediate food products",900.23,75.584
+2025,Manitoba,China,Forestry products and building and packaging materials,0.027,0.002
+2025,Manitoba,China,"Industrial machinery, equipment and parts",8.727,0.733
+2025,Manitoba,China,Metal and non-metallic mineral products,6.528,0.548
+2025,Manitoba,China,Metal ores and non-metallic minerals,59.48,4.994
+2025,Manitoba,China,Motor vehicles and parts,0.17,0.014
+2025,Manitoba,China,Special transactions trade,38.349,3.22
+2025,Manitoba,European Union (27 members),Aircraft and other transportation equipment and parts,5.681,0.684
+2025,Manitoba,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",10.203,1.229
+2025,Manitoba,European Union (27 members),Consumer goods,123.934,14.926
+2025,Manitoba,European Union (27 members),Electronic and electrical equipment and parts,26.653,3.21
+2025,Manitoba,European Union (27 members),Energy products,0.0,0.0
+2025,Manitoba,European Union (27 members),"Farm, fishing and intermediate food products",336.798,40.564
+2025,Manitoba,European Union (27 members),Forestry products and building and packaging materials,5.315,0.64
+2025,Manitoba,European Union (27 members),"Industrial machinery, equipment and parts",63.735,7.676
+2025,Manitoba,European Union (27 members),Metal and non-metallic mineral products,8.502,1.024
+2025,Manitoba,European Union (27 members),Metal ores and non-metallic minerals,13.773,1.659
+2025,Manitoba,European Union (27 members),Motor vehicles and parts,2.749,0.331
+2025,Manitoba,European Union (27 members),Special transactions trade,232.951,28.056
+2025,Manitoba,United Kingdom,Aircraft and other transportation equipment and parts,1.127,0.585
+2025,Manitoba,United Kingdom,"Basic and industrial chemical, plastic and rubber products",4.03,2.09
+2025,Manitoba,United Kingdom,Consumer goods,6.848,3.551
+2025,Manitoba,United Kingdom,Electronic and electrical equipment and parts,32.075,16.634
+2025,Manitoba,United Kingdom,Energy products,0.0,0.0
+2025,Manitoba,United Kingdom,"Farm, fishing and intermediate food products",96.985,50.297
+2025,Manitoba,United Kingdom,Forestry products and building and packaging materials,0.493,0.256
+2025,Manitoba,United Kingdom,"Industrial machinery, equipment and parts",4.892,2.537
+2025,Manitoba,United Kingdom,Metal and non-metallic mineral products,0.136,0.071
+2025,Manitoba,United Kingdom,Metal ores and non-metallic minerals,0.0,0.0
+2025,Manitoba,United Kingdom,Motor vehicles and parts,0.104,0.054
+2025,Manitoba,United Kingdom,Special transactions trade,46.134,23.925
+2025,Manitoba,United States,Aircraft and other transportation equipment and parts,511.482,3.952
+2025,Manitoba,United States,"Basic and industrial chemical, plastic and rubber products",901.697,6.967
+2025,Manitoba,United States,Consumer goods,2753.176,21.273
+2025,Manitoba,United States,Electronic and electrical equipment and parts,398.588,3.08
+2025,Manitoba,United States,Energy products,1120.642,8.659
+2025,Manitoba,United States,"Farm, fishing and intermediate food products",2604.25,20.122
+2025,Manitoba,United States,Forestry products and building and packaging materials,830.612,6.418
+2025,Manitoba,United States,"Industrial machinery, equipment and parts",1546.081,11.946
+2025,Manitoba,United States,Metal and non-metallic mineral products,326.009,2.519
+2025,Manitoba,United States,Metal ores and non-metallic minerals,85.35,0.659
+2025,Manitoba,United States,Motor vehicles and parts,1424.542,11.007
+2025,Manitoba,United States,Special transactions trade,439.576,3.397
+2025,New Brunswick,China,Aircraft and other transportation equipment and parts,0.0,0.0
+2025,New Brunswick,China,"Basic and industrial chemical, plastic and rubber products",0.0,0.0
+2025,New Brunswick,China,Consumer goods,0.792,0.53
+2025,New Brunswick,China,Electronic and electrical equipment and parts,1.769,1.183
+2025,New Brunswick,China,Energy products,0.0,0.0
+2025,New Brunswick,China,"Farm, fishing and intermediate food products",20.107,13.444
+2025,New Brunswick,China,Forestry products and building and packaging materials,126.444,84.545
+2025,New Brunswick,China,"Industrial machinery, equipment and parts",0.184,0.123
+2025,New Brunswick,China,Metal and non-metallic mineral products,0.0,0.0
+2025,New Brunswick,China,Metal ores and non-metallic minerals,0.26,0.174
+2025,New Brunswick,China,Motor vehicles and parts,0.0,0.0
+2025,New Brunswick,China,Special transactions trade,0.0,0.0
+2025,New Brunswick,European Union (27 members),Aircraft and other transportation equipment and parts,3.198,0.987
+2025,New Brunswick,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",5.18,1.599
+2025,New Brunswick,European Union (27 members),Consumer goods,20.368,6.287
+2025,New Brunswick,European Union (27 members),Electronic and electrical equipment and parts,7.007,2.163
+2025,New Brunswick,European Union (27 members),Energy products,201.362,62.154
+2025,New Brunswick,European Union (27 members),"Farm, fishing and intermediate food products",61.636,19.025
+2025,New Brunswick,European Union (27 members),Forestry products and building and packaging materials,17.977,5.549
+2025,New Brunswick,European Union (27 members),"Industrial machinery, equipment and parts",1.608,0.496
+2025,New Brunswick,European Union (27 members),Metal and non-metallic mineral products,0.709,0.219
+2025,New Brunswick,European Union (27 members),Metal ores and non-metallic minerals,3.966,1.224
+2025,New Brunswick,European Union (27 members),Motor vehicles and parts,0.686,0.212
+2025,New Brunswick,European Union (27 members),Special transactions trade,0.276,0.085
+2025,New Brunswick,United Kingdom,Aircraft and other transportation equipment and parts,0.07,0.041
+2025,New Brunswick,United Kingdom,"Basic and industrial chemical, plastic and rubber products",29.128,17.198
+2025,New Brunswick,United Kingdom,Consumer goods,10.932,6.455
+2025,New Brunswick,United Kingdom,Electronic and electrical equipment and parts,2.08,1.228
+2025,New Brunswick,United Kingdom,Energy products,107.7,63.589
+2025,New Brunswick,United Kingdom,"Farm, fishing and intermediate food products",13.532,7.99
+2025,New Brunswick,United Kingdom,Forestry products and building and packaging materials,3.619,2.137
+2025,New Brunswick,United Kingdom,"Industrial machinery, equipment and parts",0.267,0.158
+2025,New Brunswick,United Kingdom,Metal and non-metallic mineral products,0.068,0.04
+2025,New Brunswick,United Kingdom,Metal ores and non-metallic minerals,0.0,0.0
+2025,New Brunswick,United Kingdom,Motor vehicles and parts,0.003,0.002
+2025,New Brunswick,United Kingdom,Special transactions trade,1.969,1.162
+2025,New Brunswick,United States,Aircraft and other transportation equipment and parts,31.0,0.214
+2025,New Brunswick,United States,"Basic and industrial chemical, plastic and rubber products",3854.502,26.632
+2025,New Brunswick,United States,Consumer goods,1293.992,8.941
+2025,New Brunswick,United States,Electronic and electrical equipment and parts,76.204,0.527
+2025,New Brunswick,United States,Energy products,5621.524,38.841
+2025,New Brunswick,United States,"Farm, fishing and intermediate food products",1364.312,9.427
+2025,New Brunswick,United States,Forestry products and building and packaging materials,1751.451,12.101
+2025,New Brunswick,United States,"Industrial machinery, equipment and parts",185.704,1.283
+2025,New Brunswick,United States,Metal and non-metallic mineral products,38.66,0.267
+2025,New Brunswick,United States,Metal ores and non-metallic minerals,140.738,0.972
+2025,New Brunswick,United States,Motor vehicles and parts,31.513,0.218
+2025,New Brunswick,United States,Special transactions trade,83.47,0.577
+2025,Newfoundland and Labrador,China,Aircraft and other transportation equipment and parts,0.0,0.0
+2025,Newfoundland and Labrador,China,"Basic and industrial chemical, plastic and rubber products",0.0,0.0
+2025,Newfoundland and Labrador,China,Consumer goods,31.858,3.987
+2025,Newfoundland and Labrador,China,Electronic and electrical equipment and parts,0.725,0.091
+2025,Newfoundland and Labrador,China,Energy products,0.0,0.0
+2025,Newfoundland and Labrador,China,"Farm, fishing and intermediate food products",190.517,23.841
+2025,Newfoundland and Labrador,China,Forestry products and building and packaging materials,4.641,0.581
+2025,Newfoundland and Labrador,China,"Industrial machinery, equipment and parts",0.407,0.051
+2025,Newfoundland and Labrador,China,Metal and non-metallic mineral products,97.222,12.166
+2025,Newfoundland and Labrador,China,Metal ores and non-metallic minerals,473.751,59.284
+2025,Newfoundland and Labrador,China,Motor vehicles and parts,0.0,0.0
+2025,Newfoundland and Labrador,China,Special transactions trade,0.0,0.0
+2025,Newfoundland and Labrador,European Union (27 members),Aircraft and other transportation equipment and parts,0.186,0.003
+2025,Newfoundland and Labrador,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",66.144,1.134
+2025,Newfoundland and Labrador,European Union (27 members),Consumer goods,53.448,0.916
+2025,Newfoundland and Labrador,European Union (27 members),Electronic and electrical equipment and parts,6.389,0.109
+2025,Newfoundland and Labrador,European Union (27 members),Energy products,3786.933,64.904
+2025,Newfoundland and Labrador,European Union (27 members),"Farm, fishing and intermediate food products",33.579,0.575
+2025,Newfoundland and Labrador,European Union (27 members),Forestry products and building and packaging materials,5.209,0.089
+2025,Newfoundland and Labrador,European Union (27 members),"Industrial machinery, equipment and parts",0.42,0.007
+2025,Newfoundland and Labrador,European Union (27 members),Metal and non-metallic mineral products,562.556,9.642
+2025,Newfoundland and Labrador,European Union (27 members),Metal ores and non-metallic minerals,1318.749,22.602
+2025,Newfoundland and Labrador,European Union (27 members),Motor vehicles and parts,1.038,0.018
+2025,Newfoundland and Labrador,European Union (27 members),Special transactions trade,0.06,0.001
+2025,Newfoundland and Labrador,United Kingdom,Aircraft and other transportation equipment and parts,0.32,0.029
+2025,Newfoundland and Labrador,United Kingdom,"Basic and industrial chemical, plastic and rubber products",0.003,0.0
+2025,Newfoundland and Labrador,United Kingdom,Consumer goods,51.246,4.678
+2025,Newfoundland and Labrador,United Kingdom,Electronic and electrical equipment and parts,4.925,0.45
+2025,Newfoundland and Labrador,United Kingdom,Energy products,989.709,90.354
+2025,Newfoundland and Labrador,United Kingdom,"Farm, fishing and intermediate food products",2.744,0.25
+2025,Newfoundland and Labrador,United Kingdom,Forestry products and building and packaging materials,15.81,1.443
+2025,Newfoundland and Labrador,United Kingdom,"Industrial machinery, equipment and parts",0.835,0.076
+2025,Newfoundland and Labrador,United Kingdom,Metal and non-metallic mineral products,11.57,1.056
+2025,Newfoundland and Labrador,United Kingdom,Metal ores and non-metallic minerals,18.199,1.661
+2025,Newfoundland and Labrador,United Kingdom,Motor vehicles and parts,0.002,0.0
+2025,Newfoundland and Labrador,United Kingdom,Special transactions trade,0.0,0.0
+2025,Newfoundland and Labrador,United States,Aircraft and other transportation equipment and parts,4.626,0.097
+2025,Newfoundland and Labrador,United States,"Basic and industrial chemical, plastic and rubber products",504.421,10.596
+2025,Newfoundland and Labrador,United States,Consumer goods,76.933,1.616
+2025,Newfoundland and Labrador,United States,Electronic and electrical equipment and parts,10.406,0.219
+2025,Newfoundland and Labrador,United States,Energy products,2495.944,52.431
+2025,Newfoundland and Labrador,United States,"Farm, fishing and intermediate food products",1156.069,24.285
+2025,Newfoundland and Labrador,United States,Forestry products and building and packaging materials,30.046,0.631
+2025,Newfoundland and Labrador,United States,"Industrial machinery, equipment and parts",8.423,0.177
+2025,Newfoundland and Labrador,United States,Metal and non-metallic mineral products,364.796,7.663
+2025,Newfoundland and Labrador,United States,Metal ores and non-metallic minerals,60.726,1.276
+2025,Newfoundland and Labrador,United States,Motor vehicles and parts,0.279,0.006
+2025,Newfoundland and Labrador,United States,Special transactions trade,47.792,1.004
+2025,Nova Scotia,China,Aircraft and other transportation equipment and parts,0.0,0.0
+2025,Nova Scotia,China,"Basic and industrial chemical, plastic and rubber products",6.58,1.295
+2025,Nova Scotia,China,Consumer goods,94.524,18.606
+2025,Nova Scotia,China,Electronic and electrical equipment and parts,7.588,1.494
+2025,Nova Scotia,China,Energy products,0.0,0.0
+2025,Nova Scotia,China,"Farm, fishing and intermediate food products",339.344,66.795
+2025,Nova Scotia,China,Forestry products and building and packaging materials,3.412,0.672
+2025,Nova Scotia,China,"Industrial machinery, equipment and parts",0.84,0.165
+2025,Nova Scotia,China,Metal and non-metallic mineral products,15.416,3.035
+2025,Nova Scotia,China,Metal ores and non-metallic minerals,37.994,7.479
+2025,Nova Scotia,China,Motor vehicles and parts,2.341,0.461
+2025,Nova Scotia,China,Special transactions trade,0.0,0.0
+2025,Nova Scotia,European Union (27 members),Aircraft and other transportation equipment and parts,14.423,2.59
+2025,Nova Scotia,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",19.285,3.463
+2025,Nova Scotia,European Union (27 members),Consumer goods,194.341,34.898
+2025,Nova Scotia,European Union (27 members),Electronic and electrical equipment and parts,42.314,7.598
+2025,Nova Scotia,European Union (27 members),Energy products,5.072,0.911
+2025,Nova Scotia,European Union (27 members),"Farm, fishing and intermediate food products",201.293,36.146
+2025,Nova Scotia,European Union (27 members),Forestry products and building and packaging materials,18.107,3.251
+2025,Nova Scotia,European Union (27 members),"Industrial machinery, equipment and parts",30.574,5.49
+2025,Nova Scotia,European Union (27 members),Metal and non-metallic mineral products,6.938,1.246
+2025,Nova Scotia,European Union (27 members),Metal ores and non-metallic minerals,2.416,0.434
+2025,Nova Scotia,European Union (27 members),Motor vehicles and parts,21.902,3.933
+2025,Nova Scotia,European Union (27 members),Special transactions trade,0.222,0.04
+2025,Nova Scotia,United Kingdom,Aircraft and other transportation equipment and parts,2.71,2.707
+2025,Nova Scotia,United Kingdom,"Basic and industrial chemical, plastic and rubber products",2.56,2.557
+2025,Nova Scotia,United Kingdom,Consumer goods,14.007,13.99
+2025,Nova Scotia,United Kingdom,Electronic and electrical equipment and parts,15.192,15.174
+2025,Nova Scotia,United Kingdom,Energy products,23.657,23.629
+2025,Nova Scotia,United Kingdom,"Farm, fishing and intermediate food products",20.954,20.929
+2025,Nova Scotia,United Kingdom,Forestry products and building and packaging materials,13.919,13.902
+2025,Nova Scotia,United Kingdom,"Industrial machinery, equipment and parts",6.695,6.687
+2025,Nova Scotia,United Kingdom,Metal and non-metallic mineral products,0.27,0.27
+2025,Nova Scotia,United Kingdom,Metal ores and non-metallic minerals,0.036,0.035
+2025,Nova Scotia,United Kingdom,Motor vehicles and parts,0.062,0.062
+2025,Nova Scotia,United Kingdom,Special transactions trade,0.057,0.057
+2025,Nova Scotia,United States,Aircraft and other transportation equipment and parts,37.339,0.815
+2025,Nova Scotia,United States,"Basic and industrial chemical, plastic and rubber products",230.304,5.024
+2025,Nova Scotia,United States,Consumer goods,646.797,14.109
+2025,Nova Scotia,United States,Electronic and electrical equipment and parts,215.812,4.708
+2025,Nova Scotia,United States,Energy products,20.742,0.452
+2025,Nova Scotia,United States,"Farm, fishing and intermediate food products",994.426,21.693
+2025,Nova Scotia,United States,Forestry products and building and packaging materials,520.436,11.353
+2025,Nova Scotia,United States,"Industrial machinery, equipment and parts",99.072,2.161
+2025,Nova Scotia,United States,Metal and non-metallic mineral products,96.361,2.102
+2025,Nova Scotia,United States,Metal ores and non-metallic minerals,127.514,2.782
+2025,Nova Scotia,United States,Motor vehicles and parts,1532.124,33.422
+2025,Nova Scotia,United States,Special transactions trade,63.205,1.379
+2025,Ontario,China,Aircraft and other transportation equipment and parts,30.25,0.932
+2025,Ontario,China,"Basic and industrial chemical, plastic and rubber products",184.294,5.676
+2025,Ontario,China,Consumer goods,889.451,27.394
+2025,Ontario,China,Electronic and electrical equipment and parts,364.498,11.226
+2025,Ontario,China,Energy products,64.108,1.974
+2025,Ontario,China,"Farm, fishing and intermediate food products",364.726,11.233
+2025,Ontario,China,Forestry products and building and packaging materials,105.952,3.263
+2025,Ontario,China,"Industrial machinery, equipment and parts",344.538,10.611
+2025,Ontario,China,Metal and non-metallic mineral products,824.799,25.403
+2025,Ontario,China,Metal ores and non-metallic minerals,5.726,0.176
+2025,Ontario,China,Motor vehicles and parts,66.924,2.061
+2025,Ontario,China,Special transactions trade,1.593,0.049
+2025,Ontario,European Union (27 members),Aircraft and other transportation equipment and parts,886.635,9.374
+2025,Ontario,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",666.575,7.047
+2025,Ontario,European Union (27 members),Consumer goods,2698.111,28.525
+2025,Ontario,European Union (27 members),Electronic and electrical equipment and parts,947.577,10.018
+2025,Ontario,European Union (27 members),Energy products,172.431,1.823
+2025,Ontario,European Union (27 members),"Farm, fishing and intermediate food products",1137.224,12.023
+2025,Ontario,European Union (27 members),Forestry products and building and packaging materials,101.057,1.068
+2025,Ontario,European Union (27 members),"Industrial machinery, equipment and parts",1126.139,11.906
+2025,Ontario,European Union (27 members),Metal and non-metallic mineral products,1136.966,12.02
+2025,Ontario,European Union (27 members),Metal ores and non-metallic minerals,237.507,2.511
+2025,Ontario,European Union (27 members),Motor vehicles and parts,313.911,3.319
+2025,Ontario,European Union (27 members),Special transactions trade,34.597,0.366
+2025,Ontario,United Kingdom,Aircraft and other transportation equipment and parts,84.931,0.204
+2025,Ontario,United Kingdom,"Basic and industrial chemical, plastic and rubber products",137.181,0.329
+2025,Ontario,United Kingdom,Consumer goods,457.089,1.096
+2025,Ontario,United Kingdom,Electronic and electrical equipment and parts,171.371,0.411
+2025,Ontario,United Kingdom,Energy products,89.006,0.213
+2025,Ontario,United Kingdom,"Farm, fishing and intermediate food products",227.138,0.545
+2025,Ontario,United Kingdom,Forestry products and building and packaging materials,36.239,0.087
+2025,Ontario,United Kingdom,"Industrial machinery, equipment and parts",209.134,0.501
+2025,Ontario,United Kingdom,Metal and non-metallic mineral products,40244.625,96.503
+2025,Ontario,United Kingdom,Metal ores and non-metallic minerals,0.351,0.001
+2025,Ontario,United Kingdom,Motor vehicles and parts,38.468,0.092
+2025,Ontario,United Kingdom,Special transactions trade,7.434,0.018
+2025,Ontario,United States,Aircraft and other transportation equipment and parts,3156.085,1.658
+2025,Ontario,United States,"Basic and industrial chemical, plastic and rubber products",12745.366,6.697
+2025,Ontario,United States,Consumer goods,34539.974,18.149
+2025,Ontario,United States,Electronic and electrical equipment and parts,10305.598,5.415
+2025,Ontario,United States,Energy products,2633.823,1.384
+2025,Ontario,United States,"Farm, fishing and intermediate food products",6503.225,3.417
+2025,Ontario,United States,Forestry products and building and packaging materials,11663.412,6.128
+2025,Ontario,United States,"Industrial machinery, equipment and parts",17290.682,9.085
+2025,Ontario,United States,Metal and non-metallic mineral products,25006.355,13.139
+2025,Ontario,United States,Metal ores and non-metallic minerals,429.67,0.226
+2025,Ontario,United States,Motor vehicles and parts,61978.213,32.566
+2025,Ontario,United States,Special transactions trade,4065.472,2.136
+2025,Prince Edward Island,China,Aircraft and other transportation equipment and parts,0.024,0.119
+2025,Prince Edward Island,China,"Basic and industrial chemical, plastic and rubber products",2.42,11.821
+2025,Prince Edward Island,China,Consumer goods,1.625,7.935
+2025,Prince Edward Island,China,Electronic and electrical equipment and parts,0.055,0.271
+2025,Prince Edward Island,China,Energy products,0.0,0.0
+2025,Prince Edward Island,China,"Farm, fishing and intermediate food products",15.774,77.044
+2025,Prince Edward Island,China,Forestry products and building and packaging materials,0.138,0.675
+2025,Prince Edward Island,China,"Industrial machinery, equipment and parts",0.021,0.102
+2025,Prince Edward Island,China,Metal and non-metallic mineral products,0.416,2.034
+2025,Prince Edward Island,China,Metal ores and non-metallic minerals,0.0,0.0
+2025,Prince Edward Island,China,Motor vehicles and parts,0.0,0.0
+2025,Prince Edward Island,China,Special transactions trade,0.0,0.0
+2025,Prince Edward Island,European Union (27 members),Aircraft and other transportation equipment and parts,3.8,1.691
+2025,Prince Edward Island,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",27.269,12.132
+2025,Prince Edward Island,European Union (27 members),Consumer goods,85.982,38.252
+2025,Prince Edward Island,European Union (27 members),Electronic and electrical equipment and parts,20.63,9.178
+2025,Prince Edward Island,European Union (27 members),Energy products,0.0,0.0
+2025,Prince Edward Island,European Union (27 members),"Farm, fishing and intermediate food products",58.145,25.867
+2025,Prince Edward Island,European Union (27 members),Forestry products and building and packaging materials,0.013,0.006
+2025,Prince Edward Island,European Union (27 members),"Industrial machinery, equipment and parts",1.728,0.769
+2025,Prince Edward Island,European Union (27 members),Metal and non-metallic mineral products,0.044,0.02
+2025,Prince Edward Island,European Union (27 members),Metal ores and non-metallic minerals,0.027,0.012
+2025,Prince Edward Island,European Union (27 members),Motor vehicles and parts,0.175,0.078
+2025,Prince Edward Island,European Union (27 members),Special transactions trade,26.967,11.997
+2025,Prince Edward Island,United Kingdom,Aircraft and other transportation equipment and parts,4.353,18.605
+2025,Prince Edward Island,United Kingdom,"Basic and industrial chemical, plastic and rubber products",9.074,38.786
+2025,Prince Edward Island,United Kingdom,Consumer goods,0.79,3.375
+2025,Prince Edward Island,United Kingdom,Electronic and electrical equipment and parts,0.167,0.716
+2025,Prince Edward Island,United Kingdom,Energy products,0.0,0.0
+2025,Prince Edward Island,United Kingdom,"Farm, fishing and intermediate food products",3.265,13.957
+2025,Prince Edward Island,United Kingdom,Forestry products and building and packaging materials,0.003,0.011
+2025,Prince Edward Island,United Kingdom,"Industrial machinery, equipment and parts",1.965,8.401
+2025,Prince Edward Island,United Kingdom,Metal and non-metallic mineral products,0.0,0.0
+2025,Prince Edward Island,United Kingdom,Metal ores and non-metallic minerals,0.0,0.0
+2025,Prince Edward Island,United Kingdom,Motor vehicles and parts,0.005,0.021
+2025,Prince Edward Island,United Kingdom,Special transactions trade,3.774,16.129
+2025,Prince Edward Island,United States,Aircraft and other transportation equipment and parts,240.719,11.826
+2025,Prince Edward Island,United States,"Basic and industrial chemical, plastic and rubber products",26.05,1.28
+2025,Prince Edward Island,United States,Consumer goods,1005.433,49.397
+2025,Prince Edward Island,United States,Electronic and electrical equipment and parts,6.253,0.307
+2025,Prince Edward Island,United States,Energy products,0.046,0.002
+2025,Prince Edward Island,United States,"Farm, fishing and intermediate food products",453.263,22.269
+2025,Prince Edward Island,United States,Forestry products and building and packaging materials,48.766,2.396
+2025,Prince Edward Island,United States,"Industrial machinery, equipment and parts",34.651,1.702
+2025,Prince Edward Island,United States,Metal and non-metallic mineral products,3.656,0.18
+2025,Prince Edward Island,United States,Metal ores and non-metallic minerals,2.045,0.1
+2025,Prince Edward Island,United States,Motor vehicles and parts,11.743,0.577
+2025,Prince Edward Island,United States,Special transactions trade,202.801,9.964
+2025,Quebec,China,Aircraft and other transportation equipment and parts,113.009,2.476
+2025,Quebec,China,"Basic and industrial chemical, plastic and rubber products",27.838,0.61
+2025,Quebec,China,Consumer goods,337.487,7.393
+2025,Quebec,China,Electronic and electrical equipment and parts,181.037,3.966
+2025,Quebec,China,Energy products,0.433,0.009
+2025,Quebec,China,"Farm, fishing and intermediate food products",197.833,4.334
+2025,Quebec,China,Forestry products and building and packaging materials,224.191,4.911
+2025,Quebec,China,"Industrial machinery, equipment and parts",228.021,4.995
+2025,Quebec,China,Metal and non-metallic mineral products,314.329,6.886
+2025,Quebec,China,Metal ores and non-metallic minerals,2806.122,61.47
+2025,Quebec,China,Motor vehicles and parts,129.278,2.832
+2025,Quebec,China,Special transactions trade,5.483,0.12
+2025,Quebec,European Union (27 members),Aircraft and other transportation equipment and parts,4017.296,32.139
+2025,Quebec,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",367.337,2.939
+2025,Quebec,European Union (27 members),Consumer goods,851.083,6.809
+2025,Quebec,European Union (27 members),Electronic and electrical equipment and parts,772.404,6.179
+2025,Quebec,European Union (27 members),Energy products,372.09,2.977
+2025,Quebec,European Union (27 members),"Farm, fishing and intermediate food products",565.203,4.522
+2025,Quebec,European Union (27 members),Forestry products and building and packaging materials,297.97,2.384
+2025,Quebec,European Union (27 members),"Industrial machinery, equipment and parts",823.205,6.586
+2025,Quebec,European Union (27 members),Metal and non-metallic mineral products,2009.727,16.078
+2025,Quebec,European Union (27 members),Metal ores and non-metallic minerals,2009.916,16.08
+2025,Quebec,European Union (27 members),Motor vehicles and parts,281.835,2.255
+2025,Quebec,European Union (27 members),Special transactions trade,131.681,1.053
+2025,Quebec,United Kingdom,Aircraft and other transportation equipment and parts,341.837,26.985
+2025,Quebec,United Kingdom,"Basic and industrial chemical, plastic and rubber products",27.139,2.142
+2025,Quebec,United Kingdom,Consumer goods,116.06,9.162
+2025,Quebec,United Kingdom,Electronic and electrical equipment and parts,116.753,9.217
+2025,Quebec,United Kingdom,Energy products,48.674,3.842
+2025,Quebec,United Kingdom,"Farm, fishing and intermediate food products",57.542,4.542
+2025,Quebec,United Kingdom,Forestry products and building and packaging materials,87.994,6.946
+2025,Quebec,United Kingdom,"Industrial machinery, equipment and parts",97.539,7.7
+2025,Quebec,United Kingdom,Metal and non-metallic mineral products,293.003,23.13
+2025,Quebec,United Kingdom,Metal ores and non-metallic minerals,30.567,2.413
+2025,Quebec,United Kingdom,Motor vehicles and parts,2.94,0.232
+2025,Quebec,United Kingdom,Special transactions trade,46.71,3.687
+2025,Quebec,United States,Aircraft and other transportation equipment and parts,13312.685,15.785
+2025,Quebec,United States,"Basic and industrial chemical, plastic and rubber products",4370.019,5.181
+2025,Quebec,United States,Consumer goods,14426.672,17.106
+2025,Quebec,United States,Electronic and electrical equipment and parts,4465.192,5.294
+2025,Quebec,United States,Energy products,3972.882,4.711
+2025,Quebec,United States,"Farm, fishing and intermediate food products",2316.208,2.746
+2025,Quebec,United States,Forestry products and building and packaging materials,10531.814,12.487
+2025,Quebec,United States,"Industrial machinery, equipment and parts",5848.484,6.934
+2025,Quebec,United States,Metal and non-metallic mineral products,18323.011,21.725
+2025,Quebec,United States,Metal ores and non-metallic minerals,658.081,0.78
+2025,Quebec,United States,Motor vehicles and parts,4940.292,5.858
+2025,Quebec,United States,Special transactions trade,1173.672,1.392
+2025,Saskatchewan,China,Aircraft and other transportation equipment and parts,0.0,0.0
+2025,Saskatchewan,China,"Basic and industrial chemical, plastic and rubber products",20.03,0.698
+2025,Saskatchewan,China,Consumer goods,1.39,0.048
+2025,Saskatchewan,China,Electronic and electrical equipment and parts,4.414,0.154
+2025,Saskatchewan,China,Energy products,2.732,0.095
+2025,Saskatchewan,China,"Farm, fishing and intermediate food products",2303.248,80.287
+2025,Saskatchewan,China,Forestry products and building and packaging materials,93.967,3.276
+2025,Saskatchewan,China,"Industrial machinery, equipment and parts",1.789,0.062
+2025,Saskatchewan,China,Metal and non-metallic mineral products,0.41,0.014
+2025,Saskatchewan,China,Metal ores and non-metallic minerals,440.782,15.365
+2025,Saskatchewan,China,Motor vehicles and parts,0.004,0.0
+2025,Saskatchewan,China,Special transactions trade,0.0,0.0
+2025,Saskatchewan,European Union (27 members),Aircraft and other transportation equipment and parts,2.811,0.076
+2025,Saskatchewan,European Union (27 members),"Basic and industrial chemical, plastic and rubber products",2.258,0.061
+2025,Saskatchewan,European Union (27 members),Consumer goods,3.481,0.094
+2025,Saskatchewan,European Union (27 members),Electronic and electrical equipment and parts,8.505,0.23
+2025,Saskatchewan,European Union (27 members),Energy products,1156.723,31.322
+2025,Saskatchewan,European Union (27 members),"Farm, fishing and intermediate food products",2010.384,54.438
+2025,Saskatchewan,European Union (27 members),Forestry products and building and packaging materials,0.158,0.004
+2025,Saskatchewan,European Union (27 members),"Industrial machinery, equipment and parts",20.919,0.566
+2025,Saskatchewan,European Union (27 members),Metal and non-metallic mineral products,1.494,0.04
+2025,Saskatchewan,European Union (27 members),Metal ores and non-metallic minerals,484.233,13.112
+2025,Saskatchewan,European Union (27 members),Motor vehicles and parts,2.019,0.055
+2025,Saskatchewan,European Union (27 members),Special transactions trade,0.008,0.0
+2025,Saskatchewan,United Kingdom,Aircraft and other transportation equipment and parts,0.026,0.004
+2025,Saskatchewan,United Kingdom,"Basic and industrial chemical, plastic and rubber products",0.285,0.049
+2025,Saskatchewan,United Kingdom,Consumer goods,0.348,0.059
+2025,Saskatchewan,United Kingdom,Electronic and electrical equipment and parts,0.493,0.084
+2025,Saskatchewan,United Kingdom,Energy products,336.605,57.439
+2025,Saskatchewan,United Kingdom,"Farm, fishing and intermediate food products",246.799,42.114
+2025,Saskatchewan,United Kingdom,Forestry products and building and packaging materials,0.078,0.013
+2025,Saskatchewan,United Kingdom,"Industrial machinery, equipment and parts",1.199,0.205
+2025,Saskatchewan,United Kingdom,Metal and non-metallic mineral products,0.171,0.029
+2025,Saskatchewan,United Kingdom,Metal ores and non-metallic minerals,0.0,0.0
+2025,Saskatchewan,United Kingdom,Motor vehicles and parts,0.0,0.0
+2025,Saskatchewan,United Kingdom,Special transactions trade,0.018,0.003
+2025,Saskatchewan,United States,Aircraft and other transportation equipment and parts,6.248,0.026
+2025,Saskatchewan,United States,"Basic and industrial chemical, plastic and rubber products",300.268,1.268
+2025,Saskatchewan,United States,Consumer goods,163.129,0.689
+2025,Saskatchewan,United States,Electronic and electrical equipment and parts,146.317,0.618
+2025,Saskatchewan,United States,Energy products,12729.194,53.747
+2025,Saskatchewan,United States,"Farm, fishing and intermediate food products",4863.944,20.537
+2025,Saskatchewan,United States,Forestry products and building and packaging materials,315.923,1.334
+2025,Saskatchewan,United States,"Industrial machinery, equipment and parts",485.769,2.051
+2025,Saskatchewan,United States,Metal and non-metallic mineral products,243.041,1.026
+2025,Saskatchewan,United States,Metal ores and non-metallic minerals,4161.479,17.571
+2025,Saskatchewan,United States,Motor vehicles and parts,184.446,0.779
+2025,Saskatchewan,United States,Special transactions trade,83.694,0.353

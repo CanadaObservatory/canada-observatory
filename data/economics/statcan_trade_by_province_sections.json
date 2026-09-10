@@ -1,0 +1,16 @@
+{
+  "dataset_id": "statcan_trade_by_province_sections",
+  "source": "Statistics Canada",
+  "source_table": "12-10-0173-01 (province x country x NAPCS section, customs-based, annual), via WDS coordinates",
+  "frequency": "annual",
+  "unit": "$ millions (current; customs basis; domestic exports by province of origin)",
+  "retrieved_at": "2026-09-10T16:40:49.774485+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "European Union (27 members) = sum of the 27 current members",
+    "latest year only; share_of_partner_exports_pct = section / all sections, per province and partner"
+  ],
+  "notes": null,
+  "row_count": 528
+}
