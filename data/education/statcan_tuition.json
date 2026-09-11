@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 37-10-0045-01 (TLAC)",
   "frequency": "annual",
   "unit": "average tuition, current dollars",
-  "retrieved_at": "2026-09-10T17:58:04.791729+00:00",
+  "retrieved_at": "2026-09-11T17:44:20.552949+00:00",
   "latest_observation_date": "2025/2026",
   "next_release_date": null,
   "transformations": [

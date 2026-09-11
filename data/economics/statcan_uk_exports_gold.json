@@ -4,7 +4,7 @@
   "source_table": "12-10-0182-01 (total exports by NAPCS commodity and country of destination, customs-based, monthly), via WDS coordinates",
   "frequency": "monthly",
   "unit": "$ millions (current; customs basis; not seasonally adjusted)",
-  "retrieved_at": "2026-09-10T17:50:41.159095+00:00",
+  "retrieved_at": "2026-09-11T17:41:18.525020+00:00",
   "latest_observation_date": "2026-07-01",
   "next_release_date": null,
   "transformations": [

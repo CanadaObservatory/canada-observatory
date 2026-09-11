@@ -4,13 +4,13 @@
   "source_table": "Bank of Canada (Bank Rate: V122530 monthly to 2009, V39078 business-daily since)",
   "frequency": "daily",
   "unit": "%",
-  "retrieved_at": "2026-09-10T17:51:01.879267+00:00",
-  "latest_observation_date": "2026-09-09",
+  "retrieved_at": "2026-09-11T17:41:30.540520+00:00",
+  "latest_observation_date": "2026-09-10",
   "next_release_date": null,
   "transformations": [
     "BoC Valet series V122530, V39078, V39079, STATIC_ATABLE_V39079 -> wide CSV",
     "transform: _splice_bank_rate"
   ],
   "notes": null,
-  "row_count": 5379
+  "row_count": 5380
 }

@@ -1,0 +1,17 @@
+{
+  "dataset_id": "cmec_pisa_provinces",
+  "source": "Council of Ministers of Education, Canada (CMEC)",
+  "source_table": "Measuring Up: Canadian Results of the OECD PISA Study \u2014 the PISA 2018, 2022, and 2025 reports (appendix trend tables B.1.14a/B.1.15a and the two-cycle tables 3.16\u20133.18); 2025 values cross-checked against OECD PISA 2025 Results (Volume I) Annex B2, Tables I.B2.1\u20133",
+  "frequency": "every three to four years (one-time builder; re-run on the next CMEC report)",
+  "unit": "PISA score points (mean) with standard errors as printed (link error included for non-baseline cycles)",
+  "retrieved_at": "2026-09-10T20:11:16.696034+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "science 2006\u20132025 from the 2025 report; mathematics 2003\u20132022 from the 2022 report plus 2025; reading 2000\u20132018 from the 2018 report plus 2022 and 2025",
+    "overlapping cycles verified across reports; Canada verified against the OECD national series; 2025 provincial means verified against the OECD regional annex",
+    "caution = the reports' note that 2022 and 2025 results for Canada and all provinces except Prince Edward Island, New Brunswick, and Saskatchewan did not meet one or more PISA technical standards"
+  ],
+  "notes": "PISA 2025 (science the major domain) published 8 September 2026. Maintenance ritual pisa_results.",
+  "row_count": 264
+}

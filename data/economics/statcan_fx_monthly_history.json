@@ -1,0 +1,17 @@
+{
+  "dataset_id": "statcan_fx_monthly_history",
+  "source": "Statistics Canada",
+  "source_table": "10-10-0009-01 (Foreign exchange rates in Canadian dollars, Bank of Canada, monthly; archived, ends April 2017)",
+  "frequency": "monthly",
+  "unit": "Canadian dollars per unit of foreign currency (monthly average of the noon spot rate)",
+  "retrieved_at": "2026-09-11T17:41:31.447595+00:00",
+  "latest_observation_date": "2017-04-01",
+  "next_release_date": null,
+  "transformations": [
+    "three currencies kept: US dollar (1950-10-), euro (1999-01-), Japanese yen (1952-01-)",
+    "wide by currency; date = first day of the month",
+    "archived table: the Bank retired the noon rate on 2017-04-28; daily averages continue in boc_exchange_rates.csv"
+  ],
+  "notes": null,
+  "row_count": 799
+}
