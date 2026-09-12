@@ -4,7 +4,7 @@
   "source_table": "ECCC Air Pollutant Emissions Inventory (APEI) \u2014 national GRAND TOTAL",
   "frequency": "annual",
   "unit": "tonnes per year",
-  "retrieved_at": "2026-09-11T17:44:43.374441+00:00",
+  "retrieved_at": "2026-09-12T16:58:20.552963+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [

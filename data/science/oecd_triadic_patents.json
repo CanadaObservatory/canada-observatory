@@ -4,7 +4,7 @@
   "source_table": "OECD MSTI (triadic patent families; population)",
   "frequency": "annual",
   "unit": "patents per million population",
-  "retrieved_at": "2026-09-11T17:44:11.123623+00:00",
+  "retrieved_at": "2026-09-12T16:57:33.743135+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [

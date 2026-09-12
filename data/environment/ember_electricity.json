@@ -4,7 +4,7 @@
   "source_table": "yearly_full_release_long_format.csv: Electricity generation (Fuel, TWh), Capacity (Fuel, GW), Total generation (TWh)",
   "frequency": "annual",
   "unit": "TWh generated; GW installed; % of generation",
-  "retrieved_at": "2026-09-11T17:44:35.964949+00:00",
+  "retrieved_at": "2026-09-12T16:58:08.986831+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

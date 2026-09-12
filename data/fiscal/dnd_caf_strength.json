@@ -4,7 +4,7 @@
   "source_table": "DND open data 'CAF Regular Force Members by Rank'; DND 'State of the Canadian Armed Forces'; DND Departmental Results Reports; Statistics Canada Canada Year Book 1988 table 21.16 and table 10-10-0027-01",
   "frequency": "annual (fiscal years ending March 31) plus the live page snapshot",
   "unit": "members",
-  "retrieved_at": "2026-09-11T17:41:55.229114+00:00",
+  "retrieved_at": "2026-09-12T16:54:45.192843+00:00",
   "latest_observation_date": "2026-07-31",
   "next_release_date": null,
   "transformations": [
