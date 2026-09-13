@@ -1,0 +1,16 @@
+{
+  "dataset_id": "statcan_historical_gnp",
+  "source": "Statistics Canada",
+  "source_table": "Historical Statistics of Canada (11-516-X), Section F, National income and gross national product, by components, 1926 to 1976 \u2014 series 13, GNP at market prices",
+  "frequency": "annual (calendar years, 1926\u20131976; publication frozen)",
+  "unit": "$ millions",
+  "retrieved_at": "2026-09-12T17:26:55.872193+00:00",
+  "latest_observation_date": "1976-12-31",
+  "next_release_date": null,
+  "transformations": [
+    "parsed from the table's CSV download",
+    "series 13 only"
+  ],
+  "notes": "Source page: https://www150.statcan.gc.ca/n1/pub/11-516-x/sectionf/4057751-eng.htm#F1_13. Used as the GDP denominator before 1961 on the federal-debt long view; GNP on the national-accounts basis of the 1970s, not the current SNA.",
+  "row_count": 51
+}

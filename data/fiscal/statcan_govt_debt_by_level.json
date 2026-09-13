@@ -1,0 +1,18 @@
+{
+  "dataset_id": "statcan_govt_debt_by_level",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 10-10-0015-01 (government finance statistics, quarterly); 36-10-0104-01 (GDP)",
+  "frequency": "quarterly",
+  "unit": "$ millions / % of GDP",
+  "retrieved_at": "2026-09-13T17:23:20.602826+00:00",
+  "latest_observation_date": "2026-03-31",
+  "next_release_date": null,
+  "transformations": [
+    "net_debt = \u2212net financial worth (liabilities \u2212 financial assets)",
+    "interest / expenditure / revenue = the quarter's flows, not seasonally adjusted (the page sums four quarters); expenditure = the table's 'Total expenditure'",
+    "% of GDP = stock at quarter end \u00f7 the trailing four-quarter average of current-prices GDP at market prices, seasonally adjusted at annual rates (the denominator Statistics Canada uses in its GFS release)",
+    "the table's 'Consolidated government' row is dropped: for stocks it equals the sum of the four sectors kept"
+  ],
+  "notes": "Stocks as at the end of each quarter; `date` is the quarter's first day (REF_DATE). Government finance statistics basis (GFSM 2014 / national accounts), which differs from a government's own public accounts.",
+  "row_count": 580
+}

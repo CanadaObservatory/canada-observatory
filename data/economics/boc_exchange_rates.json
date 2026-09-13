@@ -4,7 +4,7 @@
   "source_table": "Bank of Canada (daily average exchange rates)",
   "frequency": "daily",
   "unit": "CAD per unit",
-  "retrieved_at": "2026-09-12T16:54:12.983249+00:00",
+  "retrieved_at": "2026-09-13T17:23:09.835825+00:00",
   "latest_observation_date": "2026-09-11",
   "next_release_date": null,
   "transformations": [

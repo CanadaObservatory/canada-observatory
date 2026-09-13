@@ -1,0 +1,17 @@
+{
+  "dataset_id": "federal_debt_history",
+  "source": "Statistics Canada; Department of Finance Canada",
+  "source_table": "Statistics Canada 10-10-0048-01 (fiscal years 1867\u20132008); Finance Canada, Fiscal Reference Tables 2025 (Tables 15 and 2); GDP: Statistics Canada 36-10-0104-01 (1961\u2013) and Historical Statistics of Canada 11-516-X series F13 (1926\u20131960)",
+  "frequency": "annual (fiscal years ending March 31; June 30 before 1907)",
+  "unit": "$ millions / % of GDP",
+  "retrieved_at": "2026-09-13T17:23:24.019465+00:00",
+  "latest_observation_date": "2025-03-31",
+  "next_release_date": null,
+  "transformations": [
+    "fy_end = the calendar year in which the fiscal year ends",
+    "gdp = the calendar year in which the fiscal year begins (Finance Canada's convention); 36-10-0104-01 calendar-year mean of the quarterly annual rates from 1961, Historical Statistics GNP at market prices for 1926\u20131960 linked to it at 1961 (factor 1.060)",
+    "the two debt series are kept separate (public accounts rules changed at 1983-84); they overlap 1983-84 to 2007-08"
+  ],
+  "notes": "Fiscal Reference Tables edition 2025: https://www.canada.ca/content/dam/fin/publications/frt-trf/2025/frt-trf-25-eng.xlsx",
+  "row_count": 159
+}

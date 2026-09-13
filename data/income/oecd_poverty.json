@@ -4,7 +4,7 @@
   "source_table": "OECD Income Distribution Database (IDD)",
   "frequency": "annual",
   "unit": "% of population",
-  "retrieved_at": "2026-09-12T16:55:58.576419+00:00",
+  "retrieved_at": "2026-09-13T17:25:03.519855+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
