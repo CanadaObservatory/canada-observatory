@@ -4,7 +4,7 @@
   "source_table": "life-expectancy",
   "frequency": "annual (decennial before 1921)",
   "unit": "years (period life expectancy at birth)",
-  "retrieved_at": "2026-09-13T17:25:57.366820+00:00",
+  "retrieved_at": "2026-09-14T19:22:46.591581+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [

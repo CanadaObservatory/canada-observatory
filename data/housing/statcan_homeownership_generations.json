@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_homeownership_generations",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada, Housing Statistics in Canada 46-28-0001 (2026), the article's data tables",
+  "frequency": "one-time study (censuses 1991, 2006, 2021)",
+  "unit": "% of people aged 25 to 39 (adjusted homeownership: living in an owned home, excluding those living with their parents); % of people (living arrangements)",
+  "retrieved_at": "2026-09-13T21:07:40.435538+00:00",
+  "latest_observation_date": "2021-05-11",
+  "next_release_date": null,
+  "transformations": [
+    "parsed from the article's HTML data tables; parse checked against four published values"
+  ],
+  "notes": "Source article: https://www150.statcan.gc.ca/n1/pub/46-28-0001/2026001/article/00001-eng.htm",
+  "row_count": 255
+}

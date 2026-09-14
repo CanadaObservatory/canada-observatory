@@ -4,7 +4,7 @@
   "source_table": "Bank of Canada, Financial Vulnerability Indicators (mortgaged homebuyers)",
   "frequency": "quarterly",
   "unit": "% of mortgaged purchases",
-  "retrieved_at": "2026-09-13T17:23:11.818641+00:00",
+  "retrieved_at": "2026-09-14T19:15:45.047075+00:00",
   "latest_observation_date": "2024-01-01",
   "next_release_date": null,
   "transformations": [
