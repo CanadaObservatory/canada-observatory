@@ -930,6 +930,7 @@ date,food_group,cpi_value
 2026-05-01,Bakery & cereals,202.3
 2026-06-01,Bakery & cereals,203.3
 2026-07-01,Bakery & cereals,202.7
+2026-08-01,Bakery & cereals,201.9
 1971-01-01,Dairy & eggs,19.4
 1971-02-01,Dairy & eggs,19.4
 1971-03-01,Dairy & eggs,19.4
@@ -1597,6 +1598,7 @@ date,food_group,cpi_value
 2026-05-01,Dairy & eggs,179.9
 2026-06-01,Dairy & eggs,181.4
 2026-07-01,Dairy & eggs,180.7
+2026-08-01,Dairy & eggs,178.4
 1985-01-01,Fish & seafood,59.0
 1985-02-01,Fish & seafood,59.2
 1985-03-01,Fish & seafood,59.2
@@ -2096,6 +2098,7 @@ date,food_group,cpi_value
 2026-05-01,Fish & seafood,170.8
 2026-06-01,Fish & seafood,172.3
 2026-07-01,Fish & seafood,173.6
+2026-08-01,Fish & seafood,175.1
 1978-09-01,Fruit & nuts,46.1
 1978-10-01,Fruit & nuts,45.2
 1978-11-01,Fruit & nuts,43.3
@@ -2671,6 +2674,7 @@ date,food_group,cpi_value
 2026-05-01,Fruit & nuts,185.6
 2026-06-01,Fruit & nuts,180.6
 2026-07-01,Fruit & nuts,186.3
+2026-08-01,Fruit & nuts,178.0
 1978-09-01,Meat,42.5
 1978-10-01,Meat,43.5
 1978-11-01,Meat,43.4
@@ -3246,6 +3250,7 @@ date,food_group,cpi_value
 2026-05-01,Meat,234.4
 2026-06-01,Meat,236.0
 2026-07-01,Meat,233.8
+2026-08-01,Meat,236.8
 1985-01-01,Other foods & beverages,74.2
 1985-02-01,Other foods & beverages,74.5
 1985-03-01,Other foods & beverages,74.4
@@ -3745,6 +3750,7 @@ date,food_group,cpi_value
 2026-05-01,Other foods & beverages,193.1
 2026-06-01,Other foods & beverages,193.7
 2026-07-01,Other foods & beverages,194.5
+2026-08-01,Other foods & beverages,196.3
 1961-01-01,Restaurant meals,10.6
 1961-02-01,Restaurant meals,10.6
 1961-03-01,Restaurant meals,10.6
@@ -4532,6 +4538,7 @@ date,food_group,cpi_value
 2026-05-01,Restaurant meals,206.9
 2026-06-01,Restaurant meals,206.7
 2026-07-01,Restaurant meals,207.5
+2026-08-01,Restaurant meals,208.1
 1978-09-01,Vegetables,37.3
 1978-10-01,Vegetables,39.6
 1978-11-01,Vegetables,40.9
@@ -5107,3 +5114,4 @@ date,food_group,cpi_value
 2026-05-01,Vegetables,207.4
 2026-06-01,Vegetables,200.4
 2026-07-01,Vegetables,197.6
+2026-08-01,Vegetables,194.3

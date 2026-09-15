@@ -4,12 +4,12 @@
   "source_table": "Statistics Canada 18-10-0004-01",
   "frequency": "monthly",
   "unit": "index (2002=100)",
-  "retrieved_at": "2026-09-14T19:12:41.085559+00:00",
-  "latest_observation_date": "2026-07-01",
+  "retrieved_at": "2026-09-15T18:04:13.130916+00:00",
+  "latest_observation_date": "2026-08-01",
   "next_release_date": null,
   "transformations": [
     "filtered to {'GEO': 'Canada', 'Products and product groups': 'Food'}"
   ],
   "notes": null,
-  "row_count": 931
+  "row_count": 932
 }
