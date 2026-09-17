@@ -4,12 +4,12 @@
   "source_table": "Bank of Canada (prime rate; conventional 5-year mortgage rate)",
   "frequency": "weekly",
   "unit": "%",
-  "retrieved_at": "2026-09-15T18:04:56.750406+00:00",
-  "latest_observation_date": "2026-09-09",
+  "retrieved_at": "2026-09-17T18:05:06.462905+00:00",
+  "latest_observation_date": "2026-09-16",
   "next_release_date": null,
   "transformations": [
     "BoC Valet series V80691311, V80691335 -> wide CSV"
   ],
   "notes": null,
-  "row_count": 2437
+  "row_count": 2438
 }

@@ -4,7 +4,7 @@
   "source_table": "OECD MSTI",
   "frequency": "annual",
   "unit": "% of GDP",
-  "retrieved_at": "2026-09-15T18:07:34.580931+00:00",
+  "retrieved_at": "2026-09-17T18:08:53.600254+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

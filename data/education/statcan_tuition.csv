@@ -18,7 +18,8 @@ year,geography,level,tuition
 2022,Alberta,Canadian graduate,7515.0
 2023,Alberta,Canadian graduate,6489.0
 2024,Alberta,Canadian graduate,6675.0
-2025,Alberta,Canadian graduate,6804.0
+2025,Alberta,Canadian graduate,6837.0
+2026,Alberta,Canadian graduate,6962.0
 2006,Alberta,Canadian undergraduate,4763.0
 2007,Alberta,Canadian undergraduate,5122.0
 2008,Alberta,Canadian undergraduate,5308.0
@@ -38,7 +39,8 @@ year,geography,level,tuition
 2022,Alberta,Canadian undergraduate,7203.0
 2023,Alberta,Canadian undergraduate,7561.0
 2024,Alberta,Canadian undergraduate,7909.0
-2025,Alberta,Canadian undergraduate,8067.0
+2025,Alberta,Canadian undergraduate,8091.0
+2026,Alberta,Canadian undergraduate,8260.0
 2006,Alberta,International graduate,9670.0
 2007,Alberta,International graduate,11264.0
 2008,Alberta,International graduate,9324.0
@@ -58,7 +60,8 @@ year,geography,level,tuition
 2022,Alberta,International graduate,16909.0
 2023,Alberta,International graduate,15302.0
 2024,Alberta,International graduate,16321.0
-2025,Alberta,International graduate,16990.0
+2025,Alberta,International graduate,17061.0
+2026,Alberta,International graduate,18302.0
 2006,Alberta,International undergraduate,12617.0
 2007,Alberta,International undergraduate,13309.0
 2008,Alberta,International undergraduate,14399.0
@@ -78,7 +81,8 @@ year,geography,level,tuition
 2022,Alberta,International undergraduate,29507.0
 2023,Alberta,International undergraduate,31498.0
 2024,Alberta,International undergraduate,33417.0
-2025,Alberta,International undergraduate,34880.0
+2025,Alberta,International undergraduate,34166.0
+2026,Alberta,International undergraduate,36369.0
 2006,British Columbia,Canadian graduate,5605.0
 2007,British Columbia,Canadian graduate,6431.0
 2008,British Columbia,Canadian graduate,7241.0
@@ -98,7 +102,8 @@ year,geography,level,tuition
 2022,British Columbia,Canadian graduate,10524.0
 2023,British Columbia,Canadian graduate,10803.0
 2024,British Columbia,Canadian graduate,11024.0
-2025,British Columbia,Canadian graduate,11195.0
+2025,British Columbia,Canadian graduate,11185.0
+2026,British Columbia,Canadian graduate,11388.0
 2006,British Columbia,Canadian undergraduate,4740.0
 2007,British Columbia,Canadian undergraduate,4922.0
 2008,British Columbia,Canadian undergraduate,4746.0
@@ -118,7 +123,8 @@ year,geography,level,tuition
 2022,British Columbia,Canadian undergraduate,6258.0
 2023,British Columbia,Canadian undergraduate,6477.0
 2024,British Columbia,Canadian undergraduate,6724.0
-2025,British Columbia,Canadian undergraduate,6862.0
+2025,British Columbia,Canadian undergraduate,6937.0
+2026,British Columbia,Canadian undergraduate,7117.0
 2006,British Columbia,International graduate,8893.0
 2007,British Columbia,International graduate,13876.0
 2008,British Columbia,International graduate,13876.0
@@ -138,7 +144,8 @@ year,geography,level,tuition
 2022,British Columbia,International graduate,22396.0
 2023,British Columbia,International graduate,24139.0
 2024,British Columbia,International graduate,25513.0
-2025,British Columbia,International graduate,26607.0
+2025,British Columbia,International graduate,26713.0
+2026,British Columbia,International graduate,27612.0
 2006,British Columbia,International undergraduate,15564.0
 2007,British Columbia,International undergraduate,16463.0
 2008,British Columbia,International undergraduate,15378.0
@@ -158,7 +165,8 @@ year,geography,level,tuition
 2022,British Columbia,International undergraduate,33115.0
 2023,British Columbia,International undergraduate,35469.0
 2024,British Columbia,International undergraduate,37414.0
-2025,British Columbia,International undergraduate,39851.0
+2025,British Columbia,International undergraduate,38797.0
+2026,British Columbia,International undergraduate,40314.0
 2006,Canada,Canadian graduate,5387.0
 2007,Canada,Canadian graduate,5592.0
 2008,Canada,Canadian graduate,5737.0
@@ -178,7 +186,8 @@ year,geography,level,tuition
 2022,Canada,Canadian graduate,7409.0
 2023,Canada,Canadian graduate,7542.0
 2024,Canada,Canadian graduate,7762.0
-2025,Canada,Canadian graduate,7978.0
+2025,Canada,Canadian graduate,7863.0
+2026,Canada,Canadian graduate,8106.0
 2006,Canada,Canadian undergraduate,4400.0
 2007,Canada,Canadian undergraduate,4558.0
 2008,Canada,Canadian undergraduate,4747.0
@@ -198,7 +207,8 @@ year,geography,level,tuition
 2022,Canada,Canadian undergraduate,6871.0
 2023,Canada,Canadian undergraduate,7152.0
 2024,Canada,Canadian undergraduate,7485.0
-2025,Canada,Canadian undergraduate,7734.0
+2025,Canada,Canadian undergraduate,7772.0
+2026,Canada,Canadian undergraduate,8021.0
 2006,Canada,International graduate,11093.0
 2007,Canada,International graduate,12560.0
 2008,Canada,International graduate,12337.0
@@ -218,7 +228,8 @@ year,geography,level,tuition
 2022,Canada,International graduate,21155.0
 2023,Canada,International graduate,22114.0
 2024,Canada,International graduate,23247.0
-2025,Canada,International graduate,24028.0
+2025,Canada,International graduate,23838.0
+2026,Canada,International graduate,24693.0
 2006,Canada,International undergraduate,13378.0
 2007,Canada,International undergraduate,13947.0
 2008,Canada,International undergraduate,14630.0
@@ -238,7 +249,8 @@ year,geography,level,tuition
 2022,Canada,International undergraduate,35836.0
 2023,Canada,International undergraduate,38251.0
 2024,Canada,International undergraduate,39974.0
-2025,Canada,International undergraduate,41746.0
+2025,Canada,International undergraduate,40431.0
+2026,Canada,International undergraduate,42062.0
 2006,Manitoba,Canadian graduate,4626.0
 2007,Manitoba,Canadian graduate,4602.0
 2008,Manitoba,Canadian graduate,3805.0
@@ -258,7 +270,8 @@ year,geography,level,tuition
 2022,Manitoba,Canadian graduate,5587.0
 2023,Manitoba,Canadian graduate,5775.0
 2024,Manitoba,Canadian graduate,5880.0
-2025,Manitoba,Canadian graduate,6087.0
+2025,Manitoba,Canadian graduate,6085.0
+2026,Manitoba,Canadian graduate,6328.0
 2006,Manitoba,Canadian undergraduate,3319.0
 2007,Manitoba,Canadian undergraduate,3271.0
 2008,Manitoba,Canadian undergraduate,3238.0
@@ -278,7 +291,8 @@ year,geography,level,tuition
 2022,Manitoba,Canadian undergraduate,5245.0
 2023,Manitoba,Canadian undergraduate,5390.0
 2024,Manitoba,Canadian undergraduate,5767.0
-2025,Manitoba,Canadian undergraduate,5993.0
+2025,Manitoba,Canadian undergraduate,5968.0
+2026,Manitoba,Canadian undergraduate,6247.0
 2006,Manitoba,International graduate,8831.0
 2007,Manitoba,International graduate,8699.0
 2008,Manitoba,International graduate,7973.0
@@ -298,7 +312,8 @@ year,geography,level,tuition
 2022,Manitoba,International graduate,12407.0
 2023,Manitoba,International graduate,12730.0
 2024,Manitoba,International graduate,13074.0
-2025,Manitoba,International graduate,13556.0
+2025,Manitoba,International graduate,13490.0
+2026,Manitoba,International graduate,14030.0
 2006,Manitoba,International undergraduate,9122.0
 2007,Manitoba,International undergraduate,8457.0
 2008,Manitoba,International undergraduate,9690.0
@@ -318,7 +333,8 @@ year,geography,level,tuition
 2022,Manitoba,International undergraduate,18405.0
 2023,Manitoba,International undergraduate,18928.0
 2024,Manitoba,International undergraduate,20122.0
-2025,Manitoba,International undergraduate,21424.0
+2025,Manitoba,International undergraduate,21446.0
+2026,Manitoba,International undergraduate,23160.0
 2006,New Brunswick,Canadian graduate,4970.0
 2007,New Brunswick,Canadian graduate,5119.0
 2008,New Brunswick,Canadian graduate,5070.0
@@ -338,7 +354,8 @@ year,geography,level,tuition
 2022,New Brunswick,Canadian graduate,7186.0
 2023,New Brunswick,Canadian graduate,7774.0
 2024,New Brunswick,Canadian graduate,7908.0
-2025,New Brunswick,Canadian graduate,8270.0
+2025,New Brunswick,Canadian graduate,8195.0
+2026,New Brunswick,Canadian graduate,8585.0
 2006,New Brunswick,Canadian undergraduate,5470.0
 2007,New Brunswick,Canadian undergraduate,5590.0
 2008,New Brunswick,Canadian undergraduate,5479.0
@@ -358,7 +375,8 @@ year,geography,level,tuition
 2022,New Brunswick,Canadian undergraduate,8308.0
 2023,New Brunswick,Canadian undergraduate,8701.0
 2024,New Brunswick,Canadian undergraduate,9533.0
-2025,New Brunswick,Canadian undergraduate,9938.0
+2025,New Brunswick,Canadian undergraduate,9905.0
+2026,New Brunswick,Canadian undergraduate,10373.0
 2006,New Brunswick,International graduate,8841.0
 2007,New Brunswick,International graduate,9172.0
 2008,New Brunswick,International graduate,8960.0
@@ -378,7 +396,8 @@ year,geography,level,tuition
 2022,New Brunswick,International graduate,13129.0
 2023,New Brunswick,International graduate,16398.0
 2024,New Brunswick,International graduate,16829.0
-2025,New Brunswick,International graduate,17868.0
+2025,New Brunswick,International graduate,15883.0
+2026,New Brunswick,International graduate,16691.0
 2006,New Brunswick,International undergraduate,10630.0
 2007,New Brunswick,International undergraduate,10990.0
 2008,New Brunswick,International undergraduate,10973.0
@@ -398,7 +417,8 @@ year,geography,level,tuition
 2022,New Brunswick,International undergraduate,17253.0
 2023,New Brunswick,International undergraduate,17728.0
 2024,New Brunswick,International undergraduate,18572.0
-2025,New Brunswick,International undergraduate,19278.0
+2025,New Brunswick,International undergraduate,19169.0
+2026,New Brunswick,International undergraduate,20029.0
 2006,Newfoundland and Labrador,Canadian graduate,2096.0
 2007,Newfoundland and Labrador,Canadian graduate,3686.0
 2008,Newfoundland and Labrador,Canadian graduate,2443.0
@@ -418,7 +438,8 @@ year,geography,level,tuition
 2022,Newfoundland and Labrador,Canadian graduate,3228.0
 2023,Newfoundland and Labrador,Canadian graduate,3435.0
 2024,Newfoundland and Labrador,Canadian graduate,4081.0
-2025,Newfoundland and Labrador,Canadian graduate,4081.0
+2025,Newfoundland and Labrador,Canadian graduate,4037.0
+2026,Newfoundland and Labrador,Canadian graduate,4037.0
 2006,Newfoundland and Labrador,Canadian undergraduate,2633.0
 2007,Newfoundland and Labrador,Canadian undergraduate,2632.0
 2008,Newfoundland and Labrador,Canadian undergraduate,2619.0
@@ -438,7 +459,8 @@ year,geography,level,tuition
 2022,Newfoundland and Labrador,Canadian undergraduate,3361.0
 2023,Newfoundland and Labrador,Canadian undergraduate,3593.0
 2024,Newfoundland and Labrador,Canadian undergraduate,3623.0
-2025,Newfoundland and Labrador,Canadian undergraduate,3746.0
+2025,Newfoundland and Labrador,Canadian undergraduate,3712.0
+2026,Newfoundland and Labrador,Canadian undergraduate,3718.0
 2006,Newfoundland and Labrador,International graduate,2723.0
 2007,Newfoundland and Labrador,International graduate,3464.0
 2008,Newfoundland and Labrador,International graduate,2785.0
@@ -458,7 +480,8 @@ year,geography,level,tuition
 2022,Newfoundland and Labrador,International graduate,4806.0
 2023,Newfoundland and Labrador,International graduate,4833.0
 2024,Newfoundland and Labrador,International graduate,6964.0
-2025,Newfoundland and Labrador,International graduate,6964.0
+2025,Newfoundland and Labrador,International graduate,6996.0
+2026,Newfoundland and Labrador,International graduate,6996.0
 2006,Newfoundland and Labrador,International undergraduate,10147.0
 2007,Newfoundland and Labrador,International undergraduate,9599.0
 2008,Newfoundland and Labrador,International undergraduate,9322.0
@@ -478,7 +501,8 @@ year,geography,level,tuition
 2022,Newfoundland and Labrador,International undergraduate,16815.0
 2023,Newfoundland and Labrador,International undergraduate,17515.0
 2024,Newfoundland and Labrador,International undergraduate,18142.0
-2025,Newfoundland and Labrador,International undergraduate,18867.0
+2025,Newfoundland and Labrador,International undergraduate,18862.0
+2026,Newfoundland and Labrador,International undergraduate,18911.0
 2006,Nova Scotia,Canadian graduate,8054.0
 2007,Nova Scotia,Canadian graduate,7357.0
 2008,Nova Scotia,Canadian graduate,7734.0
@@ -498,7 +522,8 @@ year,geography,level,tuition
 2022,Nova Scotia,Canadian graduate,10240.0
 2023,Nova Scotia,Canadian graduate,10479.0
 2024,Nova Scotia,Canadian graduate,10700.0
-2025,Nova Scotia,Canadian graduate,10923.0
+2025,Nova Scotia,Canadian graduate,11005.0
+2026,Nova Scotia,Canadian graduate,11245.0
 2006,Nova Scotia,Canadian undergraduate,6422.0
 2007,Nova Scotia,Canadian undergraduate,6110.0
 2008,Nova Scotia,Canadian undergraduate,5877.0
@@ -518,7 +543,8 @@ year,geography,level,tuition
 2022,Nova Scotia,Canadian undergraduate,9270.0
 2023,Nova Scotia,Canadian undergraduate,9551.0
 2024,Nova Scotia,Canadian undergraduate,9934.0
-2025,Nova Scotia,Canadian undergraduate,9988.0
+2025,Nova Scotia,Canadian undergraduate,9985.0
+2026,Nova Scotia,Canadian undergraduate,10029.0
 2006,Nova Scotia,International graduate,14515.0
 2007,Nova Scotia,International graduate,14868.0
 2008,Nova Scotia,International graduate,14493.0
@@ -538,7 +564,8 @@ year,geography,level,tuition
 2022,Nova Scotia,International graduate,21787.0
 2023,Nova Scotia,International graduate,22501.0
 2024,Nova Scotia,International graduate,23870.0
-2025,Nova Scotia,International graduate,24948.0
+2025,Nova Scotia,International graduate,24949.0
+2026,Nova Scotia,International graduate,26230.0
 2006,Nova Scotia,International undergraduate,12363.0
 2007,Nova Scotia,International undergraduate,12376.0
 2008,Nova Scotia,International undergraduate,12405.0
@@ -558,7 +585,8 @@ year,geography,level,tuition
 2022,Nova Scotia,International undergraduate,21650.0
 2023,Nova Scotia,International undergraduate,25885.0
 2024,Nova Scotia,International undergraduate,27973.0
-2025,Nova Scotia,International undergraduate,29893.0
+2025,Nova Scotia,International undergraduate,29159.0
+2026,Nova Scotia,International undergraduate,31057.0
 2006,Ontario,Canadian graduate,8490.0
 2007,Ontario,Canadian graduate,8486.0
 2008,Ontario,Canadian graduate,8256.0
@@ -578,7 +606,8 @@ year,geography,level,tuition
 2022,Ontario,Canadian graduate,9304.0
 2023,Ontario,Canadian graduate,9522.0
 2024,Ontario,Canadian graduate,9817.0
-2025,Ontario,Canadian graduate,9930.0
+2025,Ontario,Canadian graduate,9699.0
+2026,Ontario,Canadian graduate,10048.0
 2006,Ontario,Canadian undergraduate,5155.0
 2007,Ontario,Canadian undergraduate,5388.0
 2008,Ontario,Canadian undergraduate,5667.0
@@ -598,7 +627,8 @@ year,geography,level,tuition
 2022,Ontario,Canadian undergraduate,7995.0
 2023,Ontario,Canadian undergraduate,8271.0
 2024,Ontario,Canadian undergraduate,8704.0
-2025,Ontario,Canadian undergraduate,8958.0
+2025,Ontario,Canadian undergraduate,8986.0
+2026,Ontario,Canadian undergraduate,9306.0
 2006,Ontario,International graduate,15125.0
 2007,Ontario,International graduate,15433.0
 2008,Ontario,International graduate,15283.0
@@ -618,7 +648,8 @@ year,geography,level,tuition
 2022,Ontario,International graduate,27086.0
 2023,Ontario,International graduate,27010.0
 2024,Ontario,International graduate,27929.0
-2025,Ontario,International graduate,28624.0
+2025,Ontario,International graduate,28299.0
+2026,Ontario,International graduate,28900.0
 2006,Ontario,International undergraduate,14541.0
 2007,Ontario,International undergraduate,15745.0
 2008,Ontario,International undergraduate,16891.0
@@ -638,7 +669,8 @@ year,geography,level,tuition
 2022,Ontario,International undergraduate,44036.0
 2023,Ontario,International undergraduate,46297.0
 2024,Ontario,International undergraduate,48013.0
-2025,Ontario,International undergraduate,49802.0
+2025,Ontario,International undergraduate,48572.0
+2026,Ontario,International undergraduate,50088.0
 2006,Prince Edward Island,Canadian graduate,2693.0
 2007,Prince Edward Island,Canadian graduate,2875.0
 2008,Prince Edward Island,Canadian graduate,2665.0
@@ -658,7 +690,8 @@ year,geography,level,tuition
 2022,Prince Edward Island,Canadian graduate,5582.0
 2023,Prince Edward Island,Canadian graduate,5750.0
 2024,Prince Edward Island,Canadian graduate,6163.0
-2025,Prince Edward Island,Canadian graduate,6563.0
+2025,Prince Edward Island,Canadian graduate,6577.0
+2026,Prince Edward Island,Canadian graduate,7006.0
 2006,Prince Edward Island,Canadian undergraduate,4920.0
 2007,Prince Edward Island,Canadian undergraduate,4440.0
 2008,Prince Edward Island,Canadian undergraduate,4530.0
@@ -678,7 +711,8 @@ year,geography,level,tuition
 2022,Prince Edward Island,Canadian undergraduate,7085.0
 2023,Prince Edward Island,Canadian undergraduate,7359.0
 2024,Prince Edward Island,Canadian undergraduate,7701.0
-2025,Prince Edward Island,Canadian undergraduate,8191.0
+2025,Prince Edward Island,Canadian undergraduate,8182.0
+2026,Prince Edward Island,Canadian undergraduate,8691.0
 2006,Prince Edward Island,International graduate,6068.0
 2007,Prince Edward Island,International graduate,6053.0
 2008,Prince Edward Island,International graduate,6148.0
@@ -698,7 +732,8 @@ year,geography,level,tuition
 2022,Prince Edward Island,International graduate,11060.0
 2023,Prince Edward Island,International graduate,11513.0
 2024,Prince Edward Island,International graduate,12394.0
-2025,Prince Edward Island,International graduate,13262.0
+2025,Prince Edward Island,International graduate,13269.0
+2026,Prince Edward Island,International graduate,14202.0
 2006,Prince Edward Island,International undergraduate,8970.0
 2007,Prince Edward Island,International undergraduate,8760.0
 2008,Prince Edward Island,International undergraduate,8940.0
@@ -718,7 +753,8 @@ year,geography,level,tuition
 2022,Prince Edward Island,International undergraduate,18886.0
 2023,Prince Edward Island,International undergraduate,19128.0
 2024,Prince Edward Island,International undergraduate,19749.0
-2025,Prince Edward Island,International undergraduate,21157.0
+2025,Prince Edward Island,International undergraduate,20765.0
+2026,Prince Edward Island,International undergraduate,22067.0
 2006,Quebec,Canadian graduate,2059.0
 2007,Quebec,Canadian graduate,2370.0
 2008,Quebec,Canadian graduate,2219.0
@@ -738,7 +774,8 @@ year,geography,level,tuition
 2022,Quebec,Canadian graduate,3528.0
 2023,Quebec,Canadian graduate,3760.0
 2024,Quebec,Canadian graduate,3887.0
-2025,Quebec,Canadian graduate,4307.0
+2025,Quebec,Canadian graduate,4270.0
+2026,Quebec,Canadian graduate,4395.0
 2006,Quebec,Canadian undergraduate,1932.0
 2007,Quebec,Canadian undergraduate,2056.0
 2008,Quebec,Canadian undergraduate,2180.0
@@ -758,7 +795,8 @@ year,geography,level,tuition
 2022,Quebec,Canadian undergraduate,3360.0
 2023,Quebec,Canadian undergraduate,3489.0
 2024,Quebec,Canadian undergraduate,3587.0
-2025,Quebec,Canadian undergraduate,3963.0
+2025,Quebec,Canadian undergraduate,4001.0
+2026,Quebec,Canadian undergraduate,4156.0
 2006,Quebec,International graduate,10043.0
 2007,Quebec,International graduate,10957.0
 2008,Quebec,International graduate,11346.0
@@ -778,7 +816,8 @@ year,geography,level,tuition
 2022,Quebec,International graduate,19294.0
 2023,Quebec,International graduate,21115.0
 2024,Quebec,International graduate,22715.0
-2025,Quebec,International graduate,23587.0
+2025,Quebec,International graduate,23665.0
+2026,Quebec,International graduate,24694.0
 2006,Quebec,International undergraduate,12330.0
 2007,Quebec,International undergraduate,12551.0
 2008,Quebec,International undergraduate,13196.0
@@ -798,7 +837,8 @@ year,geography,level,tuition
 2022,Quebec,International undergraduate,29703.0
 2023,Quebec,International undergraduate,32319.0
 2024,Quebec,International undergraduate,34614.0
-2025,Quebec,International undergraduate,36279.0
+2025,Quebec,International undergraduate,35001.0
+2026,Quebec,International undergraduate,36879.0
 2006,Saskatchewan,Canadian graduate,2837.0
 2007,Saskatchewan,Canadian graduate,3533.0
 2008,Saskatchewan,Canadian graduate,2762.0
@@ -818,7 +858,8 @@ year,geography,level,tuition
 2022,Saskatchewan,Canadian graduate,5042.0
 2023,Saskatchewan,Canadian graduate,5217.0
 2024,Saskatchewan,Canadian graduate,5505.0
-2025,Saskatchewan,Canadian graduate,5753.0
+2025,Saskatchewan,Canadian graduate,5287.0
+2026,Saskatchewan,Canadian graduate,5483.0
 2006,Saskatchewan,Canadian undergraduate,4774.0
 2007,Saskatchewan,Canadian undergraduate,5015.0
 2008,Saskatchewan,Canadian undergraduate,5064.0
@@ -838,7 +879,8 @@ year,geography,level,tuition
 2022,Saskatchewan,Canadian undergraduate,8843.0
 2023,Saskatchewan,Canadian undergraduate,9240.0
 2024,Saskatchewan,Canadian undergraduate,9558.0
-2025,Saskatchewan,Canadian undergraduate,9863.0
+2025,Saskatchewan,Canadian undergraduate,9885.0
+2026,Saskatchewan,Canadian undergraduate,10167.0
 2006,Saskatchewan,International graduate,3044.0
 2007,Saskatchewan,International graduate,3716.0
 2008,Saskatchewan,International graduate,2513.0
@@ -858,7 +900,8 @@ year,geography,level,tuition
 2022,Saskatchewan,International graduate,7999.0
 2023,Saskatchewan,International graduate,9280.0
 2024,Saskatchewan,International graduate,9892.0
-2025,Saskatchewan,International graduate,10360.0
+2025,Saskatchewan,International graduate,9465.0
+2026,Saskatchewan,International graduate,9807.0
 2006,Saskatchewan,International undergraduate,10374.0
 2007,Saskatchewan,International undergraduate,10204.0
 2008,Saskatchewan,International undergraduate,10465.0
@@ -878,7 +921,8 @@ year,geography,level,tuition
 2022,Saskatchewan,International undergraduate,24887.0
 2023,Saskatchewan,International undergraduate,28090.0
 2024,Saskatchewan,International undergraduate,31772.0
-2025,Saskatchewan,International undergraduate,33064.0
+2025,Saskatchewan,International undergraduate,30851.0
+2026,Saskatchewan,International undergraduate,33496.0
 2018,Yukon,Canadian undergraduate,3510.0
 2019,Yukon,Canadian undergraduate,3810.0
 2020,Yukon,Canadian undergraduate,3930.0
@@ -887,3 +931,4 @@ year,geography,level,tuition
 2023,Yukon,Canadian undergraduate,4275.0
 2024,Yukon,Canadian undergraduate,4350.0
 2025,Yukon,Canadian undergraduate,4470.0
+2026,Yukon,Canadian undergraduate,4560.0
