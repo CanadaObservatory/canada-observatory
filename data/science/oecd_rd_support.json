@@ -4,7 +4,7 @@
   "source_table": "OECD R&D Tax Incentive indicators (DSD_RDTAX)",
   "frequency": "annual",
   "unit": "% of GDP",
-  "retrieved_at": "2026-09-18T17:40:13.144284+00:00",
+  "retrieved_at": "2026-09-19T17:14:22.275268+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
