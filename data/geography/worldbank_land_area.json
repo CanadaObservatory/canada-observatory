@@ -4,7 +4,7 @@
   "source_table": "AG.LND.TOTL.K2",
   "frequency": "annual",
   "unit": "sq km (land area)",
-  "retrieved_at": "2026-09-19T17:06:13.840649+00:00",
+  "retrieved_at": "2026-09-20T17:21:47.494633+00:00",
   "latest_observation_date": "2023",
   "next_release_date": null,
   "transformations": [

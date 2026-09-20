@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 14-10-0027-01 (Labour Force Survey)",
   "frequency": "annual",
   "unit": "persons employed",
-  "retrieved_at": "2026-09-19T17:11:20.250928+00:00",
+  "retrieved_at": "2026-09-20T17:24:18.093785+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
