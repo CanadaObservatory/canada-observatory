@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 10-10-0015-01 (government finance statistics, quarterly); 36-10-0104-01 (GDP)",
   "frequency": "quarterly",
   "unit": "$ millions / % of GDP",
-  "retrieved_at": "2026-09-22T18:01:55.106897+00:00",
+  "retrieved_at": "2026-09-23T18:23:21.958019+00:00",
   "latest_observation_date": "2026-03-31",
   "next_release_date": null,
   "transformations": [

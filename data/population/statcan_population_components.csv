@@ -49,10 +49,11 @@ date,geography,component,value
 2019-01-01,Alberta,Births,52324.0
 2020-01-01,Alberta,Births,50785.0
 2021-01-01,Alberta,Births,49155.0
-2022-01-01,Alberta,Births,48110.0
-2023-01-01,Alberta,Births,47951.0
-2024-01-01,Alberta,Births,50028.0
-2025-01-01,Alberta,Births,52446.0
+2022-01-01,Alberta,Births,48119.0
+2023-01-01,Alberta,Births,47945.0
+2024-01-01,Alberta,Births,50026.0
+2025-01-01,Alberta,Births,52185.0
+2026-01-01,Alberta,Births,53343.0
 1972-01-01,Alberta,Deaths,10786.0
 1973-01-01,Alberta,Deaths,10750.0
 1974-01-01,Alberta,Deaths,10945.0
@@ -103,10 +104,11 @@ date,geography,component,value
 2019-01-01,Alberta,Deaths,25749.0
 2020-01-01,Alberta,Deaths,27124.0
 2021-01-01,Alberta,Deaths,30260.0
-2022-01-01,Alberta,Deaths,32302.0
+2022-01-01,Alberta,Deaths,32298.0
 2023-01-01,Alberta,Deaths,32453.0
-2024-01-01,Alberta,Deaths,32510.0
-2025-01-01,Alberta,Deaths,33466.0
+2024-01-01,Alberta,Deaths,32250.0
+2025-01-01,Alberta,Deaths,32730.0
+2026-01-01,Alberta,Deaths,34043.0
 1972-01-01,Alberta,Emigrants,8108.0
 1973-01-01,Alberta,Emigrants,7887.0
 1974-01-01,Alberta,Emigrants,10357.0
@@ -159,8 +161,9 @@ date,geography,component,value
 2021-01-01,Alberta,Emigrants,9638.0
 2022-01-01,Alberta,Emigrants,13623.0
 2023-01-01,Alberta,Emigrants,14150.0
-2024-01-01,Alberta,Emigrants,14181.0
-2025-01-01,Alberta,Emigrants,14610.0
+2024-01-01,Alberta,Emigrants,13663.0
+2025-01-01,Alberta,Emigrants,14048.0
+2026-01-01,Alberta,Emigrants,14200.0
 1972-01-01,Alberta,Immigrants,8243.0
 1973-01-01,Alberta,Immigrants,9300.0
 1974-01-01,Alberta,Immigrants,13789.0
@@ -214,7 +217,8 @@ date,geography,component,value
 2022-01-01,Alberta,Immigrants,52560.0
 2023-01-01,Alberta,Immigrants,54311.0
 2024-01-01,Alberta,Immigrants,60287.0
-2025-01-01,Alberta,Immigrants,58194.0
+2025-01-01,Alberta,Immigrants,58205.0
+2026-01-01,Alberta,Immigrants,50158.0
 1972-01-01,Alberta,Net emigration,3310.0
 1973-01-01,Alberta,Net emigration,3475.0
 1974-01-01,Alberta,Net emigration,5845.0
@@ -267,8 +271,9 @@ date,geography,component,value
 2021-01-01,Alberta,Net emigration,4578.0
 2022-01-01,Alberta,Net emigration,6304.0
 2023-01-01,Alberta,Net emigration,6374.0
-2024-01-01,Alberta,Net emigration,6324.0
-2025-01-01,Alberta,Net emigration,6515.0
+2024-01-01,Alberta,Net emigration,6489.0
+2025-01-01,Alberta,Net emigration,6672.0
+2026-01-01,Alberta,Net emigration,6744.0
 1972-01-01,Alberta,Net interprovincial migration,4190.0
 1973-01-01,Alberta,Net interprovincial migration,5498.0
 1974-01-01,Alberta,Net interprovincial migration,2911.0
@@ -322,7 +327,8 @@ date,geography,component,value
 2022-01-01,Alberta,Net interprovincial migration,5646.0
 2023-01-01,Alberta,Net interprovincial migration,39408.0
 2024-01-01,Alberta,Net interprovincial migration,48394.0
-2025-01-01,Alberta,Net interprovincial migration,28138.0
+2025-01-01,Alberta,Net interprovincial migration,26376.0
+2026-01-01,Alberta,Net interprovincial migration,21662.0
 1972-01-01,Alberta,Net non-permanent residents,265.0
 1973-01-01,Alberta,Net non-permanent residents,681.0
 1974-01-01,Alberta,Net non-permanent residents,-148.0
@@ -373,10 +379,11 @@ date,geography,component,value
 2019-01-01,Alberta,Net non-permanent residents,3088.0
 2020-01-01,Alberta,Net non-permanent residents,198.0
 2021-01-01,Alberta,Net non-permanent residents,-4499.0
-2022-01-01,Alberta,Net non-permanent residents,13490.0
-2023-01-01,Alberta,Net non-permanent residents,73002.0
-2024-01-01,Alberta,Net non-permanent residents,100579.0
-2025-01-01,Alberta,Net non-permanent residents,21519.0
+2022-01-01,Alberta,Net non-permanent residents,14335.0
+2023-01-01,Alberta,Net non-permanent residents,71606.0
+2024-01-01,Alberta,Net non-permanent residents,93795.0
+2025-01-01,Alberta,Net non-permanent residents,25472.0
+2026-01-01,Alberta,Net non-permanent residents,-7957.0
 1992-01-01,Alberta,Net temporary emigration,2462.0
 1993-01-01,Alberta,Net temporary emigration,2463.0
 1994-01-01,Alberta,Net temporary emigration,2464.0
@@ -402,14 +409,16 @@ date,geography,component,value
 2014-01-01,Alberta,Net temporary emigration,2217.0
 2015-01-01,Alberta,Net temporary emigration,2218.0
 2016-01-01,Alberta,Net temporary emigration,2218.0
-2022-01-01,Alberta,"Non-permanent residents, inflows",45847.0
-2023-01-01,Alberta,"Non-permanent residents, inflows",98523.0
-2024-01-01,Alberta,"Non-permanent residents, inflows",131163.0
-2025-01-01,Alberta,"Non-permanent residents, inflows",75067.0
-2022-01-01,Alberta,"Non-permanent residents, outflows",32357.0
-2023-01-01,Alberta,"Non-permanent residents, outflows",25521.0
-2024-01-01,Alberta,"Non-permanent residents, outflows",30584.0
-2025-01-01,Alberta,"Non-permanent residents, outflows",53548.0
+2022-01-01,Alberta,"Non-permanent residents, inflows",47465.0
+2023-01-01,Alberta,"Non-permanent residents, inflows",99951.0
+2024-01-01,Alberta,"Non-permanent residents, inflows",131802.0
+2025-01-01,Alberta,"Non-permanent residents, inflows",75939.0
+2026-01-01,Alberta,"Non-permanent residents, inflows",47173.0
+2022-01-01,Alberta,"Non-permanent residents, outflows",33130.0
+2023-01-01,Alberta,"Non-permanent residents, outflows",28345.0
+2024-01-01,Alberta,"Non-permanent residents, outflows",38007.0
+2025-01-01,Alberta,"Non-permanent residents, outflows",50467.0
+2026-01-01,Alberta,"Non-permanent residents, outflows",55130.0
 1972-01-01,Alberta,Residual deviation,387.0
 1973-01-01,Alberta,Residual deviation,387.0
 1974-01-01,Alberta,Residual deviation,386.0
@@ -512,8 +521,9 @@ date,geography,component,value
 2021-01-01,Alberta,Returning emigrants,5060.0
 2022-01-01,Alberta,Returning emigrants,7319.0
 2023-01-01,Alberta,Returning emigrants,7776.0
-2024-01-01,Alberta,Returning emigrants,7857.0
-2025-01-01,Alberta,Returning emigrants,8095.0
+2024-01-01,Alberta,Returning emigrants,7174.0
+2025-01-01,Alberta,Returning emigrants,7376.0
+2026-01-01,Alberta,Returning emigrants,7456.0
 1972-01-01,British Columbia,Births,34478.0
 1973-01-01,British Columbia,Births,34598.0
 1974-01-01,British Columbia,Births,34462.0
@@ -564,10 +574,11 @@ date,geography,component,value
 2019-01-01,British Columbia,Births,43436.0
 2020-01-01,British Columbia,Births,43103.0
 2021-01-01,British Columbia,Births,42902.0
-2022-01-01,British Columbia,Births,43013.0
-2023-01-01,British Columbia,Births,41210.0
-2024-01-01,British Columbia,Births,42718.0
-2025-01-01,British Columbia,Births,44371.0
+2022-01-01,British Columbia,Births,43018.0
+2023-01-01,British Columbia,Births,41212.0
+2024-01-01,British Columbia,Births,42730.0
+2025-01-01,British Columbia,Births,44451.0
+2026-01-01,British Columbia,Births,45568.0
 1972-01-01,British Columbia,Deaths,17798.0
 1973-01-01,British Columbia,Deaths,17921.0
 1974-01-01,British Columbia,Deaths,18830.0
@@ -618,10 +629,11 @@ date,geography,component,value
 2019-01-01,British Columbia,Deaths,38561.0
 2020-01-01,British Columbia,Deaths,39164.0
 2021-01-01,British Columbia,Deaths,42787.0
-2022-01-01,British Columbia,Deaths,45727.0
+2022-01-01,British Columbia,Deaths,45726.0
 2023-01-01,British Columbia,Deaths,45508.0
-2024-01-01,British Columbia,Deaths,44487.0
-2025-01-01,British Columbia,Deaths,43902.0
+2024-01-01,British Columbia,Deaths,44600.0
+2025-01-01,British Columbia,Deaths,44211.0
+2026-01-01,British Columbia,Deaths,43455.0
 1972-01-01,British Columbia,Emigrants,8531.0
 1973-01-01,British Columbia,Emigrants,8354.0
 1974-01-01,British Columbia,Emigrants,11074.0
@@ -674,8 +686,9 @@ date,geography,component,value
 2021-01-01,British Columbia,Emigrants,11959.0
 2022-01-01,British Columbia,Emigrants,18180.0
 2023-01-01,British Columbia,Emigrants,22462.0
-2024-01-01,British Columbia,Emigrants,24287.0
-2025-01-01,British Columbia,Emigrants,25023.0
+2024-01-01,British Columbia,Emigrants,23386.0
+2025-01-01,British Columbia,Emigrants,24045.0
+2026-01-01,British Columbia,Emigrants,24305.0
 1972-01-01,British Columbia,Immigrants,18402.0
 1973-01-01,British Columbia,Immigrants,22570.0
 1974-01-01,British Columbia,Immigrants,32986.0
@@ -729,7 +742,8 @@ date,geography,component,value
 2022-01-01,British Columbia,Immigrants,83222.0
 2023-01-01,British Columbia,Immigrants,66280.0
 2024-01-01,British Columbia,Immigrants,63606.0
-2025-01-01,British Columbia,Immigrants,56203.0
+2025-01-01,British Columbia,Immigrants,56224.0
+2026-01-01,British Columbia,Immigrants,45803.0
 1972-01-01,British Columbia,Net emigration,3576.0
 1973-01-01,British Columbia,Net emigration,3764.0
 1974-01-01,British Columbia,Net emigration,6336.0
@@ -782,8 +796,9 @@ date,geography,component,value
 2021-01-01,British Columbia,Net emigration,5513.0
 2022-01-01,British Columbia,Net emigration,9733.0
 2023-01-01,British Columbia,Net emigration,13669.0
-2024-01-01,British Columbia,Net emigration,14797.0
-2025-01-01,British Columbia,Net emigration,15246.0
+2024-01-01,British Columbia,Net emigration,14416.0
+2025-01-01,British Columbia,Net emigration,14822.0
+2026-01-01,British Columbia,Net emigration,14983.0
 1972-01-01,British Columbia,Net interprovincial migration,28088.0
 1973-01-01,British Columbia,Net interprovincial migration,27193.0
 1974-01-01,British Columbia,Net interprovincial migration,31505.0
@@ -837,7 +852,8 @@ date,geography,component,value
 2022-01-01,British Columbia,Net interprovincial migration,26069.0
 2023-01-01,British Columbia,Net interprovincial migration,3388.0
 2024-01-01,British Columbia,Net interprovincial migration,-4127.0
-2025-01-01,British Columbia,Net interprovincial migration,-2392.0
+2025-01-01,British Columbia,Net interprovincial migration,2579.0
+2026-01-01,British Columbia,Net interprovincial migration,6928.0
 1972-01-01,British Columbia,Net non-permanent residents,285.0
 1973-01-01,British Columbia,Net non-permanent residents,778.0
 1974-01-01,British Columbia,Net non-permanent residents,-212.0
@@ -888,10 +904,11 @@ date,geography,component,value
 2019-01-01,British Columbia,Net non-permanent residents,31892.0
 2020-01-01,British Columbia,Net non-permanent residents,603.0
 2021-01-01,British Columbia,Net non-permanent residents,-8845.0
-2022-01-01,British Columbia,Net non-permanent residents,35336.0
-2023-01-01,British Columbia,Net non-permanent residents,104750.0
-2024-01-01,British Columbia,Net non-permanent residents,112905.0
-2025-01-01,British Columbia,Net non-permanent residents,-12612.0
+2022-01-01,British Columbia,Net non-permanent residents,33355.0
+2023-01-01,British Columbia,Net non-permanent residents,103644.0
+2024-01-01,British Columbia,Net non-permanent residents,103795.0
+2025-01-01,British Columbia,Net non-permanent residents,-882.0
+2026-01-01,British Columbia,Net non-permanent residents,-31807.0
 1992-01-01,British Columbia,Net temporary emigration,3181.0
 1993-01-01,British Columbia,Net temporary emigration,3181.0
 1994-01-01,British Columbia,Net temporary emigration,3182.0
@@ -917,14 +934,16 @@ date,geography,component,value
 2014-01-01,British Columbia,Net temporary emigration,5237.0
 2015-01-01,British Columbia,Net temporary emigration,5234.0
 2016-01-01,British Columbia,Net temporary emigration,5234.0
-2022-01-01,British Columbia,"Non-permanent residents, inflows",133360.0
-2023-01-01,British Columbia,"Non-permanent residents, inflows",188321.0
-2024-01-01,British Columbia,"Non-permanent residents, inflows",211140.0
-2025-01-01,British Columbia,"Non-permanent residents, inflows",115407.0
-2022-01-01,British Columbia,"Non-permanent residents, outflows",98024.0
-2023-01-01,British Columbia,"Non-permanent residents, outflows",83571.0
-2024-01-01,British Columbia,"Non-permanent residents, outflows",98235.0
-2025-01-01,British Columbia,"Non-permanent residents, outflows",128019.0
+2022-01-01,British Columbia,"Non-permanent residents, inflows",133524.0
+2023-01-01,British Columbia,"Non-permanent residents, inflows",191986.0
+2024-01-01,British Columbia,"Non-permanent residents, inflows",212584.0
+2025-01-01,British Columbia,"Non-permanent residents, inflows",118140.0
+2026-01-01,British Columbia,"Non-permanent residents, inflows",82880.0
+2022-01-01,British Columbia,"Non-permanent residents, outflows",100169.0
+2023-01-01,British Columbia,"Non-permanent residents, outflows",88342.0
+2024-01-01,British Columbia,"Non-permanent residents, outflows",108789.0
+2025-01-01,British Columbia,"Non-permanent residents, outflows",119022.0
+2026-01-01,British Columbia,"Non-permanent residents, outflows",114687.0
 1972-01-01,British Columbia,Residual deviation,1737.0
 1973-01-01,British Columbia,Residual deviation,1731.0
 1974-01-01,British Columbia,Residual deviation,1732.0
@@ -1027,8 +1046,9 @@ date,geography,component,value
 2021-01-01,British Columbia,Returning emigrants,6446.0
 2022-01-01,British Columbia,Returning emigrants,8447.0
 2023-01-01,British Columbia,Returning emigrants,8793.0
-2024-01-01,British Columbia,Returning emigrants,9490.0
-2025-01-01,British Columbia,Returning emigrants,9777.0
+2024-01-01,British Columbia,Returning emigrants,8970.0
+2025-01-01,British Columbia,Returning emigrants,9223.0
+2026-01-01,British Columbia,Returning emigrants,9322.0
 1972-01-01,Canada,Births,351256.0
 1973-01-01,Canada,Births,345815.0
 1974-01-01,Canada,Births,342446.0
@@ -1079,10 +1099,11 @@ date,geography,component,value
 2019-01-01,Canada,Births,373307.0
 2020-01-01,Canada,Births,371321.0
 2021-01-01,Canada,Births,362563.0
-2022-01-01,Canada,Births,364449.0
-2023-01-01,Canada,Births,352676.0
-2024-01-01,Canada,Births,361770.0
-2025-01-01,Canada,Births,368928.0
+2022-01-01,Canada,Births,364765.0
+2023-01-01,Canada,Births,352694.0
+2024-01-01,Canada,Births,362014.0
+2025-01-01,Canada,Births,369003.0
+2026-01-01,Canada,Births,374708.0
 1972-01-01,Canada,Deaths,159533.0
 1973-01-01,Canada,Deaths,162618.0
 1974-01-01,Canada,Deaths,166284.0
@@ -1133,10 +1154,11 @@ date,geography,component,value
 2019-01-01,Canada,Deaths,283148.0
 2020-01-01,Canada,Deaths,297195.0
 2021-01-01,Canada,Deaths,307297.0
-2022-01-01,Canada,Deaths,324879.0
-2023-01-01,Canada,Deaths,332449.0
-2024-01-01,Canada,Deaths,330496.0
-2025-01-01,Canada,Deaths,334699.0
+2022-01-01,Canada,Deaths,325622.0
+2023-01-01,Canada,Deaths,333061.0
+2024-01-01,Canada,Deaths,330185.0
+2025-01-01,Canada,Deaths,331304.0
+2026-01-01,Canada,Deaths,337064.0
 1972-01-01,Canada,Emigrants,66034.0
 1973-01-01,Canada,Emigrants,63850.0
 1974-01-01,Canada,Emigrants,83501.0
@@ -1189,8 +1211,9 @@ date,geography,component,value
 2021-01-01,Canada,Emigrants,66627.0
 2022-01-01,Canada,Emigrants,99756.0
 2023-01-01,Canada,Emigrants,113291.0
-2024-01-01,Canada,Emigrants,116488.0
-2025-01-01,Canada,Emigrants,120016.0
+2024-01-01,Canada,Emigrants,107876.0
+2025-01-01,Canada,Emigrants,110914.0
+2026-01-01,Canada,Emigrants,112116.0
 1972-01-01,Canada,Immigrants,117036.0
 1973-01-01,Canada,Immigrants,138526.0
 1974-01-01,Canada,Immigrants,217456.0
@@ -1244,7 +1267,8 @@ date,geography,component,value
 2022-01-01,Canada,Immigrants,493236.0
 2023-01-01,Canada,Immigrants,468913.0
 2024-01-01,Canada,Immigrants,464344.0
-2025-01-01,Canada,Immigrants,435421.0
+2025-01-01,Canada,Immigrants,435551.0
+2026-01-01,Canada,Immigrants,368224.0
 1972-01-01,Canada,Net emigration,26577.0
 1973-01-01,Canada,Net emigration,27733.0
 1974-01-01,Canada,Net emigration,46754.0
@@ -1297,8 +1321,9 @@ date,geography,component,value
 2021-01-01,Canada,Net emigration,25726.0
 2022-01-01,Canada,Net emigration,47253.0
 2023-01-01,Canada,Net emigration,61709.0
-2024-01-01,Canada,Net emigration,63452.0
-2025-01-01,Canada,Net emigration,65372.0
+2024-01-01,Canada,Net emigration,59490.0
+2025-01-01,Canada,Net emigration,61166.0
+2026-01-01,Canada,Net emigration,61829.0
 1999-01-01,Canada,Net interprovincial migration,0.0
 2000-01-01,Canada,Net interprovincial migration,0.0
 2001-01-01,Canada,Net interprovincial migration,0.0
@@ -1326,6 +1351,7 @@ date,geography,component,value
 2023-01-01,Canada,Net interprovincial migration,0.0
 2024-01-01,Canada,Net interprovincial migration,0.0
 2025-01-01,Canada,Net interprovincial migration,0.0
+2026-01-01,Canada,Net interprovincial migration,0.0
 1972-01-01,Canada,Net non-permanent residents,2997.0
 1973-01-01,Canada,Net non-permanent residents,7994.0
 1974-01-01,Canada,Net non-permanent residents,-2001.0
@@ -1376,10 +1402,11 @@ date,geography,component,value
 2019-01-01,Canada,Net non-permanent residents,168833.0
 2020-01-01,Canada,Net non-permanent residents,75265.0
 2021-01-01,Canada,Net non-permanent residents,-51719.0
-2022-01-01,Canada,Net non-permanent residents,224715.0
-2023-01-01,Canada,Net non-permanent residents,671525.0
-2024-01-01,Canada,Net non-permanent residents,781075.0
-2025-01-01,Canada,Net non-permanent residents,-14954.0
+2022-01-01,Canada,Net non-permanent residents,220638.0
+2023-01-01,Canada,Net non-permanent residents,650239.0
+2024-01-01,Canada,Net non-permanent residents,703206.0
+2025-01-01,Canada,Net non-permanent residents,34305.0
+2026-01-01,Canada,Net non-permanent residents,-154614.0
 1992-01-01,Canada,Net temporary emigration,19741.0
 1993-01-01,Canada,Net temporary emigration,19744.0
 1994-01-01,Canada,Net temporary emigration,19746.0
@@ -1405,14 +1432,16 @@ date,geography,component,value
 2014-01-01,Canada,Net temporary emigration,26668.0
 2015-01-01,Canada,Net temporary emigration,26665.0
 2016-01-01,Canada,Net temporary emigration,26664.0
-2022-01-01,Canada,"Non-permanent residents, inflows",697162.0
-2023-01-01,Canada,"Non-permanent residents, inflows",1067601.0
-2024-01-01,Canada,"Non-permanent residents, inflows",1251653.0
-2025-01-01,Canada,"Non-permanent residents, inflows",676160.0
-2022-01-01,Canada,"Non-permanent residents, outflows",472447.0
-2023-01-01,Canada,"Non-permanent residents, outflows",396076.0
-2024-01-01,Canada,"Non-permanent residents, outflows",470578.0
-2025-01-01,Canada,"Non-permanent residents, outflows",691114.0
+2022-01-01,Canada,"Non-permanent residents, inflows",703698.0
+2023-01-01,Canada,"Non-permanent residents, inflows",1078749.0
+2024-01-01,Canada,"Non-permanent residents, inflows",1245885.0
+2025-01-01,Canada,"Non-permanent residents, inflows",670510.0
+2026-01-01,Canada,"Non-permanent residents, inflows",441442.0
+2022-01-01,Canada,"Non-permanent residents, outflows",483060.0
+2023-01-01,Canada,"Non-permanent residents, outflows",428510.0
+2024-01-01,Canada,"Non-permanent residents, outflows",542679.0
+2025-01-01,Canada,"Non-permanent residents, outflows",636205.0
+2026-01-01,Canada,"Non-permanent residents, outflows",596056.0
 1972-01-01,Canada,Residual deviation,-28748.0
 1973-01-01,Canada,Residual deviation,-28670.0
 1974-01-01,Canada,Residual deviation,-28671.0
@@ -1515,8 +1544,9 @@ date,geography,component,value
 2021-01-01,Canada,Returning emigrants,40901.0
 2022-01-01,Canada,Returning emigrants,52503.0
 2023-01-01,Canada,Returning emigrants,51582.0
-2024-01-01,Canada,Returning emigrants,53036.0
-2025-01-01,Canada,Returning emigrants,54644.0
+2024-01-01,Canada,Returning emigrants,48386.0
+2025-01-01,Canada,Returning emigrants,49748.0
+2026-01-01,Canada,Returning emigrants,50287.0
 1972-01-01,Manitoba,Births,17627.0
 1973-01-01,Manitoba,Births,16990.0
 1974-01-01,Manitoba,Births,17080.0
@@ -1567,10 +1597,11 @@ date,geography,component,value
 2019-01-01,Manitoba,Births,16806.0
 2020-01-01,Manitoba,Births,16716.0
 2021-01-01,Manitoba,Births,16532.0
-2022-01-01,Manitoba,Births,15789.0
-2023-01-01,Manitoba,Births,15482.0
-2024-01-01,Manitoba,Births,15597.0
-2025-01-01,Manitoba,Births,15820.0
+2022-01-01,Manitoba,Births,15807.0
+2023-01-01,Manitoba,Births,15489.0
+2024-01-01,Manitoba,Births,15611.0
+2025-01-01,Manitoba,Births,15645.0
+2026-01-01,Manitoba,Births,15915.0
 1972-01-01,Manitoba,Deaths,8022.0
 1973-01-01,Manitoba,Deaths,8236.0
 1974-01-01,Manitoba,Deaths,8411.0
@@ -1621,10 +1652,11 @@ date,geography,component,value
 2019-01-01,Manitoba,Deaths,10939.0
 2020-01-01,Manitoba,Deaths,11322.0
 2021-01-01,Manitoba,Deaths,12000.0
-2022-01-01,Manitoba,Deaths,12817.0
-2023-01-01,Manitoba,Deaths,12712.0
-2024-01-01,Manitoba,Deaths,12643.0
-2025-01-01,Manitoba,Deaths,12847.0
+2022-01-01,Manitoba,Deaths,12822.0
+2023-01-01,Manitoba,Deaths,12718.0
+2024-01-01,Manitoba,Deaths,12821.0
+2025-01-01,Manitoba,Deaths,12968.0
+2026-01-01,Manitoba,Deaths,13252.0
 1972-01-01,Manitoba,Emigrants,2495.0
 1973-01-01,Manitoba,Emigrants,2387.0
 1974-01-01,Manitoba,Emigrants,3102.0
@@ -1677,8 +1709,9 @@ date,geography,component,value
 2021-01-01,Manitoba,Emigrants,2310.0
 2022-01-01,Manitoba,Emigrants,3415.0
 2023-01-01,Manitoba,Emigrants,3314.0
-2024-01-01,Manitoba,Emigrants,3003.0
-2025-01-01,Manitoba,Emigrants,3095.0
+2024-01-01,Manitoba,Emigrants,2572.0
+2025-01-01,Manitoba,Emigrants,2644.0
+2026-01-01,Manitoba,Emigrants,2672.0
 1972-01-01,Manitoba,Immigrants,5086.0
 1973-01-01,Manitoba,Immigrants,5352.0
 1974-01-01,Manitoba,Immigrants,7769.0
@@ -1732,7 +1765,8 @@ date,geography,component,value
 2022-01-01,Manitoba,Immigrants,21343.0
 2023-01-01,Manitoba,Immigrants,25602.0
 2024-01-01,Manitoba,Immigrants,23589.0
-2025-01-01,Manitoba,Immigrants,21433.0
+2025-01-01,Manitoba,Immigrants,21436.0
+2026-01-01,Manitoba,Immigrants,19345.0
 1972-01-01,Manitoba,Net emigration,963.0
 1973-01-01,Manitoba,Net emigration,999.0
 1974-01-01,Manitoba,Net emigration,1708.0
@@ -1785,8 +1819,9 @@ date,geography,component,value
 2021-01-01,Manitoba,Net emigration,1124.0
 2022-01-01,Manitoba,Net emigration,1957.0
 2023-01-01,Manitoba,Net emigration,1631.0
-2024-01-01,Manitoba,Net emigration,1425.0
-2025-01-01,Manitoba,Net emigration,1469.0
+2024-01-01,Manitoba,Net emigration,1066.0
+2025-01-01,Manitoba,Net emigration,1095.0
+2026-01-01,Manitoba,Net emigration,1106.0
 1972-01-01,Manitoba,Net interprovincial migration,-8880.0
 1973-01-01,Manitoba,Net interprovincial migration,-5489.0
 1974-01-01,Manitoba,Net interprovincial migration,-1656.0
@@ -1840,7 +1875,8 @@ date,geography,component,value
 2022-01-01,Manitoba,Net interprovincial migration,-7451.0
 2023-01-01,Manitoba,Net interprovincial migration,-9928.0
 2024-01-01,Manitoba,Net interprovincial migration,-8399.0
-2025-01-01,Manitoba,Net interprovincial migration,-4047.0
+2025-01-01,Manitoba,Net interprovincial migration,-3175.0
+2026-01-01,Manitoba,Net interprovincial migration,-5291.0
 1972-01-01,Manitoba,Net non-permanent residents,82.0
 1973-01-01,Manitoba,Net non-permanent residents,237.0
 1974-01-01,Manitoba,Net non-permanent residents,-77.0
@@ -1891,10 +1927,11 @@ date,geography,component,value
 2019-01-01,Manitoba,Net non-permanent residents,3031.0
 2020-01-01,Manitoba,Net non-permanent residents,-1310.0
 2021-01-01,Manitoba,Net non-permanent residents,479.0
-2022-01-01,Manitoba,Net non-permanent residents,6667.0
-2023-01-01,Manitoba,Net non-permanent residents,22891.0
-2024-01-01,Manitoba,Net non-permanent residents,22223.0
-2025-01-01,Manitoba,Net non-permanent residents,-1332.0
+2022-01-01,Manitoba,Net non-permanent residents,6502.0
+2023-01-01,Manitoba,Net non-permanent residents,21894.0
+2024-01-01,Manitoba,Net non-permanent residents,18985.0
+2025-01-01,Manitoba,Net non-permanent residents,786.0
+2026-01-01,Manitoba,Net non-permanent residents,-6814.0
 1992-01-01,Manitoba,Net temporary emigration,535.0
 1993-01-01,Manitoba,Net temporary emigration,532.0
 1994-01-01,Manitoba,Net temporary emigration,533.0
@@ -1920,14 +1957,16 @@ date,geography,component,value
 2014-01-01,Manitoba,Net temporary emigration,349.0
 2015-01-01,Manitoba,Net temporary emigration,349.0
 2016-01-01,Manitoba,Net temporary emigration,350.0
-2022-01-01,Manitoba,"Non-permanent residents, inflows",17788.0
-2023-01-01,Manitoba,"Non-permanent residents, inflows",34374.0
-2024-01-01,Manitoba,"Non-permanent residents, inflows",35047.0
-2025-01-01,Manitoba,"Non-permanent residents, inflows",19037.0
-2022-01-01,Manitoba,"Non-permanent residents, outflows",11121.0
-2023-01-01,Manitoba,"Non-permanent residents, outflows",11483.0
-2024-01-01,Manitoba,"Non-permanent residents, outflows",12824.0
-2025-01-01,Manitoba,"Non-permanent residents, outflows",20369.0
+2022-01-01,Manitoba,"Non-permanent residents, inflows",18285.0
+2023-01-01,Manitoba,"Non-permanent residents, inflows",35124.0
+2024-01-01,Manitoba,"Non-permanent residents, inflows",35027.0
+2025-01-01,Manitoba,"Non-permanent residents, inflows",18791.0
+2026-01-01,Manitoba,"Non-permanent residents, inflows",12146.0
+2022-01-01,Manitoba,"Non-permanent residents, outflows",11783.0
+2023-01-01,Manitoba,"Non-permanent residents, outflows",13230.0
+2024-01-01,Manitoba,"Non-permanent residents, outflows",16042.0
+2025-01-01,Manitoba,"Non-permanent residents, outflows",18005.0
+2026-01-01,Manitoba,"Non-permanent residents, outflows",18960.0
 1972-01-01,Manitoba,Residual deviation,-2154.0
 1973-01-01,Manitoba,Residual deviation,-2149.0
 1974-01-01,Manitoba,Residual deviation,-2149.0
@@ -2030,8 +2069,9 @@ date,geography,component,value
 2021-01-01,Manitoba,Returning emigrants,1186.0
 2022-01-01,Manitoba,Returning emigrants,1458.0
 2023-01-01,Manitoba,Returning emigrants,1683.0
-2024-01-01,Manitoba,Returning emigrants,1578.0
-2025-01-01,Manitoba,Returning emigrants,1626.0
+2024-01-01,Manitoba,Returning emigrants,1506.0
+2025-01-01,Manitoba,Returning emigrants,1549.0
+2026-01-01,Manitoba,Returning emigrants,1566.0
 1972-01-01,New Brunswick,Births,12047.0
 1973-01-01,New Brunswick,Births,11625.0
 1974-01-01,New Brunswick,Births,11218.0
@@ -2082,10 +2122,11 @@ date,geography,component,value
 2019-01-01,New Brunswick,Births,6369.0
 2020-01-01,New Brunswick,Births,6228.0
 2021-01-01,New Brunswick,Births,6281.0
-2022-01-01,New Brunswick,Births,6379.0
-2023-01-01,New Brunswick,Births,6145.0
-2024-01-01,New Brunswick,Births,6338.0
-2025-01-01,New Brunswick,Births,6618.0
+2022-01-01,New Brunswick,Births,6383.0
+2023-01-01,New Brunswick,Births,6148.0
+2024-01-01,New Brunswick,Births,6339.0
+2025-01-01,New Brunswick,Births,6536.0
+2026-01-01,New Brunswick,Births,6565.0
 1972-01-01,New Brunswick,Deaths,5000.0
 1973-01-01,New Brunswick,Deaths,5023.0
 1974-01-01,New Brunswick,Deaths,5145.0
@@ -2136,10 +2177,11 @@ date,geography,component,value
 2019-01-01,New Brunswick,Deaths,7635.0
 2020-01-01,New Brunswick,Deaths,7586.0
 2021-01-01,New Brunswick,Deaths,7633.0
-2022-01-01,New Brunswick,Deaths,8795.0
-2023-01-01,New Brunswick,Deaths,8977.0
-2024-01-01,New Brunswick,Deaths,8738.0
-2025-01-01,New Brunswick,Deaths,8888.0
+2022-01-01,New Brunswick,Deaths,8791.0
+2023-01-01,New Brunswick,Deaths,8981.0
+2024-01-01,New Brunswick,Deaths,8743.0
+2025-01-01,New Brunswick,Deaths,8865.0
+2026-01-01,New Brunswick,Deaths,9139.0
 1972-01-01,New Brunswick,Emigrants,1121.0
 1973-01-01,New Brunswick,Emigrants,1081.0
 1974-01-01,New Brunswick,Emigrants,1405.0
@@ -2192,8 +2234,9 @@ date,geography,component,value
 2021-01-01,New Brunswick,Emigrants,521.0
 2022-01-01,New Brunswick,Emigrants,814.0
 2023-01-01,New Brunswick,Emigrants,905.0
-2024-01-01,New Brunswick,Emigrants,885.0
-2025-01-01,New Brunswick,Emigrants,912.0
+2024-01-01,New Brunswick,Emigrants,605.0
+2025-01-01,New Brunswick,Emigrants,622.0
+2026-01-01,New Brunswick,Emigrants,629.0
 1972-01-01,New Brunswick,Immigrants,1081.0
 1973-01-01,New Brunswick,Immigrants,1428.0
 1974-01-01,New Brunswick,Immigrants,2279.0
@@ -2247,7 +2290,8 @@ date,geography,component,value
 2022-01-01,New Brunswick,Immigrants,8410.0
 2023-01-01,New Brunswick,Immigrants,11021.0
 2024-01-01,New Brunswick,Immigrants,14975.0
-2025-01-01,New Brunswick,Immigrants,12532.0
+2025-01-01,New Brunswick,Immigrants,12538.0
+2026-01-01,New Brunswick,Immigrants,10205.0
 1972-01-01,New Brunswick,Net emigration,436.0
 1973-01-01,New Brunswick,Net emigration,459.0
 1974-01-01,New Brunswick,Net emigration,775.0
@@ -2300,8 +2344,9 @@ date,geography,component,value
 2021-01-01,New Brunswick,Net emigration,77.0
 2022-01-01,New Brunswick,Net emigration,284.0
 2023-01-01,New Brunswick,Net emigration,560.0
-2024-01-01,New Brunswick,Net emigration,548.0
-2025-01-01,New Brunswick,Net emigration,565.0
+2024-01-01,New Brunswick,Net emigration,311.0
+2025-01-01,New Brunswick,Net emigration,320.0
+2026-01-01,New Brunswick,Net emigration,324.0
 1972-01-01,New Brunswick,Net interprovincial migration,384.0
 1973-01-01,New Brunswick,Net interprovincial migration,2102.0
 1974-01-01,New Brunswick,Net interprovincial migration,2269.0
@@ -2355,7 +2400,8 @@ date,geography,component,value
 2022-01-01,New Brunswick,Net interprovincial migration,7897.0
 2023-01-01,New Brunswick,Net interprovincial migration,5051.0
 2024-01-01,New Brunswick,Net interprovincial migration,5419.0
-2025-01-01,New Brunswick,Net interprovincial migration,-186.0
+2025-01-01,New Brunswick,Net interprovincial migration,5121.0
+2026-01-01,New Brunswick,Net interprovincial migration,-17.0
 1972-01-01,New Brunswick,Net non-permanent residents,43.0
 1973-01-01,New Brunswick,Net non-permanent residents,94.0
 1974-01-01,New Brunswick,Net non-permanent residents,-6.0
@@ -2406,10 +2452,11 @@ date,geography,component,value
 2019-01-01,New Brunswick,Net non-permanent residents,1556.0
 2020-01-01,New Brunswick,Net non-permanent residents,639.0
 2021-01-01,New Brunswick,Net non-permanent residents,1467.0
-2022-01-01,New Brunswick,Net non-permanent residents,4460.0
-2023-01-01,New Brunswick,Net non-permanent residents,9554.0
-2024-01-01,New Brunswick,Net non-permanent residents,9744.0
-2025-01-01,New Brunswick,Net non-permanent residents,1878.0
+2022-01-01,New Brunswick,Net non-permanent residents,4170.0
+2023-01-01,New Brunswick,Net non-permanent residents,8671.0
+2024-01-01,New Brunswick,Net non-permanent residents,9498.0
+2025-01-01,New Brunswick,Net non-permanent residents,2587.0
+2026-01-01,New Brunswick,Net non-permanent residents,1521.0
 1992-01-01,New Brunswick,Net temporary emigration,155.0
 1993-01-01,New Brunswick,Net temporary emigration,154.0
 1994-01-01,New Brunswick,Net temporary emigration,154.0
@@ -2435,14 +2482,16 @@ date,geography,component,value
 2014-01-01,New Brunswick,Net temporary emigration,203.0
 2015-01-01,New Brunswick,Net temporary emigration,203.0
 2016-01-01,New Brunswick,Net temporary emigration,204.0
-2022-01-01,New Brunswick,"Non-permanent residents, inflows",10415.0
-2023-01-01,New Brunswick,"Non-permanent residents, inflows",15637.0
-2024-01-01,New Brunswick,"Non-permanent residents, inflows",19695.0
-2025-01-01,New Brunswick,"Non-permanent residents, inflows",12971.0
-2022-01-01,New Brunswick,"Non-permanent residents, outflows",5955.0
-2023-01-01,New Brunswick,"Non-permanent residents, outflows",6083.0
-2024-01-01,New Brunswick,"Non-permanent residents, outflows",9951.0
-2025-01-01,New Brunswick,"Non-permanent residents, outflows",11093.0
+2022-01-01,New Brunswick,"Non-permanent residents, inflows",10368.0
+2023-01-01,New Brunswick,"Non-permanent residents, inflows",15411.0
+2024-01-01,New Brunswick,"Non-permanent residents, inflows",19698.0
+2025-01-01,New Brunswick,"Non-permanent residents, inflows",12605.0
+2026-01-01,New Brunswick,"Non-permanent residents, inflows",10393.0
+2022-01-01,New Brunswick,"Non-permanent residents, outflows",6198.0
+2023-01-01,New Brunswick,"Non-permanent residents, outflows",6740.0
+2024-01-01,New Brunswick,"Non-permanent residents, outflows",10200.0
+2025-01-01,New Brunswick,"Non-permanent residents, outflows",10018.0
+2026-01-01,New Brunswick,"Non-permanent residents, outflows",8872.0
 1972-01-01,New Brunswick,Residual deviation,-1821.0
 1973-01-01,New Brunswick,Residual deviation,-1816.0
 1974-01-01,New Brunswick,Residual deviation,-1816.0
@@ -2545,8 +2594,9 @@ date,geography,component,value
 2021-01-01,New Brunswick,Returning emigrants,444.0
 2022-01-01,New Brunswick,Returning emigrants,530.0
 2023-01-01,New Brunswick,Returning emigrants,345.0
-2024-01-01,New Brunswick,Returning emigrants,337.0
-2025-01-01,New Brunswick,Returning emigrants,347.0
+2024-01-01,New Brunswick,Returning emigrants,294.0
+2025-01-01,New Brunswick,Returning emigrants,302.0
+2026-01-01,New Brunswick,Returning emigrants,305.0
 1972-01-01,Newfoundland and Labrador,Births,12746.0
 1973-01-01,Newfoundland and Labrador,Births,12624.0
 1974-01-01,Newfoundland and Labrador,Births,11962.0
@@ -2597,10 +2647,11 @@ date,geography,component,value
 2019-01-01,Newfoundland and Labrador,Births,3893.0
 2020-01-01,Newfoundland and Labrador,Births,3700.0
 2021-01-01,Newfoundland and Labrador,Births,3694.0
-2022-01-01,Newfoundland and Labrador,Births,3795.0
-2023-01-01,Newfoundland and Labrador,Births,3315.0
+2022-01-01,Newfoundland and Labrador,Births,3800.0
+2023-01-01,Newfoundland and Labrador,Births,3321.0
 2024-01-01,Newfoundland and Labrador,Births,3315.0
-2025-01-01,Newfoundland and Labrador,Births,3418.0
+2025-01-01,Newfoundland and Labrador,Births,3360.0
+2026-01-01,Newfoundland and Labrador,Births,3368.0
 1972-01-01,Newfoundland and Labrador,Deaths,3269.0
 1973-01-01,Newfoundland and Labrador,Deaths,3400.0
 1974-01-01,Newfoundland and Labrador,Deaths,3362.0
@@ -2651,10 +2702,11 @@ date,geography,component,value
 2019-01-01,Newfoundland and Labrador,Deaths,5208.0
 2020-01-01,Newfoundland and Labrador,Deaths,5381.0
 2021-01-01,Newfoundland and Labrador,Deaths,5451.0
-2022-01-01,Newfoundland and Labrador,Deaths,6292.0
-2023-01-01,Newfoundland and Labrador,Deaths,6281.0
-2024-01-01,Newfoundland and Labrador,Deaths,6222.0
-2025-01-01,Newfoundland and Labrador,Deaths,6347.0
+2022-01-01,Newfoundland and Labrador,Deaths,6290.0
+2023-01-01,Newfoundland and Labrador,Deaths,6299.0
+2024-01-01,Newfoundland and Labrador,Deaths,6301.0
+2025-01-01,Newfoundland and Labrador,Deaths,6389.0
+2026-01-01,Newfoundland and Labrador,Deaths,6607.0
 1972-01-01,Newfoundland and Labrador,Emigrants,441.0
 1973-01-01,Newfoundland and Labrador,Emigrants,427.0
 1974-01-01,Newfoundland and Labrador,Emigrants,556.0
@@ -2707,8 +2759,9 @@ date,geography,component,value
 2021-01-01,Newfoundland and Labrador,Emigrants,336.0
 2022-01-01,Newfoundland and Labrador,Emigrants,375.0
 2023-01-01,Newfoundland and Labrador,Emigrants,270.0
-2024-01-01,Newfoundland and Labrador,Emigrants,259.0
-2025-01-01,Newfoundland and Labrador,Emigrants,266.0
+2024-01-01,Newfoundland and Labrador,Emigrants,307.0
+2025-01-01,Newfoundland and Labrador,Emigrants,316.0
+2026-01-01,Newfoundland and Labrador,Emigrants,319.0
 1972-01-01,Newfoundland and Labrador,Immigrants,729.0
 1973-01-01,Newfoundland and Labrador,Immigrants,751.0
 1974-01-01,Newfoundland and Labrador,Immigrants,1128.0
@@ -2762,7 +2815,8 @@ date,geography,component,value
 2022-01-01,Newfoundland and Labrador,Immigrants,2841.0
 2023-01-01,Newfoundland and Labrador,Immigrants,5337.0
 2024-01-01,Newfoundland and Labrador,Immigrants,5333.0
-2025-01-01,Newfoundland and Labrador,Immigrants,5473.0
+2025-01-01,Newfoundland and Labrador,Immigrants,5470.0
+2026-01-01,Newfoundland and Labrador,Immigrants,5311.0
 1972-01-01,Newfoundland and Labrador,Net emigration,175.0
 1973-01-01,Newfoundland and Labrador,Net emigration,184.0
 1974-01-01,Newfoundland and Labrador,Net emigration,310.0
@@ -2815,8 +2869,9 @@ date,geography,component,value
 2021-01-01,Newfoundland and Labrador,Net emigration,147.0
 2022-01-01,Newfoundland and Labrador,Net emigration,175.0
 2023-01-01,Newfoundland and Labrador,Net emigration,145.0
-2024-01-01,Newfoundland and Labrador,Net emigration,138.0
-2025-01-01,Newfoundland and Labrador,Net emigration,141.0
+2024-01-01,Newfoundland and Labrador,Net emigration,177.0
+2025-01-01,Newfoundland and Labrador,Net emigration,183.0
+2026-01-01,Newfoundland and Labrador,Net emigration,184.0
 1972-01-01,Newfoundland and Labrador,Net interprovincial migration,864.0
 1973-01-01,Newfoundland and Labrador,Net interprovincial migration,-777.0
 1974-01-01,Newfoundland and Labrador,Net interprovincial migration,-2719.0
@@ -2870,7 +2925,8 @@ date,geography,component,value
 2022-01-01,Newfoundland and Labrador,Net interprovincial migration,1802.0
 2023-01-01,Newfoundland and Labrador,Net interprovincial migration,1060.0
 2024-01-01,Newfoundland and Labrador,Net interprovincial migration,1091.0
-2025-01-01,Newfoundland and Labrador,Net interprovincial migration,65.0
+2025-01-01,Newfoundland and Labrador,Net interprovincial migration,1881.0
+2026-01-01,Newfoundland and Labrador,Net interprovincial migration,932.0
 1972-01-01,Newfoundland and Labrador,Net non-permanent residents,34.0
 1973-01-01,Newfoundland and Labrador,Net non-permanent residents,75.0
 1974-01-01,Newfoundland and Labrador,Net non-permanent residents,-5.0
@@ -2921,10 +2977,11 @@ date,geography,component,value
 2019-01-01,Newfoundland and Labrador,Net non-permanent residents,353.0
 2020-01-01,Newfoundland and Labrador,Net non-permanent residents,173.0
 2021-01-01,Newfoundland and Labrador,Net non-permanent residents,-459.0
-2022-01-01,Newfoundland and Labrador,Net non-permanent residents,2230.0
-2023-01-01,Newfoundland and Labrador,Net non-permanent residents,4246.0
-2024-01-01,Newfoundland and Labrador,Net non-permanent residents,4701.0
-2025-01-01,Newfoundland and Labrador,Net non-permanent residents,574.0
+2022-01-01,Newfoundland and Labrador,Net non-permanent residents,2027.0
+2023-01-01,Newfoundland and Labrador,Net non-permanent residents,3706.0
+2024-01-01,Newfoundland and Labrador,Net non-permanent residents,3778.0
+2025-01-01,Newfoundland and Labrador,Net non-permanent residents,983.0
+2026-01-01,Newfoundland and Labrador,Net non-permanent residents,-560.0
 1992-01-01,Newfoundland and Labrador,Net temporary emigration,59.0
 1993-01-01,Newfoundland and Labrador,Net temporary emigration,58.0
 1994-01-01,Newfoundland and Labrador,Net temporary emigration,59.0
@@ -2950,14 +3007,16 @@ date,geography,component,value
 2014-01-01,Newfoundland and Labrador,Net temporary emigration,140.0
 2015-01-01,Newfoundland and Labrador,Net temporary emigration,142.0
 2016-01-01,Newfoundland and Labrador,Net temporary emigration,140.0
-2022-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",5073.0
-2023-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",7765.0
-2024-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",8408.0
-2025-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",5973.0
-2022-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",2843.0
-2023-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",3519.0
-2024-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",3707.0
-2025-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",5399.0
+2022-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",5100.0
+2023-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",7682.0
+2024-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",8221.0
+2025-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",6154.0
+2026-01-01,Newfoundland and Labrador,"Non-permanent residents, inflows",5094.0
+2022-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",3073.0
+2023-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",3976.0
+2024-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",4443.0
+2025-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",5171.0
+2026-01-01,Newfoundland and Labrador,"Non-permanent residents, outflows",5654.0
 1972-01-01,Newfoundland and Labrador,Residual deviation,-2659.0
 1973-01-01,Newfoundland and Labrador,Residual deviation,-2652.0
 1974-01-01,Newfoundland and Labrador,Residual deviation,-2651.0
@@ -3060,8 +3119,9 @@ date,geography,component,value
 2021-01-01,Newfoundland and Labrador,Returning emigrants,189.0
 2022-01-01,Newfoundland and Labrador,Returning emigrants,200.0
 2023-01-01,Newfoundland and Labrador,Returning emigrants,125.0
-2024-01-01,Newfoundland and Labrador,Returning emigrants,121.0
-2025-01-01,Newfoundland and Labrador,Returning emigrants,125.0
+2024-01-01,Newfoundland and Labrador,Returning emigrants,130.0
+2025-01-01,Newfoundland and Labrador,Returning emigrants,133.0
+2026-01-01,Newfoundland and Labrador,Returning emigrants,135.0
 1992-01-01,Northwest Territories,Births,820.0
 1993-01-01,Northwest Territories,Births,856.0
 1994-01-01,Northwest Territories,Births,833.0
@@ -3092,10 +3152,11 @@ date,geography,component,value
 2019-01-01,Northwest Territories,Births,597.0
 2020-01-01,Northwest Territories,Births,567.0
 2021-01-01,Northwest Territories,Births,575.0
-2022-01-01,Northwest Territories,Births,552.0
-2023-01-01,Northwest Territories,Births,467.0
-2024-01-01,Northwest Territories,Births,494.0
-2025-01-01,Northwest Territories,Births,471.0
+2022-01-01,Northwest Territories,Births,553.0
+2023-01-01,Northwest Territories,Births,468.0
+2024-01-01,Northwest Territories,Births,498.0
+2025-01-01,Northwest Territories,Births,497.0
+2026-01-01,Northwest Territories,Births,461.0
 1992-01-01,Northwest Territories,Deaths,151.0
 1993-01-01,Northwest Territories,Deaths,143.0
 1994-01-01,Northwest Territories,Deaths,150.0
@@ -3126,10 +3187,11 @@ date,geography,component,value
 2019-01-01,Northwest Territories,Deaths,226.0
 2020-01-01,Northwest Territories,Deaths,253.0
 2021-01-01,Northwest Territories,Deaths,295.0
-2022-01-01,Northwest Territories,Deaths,303.0
-2023-01-01,Northwest Territories,Deaths,290.0
-2024-01-01,Northwest Territories,Deaths,271.0
-2025-01-01,Northwest Territories,Deaths,276.0
+2022-01-01,Northwest Territories,Deaths,304.0
+2023-01-01,Northwest Territories,Deaths,289.0
+2024-01-01,Northwest Territories,Deaths,306.0
+2025-01-01,Northwest Territories,Deaths,324.0
+2026-01-01,Northwest Territories,Deaths,333.0
 1992-01-01,Northwest Territories,Emigrants,34.0
 1993-01-01,Northwest Territories,Emigrants,58.0
 1994-01-01,Northwest Territories,Emigrants,27.0
@@ -3162,8 +3224,9 @@ date,geography,component,value
 2021-01-01,Northwest Territories,Emigrants,16.0
 2022-01-01,Northwest Territories,Emigrants,39.0
 2023-01-01,Northwest Territories,Emigrants,71.0
-2024-01-01,Northwest Territories,Emigrants,83.0
-2025-01-01,Northwest Territories,Emigrants,86.0
+2024-01-01,Northwest Territories,Emigrants,43.0
+2025-01-01,Northwest Territories,Emigrants,45.0
+2026-01-01,Northwest Territories,Emigrants,45.0
 1992-01-01,Northwest Territories,Immigrants,108.0
 1993-01-01,Northwest Territories,Immigrants,121.0
 1994-01-01,Northwest Territories,Immigrants,119.0
@@ -3198,6 +3261,7 @@ date,geography,component,value
 2023-01-01,Northwest Territories,Immigrants,282.0
 2024-01-01,Northwest Territories,Immigrants,366.0
 2025-01-01,Northwest Territories,Immigrants,456.0
+2026-01-01,Northwest Territories,Immigrants,520.0
 1992-01-01,Northwest Territories,Net emigration,38.0
 1993-01-01,Northwest Territories,Net emigration,59.0
 1994-01-01,Northwest Territories,Net emigration,24.0
@@ -3230,8 +3294,9 @@ date,geography,component,value
 2021-01-01,Northwest Territories,Net emigration,-16.0
 2022-01-01,Northwest Territories,Net emigration,30.0
 2023-01-01,Northwest Territories,Net emigration,61.0
-2024-01-01,Northwest Territories,Net emigration,69.0
-2025-01-01,Northwest Territories,Net emigration,72.0
+2024-01-01,Northwest Territories,Net emigration,32.0
+2025-01-01,Northwest Territories,Net emigration,34.0
+2026-01-01,Northwest Territories,Net emigration,34.0
 1992-01-01,Northwest Territories,Net interprovincial migration,-26.0
 1993-01-01,Northwest Territories,Net interprovincial migration,-330.0
 1994-01-01,Northwest Territories,Net interprovincial migration,-19.0
@@ -3265,7 +3330,8 @@ date,geography,component,value
 2022-01-01,Northwest Territories,Net interprovincial migration,-439.0
 2023-01-01,Northwest Territories,Net interprovincial migration,-584.0
 2024-01-01,Northwest Territories,Net interprovincial migration,-221.0
-2025-01-01,Northwest Territories,Net interprovincial migration,-10.0
+2025-01-01,Northwest Territories,Net interprovincial migration,-76.0
+2026-01-01,Northwest Territories,Net interprovincial migration,-801.0
 1992-01-01,Northwest Territories,Net non-permanent residents,-36.0
 1993-01-01,Northwest Territories,Net non-permanent residents,-56.0
 1994-01-01,Northwest Territories,Net non-permanent residents,-16.0
@@ -3296,10 +3362,11 @@ date,geography,component,value
 2019-01-01,Northwest Territories,Net non-permanent residents,-9.0
 2020-01-01,Northwest Territories,Net non-permanent residents,-8.0
 2021-01-01,Northwest Territories,Net non-permanent residents,8.0
-2022-01-01,Northwest Territories,Net non-permanent residents,-74.0
+2022-01-01,Northwest Territories,Net non-permanent residents,-79.0
 2023-01-01,Northwest Territories,Net non-permanent residents,169.0
-2024-01-01,Northwest Territories,Net non-permanent residents,344.0
-2025-01-01,Northwest Territories,Net non-permanent residents,124.0
+2024-01-01,Northwest Territories,Net non-permanent residents,358.0
+2025-01-01,Northwest Territories,Net non-permanent residents,238.0
+2026-01-01,Northwest Territories,Net non-permanent residents,60.0
 1992-01-01,Northwest Territories,Net temporary emigration,16.0
 1993-01-01,Northwest Territories,Net temporary emigration,16.0
 1994-01-01,Northwest Territories,Net temporary emigration,16.0
@@ -3325,14 +3392,16 @@ date,geography,component,value
 2014-01-01,Northwest Territories,Net temporary emigration,32.0
 2015-01-01,Northwest Territories,Net temporary emigration,33.0
 2016-01-01,Northwest Territories,Net temporary emigration,32.0
-2022-01-01,Northwest Territories,"Non-permanent residents, inflows",155.0
-2023-01-01,Northwest Territories,"Non-permanent residents, inflows",286.0
-2024-01-01,Northwest Territories,"Non-permanent residents, inflows",476.0
-2025-01-01,Northwest Territories,"Non-permanent residents, inflows",367.0
-2022-01-01,Northwest Territories,"Non-permanent residents, outflows",229.0
-2023-01-01,Northwest Territories,"Non-permanent residents, outflows",117.0
-2024-01-01,Northwest Territories,"Non-permanent residents, outflows",132.0
-2025-01-01,Northwest Territories,"Non-permanent residents, outflows",243.0
+2022-01-01,Northwest Territories,"Non-permanent residents, inflows",152.0
+2023-01-01,Northwest Territories,"Non-permanent residents, inflows",304.0
+2024-01-01,Northwest Territories,"Non-permanent residents, inflows",524.0
+2025-01-01,Northwest Territories,"Non-permanent residents, inflows",401.0
+2026-01-01,Northwest Territories,"Non-permanent residents, inflows",357.0
+2022-01-01,Northwest Territories,"Non-permanent residents, outflows",231.0
+2023-01-01,Northwest Territories,"Non-permanent residents, outflows",135.0
+2024-01-01,Northwest Territories,"Non-permanent residents, outflows",166.0
+2025-01-01,Northwest Territories,"Non-permanent residents, outflows",163.0
+2026-01-01,Northwest Territories,"Non-permanent residents, outflows",297.0
 1992-01-01,Northwest Territories,Residual deviation,15.0
 1993-01-01,Northwest Territories,Residual deviation,15.0
 1994-01-01,Northwest Territories,Residual deviation,15.0
@@ -3395,8 +3464,9 @@ date,geography,component,value
 2021-01-01,Northwest Territories,Returning emigrants,32.0
 2022-01-01,Northwest Territories,Returning emigrants,9.0
 2023-01-01,Northwest Territories,Returning emigrants,10.0
-2024-01-01,Northwest Territories,Returning emigrants,14.0
-2025-01-01,Northwest Territories,Returning emigrants,14.0
+2024-01-01,Northwest Territories,Returning emigrants,11.0
+2025-01-01,Northwest Territories,Returning emigrants,11.0
+2026-01-01,Northwest Territories,Returning emigrants,11.0
 1972-01-01,Northwest Territories including Nunavut,Births,1322.0
 1973-01-01,Northwest Territories including Nunavut,Births,1176.0
 1974-01-01,Northwest Territories including Nunavut,Births,1107.0
@@ -3627,10 +3697,11 @@ date,geography,component,value
 2019-01-01,Nova Scotia,Births,7967.0
 2020-01-01,Nova Scotia,Births,7984.0
 2021-01-01,Nova Scotia,Births,7683.0
-2022-01-01,Nova Scotia,Births,7939.0
-2023-01-01,Nova Scotia,Births,7938.0
+2022-01-01,Nova Scotia,Births,8119.0
+2023-01-01,Nova Scotia,Births,7796.0
 2024-01-01,Nova Scotia,Births,7936.0
-2025-01-01,Nova Scotia,Births,7935.0
+2025-01-01,Nova Scotia,Births,7920.0
+2026-01-01,Nova Scotia,Births,8059.0
 1972-01-01,Nova Scotia,Deaths,6798.0
 1973-01-01,Nova Scotia,Deaths,6897.0
 1974-01-01,Nova Scotia,Deaths,7022.0
@@ -3681,10 +3752,11 @@ date,geography,component,value
 2019-01-01,Nova Scotia,Deaths,9774.0
 2020-01-01,Nova Scotia,Deaths,9845.0
 2021-01-01,Nova Scotia,Deaths,9956.0
-2022-01-01,Nova Scotia,Deaths,10840.0
-2023-01-01,Nova Scotia,Deaths,11189.0
-2024-01-01,Nova Scotia,Deaths,11065.0
-2025-01-01,Nova Scotia,Deaths,11262.0
+2022-01-01,Nova Scotia,Deaths,10859.0
+2023-01-01,Nova Scotia,Deaths,11130.0
+2024-01-01,Nova Scotia,Deaths,11178.0
+2025-01-01,Nova Scotia,Deaths,11239.0
+2026-01-01,Nova Scotia,Deaths,11557.0
 1972-01-01,Nova Scotia,Emigrants,618.0
 1973-01-01,Nova Scotia,Emigrants,597.0
 1974-01-01,Nova Scotia,Emigrants,777.0
@@ -3737,8 +3809,9 @@ date,geography,component,value
 2021-01-01,Nova Scotia,Emigrants,783.0
 2022-01-01,Nova Scotia,Emigrants,1271.0
 2023-01-01,Nova Scotia,Emigrants,1690.0
-2024-01-01,Nova Scotia,Emigrants,1849.0
-2025-01-01,Nova Scotia,Emigrants,1905.0
+2024-01-01,Nova Scotia,Emigrants,2032.0
+2025-01-01,Nova Scotia,Emigrants,2089.0
+2026-01-01,Nova Scotia,Emigrants,2112.0
 1972-01-01,Nova Scotia,Immigrants,1709.0
 1973-01-01,Nova Scotia,Immigrants,1923.0
 1974-01-01,Nova Scotia,Immigrants,3064.0
@@ -3792,7 +3865,8 @@ date,geography,component,value
 2022-01-01,Nova Scotia,Immigrants,13838.0
 2023-01-01,Nova Scotia,Immigrants,12305.0
 2024-01-01,Nova Scotia,Immigrants,13765.0
-2025-01-01,Nova Scotia,Immigrants,10984.0
+2025-01-01,Nova Scotia,Immigrants,10985.0
+2026-01-01,Nova Scotia,Immigrants,9564.0
 1972-01-01,Nova Scotia,Net emigration,242.0
 1973-01-01,Nova Scotia,Net emigration,253.0
 1974-01-01,Nova Scotia,Net emigration,430.0
@@ -3845,8 +3919,9 @@ date,geography,component,value
 2021-01-01,Nova Scotia,Net emigration,141.0
 2022-01-01,Nova Scotia,Net emigration,409.0
 2023-01-01,Nova Scotia,Net emigration,1110.0
-2024-01-01,Nova Scotia,Net emigration,1212.0
-2025-01-01,Nova Scotia,Net emigration,1248.0
+2024-01-01,Nova Scotia,Net emigration,1259.0
+2025-01-01,Nova Scotia,Net emigration,1295.0
+2026-01-01,Nova Scotia,Net emigration,1310.0
 1972-01-01,Nova Scotia,Net interprovincial migration,-586.0
 1973-01-01,Nova Scotia,Net interprovincial migration,4851.0
 1974-01-01,Nova Scotia,Net interprovincial migration,1014.0
@@ -3900,7 +3975,8 @@ date,geography,component,value
 2022-01-01,Nova Scotia,Net interprovincial migration,11701.0
 2023-01-01,Nova Scotia,Net interprovincial migration,6989.0
 2024-01-01,Nova Scotia,Net interprovincial migration,8841.0
-2025-01-01,Nova Scotia,Net interprovincial migration,3226.0
+2025-01-01,Nova Scotia,Net interprovincial migration,7315.0
+2026-01-01,Nova Scotia,Net interprovincial migration,3863.0
 1972-01-01,Nova Scotia,Net non-permanent residents,36.0
 1973-01-01,Nova Scotia,Net non-permanent residents,131.0
 1974-01-01,Nova Scotia,Net non-permanent residents,-62.0
@@ -3951,10 +4027,11 @@ date,geography,component,value
 2019-01-01,Nova Scotia,Net non-permanent residents,3968.0
 2020-01-01,Nova Scotia,Net non-permanent residents,1592.0
 2021-01-01,Nova Scotia,Net non-permanent residents,-1007.0
-2022-01-01,Nova Scotia,Net non-permanent residents,1897.0
-2023-01-01,Nova Scotia,Net non-permanent residents,14038.0
-2024-01-01,Nova Scotia,Net non-permanent residents,11499.0
-2025-01-01,Nova Scotia,Net non-permanent residents,841.0
+2022-01-01,Nova Scotia,Net non-permanent residents,2008.0
+2023-01-01,Nova Scotia,Net non-permanent residents,13445.0
+2024-01-01,Nova Scotia,Net non-permanent residents,9604.0
+2025-01-01,Nova Scotia,Net non-permanent residents,1161.0
+2026-01-01,Nova Scotia,Net non-permanent residents,-357.0
 1992-01-01,Nova Scotia,Net temporary emigration,199.0
 1993-01-01,Nova Scotia,Net temporary emigration,199.0
 1994-01-01,Nova Scotia,Net temporary emigration,200.0
@@ -3980,14 +4057,16 @@ date,geography,component,value
 2014-01-01,Nova Scotia,Net temporary emigration,251.0
 2015-01-01,Nova Scotia,Net temporary emigration,248.0
 2016-01-01,Nova Scotia,Net temporary emigration,249.0
-2022-01-01,Nova Scotia,"Non-permanent residents, inflows",14581.0
-2023-01-01,Nova Scotia,"Non-permanent residents, inflows",23652.0
-2024-01-01,Nova Scotia,"Non-permanent residents, inflows",24347.0
-2025-01-01,Nova Scotia,"Non-permanent residents, inflows",15658.0
-2022-01-01,Nova Scotia,"Non-permanent residents, outflows",12684.0
-2023-01-01,Nova Scotia,"Non-permanent residents, outflows",9614.0
-2024-01-01,Nova Scotia,"Non-permanent residents, outflows",12848.0
-2025-01-01,Nova Scotia,"Non-permanent residents, outflows",14817.0
+2022-01-01,Nova Scotia,"Non-permanent residents, inflows",14828.0
+2023-01-01,Nova Scotia,"Non-permanent residents, inflows",24154.0
+2024-01-01,Nova Scotia,"Non-permanent residents, inflows",24114.0
+2025-01-01,Nova Scotia,"Non-permanent residents, inflows",14960.0
+2026-01-01,Nova Scotia,"Non-permanent residents, inflows",13001.0
+2022-01-01,Nova Scotia,"Non-permanent residents, outflows",12820.0
+2023-01-01,Nova Scotia,"Non-permanent residents, outflows",10709.0
+2024-01-01,Nova Scotia,"Non-permanent residents, outflows",14510.0
+2025-01-01,Nova Scotia,"Non-permanent residents, outflows",13799.0
+2026-01-01,Nova Scotia,"Non-permanent residents, outflows",13358.0
 1972-01-01,Nova Scotia,Residual deviation,-3047.0
 1973-01-01,Nova Scotia,Residual deviation,-3038.0
 1974-01-01,Nova Scotia,Residual deviation,-3038.0
@@ -4090,8 +4169,9 @@ date,geography,component,value
 2021-01-01,Nova Scotia,Returning emigrants,642.0
 2022-01-01,Nova Scotia,Returning emigrants,862.0
 2023-01-01,Nova Scotia,Returning emigrants,580.0
-2024-01-01,Nova Scotia,Returning emigrants,637.0
-2025-01-01,Nova Scotia,Returning emigrants,657.0
+2024-01-01,Nova Scotia,Returning emigrants,773.0
+2025-01-01,Nova Scotia,Returning emigrants,794.0
+2026-01-01,Nova Scotia,Returning emigrants,802.0
 1992-01-01,Nunavut,Births,703.0
 1993-01-01,Nunavut,Births,713.0
 1994-01-01,Nunavut,Births,772.0
@@ -4122,10 +4202,11 @@ date,geography,component,value
 2019-01-01,Nunavut,Births,902.0
 2020-01-01,Nunavut,Births,876.0
 2021-01-01,Nunavut,Births,915.0
-2022-01-01,Nunavut,Births,916.0
-2023-01-01,Nunavut,Births,859.0
-2024-01-01,Nunavut,Births,758.0
-2025-01-01,Nunavut,Births,759.0
+2022-01-01,Nunavut,Births,917.0
+2023-01-01,Nunavut,Births,860.0
+2024-01-01,Nunavut,Births,764.0
+2025-01-01,Nunavut,Births,784.0
+2026-01-01,Nunavut,Births,793.0
 1992-01-01,Nunavut,Deaths,109.0
 1993-01-01,Nunavut,Deaths,128.0
 1994-01-01,Nunavut,Deaths,100.0
@@ -4156,10 +4237,11 @@ date,geography,component,value
 2019-01-01,Nunavut,Deaths,231.0
 2020-01-01,Nunavut,Deaths,209.0
 2021-01-01,Nunavut,Deaths,201.0
-2022-01-01,Nunavut,Deaths,223.0
+2022-01-01,Nunavut,Deaths,221.0
 2023-01-01,Nunavut,Deaths,231.0
-2024-01-01,Nunavut,Deaths,257.0
-2025-01-01,Nunavut,Deaths,263.0
+2024-01-01,Nunavut,Deaths,253.0
+2025-01-01,Nunavut,Deaths,237.0
+2026-01-01,Nunavut,Deaths,246.0
 1992-01-01,Nunavut,Emigrants,12.0
 1993-01-01,Nunavut,Emigrants,22.0
 1994-01-01,Nunavut,Emigrants,5.0
@@ -4194,6 +4276,7 @@ date,geography,component,value
 2023-01-01,Nunavut,Emigrants,19.0
 2024-01-01,Nunavut,Emigrants,0.0
 2025-01-01,Nunavut,Emigrants,0.0
+2026-01-01,Nunavut,Emigrants,0.0
 1992-01-01,Nunavut,Immigrants,10.0
 1993-01-01,Nunavut,Immigrants,37.0
 1994-01-01,Nunavut,Immigrants,25.0
@@ -4228,6 +4311,7 @@ date,geography,component,value
 2023-01-01,Nunavut,Immigrants,45.0
 2024-01-01,Nunavut,Immigrants,57.0
 2025-01-01,Nunavut,Immigrants,73.0
+2026-01-01,Nunavut,Immigrants,102.0
 1992-01-01,Nunavut,Net emigration,14.0
 1993-01-01,Nunavut,Net emigration,23.0
 1994-01-01,Nunavut,Net emigration,6.0
@@ -4262,6 +4346,7 @@ date,geography,component,value
 2023-01-01,Nunavut,Net emigration,12.0
 2024-01-01,Nunavut,Net emigration,0.0
 2025-01-01,Nunavut,Net emigration,0.0
+2026-01-01,Nunavut,Net emigration,0.0
 1992-01-01,Nunavut,Net interprovincial migration,-34.0
 1993-01-01,Nunavut,Net interprovincial migration,-92.0
 1994-01-01,Nunavut,Net interprovincial migration,-17.0
@@ -4295,7 +4380,8 @@ date,geography,component,value
 2022-01-01,Nunavut,Net interprovincial migration,-180.0
 2023-01-01,Nunavut,Net interprovincial migration,-386.0
 2024-01-01,Nunavut,Net interprovincial migration,-163.0
-2025-01-01,Nunavut,Net interprovincial migration,-236.0
+2025-01-01,Nunavut,Net interprovincial migration,-45.0
+2026-01-01,Nunavut,Net interprovincial migration,298.0
 1992-01-01,Nunavut,Net non-permanent residents,-6.0
 1993-01-01,Nunavut,Net non-permanent residents,-9.0
 1994-01-01,Nunavut,Net non-permanent residents,-4.0
@@ -4326,10 +4412,11 @@ date,geography,component,value
 2019-01-01,Nunavut,Net non-permanent residents,22.0
 2020-01-01,Nunavut,Net non-permanent residents,12.0
 2021-01-01,Nunavut,Net non-permanent residents,7.0
-2022-01-01,Nunavut,Net non-permanent residents,-31.0
-2023-01-01,Nunavut,Net non-permanent residents,38.0
-2024-01-01,Nunavut,Net non-permanent residents,99.0
-2025-01-01,Nunavut,Net non-permanent residents,87.0
+2022-01-01,Nunavut,Net non-permanent residents,-33.0
+2023-01-01,Nunavut,Net non-permanent residents,59.0
+2024-01-01,Nunavut,Net non-permanent residents,100.0
+2025-01-01,Nunavut,Net non-permanent residents,89.0
+2026-01-01,Nunavut,Net non-permanent residents,36.0
 1992-01-01,Nunavut,Net temporary emigration,4.0
 1993-01-01,Nunavut,Net temporary emigration,4.0
 1994-01-01,Nunavut,Net temporary emigration,4.0
@@ -4355,14 +4442,16 @@ date,geography,component,value
 2014-01-01,Nunavut,Net temporary emigration,27.0
 2015-01-01,Nunavut,Net temporary emigration,28.0
 2016-01-01,Nunavut,Net temporary emigration,27.0
-2022-01-01,Nunavut,"Non-permanent residents, inflows",36.0
-2023-01-01,Nunavut,"Non-permanent residents, inflows",75.0
-2024-01-01,Nunavut,"Non-permanent residents, inflows",189.0
-2025-01-01,Nunavut,"Non-permanent residents, inflows",152.0
-2022-01-01,Nunavut,"Non-permanent residents, outflows",67.0
-2023-01-01,Nunavut,"Non-permanent residents, outflows",37.0
-2024-01-01,Nunavut,"Non-permanent residents, outflows",90.0
-2025-01-01,Nunavut,"Non-permanent residents, outflows",65.0
+2022-01-01,Nunavut,"Non-permanent residents, inflows",44.0
+2023-01-01,Nunavut,"Non-permanent residents, inflows",89.0
+2024-01-01,Nunavut,"Non-permanent residents, inflows",196.0
+2025-01-01,Nunavut,"Non-permanent residents, inflows",162.0
+2026-01-01,Nunavut,"Non-permanent residents, inflows",92.0
+2022-01-01,Nunavut,"Non-permanent residents, outflows",77.0
+2023-01-01,Nunavut,"Non-permanent residents, outflows",30.0
+2024-01-01,Nunavut,"Non-permanent residents, outflows",96.0
+2025-01-01,Nunavut,"Non-permanent residents, outflows",73.0
+2026-01-01,Nunavut,"Non-permanent residents, outflows",56.0
 1992-01-01,Nunavut,Residual deviation,179.0
 1993-01-01,Nunavut,Residual deviation,178.0
 1994-01-01,Nunavut,Residual deviation,178.0
@@ -4427,6 +4516,7 @@ date,geography,component,value
 2023-01-01,Nunavut,Returning emigrants,7.0
 2024-01-01,Nunavut,Returning emigrants,0.0
 2025-01-01,Nunavut,Returning emigrants,0.0
+2026-01-01,Nunavut,Returning emigrants,0.0
 1972-01-01,Ontario,Births,126254.0
 1973-01-01,Ontario,Births,124353.0
 1974-01-01,Ontario,Births,122122.0
@@ -4477,10 +4567,11 @@ date,geography,component,value
 2019-01-01,Ontario,Births,140659.0
 2020-01-01,Ontario,Births,140625.0
 2021-01-01,Ontario,Births,136824.0
-2022-01-01,Ontario,Births,138939.0
-2023-01-01,Ontario,Births,135463.0
-2024-01-01,Ontario,Births,141761.0
-2025-01-01,Ontario,Births,144954.0
+2022-01-01,Ontario,Births,139028.0
+2023-01-01,Ontario,Births,135604.0
+2024-01-01,Ontario,Births,141893.0
+2025-01-01,Ontario,Births,145453.0
+2026-01-01,Ontario,Births,146917.0
 1972-01-01,Ontario,Deaths,57571.0
 1973-01-01,Ontario,Deaths,59033.0
 1974-01-01,Ontario,Deaths,60376.0
@@ -4531,10 +4622,11 @@ date,geography,component,value
 2019-01-01,Ontario,Deaths,106117.0
 2020-01-01,Ontario,Deaths,112021.0
 2021-01-01,Ontario,Deaths,116593.0
-2022-01-01,Ontario,Deaths,120679.0
-2023-01-01,Ontario,Deaths,123494.0
-2024-01-01,Ontario,Deaths,122060.0
-2025-01-01,Ontario,Deaths,124618.0
+2022-01-01,Ontario,Deaths,120713.0
+2023-01-01,Ontario,Deaths,123630.0
+2024-01-01,Ontario,Deaths,121470.0
+2025-01-01,Ontario,Deaths,121855.0
+2026-01-01,Ontario,Deaths,125747.0
 1972-01-01,Ontario,Emigrants,31687.0
 1973-01-01,Ontario,Emigrants,30646.0
 1974-01-01,Ontario,Emigrants,40084.0
@@ -4587,8 +4679,9 @@ date,geography,component,value
 2021-01-01,Ontario,Emigrants,29597.0
 2022-01-01,Ontario,Emigrants,46048.0
 2023-01-01,Ontario,Emigrants,53395.0
-2024-01-01,Ontario,Emigrants,54333.0
-2025-01-01,Ontario,Emigrants,55979.0
+2024-01-01,Ontario,Emigrants,49285.0
+2025-01-01,Ontario,Emigrants,50673.0
+2026-01-01,Ontario,Emigrants,51223.0
 1972-01-01,Ontario,Immigrants,62258.0
 1973-01-01,Ontario,Immigrants,75267.0
 1974-01-01,Ontario,Immigrants,120369.0
@@ -4642,7 +4735,8 @@ date,geography,component,value
 2022-01-01,Ontario,Immigrants,227424.0
 2023-01-01,Ontario,Immigrants,199332.0
 2024-01-01,Ontario,Immigrants,197689.0
-2025-01-01,Ontario,Immigrants,190576.0
+2025-01-01,Ontario,Immigrants,190653.0
+2026-01-01,Ontario,Immigrants,156480.0
 1972-01-01,Ontario,Net emigration,12863.0
 1973-01-01,Ontario,Net emigration,13383.0
 1974-01-01,Ontario,Net emigration,22487.0
@@ -4695,8 +4789,9 @@ date,geography,component,value
 2021-01-01,Ontario,Net emigration,10540.0
 2022-01-01,Ontario,Net emigration,22249.0
 2023-01-01,Ontario,Net emigration,29614.0
-2024-01-01,Ontario,Net emigration,30095.0
-2025-01-01,Ontario,Net emigration,31006.0
+2024-01-01,Ontario,Net emigration,27745.0
+2025-01-01,Ontario,Net emigration,28525.0
+2026-01-01,Ontario,Net emigration,28835.0
 1972-01-01,Ontario,Net interprovincial migration,14462.0
 1973-01-01,Ontario,Net interprovincial migration,940.0
 1974-01-01,Ontario,Net interprovincial migration,-9802.0
@@ -4750,7 +4845,8 @@ date,geography,component,value
 2022-01-01,Ontario,Net interprovincial migration,-31018.0
 2023-01-01,Ontario,Net interprovincial migration,-29730.0
 2024-01-01,Ontario,Net interprovincial migration,-42689.0
-2025-01-01,Ontario,Net interprovincial migration,-17779.0
+2025-01-01,Ontario,Net interprovincial migration,-29713.0
+2026-01-01,Ontario,Net interprovincial migration,-18015.0
 1972-01-01,Ontario,Net non-permanent residents,1499.0
 1973-01-01,Ontario,Net non-permanent residents,4180.0
 1974-01-01,Ontario,Net non-permanent residents,-1203.0
@@ -4801,10 +4897,11 @@ date,geography,component,value
 2019-01-01,Ontario,Net non-permanent residents,71256.0
 2020-01-01,Ontario,Net non-permanent residents,35520.0
 2021-01-01,Ontario,Net non-permanent residents,-26075.0
-2022-01-01,Ontario,Net non-permanent residents,120931.0
-2023-01-01,Ontario,Net non-permanent residents,324688.0
-2024-01-01,Ontario,Net non-permanent residents,367710.0
-2025-01-01,Ontario,Net non-permanent residents,-48664.0
+2022-01-01,Ontario,Net non-permanent residents,120232.0
+2023-01-01,Ontario,Net non-permanent residents,311115.0
+2024-01-01,Ontario,Net non-permanent residents,324411.0
+2025-01-01,Ontario,Net non-permanent residents,-29410.0
+2026-01-01,Ontario,Net non-permanent residents,-85640.0
 1992-01-01,Ontario,Net temporary emigration,9165.0
 1993-01-01,Ontario,Net temporary emigration,9172.0
 1994-01-01,Ontario,Net temporary emigration,9164.0
@@ -4830,14 +4927,16 @@ date,geography,component,value
 2014-01-01,Ontario,Net temporary emigration,13167.0
 2015-01-01,Ontario,Net temporary emigration,13168.0
 2016-01-01,Ontario,Net temporary emigration,13169.0
-2022-01-01,Ontario,"Non-permanent residents, inflows",326739.0
-2023-01-01,Ontario,"Non-permanent residents, inflows",479698.0
-2024-01-01,Ontario,"Non-permanent residents, inflows",563494.0
-2025-01-01,Ontario,"Non-permanent residents, inflows",259076.0
-2022-01-01,Ontario,"Non-permanent residents, outflows",205808.0
-2023-01-01,Ontario,"Non-permanent residents, outflows",155010.0
-2024-01-01,Ontario,"Non-permanent residents, outflows",195784.0
-2025-01-01,Ontario,"Non-permanent residents, outflows",307740.0
+2022-01-01,Ontario,"Non-permanent residents, inflows",330945.0
+2023-01-01,Ontario,"Non-permanent residents, inflows",483695.0
+2024-01-01,Ontario,"Non-permanent residents, inflows",558527.0
+2025-01-01,Ontario,"Non-permanent residents, inflows",253903.0
+2026-01-01,Ontario,"Non-permanent residents, inflows",158668.0
+2022-01-01,Ontario,"Non-permanent residents, outflows",210713.0
+2023-01-01,Ontario,"Non-permanent residents, outflows",172580.0
+2024-01-01,Ontario,"Non-permanent residents, outflows",234116.0
+2025-01-01,Ontario,"Non-permanent residents, outflows",283313.0
+2026-01-01,Ontario,"Non-permanent residents, outflows",244308.0
 1972-01-01,Ontario,Residual deviation,-19949.0
 1973-01-01,Ontario,Residual deviation,-19894.0
 1974-01-01,Ontario,Residual deviation,-19895.0
@@ -4940,8 +5039,9 @@ date,geography,component,value
 2021-01-01,Ontario,Returning emigrants,19057.0
 2022-01-01,Ontario,Returning emigrants,23799.0
 2023-01-01,Ontario,Returning emigrants,23781.0
-2024-01-01,Ontario,Returning emigrants,24238.0
-2025-01-01,Ontario,Returning emigrants,24973.0
+2024-01-01,Ontario,Returning emigrants,21540.0
+2025-01-01,Ontario,Returning emigrants,22148.0
+2026-01-01,Ontario,Returning emigrants,22388.0
 1972-01-01,Prince Edward Island,Births,2038.0
 1973-01-01,Prince Edward Island,Births,1897.0
 1974-01-01,Prince Edward Island,Births,1932.0
@@ -4992,10 +5092,11 @@ date,geography,component,value
 2019-01-01,Prince Edward Island,Births,1308.0
 2020-01-01,Prince Edward Island,Births,1344.0
 2021-01-01,Prince Edward Island,Births,1412.0
-2022-01-01,Prince Edward Island,Births,1393.0
-2023-01-01,Prince Edward Island,Births,1275.0
+2022-01-01,Prince Edward Island,Births,1394.0
+2023-01-01,Prince Edward Island,Births,1276.0
 2024-01-01,Prince Edward Island,Births,1380.0
-2025-01-01,Prince Edward Island,Births,1375.0
+2025-01-01,Prince Edward Island,Births,1398.0
+2026-01-01,Prince Edward Island,Births,1503.0
 1972-01-01,Prince Edward Island,Deaths,1010.0
 1973-01-01,Prince Edward Island,Deaths,1013.0
 1974-01-01,Prince Edward Island,Deaths,1073.0
@@ -5047,9 +5148,10 @@ date,geography,component,value
 2020-01-01,Prince Edward Island,Deaths,1406.0
 2021-01-01,Prince Edward Island,Deaths,1395.0
 2022-01-01,Prince Edward Island,Deaths,1550.0
-2023-01-01,Prince Edward Island,Deaths,1649.0
-2024-01-01,Prince Edward Island,Deaths,1589.0
-2025-01-01,Prince Edward Island,Deaths,1620.0
+2023-01-01,Prince Edward Island,Deaths,1657.0
+2024-01-01,Prince Edward Island,Deaths,1599.0
+2025-01-01,Prince Edward Island,Deaths,1596.0
+2026-01-01,Prince Edward Island,Deaths,1655.0
 1972-01-01,Prince Edward Island,Emigrants,108.0
 1973-01-01,Prince Edward Island,Emigrants,103.0
 1974-01-01,Prince Edward Island,Emigrants,135.0
@@ -5102,8 +5204,9 @@ date,geography,component,value
 2021-01-01,Prince Edward Island,Emigrants,125.0
 2022-01-01,Prince Edward Island,Emigrants,184.0
 2023-01-01,Prince Edward Island,Emigrants,227.0
-2024-01-01,Prince Edward Island,Emigrants,250.0
-2025-01-01,Prince Edward Island,Emigrants,257.0
+2024-01-01,Prince Edward Island,Emigrants,283.0
+2025-01-01,Prince Edward Island,Emigrants,290.0
+2026-01-01,Prince Edward Island,Emigrants,294.0
 1972-01-01,Prince Edward Island,Immigrants,174.0
 1973-01-01,Prince Edward Island,Immigrants,171.0
 1974-01-01,Prince Edward Island,Immigrants,377.0
@@ -5158,6 +5261,7 @@ date,geography,component,value
 2023-01-01,Prince Edward Island,Immigrants,3116.0
 2024-01-01,Prince Edward Island,Immigrants,4147.0
 2025-01-01,Prince Edward Island,Immigrants,2843.0
+2026-01-01,Prince Edward Island,Immigrants,2156.0
 1972-01-01,Prince Edward Island,Net emigration,43.0
 1973-01-01,Prince Edward Island,Net emigration,43.0
 1974-01-01,Prince Edward Island,Net emigration,76.0
@@ -5210,8 +5314,9 @@ date,geography,component,value
 2021-01-01,Prince Edward Island,Net emigration,44.0
 2022-01-01,Prince Edward Island,Net emigration,71.0
 2023-01-01,Prince Edward Island,Net emigration,111.0
-2024-01-01,Prince Edward Island,Net emigration,124.0
-2025-01-01,Prince Edward Island,Net emigration,127.0
+2024-01-01,Prince Edward Island,Net emigration,196.0
+2025-01-01,Prince Edward Island,Net emigration,201.0
+2026-01-01,Prince Edward Island,Net emigration,204.0
 1972-01-01,Prince Edward Island,Net interprovincial migration,349.0
 1973-01-01,Prince Edward Island,Net interprovincial migration,782.0
 1974-01-01,Prince Edward Island,Net interprovincial migration,821.0
@@ -5265,7 +5370,8 @@ date,geography,component,value
 2022-01-01,Prince Edward Island,Net interprovincial migration,1708.0
 2023-01-01,Prince Edward Island,Net interprovincial migration,1471.0
 2024-01-01,Prince Edward Island,Net interprovincial migration,985.0
-2025-01-01,Prince Edward Island,Net interprovincial migration,1043.0
+2025-01-01,Prince Edward Island,Net interprovincial migration,242.0
+2026-01-01,Prince Edward Island,Net interprovincial migration,-141.0
 1972-01-01,Prince Edward Island,Net non-permanent residents,3.0
 1973-01-01,Prince Edward Island,Net non-permanent residents,6.0
 1974-01-01,Prince Edward Island,Net non-permanent residents,1.0
@@ -5316,10 +5422,11 @@ date,geography,component,value
 2019-01-01,Prince Edward Island,Net non-permanent residents,1152.0
 2020-01-01,Prince Edward Island,Net non-permanent residents,744.0
 2021-01-01,Prince Edward Island,Net non-permanent residents,979.0
-2022-01-01,Prince Edward Island,Net non-permanent residents,148.0
-2023-01-01,Prince Edward Island,Net non-permanent residents,2432.0
-2024-01-01,Prince Edward Island,Net non-permanent residents,1176.0
-2025-01-01,Prince Edward Island,Net non-permanent residents,-566.0
+2022-01-01,Prince Edward Island,Net non-permanent residents,94.0
+2023-01-01,Prince Edward Island,Net non-permanent residents,2028.0
+2024-01-01,Prince Edward Island,Net non-permanent residents,882.0
+2025-01-01,Prince Edward Island,Net non-permanent residents,39.0
+2026-01-01,Prince Edward Island,Net non-permanent residents,-264.0
 1992-01-01,Prince Edward Island,Net temporary emigration,17.0
 1993-01-01,Prince Edward Island,Net temporary emigration,17.0
 1994-01-01,Prince Edward Island,Net temporary emigration,17.0
@@ -5345,14 +5452,16 @@ date,geography,component,value
 2014-01-01,Prince Edward Island,Net temporary emigration,41.0
 2015-01-01,Prince Edward Island,Net temporary emigration,40.0
 2016-01-01,Prince Edward Island,Net temporary emigration,39.0
-2022-01-01,Prince Edward Island,"Non-permanent residents, inflows",3197.0
-2023-01-01,Prince Edward Island,"Non-permanent residents, inflows",4797.0
-2024-01-01,Prince Edward Island,"Non-permanent residents, inflows",4807.0
-2025-01-01,Prince Edward Island,"Non-permanent residents, inflows",2924.0
-2022-01-01,Prince Edward Island,"Non-permanent residents, outflows",3049.0
-2023-01-01,Prince Edward Island,"Non-permanent residents, outflows",2365.0
-2024-01-01,Prince Edward Island,"Non-permanent residents, outflows",3631.0
-2025-01-01,Prince Edward Island,"Non-permanent residents, outflows",3490.0
+2022-01-01,Prince Edward Island,"Non-permanent residents, inflows",3136.0
+2023-01-01,Prince Edward Island,"Non-permanent residents, inflows",4639.0
+2024-01-01,Prince Edward Island,"Non-permanent residents, inflows",4627.0
+2025-01-01,Prince Edward Island,"Non-permanent residents, inflows",3022.0
+2026-01-01,Prince Edward Island,"Non-permanent residents, inflows",2147.0
+2022-01-01,Prince Edward Island,"Non-permanent residents, outflows",3042.0
+2023-01-01,Prince Edward Island,"Non-permanent residents, outflows",2611.0
+2024-01-01,Prince Edward Island,"Non-permanent residents, outflows",3745.0
+2025-01-01,Prince Edward Island,"Non-permanent residents, outflows",2983.0
+2026-01-01,Prince Edward Island,"Non-permanent residents, outflows",2411.0
 1972-01-01,Prince Edward Island,Residual deviation,-642.0
 1973-01-01,Prince Edward Island,Residual deviation,-640.0
 1974-01-01,Prince Edward Island,Residual deviation,-640.0
@@ -5455,8 +5564,9 @@ date,geography,component,value
 2021-01-01,Prince Edward Island,Returning emigrants,81.0
 2022-01-01,Prince Edward Island,Returning emigrants,113.0
 2023-01-01,Prince Edward Island,Returning emigrants,116.0
-2024-01-01,Prince Edward Island,Returning emigrants,126.0
-2025-01-01,Prince Edward Island,Returning emigrants,130.0
+2024-01-01,Prince Edward Island,Returning emigrants,87.0
+2025-01-01,Prince Edward Island,Returning emigrants,89.0
+2026-01-01,Prince Edward Island,Returning emigrants,90.0
 1972-01-01,Quebec,Births,85568.0
 1973-01-01,Quebec,Births,83801.0
 1974-01-01,Quebec,Births,85459.0
@@ -5507,10 +5617,11 @@ date,geography,component,value
 2019-01-01,Quebec,Births,83864.0
 2020-01-01,Quebec,Births,84545.0
 2021-01-01,Quebec,Births,82096.0
-2022-01-01,Quebec,Births,83516.0
+2022-01-01,Quebec,Births,83517.0
 2023-01-01,Quebec,Births,79108.0
-2024-01-01,Quebec,Births,77923.0
-2025-01-01,Quebec,Births,77171.0
+2024-01-01,Quebec,Births,77991.0
+2025-01-01,Quebec,Births,77276.0
+2026-01-01,Quebec,Births,78500.0
 1972-01-01,Quebec,Deaths,41352.0
 1973-01-01,Quebec,Deaths,42401.0
 1974-01-01,Quebec,Deaths,42946.0
@@ -5561,10 +5672,11 @@ date,geography,component,value
 2019-01-01,Quebec,Deaths,67553.0
 2020-01-01,Quebec,Deaths,72811.0
 2021-01-01,Quebec,Deaths,69722.0
-2022-01-01,Quebec,Deaths,73720.0
-2023-01-01,Quebec,Deaths,78294.0
-2024-01-01,Quebec,Deaths,79282.0
-2025-01-01,Quebec,Deaths,79700.0
+2022-01-01,Quebec,Deaths,74417.0
+2023-01-01,Quebec,Deaths,78801.0
+2024-01-01,Quebec,Deaths,79240.0
+2025-01-01,Quebec,Deaths,79710.0
+2026-01-01,Quebec,Deaths,79650.0
 1972-01-01,Quebec,Emigrants,11539.0
 1973-01-01,Quebec,Emigrants,11054.0
 1974-01-01,Quebec,Emigrants,14327.0
@@ -5617,8 +5729,9 @@ date,geography,component,value
 2021-01-01,Quebec,Emigrants,9897.0
 2022-01-01,Quebec,Emigrants,13687.0
 2023-01-01,Quebec,Emigrants,14687.0
-2024-01-01,Quebec,Emigrants,15363.0
-2025-01-01,Quebec,Emigrants,15828.0
+2024-01-01,Quebec,Emigrants,13766.0
+2025-01-01,Quebec,Emigrants,14154.0
+2026-01-01,Quebec,Emigrants,14307.0
 1972-01-01,Quebec,Immigrants,17690.0
 1973-01-01,Quebec,Immigrants,19861.0
 1974-01-01,Quebec,Immigrants,33213.0
@@ -5672,7 +5785,8 @@ date,geography,component,value
 2022-01-01,Quebec,Immigrants,62805.0
 2023-01-01,Quebec,Immigrants,64475.0
 2024-01-01,Quebec,Immigrants,55455.0
-2025-01-01,Quebec,Immigrants,57629.0
+2025-01-01,Quebec,Immigrants,57641.0
+2026-01-01,Quebec,Immigrants,53428.0
 1972-01-01,Quebec,Net emigration,4460.0
 1973-01-01,Quebec,Net emigration,4644.0
 1974-01-01,Quebec,Net emigration,7879.0
@@ -5725,8 +5839,9 @@ date,geography,component,value
 2021-01-01,Quebec,Net emigration,2704.0
 2022-01-01,Quebec,Net emigration,5062.0
 2023-01-01,Quebec,Net emigration,7594.0
-2024-01-01,Quebec,Net emigration,7972.0
-2025-01-01,Quebec,Net emigration,8212.0
+2024-01-01,Quebec,Net emigration,7032.0
+2025-01-01,Quebec,Net emigration,7230.0
+2026-01-01,Quebec,Net emigration,7308.0
 1972-01-01,Quebec,Net interprovincial migration,-21637.0
 1973-01-01,Quebec,Net interprovincial migration,-19754.0
 1974-01-01,Quebec,Net interprovincial migration,-12581.0
@@ -5780,7 +5895,8 @@ date,geography,component,value
 2022-01-01,Quebec,Net interprovincial migration,-6529.0
 2023-01-01,Quebec,Net interprovincial migration,-10333.0
 2024-01-01,Quebec,Net interprovincial migration,-6750.0
-2025-01-01,Quebec,Net interprovincial migration,-5095.0
+2025-01-01,Quebec,Net interprovincial migration,-8058.0
+2026-01-01,Quebec,Net interprovincial migration,-7084.0
 1972-01-01,Quebec,Net non-permanent residents,695.0
 1973-01-01,Quebec,Net non-permanent residents,1664.0
 1974-01-01,Quebec,Net non-permanent residents,-249.0
@@ -5831,10 +5947,11 @@ date,geography,component,value
 2019-01-01,Quebec,Net non-permanent residents,50872.0
 2020-01-01,Quebec,Net non-permanent residents,37266.0
 2021-01-01,Quebec,Net non-permanent residents,-13647.0
-2022-01-01,Quebec,Net non-permanent residents,36933.0
-2023-01-01,Quebec,Net non-permanent residents,104371.0
-2024-01-01,Quebec,Net non-permanent residents,134404.0
-2025-01-01,Quebec,Net non-permanent residents,21030.0
+2022-01-01,Quebec,Net non-permanent residents,35314.0
+2023-01-01,Quebec,Net non-permanent residents,103547.0
+2024-01-01,Quebec,Net non-permanent residents,123838.0
+2025-01-01,Quebec,Net non-permanent residents,28791.0
+2026-01-01,Quebec,Net non-permanent residents,-21794.0
 1992-01-01,Quebec,Net temporary emigration,3527.0
 1993-01-01,Quebec,Net temporary emigration,3527.0
 1994-01-01,Quebec,Net temporary emigration,3529.0
@@ -5860,14 +5977,16 @@ date,geography,component,value
 2014-01-01,Quebec,Net temporary emigration,4489.0
 2015-01-01,Quebec,Net temporary emigration,4486.0
 2016-01-01,Quebec,Net temporary emigration,4486.0
-2022-01-01,Quebec,"Non-permanent residents, inflows",129689.0
-2023-01-01,Quebec,"Non-permanent residents, inflows",195343.0
-2024-01-01,Quebec,"Non-permanent residents, inflows",228360.0
-2025-01-01,Quebec,"Non-permanent residents, inflows",153966.0
-2022-01-01,Quebec,"Non-permanent residents, outflows",92756.0
-2023-01-01,Quebec,"Non-permanent residents, outflows",90972.0
-2024-01-01,Quebec,"Non-permanent residents, outflows",93956.0
-2025-01-01,Quebec,"Non-permanent residents, outflows",132936.0
+2022-01-01,Quebec,"Non-permanent residents, inflows",129388.0
+2023-01-01,Quebec,"Non-permanent residents, inflows",196778.0
+2024-01-01,Quebec,"Non-permanent residents, inflows",226380.0
+2025-01-01,Quebec,"Non-permanent residents, inflows",150905.0
+2026-01-01,Quebec,"Non-permanent residents, inflows",99729.0
+2022-01-01,Quebec,"Non-permanent residents, outflows",94074.0
+2023-01-01,Quebec,"Non-permanent residents, outflows",93231.0
+2024-01-01,Quebec,"Non-permanent residents, outflows",102542.0
+2025-01-01,Quebec,"Non-permanent residents, outflows",122114.0
+2026-01-01,Quebec,"Non-permanent residents, outflows",121523.0
 1972-01-01,Quebec,Residual deviation,407.0
 1973-01-01,Quebec,Residual deviation,406.0
 1974-01-01,Quebec,Residual deviation,405.0
@@ -5970,8 +6089,9 @@ date,geography,component,value
 2021-01-01,Quebec,Returning emigrants,7193.0
 2022-01-01,Quebec,Returning emigrants,8625.0
 2023-01-01,Quebec,Returning emigrants,7093.0
-2024-01-01,Quebec,Returning emigrants,7391.0
-2025-01-01,Quebec,Returning emigrants,7616.0
+2024-01-01,Quebec,Returning emigrants,6734.0
+2025-01-01,Quebec,Returning emigrants,6924.0
+2026-01-01,Quebec,Returning emigrants,6999.0
 1972-01-01,Saskatchewan,Births,15456.0
 1973-01-01,Saskatchewan,Births,15280.0
 1974-01-01,Saskatchewan,Births,14680.0
@@ -6023,9 +6143,10 @@ date,geography,component,value
 2020-01-01,Saskatchewan,Births,14446.0
 2021-01-01,Saskatchewan,Births,14048.0
 2022-01-01,Saskatchewan,Births,13664.0
-2023-01-01,Saskatchewan,Births,13042.0
-2024-01-01,Saskatchewan,Births,13097.0
-2025-01-01,Saskatchewan,Births,13147.0
+2023-01-01,Saskatchewan,Births,13045.0
+2024-01-01,Saskatchewan,Births,13100.0
+2025-01-01,Saskatchewan,Births,13045.0
+2026-01-01,Saskatchewan,Births,13283.0
 1972-01-01,Saskatchewan,Deaths,7563.0
 1973-01-01,Saskatchewan,Deaths,7591.0
 1974-01-01,Saskatchewan,Deaths,7806.0
@@ -6076,10 +6197,11 @@ date,geography,component,value
 2019-01-01,Saskatchewan,Deaths,9556.0
 2020-01-01,Saskatchewan,Deaths,9788.0
 2021-01-01,Saskatchewan,Deaths,10693.0
-2022-01-01,Saskatchewan,Deaths,11263.0
-2023-01-01,Saskatchewan,Deaths,11052.0
-2024-01-01,Saskatchewan,Deaths,11037.0
-2025-01-01,Saskatchewan,Deaths,11172.0
+2022-01-01,Saskatchewan,Deaths,11259.0
+2023-01-01,Saskatchewan,Deaths,11050.0
+2024-01-01,Saskatchewan,Deaths,11095.0
+2025-01-01,Saskatchewan,Deaths,10840.0
+2026-01-01,Saskatchewan,Deaths,11070.0
 1972-01-01,Saskatchewan,Emigrants,1268.0
 1973-01-01,Saskatchewan,Emigrants,1197.0
 1974-01-01,Saskatchewan,Emigrants,1528.0
@@ -6132,8 +6254,9 @@ date,geography,component,value
 2021-01-01,Saskatchewan,Emigrants,1348.0
 2022-01-01,Saskatchewan,Emigrants,2001.0
 2023-01-01,Saskatchewan,Emigrants,2058.0
-2024-01-01,Saskatchewan,Emigrants,1963.0
-2025-01-01,Saskatchewan,Emigrants,2022.0
+2024-01-01,Saskatchewan,Emigrants,1925.0
+2025-01-01,Saskatchewan,Emigrants,1979.0
+2026-01-01,Saskatchewan,Emigrants,2001.0
 1972-01-01,Saskatchewan,Immigrants,1479.0
 1973-01-01,Saskatchewan,Immigrants,1555.0
 1974-01-01,Saskatchewan,Immigrants,2194.0
@@ -6187,7 +6310,8 @@ date,geography,component,value
 2022-01-01,Saskatchewan,Immigrants,16291.0
 2023-01-01,Saskatchewan,Immigrants,26130.0
 2024-01-01,Saskatchewan,Immigrants,24180.0
-2025-01-01,Saskatchewan,Immigrants,18199.0
+2025-01-01,Saskatchewan,Immigrants,18200.0
+2026-01-01,Saskatchewan,Immigrants,14393.0
 1972-01-01,Saskatchewan,Net emigration,457.0
 1973-01-01,Saskatchewan,Net emigration,474.0
 1974-01-01,Saskatchewan,Net emigration,816.0
@@ -6240,8 +6364,9 @@ date,geography,component,value
 2021-01-01,Saskatchewan,Net emigration,783.0
 2022-01-01,Saskatchewan,Net emigration,917.0
 2023-01-01,Saskatchewan,Net emigration,819.0
-2024-01-01,Saskatchewan,Net emigration,746.0
-2025-01-01,Saskatchewan,Net emigration,768.0
+2024-01-01,Saskatchewan,Net emigration,776.0
+2025-01-01,Saskatchewan,Net emigration,798.0
+2026-01-01,Saskatchewan,Net emigration,807.0
 1972-01-01,Saskatchewan,Net interprovincial migration,-18995.0
 1973-01-01,Saskatchewan,Net interprovincial migration,-16524.0
 1974-01-01,Saskatchewan,Net interprovincial migration,-10472.0
@@ -6295,7 +6420,8 @@ date,geography,component,value
 2022-01-01,Saskatchewan,Net interprovincial migration,-9493.0
 2023-01-01,Saskatchewan,Net interprovincial migration,-6656.0
 2024-01-01,Saskatchewan,Net interprovincial migration,-3053.0
-2025-01-01,Saskatchewan,Net interprovincial migration,-2506.0
+2025-01-01,Saskatchewan,Net interprovincial migration,-2844.0
+2026-01-01,Saskatchewan,Net interprovincial migration,-2837.0
 1972-01-01,Saskatchewan,Net non-permanent residents,51.0
 1973-01-01,Saskatchewan,Net non-permanent residents,137.0
 1974-01-01,Saskatchewan,Net non-permanent residents,-34.0
@@ -6346,10 +6472,11 @@ date,geography,component,value
 2019-01-01,Saskatchewan,Net non-permanent residents,1634.0
 2020-01-01,Saskatchewan,Net non-permanent residents,-45.0
 2021-01-01,Saskatchewan,Net non-permanent residents,-295.0
-2022-01-01,Saskatchewan,Net non-permanent residents,2803.0
-2023-01-01,Saskatchewan,Net non-permanent residents,10816.0
-2024-01-01,Saskatchewan,Net non-permanent residents,15170.0
-2025-01-01,Saskatchewan,Net non-permanent residents,2191.0
+2022-01-01,Saskatchewan,Net non-permanent residents,2764.0
+2023-01-01,Saskatchewan,Net non-permanent residents,9862.0
+2024-01-01,Saskatchewan,Net non-permanent residents,13567.0
+2025-01-01,Saskatchewan,Net non-permanent residents,4330.0
+2026-01-01,Saskatchewan,Net non-permanent residents,-849.0
 1992-01-01,Saskatchewan,Net temporary emigration,401.0
 1993-01-01,Saskatchewan,Net temporary emigration,402.0
 1994-01-01,Saskatchewan,Net temporary emigration,403.0
@@ -6375,14 +6502,16 @@ date,geography,component,value
 2014-01-01,Saskatchewan,Net temporary emigration,486.0
 2015-01-01,Saskatchewan,Net temporary emigration,488.0
 2016-01-01,Saskatchewan,Net temporary emigration,488.0
-2022-01-01,Saskatchewan,"Non-permanent residents, inflows",9723.0
-2023-01-01,Saskatchewan,"Non-permanent residents, inflows",18073.0
-2024-01-01,Saskatchewan,"Non-permanent residents, inflows",23285.0
-2025-01-01,Saskatchewan,"Non-permanent residents, inflows",14757.0
-2022-01-01,Saskatchewan,"Non-permanent residents, outflows",6920.0
-2023-01-01,Saskatchewan,"Non-permanent residents, outflows",7257.0
-2024-01-01,Saskatchewan,"Non-permanent residents, outflows",8115.0
-2025-01-01,Saskatchewan,"Non-permanent residents, outflows",12566.0
+2022-01-01,Saskatchewan,"Non-permanent residents, inflows",9905.0
+2023-01-01,Saskatchewan,"Non-permanent residents, inflows",17887.0
+2024-01-01,Saskatchewan,"Non-permanent residents, inflows",22865.0
+2025-01-01,Saskatchewan,"Non-permanent residents, inflows",14631.0
+2026-01-01,Saskatchewan,"Non-permanent residents, inflows",9217.0
+2022-01-01,Saskatchewan,"Non-permanent residents, outflows",7141.0
+2023-01-01,Saskatchewan,"Non-permanent residents, outflows",8025.0
+2024-01-01,Saskatchewan,"Non-permanent residents, outflows",9298.0
+2025-01-01,Saskatchewan,"Non-permanent residents, outflows",10301.0
+2026-01-01,Saskatchewan,"Non-permanent residents, outflows",10066.0
 1972-01-01,Saskatchewan,Residual deviation,-1229.0
 1973-01-01,Saskatchewan,Residual deviation,-1226.0
 1974-01-01,Saskatchewan,Residual deviation,-1226.0
@@ -6485,8 +6614,9 @@ date,geography,component,value
 2021-01-01,Saskatchewan,Returning emigrants,565.0
 2022-01-01,Saskatchewan,Returning emigrants,1084.0
 2023-01-01,Saskatchewan,Returning emigrants,1239.0
-2024-01-01,Saskatchewan,Returning emigrants,1217.0
-2025-01-01,Saskatchewan,Returning emigrants,1254.0
+2024-01-01,Saskatchewan,Returning emigrants,1149.0
+2025-01-01,Saskatchewan,Returning emigrants,1181.0
+2026-01-01,Saskatchewan,Returning emigrants,1194.0
 1972-01-01,Yukon,Births,447.0
 1973-01-01,Yukon,Births,461.0
 1974-01-01,Yukon,Births,439.0
@@ -6537,10 +6667,11 @@ date,geography,component,value
 2019-01-01,Yukon,Births,457.0
 2020-01-01,Yukon,Births,402.0
 2021-01-01,Yukon,Births,446.0
-2022-01-01,Yukon,Births,444.0
-2023-01-01,Yukon,Births,421.0
-2024-01-01,Yukon,Births,425.0
-2025-01-01,Yukon,Births,443.0
+2022-01-01,Yukon,Births,446.0
+2023-01-01,Yukon,Births,422.0
+2024-01-01,Yukon,Births,431.0
+2025-01-01,Yukon,Births,453.0
+2026-01-01,Yukon,Births,433.0
 1972-01-01,Yukon,Deaths,104.0
 1973-01-01,Yukon,Deaths,93.0
 1974-01-01,Yukon,Deaths,130.0
@@ -6591,10 +6722,11 @@ date,geography,component,value
 2019-01-01,Yukon,Deaths,268.0
 2020-01-01,Yukon,Deaths,285.0
 2021-01-01,Yukon,Deaths,311.0
-2022-01-01,Yukon,Deaths,368.0
-2023-01-01,Yukon,Deaths,319.0
-2024-01-01,Yukon,Deaths,335.0
-2025-01-01,Yukon,Deaths,338.0
+2022-01-01,Yukon,Deaths,372.0
+2023-01-01,Yukon,Deaths,314.0
+2024-01-01,Yukon,Deaths,329.0
+2025-01-01,Yukon,Deaths,340.0
+2026-01-01,Yukon,Deaths,310.0
 1972-01-01,Yukon,Emigrants,87.0
 1973-01-01,Yukon,Emigrants,86.0
 1974-01-01,Yukon,Emigrants,115.0
@@ -6647,8 +6779,9 @@ date,geography,component,value
 2021-01-01,Yukon,Emigrants,93.0
 2022-01-01,Yukon,Emigrants,96.0
 2023-01-01,Yukon,Emigrants,43.0
-2024-01-01,Yukon,Emigrants,32.0
-2025-01-01,Yukon,Emigrants,33.0
+2024-01-01,Yukon,Emigrants,9.0
+2025-01-01,Yukon,Emigrants,9.0
+2026-01-01,Yukon,Emigrants,9.0
 1972-01-01,Yukon,Immigrants,70.0
 1973-01-01,Yukon,Immigrants,124.0
 1974-01-01,Yukon,Immigrants,97.0
@@ -6702,7 +6835,8 @@ date,geography,component,value
 2022-01-01,Yukon,Immigrants,664.0
 2023-01-01,Yukon,Immigrants,677.0
 2024-01-01,Yukon,Immigrants,895.0
-2025-01-01,Yukon,Immigrants,826.0
+2025-01-01,Yukon,Immigrants,827.0
+2026-01-01,Yukon,Immigrants,759.0
 1972-01-01,Yukon,Net emigration,40.0
 1973-01-01,Yukon,Net emigration,42.0
 1974-01-01,Yukon,Net emigration,68.0
@@ -6755,8 +6889,9 @@ date,geography,component,value
 2021-01-01,Yukon,Net emigration,91.0
 2022-01-01,Yukon,Net emigration,44.0
 2023-01-01,Yukon,Net emigration,9.0
-2024-01-01,Yukon,Net emigration,2.0
-2025-01-01,Yukon,Net emigration,3.0
+2024-01-01,Yukon,Net emigration,-9.0
+2025-01-01,Yukon,Net emigration,-9.0
+2026-01-01,Yukon,Net emigration,-10.0
 1972-01-01,Yukon,Net interprovincial migration,686.0
 1973-01-01,Yukon,Net interprovincial migration,458.0
 1974-01-01,Yukon,Net interprovincial migration,-504.0
@@ -6810,7 +6945,8 @@ date,geography,component,value
 2022-01-01,Yukon,Net interprovincial migration,287.0
 2023-01-01,Yukon,Net interprovincial migration,250.0
 2024-01-01,Yukon,Net interprovincial migration,672.0
-2025-01-01,Yukon,Net interprovincial migration,-221.0
+2025-01-01,Yukon,Net interprovincial migration,397.0
+2026-01-01,Yukon,Net interprovincial migration,503.0
 1972-01-01,Yukon,Net non-permanent residents,5.0
 1973-01-01,Yukon,Net non-permanent residents,10.0
 1974-01-01,Yukon,Net non-permanent residents,0.0
@@ -6861,10 +6997,11 @@ date,geography,component,value
 2019-01-01,Yukon,Net non-permanent residents,18.0
 2020-01-01,Yukon,Net non-permanent residents,-119.0
 2021-01-01,Yukon,Net non-permanent residents,168.0
-2022-01-01,Yukon,Net non-permanent residents,-75.0
-2023-01-01,Yukon,Net non-permanent residents,530.0
-2024-01-01,Yukon,Net non-permanent residents,521.0
-2025-01-01,Yukon,Net non-permanent residents,-24.0
+2022-01-01,Yukon,Net non-permanent residents,-51.0
+2023-01-01,Yukon,Net non-permanent residents,493.0
+2024-01-01,Yukon,Net non-permanent residents,595.0
+2025-01-01,Yukon,Net non-permanent residents,121.0
+2026-01-01,Yukon,Net non-permanent residents,-189.0
 1992-01-01,Yukon,Net temporary emigration,20.0
 1993-01-01,Yukon,Net temporary emigration,19.0
 1994-01-01,Yukon,Net temporary emigration,21.0
@@ -6890,14 +7027,16 @@ date,geography,component,value
 2014-01-01,Yukon,Net temporary emigration,29.0
 2015-01-01,Yukon,Net temporary emigration,28.0
 2016-01-01,Yukon,Net temporary emigration,28.0
-2022-01-01,Yukon,"Non-permanent residents, inflows",559.0
-2023-01-01,Yukon,"Non-permanent residents, inflows",1057.0
-2024-01-01,Yukon,"Non-permanent residents, inflows",1242.0
-2025-01-01,Yukon,"Non-permanent residents, inflows",805.0
-2022-01-01,Yukon,"Non-permanent residents, outflows",634.0
-2023-01-01,Yukon,"Non-permanent residents, outflows",527.0
-2024-01-01,Yukon,"Non-permanent residents, outflows",721.0
-2025-01-01,Yukon,"Non-permanent residents, outflows",829.0
+2022-01-01,Yukon,"Non-permanent residents, inflows",558.0
+2023-01-01,Yukon,"Non-permanent residents, inflows",1049.0
+2024-01-01,Yukon,"Non-permanent residents, inflows",1320.0
+2025-01-01,Yukon,"Non-permanent residents, inflows",897.0
+2026-01-01,Yukon,"Non-permanent residents, inflows",545.0
+2022-01-01,Yukon,"Non-permanent residents, outflows",609.0
+2023-01-01,Yukon,"Non-permanent residents, outflows",556.0
+2024-01-01,Yukon,"Non-permanent residents, outflows",725.0
+2025-01-01,Yukon,"Non-permanent residents, outflows",776.0
+2026-01-01,Yukon,"Non-permanent residents, outflows",734.0
 1972-01-01,Yukon,Residual deviation,88.0
 1973-01-01,Yukon,Residual deviation,87.0
 1974-01-01,Yukon,Residual deviation,87.0
@@ -7000,5 +7139,6 @@ date,geography,component,value
 2021-01-01,Yukon,Returning emigrants,2.0
 2022-01-01,Yukon,Returning emigrants,52.0
 2023-01-01,Yukon,Returning emigrants,34.0
-2024-01-01,Yukon,Returning emigrants,30.0
-2025-01-01,Yukon,Returning emigrants,30.0
+2024-01-01,Yukon,Returning emigrants,18.0
+2025-01-01,Yukon,Returning emigrants,18.0
+2026-01-01,Yukon,Returning emigrants,19.0

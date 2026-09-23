@@ -4,7 +4,7 @@
   "source_table": "open.canada.ca 390ee890",
   "frequency": "annual",
   "unit": "nominal CAD per hour",
-  "retrieved_at": "2026-09-22T18:01:09.116583+00:00",
+  "retrieved_at": "2026-09-23T18:22:14.103380+00:00",
   "latest_observation_date": "2026",
   "next_release_date": null,
   "transformations": [

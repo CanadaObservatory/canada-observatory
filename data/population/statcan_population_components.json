@@ -4,12 +4,12 @@
   "source_table": "17-10-0008-01",
   "frequency": "quarterly",
   "unit": "persons",
-  "retrieved_at": "2026-09-22T18:00:30.614640+00:00",
-  "latest_observation_date": "2025-01-01",
+  "retrieved_at": "2026-09-23T18:19:39.229221+00:00",
+  "latest_observation_date": "2026-01-01",
   "next_release_date": null,
   "transformations": [
     "filtered to date, geography, component, value columns"
   ],
   "notes": null,
-  "row_count": 7003
+  "row_count": 7143
 }

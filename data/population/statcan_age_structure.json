@@ -4,13 +4,13 @@
   "source_table": "17-10-0005-01",
   "frequency": "annual",
   "unit": "persons (median/average age rows in years)",
-  "retrieved_at": "2026-09-22T18:00:42.808381+00:00",
-  "latest_observation_date": "2025",
+  "retrieved_at": "2026-09-23T18:20:24.696513+00:00",
+  "latest_observation_date": "2026",
   "next_release_date": null,
   "transformations": [
     "Canada only; gender labels simplified",
     "single-year ages + broad groups + median/average age kept"
   ],
   "notes": null,
-  "row_count": 21804
+  "row_count": 22221
 }

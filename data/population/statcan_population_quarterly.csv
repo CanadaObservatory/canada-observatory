@@ -280,25 +280,26 @@ date,geography,population
 2021-01-01,Alberta,4418338
 2021-04-01,Alberta,4425617
 2021-07-01,Alberta,4431531
-2021-10-01,Alberta,4451129
-2022-01-01,Alberta,4466136
-2022-04-01,Alberta,4482503
-2022-07-01,Alberta,4512731
-2022-10-01,Alberta,4560275
-2023-01-01,Alberta,4596901
-2023-04-01,Alberta,4641615
-2023-07-01,Alberta,4688576
-2023-10-01,Alberta,4752173
-2024-01-01,Alberta,4801806
-2024-04-01,Alberta,4857695
-2024-07-01,Alberta,4909030
-2024-10-01,Alberta,4957075
-2025-01-01,Alberta,4988181
-2025-04-01,Alberta,5010078
-2025-07-01,Alberta,5029346
-2025-10-01,Alberta,5040871
-2026-01-01,Alberta,5048151
-2026-04-01,Alberta,5057077
+2021-10-01,Alberta,4451077
+2022-01-01,Alberta,4465845
+2022-04-01,Alberta,4481521
+2022-07-01,Alberta,4513589
+2022-10-01,Alberta,4560790
+2023-01-01,Alberta,4596048
+2023-04-01,Alberta,4639471
+2023-07-01,Alberta,4688032
+2023-10-01,Alberta,4750739
+2024-01-01,Alberta,4797611
+2024-04-01,Alberta,4852191
+2024-07-01,Alberta,4901795
+2024-10-01,Alberta,4945710
+2025-01-01,Alberta,4973853
+2025-04-01,Alberta,4996457
+2025-07-01,Alberta,5024631
+2025-10-01,Alberta,5052333
+2026-01-01,Alberta,5067862
+2026-04-01,Alberta,5079176
+2026-07-01,Alberta,5101050
 1951-07-01,British Columbia,1168000
 1951-10-01,British Columbia,1179000
 1952-01-01,British Columbia,1189000
@@ -580,25 +581,26 @@ date,geography,population
 2021-01-01,British Columbia,5180015
 2021-04-01,British Columbia,5200393
 2021-07-01,British Columbia,5226665
-2021-10-01,British Columbia,5269491
-2022-01-01,British Columbia,5287664
-2022-04-01,British Columbia,5313881
-2022-07-01,British Columbia,5358845
-2022-10-01,British Columbia,5406059
-2023-01-01,British Columbia,5432939
-2023-04-01,British Columbia,5466566
-2023-07-01,British Columbia,5515296
-2023-10-01,British Columbia,5572694
-2024-01-01,British Columbia,5601024
-2024-04-01,British Columbia,5638043
-2024-07-01,British Columbia,5671114
-2024-10-01,British Columbia,5696852
-2025-01-01,British Columbia,5699989
-2025-04-01,British Columbia,5699690
-2025-07-01,British Columbia,5697536
-2025-10-01,British Columbia,5683201
-2026-01-01,British Columbia,5658528
-2026-04-01,British Columbia,5646420
+2021-10-01,British Columbia,5270096
+2022-01-01,British Columbia,5285835
+2022-04-01,British Columbia,5310232
+2022-07-01,British Columbia,5356870
+2022-10-01,British Columbia,5403857
+2023-01-01,British Columbia,5427786
+2023-04-01,British Columbia,5458417
+2023-07-01,British Columbia,5512217
+2023-10-01,British Columbia,5569929
+2024-01-01,British Columbia,5594479
+2024-04-01,British Columbia,5628073
+2024-07-01,British Columbia,5659205
+2024-10-01,British Columbia,5684774
+2025-01-01,British Columbia,5684439
+2025-04-01,British Columbia,5687504
+2025-07-01,British Columbia,5702544
+2025-10-01,British Columbia,5716602
+2026-01-01,British Columbia,5706331
+2026-04-01,British Columbia,5703683
+2026-07-01,British Columbia,5710598
 1946-01-01,Canada,12188000
 1946-04-01,Canada,12241000
 1946-07-01,Canada,12316000
@@ -902,25 +904,26 @@ date,geography,population
 2021-01-01,Canada,38058291
 2021-04-01,Canada,38140918
 2021-07-01,Canada,38239864
-2021-10-01,Canada,38460257
-2022-01-01,Canada,38565380
-2022-04-01,Canada,38693009
-2022-07-01,Canada,38950132
-2022-10-01,Canada,39284491
-2023-01-01,Canada,39501329
-2023-04-01,Canada,39727297
-2023-07-01,Canada,40049088
-2023-10-01,Canada,40467722
-2024-01-01,Canada,40724526
-2024-04-01,Canada,40990297
-2024-07-01,Canada,41262329
-2024-10-01,Canada,41494132
-2025-01-01,Canada,41574517
-2025-04-01,Canada,41604555
-2025-07-01,Canada,41651653
-2025-10-01,Canada,41575585
-2026-01-01,Canada,41472081
-2026-04-01,Canada,41417056
+2021-10-01,Canada,38462457
+2022-01-01,Canada,38559788
+2022-04-01,Canada,38678014
+2022-07-01,Canada,38945628
+2022-10-01,Canada,39278574
+2023-01-01,Canada,39477134
+2023-04-01,Canada,39684191
+2023-07-01,Canada,40022704
+2023-10-01,Canada,40439108
+2024-01-01,Canada,40670178
+2024-04-01,Canada,40912561
+2024-07-01,Canada,41162593
+2024-10-01,Canada,41373096
+2025-01-01,Canada,41435888
+2025-04-01,Canada,41495432
+2025-07-01,Canada,41608982
+2025-10-01,Canada,41723923
+2026-01-01,Canada,41716698
+2026-04-01,Canada,41718064
+2026-07-01,Canada,41798407
 1951-07-01,Manitoba,778000
 1951-10-01,Manitoba,784000
 1952-01-01,Manitoba,789000
@@ -1202,25 +1205,26 @@ date,geography,population
 2021-01-01,Manitoba,1383854
 2021-04-01,Manitoba,1388611
 2021-07-01,Manitoba,1391924
-2021-10-01,Manitoba,1396656
-2022-01-01,Manitoba,1400367
-2022-04-01,Manitoba,1404837
-2022-07-01,Manitoba,1413498
-2022-10-01,Manitoba,1424475
-2023-01-01,Manitoba,1433655
-2023-04-01,Manitoba,1444049
-2023-07-01,Manitoba,1453202
-2023-10-01,Manitoba,1462439
-2024-01-01,Manitoba,1472261
-2024-04-01,Manitoba,1483553
-2024-07-01,Manitoba,1492144
-2024-10-01,Manitoba,1500464
-2025-01-01,Manitoba,1505644
-2025-04-01,Manitoba,1508031
-2025-07-01,Manitoba,1509702
-2025-10-01,Manitoba,1507057
-2026-01-01,Manitoba,1505117
-2026-04-01,Manitoba,1503865
+2021-10-01,Manitoba,1396406
+2022-01-01,Manitoba,1399737
+2022-04-01,Manitoba,1404046
+2022-07-01,Manitoba,1413346
+2022-10-01,Manitoba,1423845
+2023-01-01,Manitoba,1431771
+2023-04-01,Manitoba,1441680
+2023-07-01,Manitoba,1452054
+2023-10-01,Manitoba,1460624
+2024-01-01,Manitoba,1468946
+2024-04-01,Manitoba,1479792
+2024-07-01,Manitoba,1487953
+2024-10-01,Manitoba,1495180
+2025-01-01,Manitoba,1499649
+2025-04-01,Manitoba,1503773
+2025-07-01,Manitoba,1508582
+2025-10-01,Manitoba,1512567
+2026-01-01,Manitoba,1514362
+2026-04-01,Manitoba,1514157
+2026-07-01,Manitoba,1517379
 1951-07-01,New Brunswick,517000
 1951-10-01,New Brunswick,519000
 1952-01-01,New Brunswick,521000
@@ -1502,25 +1506,26 @@ date,geography,population
 2021-01-01,New Brunswick,784950
 2021-04-01,New Brunswick,787002
 2021-07-01,New Brunswick,790802
-2021-10-01,New Brunswick,795691
-2022-01-01,New Brunswick,798414
-2022-04-01,New Brunswick,801319
-2022-07-01,New Brunswick,808869
-2022-10-01,New Brunswick,816420
-2023-01-01,New Brunswick,819414
-2023-04-01,New Brunswick,824150
-2023-07-01,New Brunswick,831103
-2023-10-01,New Brunswick,840130
-2024-01-01,New Brunswick,844859
-2024-04-01,New Brunswick,850930
-2024-07-01,New Brunswick,858293
-2024-10-01,New Brunswick,863841
-2025-01-01,New Brunswick,865945
-2025-04-01,New Brunswick,867014
-2025-07-01,New Brunswick,869682
-2025-10-01,New Brunswick,868630
-2026-01-01,New Brunswick,867383
-2026-04-01,New Brunswick,866497
+2021-10-01,New Brunswick,795754
+2022-01-01,New Brunswick,798399
+2022-04-01,New Brunswick,801175
+2022-07-01,New Brunswick,808587
+2022-10-01,New Brunswick,816074
+2023-01-01,New Brunswick,818845
+2023-04-01,New Brunswick,823226
+2023-07-01,New Brunswick,829937
+2023-10-01,New Brunswick,839183
+2024-01-01,New Brunswick,843651
+2024-04-01,New Brunswick,849819
+2024-07-01,New Brunswick,857114
+2024-10-01,New Brunswick,863674
+2025-01-01,New Brunswick,866560
+2025-04-01,New Brunswick,869777
+2025-07-01,New Brunswick,874711
+2025-10-01,New Brunswick,877969
+2026-01-01,New Brunswick,878596
+2026-04-01,New Brunswick,878549
+2026-07-01,New Brunswick,883522
 1951-07-01,Newfoundland and Labrador,362000
 1951-10-01,Newfoundland and Labrador,365000
 1952-01-01,Newfoundland and Labrador,368000
@@ -1802,25 +1807,26 @@ date,geography,population
 2021-01-01,Newfoundland and Labrador,525895
 2021-04-01,Newfoundland and Labrador,526195
 2021-07-01,Newfoundland and Labrador,527056
-2021-10-01,Newfoundland and Labrador,528342
-2022-01-01,Newfoundland and Labrador,529008
-2022-04-01,Newfoundland and Labrador,529054
-2022-07-01,Newfoundland and Labrador,531257
-2022-10-01,Newfoundland and Labrador,533194
-2023-01-01,Newfoundland and Labrador,535147
-2023-04-01,Newfoundland and Labrador,536635
-2023-07-01,Newfoundland and Labrador,538789
-2023-10-01,Newfoundland and Labrador,541126
-2024-01-01,Newfoundland and Labrador,542449
-2024-04-01,Newfoundland and Labrador,544318
-2024-07-01,Newfoundland and Labrador,546869
-2024-10-01,Newfoundland and Labrador,548402
-2025-01-01,Newfoundland and Labrador,548842
-2025-04-01,Newfoundland and Labrador,549456
-2025-07-01,Newfoundland and Labrador,549911
-2025-10-01,Newfoundland and Labrador,549738
-2026-01-01,Newfoundland and Labrador,548557
-2026-04-01,Newfoundland and Labrador,547910
+2021-10-01,Newfoundland and Labrador,528356
+2022-01-01,Newfoundland and Labrador,528888
+2022-04-01,Newfoundland and Labrador,528919
+2022-07-01,Newfoundland and Labrador,531061
+2022-10-01,Newfoundland and Labrador,533006
+2023-01-01,Newfoundland and Labrador,534474
+2023-04-01,Newfoundland and Labrador,535814
+2023-07-01,Newfoundland and Labrador,538041
+2023-10-01,Newfoundland and Labrador,540408
+2024-01-01,Newfoundland and Labrador,541114
+2024-04-01,Newfoundland and Labrador,542705
+2024-07-01,Newfoundland and Labrador,545080
+2024-10-01,Newfoundland and Labrador,546785
+2025-01-01,Newfoundland and Labrador,547237
+2025-04-01,Newfoundland and Labrador,548205
+2025-07-01,Newfoundland and Labrador,550202
+2025-10-01,Newfoundland and Labrador,551526
+2026-01-01,Newfoundland and Labrador,551564
+2026-04-01,Newfoundland and Labrador,550881
+2026-07-01,Newfoundland and Labrador,552462
 1991-07-01,Northwest Territories,38724
 1991-10-01,Northwest Territories,38854
 1992-01-01,Northwest Territories,39055
@@ -1942,25 +1948,26 @@ date,geography,population
 2021-01-01,Northwest Territories,44432
 2021-04-01,Northwest Territories,44679
 2021-07-01,Northwest Territories,44579
-2021-10-01,Northwest Territories,44573
-2022-01-01,Northwest Territories,44741
-2022-04-01,Northwest Territories,44773
-2022-07-01,Northwest Territories,44631
-2022-10-01,Northwest Territories,44559
-2023-01-01,Northwest Territories,44403
-2023-04-01,Northwest Territories,44402
-2023-07-01,Northwest Territories,44614
-2023-10-01,Northwest Territories,44566
-2024-01-01,Northwest Territories,44655
-2024-04-01,Northwest Territories,45021
-2024-07-01,Northwest Territories,45257
-2024-10-01,Northwest Territories,45520
-2025-01-01,Northwest Territories,45679
-2025-04-01,Northwest Territories,45875
-2025-07-01,Northwest Territories,45950
-2025-10-01,Northwest Territories,45848
-2026-01-01,Northwest Territories,45803
-2026-04-01,Northwest Territories,45808
+2021-10-01,Northwest Territories,44587
+2022-01-01,Northwest Territories,44754
+2022-04-01,Northwest Territories,44764
+2022-07-01,Northwest Territories,44626
+2022-10-01,Northwest Territories,44541
+2023-01-01,Northwest Territories,44391
+2023-04-01,Northwest Territories,44379
+2023-07-01,Northwest Territories,44611
+2023-10-01,Northwest Territories,44588
+2024-01-01,Northwest Territories,44707
+2024-04-01,Northwest Territories,45050
+2024-07-01,Northwest Territories,45274
+2024-10-01,Northwest Territories,45526
+2025-01-01,Northwest Territories,45700
+2025-04-01,Northwest Territories,45892
+2025-07-01,Northwest Territories,46031
+2025-10-01,Northwest Territories,46038
+2026-01-01,Northwest Territories,46046
+2026-04-01,Northwest Territories,46071
+2026-07-01,Northwest Territories,45904
 1951-07-01,Northwest Territories including Nunavut,16000
 1951-10-01,Northwest Territories including Nunavut,16000
 1952-01-01,Northwest Territories including Nunavut,16000
@@ -2403,25 +2410,26 @@ date,geography,population
 2021-01-01,Nova Scotia,990025
 2021-04-01,Nova Scotia,993946
 2021-07-01,Nova Scotia,999908
-2021-10-01,Nova Scotia,1006562
-2022-01-01,Nova Scotia,1009355
-2022-04-01,Nova Scotia,1013351
-2022-07-01,Nova Scotia,1024034
-2022-10-01,Nova Scotia,1033146
-2023-01-01,Nova Scotia,1036868
-2023-04-01,Nova Scotia,1043723
-2023-07-01,Nova Scotia,1053005
-2023-10-01,Nova Scotia,1062825
-2024-01-01,Nova Scotia,1067878
-2024-04-01,Nova Scotia,1074020
-2024-07-01,Nova Scotia,1082769
-2024-10-01,Nova Scotia,1088273
-2025-01-01,Nova Scotia,1089187
-2025-04-01,Nova Scotia,1091037
-2025-07-01,Nova Scotia,1093245
-2025-10-01,Nova Scotia,1091857
-2026-01-01,Nova Scotia,1090074
-2026-04-01,Nova Scotia,1090852
+2021-10-01,Nova Scotia,1006740
+2022-01-01,Nova Scotia,1009517
+2022-04-01,Nova Scotia,1013284
+2022-07-01,Nova Scotia,1024306
+2022-10-01,Nova Scotia,1033481
+2023-01-01,Nova Scotia,1036706
+2023-04-01,Nova Scotia,1042847
+2023-07-01,Nova Scotia,1052601
+2023-10-01,Nova Scotia,1062411
+2024-01-01,Nova Scotia,1066827
+2024-04-01,Nova Scotia,1072232
+2024-07-01,Nova Scotia,1080310
+2024-10-01,Nova Scotia,1086377
+2025-01-01,Nova Scotia,1087432
+2025-04-01,Nova Scotia,1090485
+2025-07-01,Nova Scotia,1095157
+2025-10-01,Nova Scotia,1098342
+2026-01-01,Nova Scotia,1098558
+2026-04-01,Nova Scotia,1099399
+2026-07-01,Nova Scotia,1103419
 1991-07-01,Nunavut,22154
 1991-10-01,Nunavut,22320
 1992-01-01,Nunavut,22497
@@ -2543,25 +2551,26 @@ date,geography,population
 2021-01-01,Nunavut,39750
 2021-04-01,Nunavut,39879
 2021-07-01,Nunavut,40086
-2021-10-01,Nunavut,40245
-2022-01-01,Nunavut,40343
-2022-04-01,Nunavut,40579
-2022-07-01,Nunavut,40603
-2022-10-01,Nunavut,40677
-2023-01-01,Nunavut,40797
-2023-04-01,Nunavut,40784
-2023-07-01,Nunavut,40916
-2023-10-01,Nunavut,41089
-2024-01-01,Nunavut,41051
-2024-04-01,Nunavut,41137
-2024-07-01,Nunavut,41410
-2024-10-01,Nunavut,41486
-2025-01-01,Nunavut,41651
-2025-04-01,Nunavut,41798
-2025-07-01,Nunavut,41830
-2025-10-01,Nunavut,41919
-2026-01-01,Nunavut,41946
-2026-04-01,Nunavut,42215
+2021-10-01,Nunavut,40256
+2022-01-01,Nunavut,40357
+2022-04-01,Nunavut,40585
+2022-07-01,Nunavut,40604
+2022-10-01,Nunavut,40681
+2023-01-01,Nunavut,40809
+2023-04-01,Nunavut,40796
+2023-07-01,Nunavut,40939
+2023-10-01,Nunavut,41113
+2024-01-01,Nunavut,41082
+2024-04-01,Nunavut,41170
+2024-07-01,Nunavut,41444
+2024-10-01,Nunavut,41617
+2025-01-01,Nunavut,41794
+2025-04-01,Nunavut,41987
+2025-07-01,Nunavut,42108
+2025-10-01,Nunavut,42233
+2026-01-01,Nunavut,42317
+2026-04-01,Nunavut,42642
+2026-07-01,Nunavut,43091
 1951-07-01,Ontario,4615000
 1951-10-01,Ontario,4665000
 1952-01-01,Ontario,4717000
@@ -2843,25 +2852,26 @@ date,geography,population
 2021-01-01,Ontario,14772726
 2021-04-01,Ontario,14808093
 2021-07-01,Ontario,14842488
-2021-10-01,Ontario,14947417
-2022-01-01,Ontario,14997903
-2022-04-01,Ontario,15051975
-2022-07-01,Ontario,15155836
-2022-10-01,Ontario,15305369
-2023-01-01,Ontario,15407970
-2023-04-01,Ontario,15495050
-2023-07-01,Ontario,15632481
-2023-10-01,Ontario,15823956
-2024-01-01,Ontario,15946146
-2024-04-01,Ontario,16046534
-2024-07-01,Ontario,16144797
-2024-10-01,Ontario,16228152
-2025-01-01,Ontario,16255550
-2025-04-01,Ontario,16256538
-2025-07-01,Ontario,16258260
-2025-10-01,Ontario,16191372
-2026-01-01,Ontario,16136480
-2026-04-01,Ontario,16103890
+2021-10-01,Ontario,14947557
+2022-01-01,Ontario,14996160
+2022-04-01,Ontario,15046020
+2022-07-01,Ontario,15155192
+2022-10-01,Ontario,15301418
+2023-01-01,Ontario,15394843
+2023-04-01,Ontario,15472222
+2023-07-01,Ontario,15618269
+2023-10-01,Ontario,15806578
+2024-01-01,Ontario,15916758
+2024-04-01,Ontario,16003875
+2024-07-01,Ontario,16090358
+2024-10-01,Ontario,16154989
+2025-01-01,Ontario,16173041
+2025-04-01,Ontario,16189877
+2025-07-01,Ontario,16216961
+2025-10-01,Ontario,16253023
+2026-01-01,Ontario,16249344
+2026-04-01,Ontario,16244194
+2026-07-01,Ontario,16262121
 1951-07-01,Prince Edward Island,99000
 1951-10-01,Prince Edward Island,99000
 1952-01-01,Prince Edward Island,100000
@@ -3143,25 +3153,26 @@ date,geography,population
 2021-01-01,Prince Edward Island,159240
 2021-04-01,Prince Edward Island,160334
 2021-07-01,Prince Edward Island,162133
-2021-10-01,Prince Edward Island,163580
-2022-01-01,Prince Edward Island,164058
-2022-04-01,Prince Edward Island,165396
-2022-07-01,Prince Edward Island,167200
-2022-10-01,Prince Edward Island,168939
-2023-01-01,Prince Edward Island,169942
-2023-04-01,Prince Edward Island,171736
-2023-07-01,Prince Edward Island,173734
-2023-10-01,Prince Edward Island,176173
-2024-01-01,Prince Edward Island,176757
-2024-04-01,Prince Edward Island,178022
-2024-07-01,Prince Edward Island,179709
-2024-10-01,Prince Edward Island,180877
-2025-01-01,Prince Edward Island,180686
-2025-04-01,Prince Edward Island,181289
-2025-07-01,Prince Edward Island,182657
-2025-10-01,Prince Edward Island,182508
-2026-01-01,Prince Edward Island,182001
-2026-04-01,Prince Edward Island,181715
+2021-10-01,Prince Edward Island,163690
+2022-01-01,Prince Edward Island,164203
+2022-04-01,Prince Edward Island,165481
+2022-07-01,Prince Edward Island,167147
+2022-10-01,Prince Edward Island,168882
+2023-01-01,Prince Edward Island,169731
+2023-04-01,Prince Edward Island,171399
+2023-07-01,Prince Edward Island,173270
+2023-10-01,Prince Edward Island,175675
+2024-01-01,Prince Edward Island,176134
+2024-04-01,Prince Edward Island,177269
+2024-07-01,Prince Edward Island,178869
+2024-10-01,Prince Edward Island,179997
+2025-01-01,Prince Edward Island,179816
+2025-04-01,Prince Edward Island,180457
+2025-07-01,Prince Edward Island,181594
+2025-10-01,Prince Edward Island,182588
+2026-01-01,Prince Edward Island,182576
+2026-04-01,Prince Edward Island,182700
+2026-07-01,Prince Edward Island,182989
 1951-07-01,Quebec,4066000
 1951-10-01,Quebec,4095000
 1952-01-01,Quebec,4126000
@@ -3443,25 +3454,26 @@ date,geography,population
 2021-01-01,Quebec,8550561
 2021-04-01,Quebec,8556015
 2021-07-01,Quebec,8572020
-2021-10-01,Quebec,8604508
-2022-01-01,Quebec,8613282
-2022-04-01,Quebec,8628480
-2022-07-01,Quebec,8669963
-2022-10-01,Quebec,8718914
-2023-01-01,Quebec,8742975
-2023-04-01,Quebec,8772140
-2023-07-01,Quebec,8821696
-2023-10-01,Quebec,8882501
-2024-01-01,Quebec,8909038
-2024-04-01,Quebec,8945468
-2024-07-01,Quebec,8995474
-2024-10-01,Quebec,9038268
-2025-01-01,Quebec,9043463
-2025-04-01,Quebec,9041123
-2025-07-01,Quebec,9058297
-2025-10-01,Quebec,9058089
-2026-01-01,Quebec,9033887
-2026-04-01,Quebec,9016222
+2021-10-01,Quebec,8605817
+2022-01-01,Quebec,8611897
+2022-04-01,Quebec,8625141
+2022-07-01,Quebec,8667648
+2022-10-01,Quebec,8719641
+2023-01-01,Quebec,8741980
+2023-04-01,Quebec,8768409
+2023-07-01,Quebec,8818050
+2023-10-01,Quebec,8881058
+2024-01-01,Quebec,8904100
+2024-04-01,Quebec,8937098
+2024-07-01,Quebec,8982312
+2024-10-01,Quebec,9026416
+2025-01-01,Quebec,9029220
+2025-04-01,Quebec,9028682
+2025-07-01,Quebec,9051022
+2025-10-01,Quebec,9071310
+2026-01-01,Quebec,9057967
+2026-04-01,Quebec,9053814
+2026-07-01,Quebec,9067114
 1951-07-01,Saskatchewan,834000
 1951-10-01,Saskatchewan,836000
 1952-01-01,Saskatchewan,836000
@@ -3743,25 +3755,26 @@ date,geography,population
 2021-01-01,Saskatchewan,1166348
 2021-04-01,Saskatchewan,1167711
 2021-07-01,Saskatchewan,1167711
-2021-10-01,Saskatchewan,1168934
-2022-01-01,Saskatchewan,1171063
-2022-04-01,Saskatchewan,1173461
-2022-07-01,Saskatchewan,1178796
-2022-10-01,Saskatchewan,1188295
-2023-01-01,Saskatchewan,1195840
-2023-04-01,Saskatchewan,1201624
-2023-07-01,Saskatchewan,1210257
-2023-10-01,Saskatchewan,1222152
-2024-01-01,Saskatchewan,1230316
-2024-04-01,Saskatchewan,1238591
-2024-07-01,Saskatchewan,1247868
-2024-10-01,Saskatchewan,1256983
-2025-01-01,Saskatchewan,1261524
-2025-04-01,Saskatchewan,1264537
-2025-07-01,Saskatchewan,1266959
-2025-10-01,Saskatchewan,1266234
-2026-01-01,Saskatchewan,1265936
-2026-04-01,Saskatchewan,1266092
+2021-10-01,Saskatchewan,1168966
+2022-01-01,Saskatchewan,1171110
+2022-04-01,Saskatchewan,1173416
+2022-07-01,Saskatchewan,1178761
+2022-10-01,Saskatchewan,1188150
+2023-01-01,Saskatchewan,1195268
+2023-04-01,Saskatchewan,1200708
+2023-07-01,Saskatchewan,1209273
+2023-10-01,Saskatchewan,1220864
+2024-01-01,Saskatchewan,1228473
+2024-04-01,Saskatchewan,1236277
+2024-07-01,Saskatchewan,1245196
+2024-10-01,Saskatchewan,1253962
+2025-01-01,Saskatchewan,1258722
+2025-04-01,Saskatchewan,1263752
+2025-07-01,Saskatchewan,1266289
+2025-10-01,Saskatchewan,1269970
+2026-01-01,Saskatchewan,1271629
+2026-04-01,Saskatchewan,1272936
+2026-07-01,Saskatchewan,1278402
 1951-07-01,Yukon,9000
 1951-10-01,Yukon,9000
 1952-01-01,Yukon,9000
@@ -4043,22 +4056,23 @@ date,geography,population
 2021-01-01,Yukon,42157
 2021-04-01,Yukon,42443
 2021-07-01,Yukon,42961
-2021-10-01,Yukon,43129
-2022-01-01,Yukon,43046
-2022-04-01,Yukon,43400
-2022-07-01,Yukon,43869
-2022-10-01,Yukon,44169
-2023-01-01,Yukon,44478
+2021-10-01,Yukon,43155
+2022-01-01,Yukon,43086
+2022-04-01,Yukon,43430
+2022-07-01,Yukon,43891
+2022-10-01,Yukon,44208
+2023-01-01,Yukon,44482
 2023-04-01,Yukon,44823
-2023-07-01,Yukon,45419
-2023-10-01,Yukon,45898
-2024-01-01,Yukon,46286
-2024-04-01,Yukon,46965
-2024-07-01,Yukon,47595
-2024-10-01,Yukon,47939
-2025-01-01,Yukon,48176
-2025-04-01,Yukon,48089
-2025-07-01,Yukon,48278
-2025-10-01,Yukon,48261
-2026-01-01,Yukon,48218
-2026-04-01,Yukon,48493
+2023-07-01,Yukon,45410
+2023-10-01,Yukon,45938
+2024-01-01,Yukon,46296
+2024-04-01,Yukon,47010
+2024-07-01,Yukon,47683
+2024-10-01,Yukon,48089
+2025-01-01,Yukon,48425
+2025-04-01,Yukon,48584
+2025-07-01,Yukon,49150
+2025-10-01,Yukon,49422
+2026-01-01,Yukon,49546
+2026-04-01,Yukon,49862
+2026-07-01,Yukon,50356

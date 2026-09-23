@@ -4,8 +4,8 @@
   "source_table": "17-10-0020-01",
   "frequency": "annual",
   "unit": "persons (net)",
-  "retrieved_at": "2026-09-22T18:00:43.035812+00:00",
-  "latest_observation_date": "2025",
+  "retrieved_at": "2026-09-23T18:20:25.256009+00:00",
+  "latest_observation_date": "2026",
   "next_release_date": null,
   "transformations": [
     "net = in-migrants \u2212 out-migrants",
@@ -13,5 +13,5 @@
     "incomplete years dropped"
   ],
   "notes": null,
-  "row_count": 782
+  "row_count": 795
 }

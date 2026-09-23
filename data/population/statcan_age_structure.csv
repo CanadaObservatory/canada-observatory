@@ -20135,1671 +20135,2088 @@ year,gender,age_group,uom,value
 2021,Women,90 years and older,Persons,233500.0
 2021,Women,Median age,Years,42.2
 2021,Women,Average age,Years,42.5
-2022,Men,All ages,Persons,19403687.0
-2022,Men,0 to 4 years,Persons,966063.0
-2022,Men,0 years,Persons,186566.0
-2022,Men,1 year,Persons,187758.0
-2022,Men,2 years,Persons,192323.0
-2022,Men,3 years,Persons,196981.0
-2022,Men,4 years,Persons,202435.0
-2022,Men,5 to 9 years,Persons,1072823.0
-2022,Men,5 years,Persons,208935.0
-2022,Men,6 years,Persons,213548.0
-2022,Men,7 years,Persons,215853.0
-2022,Men,8 years,Persons,215645.0
-2022,Men,9 years,Persons,218842.0
-2022,Men,10 to 14 years,Persons,1104301.0
-2022,Men,10 years,Persons,218583.0
-2022,Men,11 years,Persons,218364.0
-2022,Men,12 years,Persons,221831.0
-2022,Men,13 years,Persons,223243.0
-2022,Men,14 years,Persons,222280.0
-2022,Men,15 to 19 years,Persons,1102376.0
-2022,Men,15 years,Persons,217733.0
-2022,Men,16 years,Persons,215154.0
-2022,Men,17 years,Persons,214624.0
-2022,Men,18 years,Persons,221875.0
-2022,Men,19 years,Persons,232990.0
-2022,Men,20 to 24 years,Persons,1279760.0
-2022,Men,20 years,Persons,241657.0
-2022,Men,21 years,Persons,247200.0
-2022,Men,22 years,Persons,258170.0
-2022,Men,23 years,Persons,261603.0
-2022,Men,24 years,Persons,271130.0
-2022,Men,25 to 29 years,Persons,1428455.0
-2022,Men,25 years,Persons,279210.0
-2022,Men,26 years,Persons,286748.0
-2022,Men,27 years,Persons,289302.0
-2022,Men,28 years,Persons,285660.0
-2022,Men,29 years,Persons,287535.0
-2022,Men,30 to 34 years,Persons,1430007.0
-2022,Men,30 years,Persons,288164.0
-2022,Men,31 years,Persons,294284.0
-2022,Men,32 years,Persons,292698.0
-2022,Men,33 years,Persons,281974.0
-2022,Men,34 years,Persons,272887.0
-2022,Men,35 to 39 years,Persons,1361943.0
-2022,Men,35 years,Persons,271826.0
-2022,Men,36 years,Persons,275460.0
-2022,Men,37 years,Persons,274675.0
-2022,Men,38 years,Persons,271323.0
-2022,Men,39 years,Persons,268659.0
-2022,Men,40 to 44 years,Persons,1287983.0
-2022,Men,40 years,Persons,265135.0
-2022,Men,41 years,Persons,265024.0
-2022,Men,42 years,Persons,259869.0
-2022,Men,43 years,Persons,251814.0
-2022,Men,44 years,Persons,246141.0
-2022,Men,45 to 49 years,Persons,1193446.0
-2022,Men,45 years,Persons,243217.0
-2022,Men,46 years,Persons,241602.0
-2022,Men,47 years,Persons,241460.0
-2022,Men,48 years,Persons,234089.0
-2022,Men,49 years,Persons,233078.0
+2022,Men,All ages,Persons,19401448.0
+2022,Men,0 to 4 years,Persons,966365.0
+2022,Men,0 years,Persons,187015.0
+2022,Men,1 year,Persons,187737.0
+2022,Men,2 years,Persons,192286.0
+2022,Men,3 years,Persons,196938.0
+2022,Men,4 years,Persons,202389.0
+2022,Men,5 to 9 years,Persons,1072670.0
+2022,Men,5 years,Persons,208881.0
+2022,Men,6 years,Persons,213515.0
+2022,Men,7 years,Persons,215826.0
+2022,Men,8 years,Persons,215615.0
+2022,Men,9 years,Persons,218833.0
+2022,Men,10 to 14 years,Persons,1104252.0
+2022,Men,10 years,Persons,218571.0
+2022,Men,11 years,Persons,218373.0
+2022,Men,12 years,Persons,221801.0
+2022,Men,13 years,Persons,223235.0
+2022,Men,14 years,Persons,222272.0
+2022,Men,15 to 19 years,Persons,1101467.0
+2022,Men,15 years,Persons,217701.0
+2022,Men,16 years,Persons,215080.0
+2022,Men,17 years,Persons,214552.0
+2022,Men,18 years,Persons,221665.0
+2022,Men,19 years,Persons,232469.0
+2022,Men,20 to 24 years,Persons,1278576.0
+2022,Men,20 years,Persons,241062.0
+2022,Men,21 years,Persons,246931.0
+2022,Men,22 years,Persons,258029.0
+2022,Men,23 years,Persons,261501.0
+2022,Men,24 years,Persons,271053.0
+2022,Men,25 to 29 years,Persons,1428694.0
+2022,Men,25 years,Persons,279194.0
+2022,Men,26 years,Persons,286782.0
+2022,Men,27 years,Persons,289393.0
+2022,Men,28 years,Persons,285724.0
+2022,Men,29 years,Persons,287601.0
+2022,Men,30 to 34 years,Persons,1429958.0
+2022,Men,30 years,Persons,288187.0
+2022,Men,31 years,Persons,294277.0
+2022,Men,32 years,Persons,292685.0
+2022,Men,33 years,Persons,281936.0
+2022,Men,34 years,Persons,272873.0
+2022,Men,35 to 39 years,Persons,1361834.0
+2022,Men,35 years,Persons,271790.0
+2022,Men,36 years,Persons,275443.0
+2022,Men,37 years,Persons,274660.0
+2022,Men,38 years,Persons,271299.0
+2022,Men,39 years,Persons,268642.0
+2022,Men,40 to 44 years,Persons,1287921.0
+2022,Men,40 years,Persons,265111.0
+2022,Men,41 years,Persons,265015.0
+2022,Men,42 years,Persons,259857.0
+2022,Men,43 years,Persons,251796.0
+2022,Men,44 years,Persons,246142.0
+2022,Men,45 to 49 years,Persons,1193444.0
+2022,Men,45 years,Persons,243212.0
+2022,Men,46 years,Persons,241588.0
+2022,Men,47 years,Persons,241474.0
+2022,Men,48 years,Persons,234088.0
+2022,Men,49 years,Persons,233082.0
 2022,Men,50 to 54 years,Persons,1198749.0
-2022,Men,50 years,Persons,236457.0
-2022,Men,51 years,Persons,245086.0
-2022,Men,52 years,Persons,242492.0
-2022,Men,53 years,Persons,238647.0
-2022,Men,54 years,Persons,236067.0
-2022,Men,55 to 59 years,Persons,1303125.0
-2022,Men,55 years,Persons,237303.0
-2022,Men,56 years,Persons,250412.0
-2022,Men,57 years,Persons,266520.0
-2022,Men,58 years,Persons,273378.0
-2022,Men,59 years,Persons,275512.0
-2022,Men,60 to 64 years,Persons,1305211.0
-2022,Men,60 years,Persons,267912.0
-2022,Men,61 years,Persons,268776.0
-2022,Men,62 years,Persons,263018.0
-2022,Men,63 years,Persons,254820.0
-2022,Men,64 years,Persons,250685.0
-2022,Men,65 to 69 years,Persons,1117571.0
-2022,Men,65 years,Persons,242455.0
-2022,Men,66 years,Persons,232833.0
-2022,Men,67 years,Persons,226324.0
-2022,Men,68 years,Persons,213887.0
-2022,Men,69 years,Persons,202072.0
-2022,Men,70 to 74 years,Persons,895302.0
-2022,Men,70 years,Persons,192012.0
-2022,Men,71 years,Persons,185094.0
-2022,Men,72 years,Persons,178197.0
-2022,Men,73 years,Persons,171448.0
-2022,Men,74 years,Persons,168551.0
-2022,Men,75 to 79 years,Persons,645544.0
-2022,Men,75 years,Persons,163353.0
-2022,Men,76 years,Persons,136108.0
-2022,Men,77 years,Persons,123404.0
-2022,Men,78 years,Persons,115646.0
-2022,Men,79 years,Persons,107033.0
-2022,Men,80 to 84 years,Persons,388547.0
-2022,Men,80 years,Persons,94587.0
-2022,Men,81 years,Persons,86307.0
-2022,Men,82 years,Persons,76726.0
-2022,Men,83 years,Persons,69125.0
-2022,Men,84 years,Persons,61802.0
-2022,Men,85 to 89 years,Persons,213228.0
-2022,Men,85 years,Persons,54316.0
-2022,Men,86 years,Persons,49149.0
-2022,Men,87 years,Persons,42180.0
-2022,Men,88 years,Persons,36269.0
-2022,Men,89 years,Persons,31314.0
-2022,Men,90 to 94 years,Persons,88275.0
-2022,Men,90 years,Persons,26920.0
-2022,Men,91 years,Persons,22176.0
-2022,Men,92 years,Persons,16888.0
-2022,Men,93 years,Persons,12660.0
-2022,Men,94 years,Persons,9631.0
-2022,Men,95 to 99 years,Persons,19111.0
-2022,Men,95 years,Persons,7424.0
-2022,Men,96 years,Persons,4964.0
-2022,Men,97 years,Persons,3247.0
-2022,Men,98 years,Persons,2113.0
-2022,Men,99 years,Persons,1363.0
-2022,Men,100 years and older,Persons,1867.0
-2022,Men,0 to 14 years,Persons,3143187.0
-2022,Men,0 to 15 years,Persons,3360920.0
-2022,Men,0 to 16 years,Persons,3576074.0
-2022,Men,0 to 17 years,Persons,3790698.0
-2022,Men,15 to 49 years,Persons,9083970.0
-2022,Men,15 to 64 years,Persons,12891055.0
-2022,Men,16 to 64 years,Persons,12673322.0
-2022,Men,17 to 64 years,Persons,12458168.0
-2022,Men,18 years and older,Persons,15612989.0
-2022,Men,18 to 64 years,Persons,12243544.0
-2022,Men,18 to 24 years,Persons,1734625.0
-2022,Men,25 to 44 years,Persons,5508388.0
-2022,Men,45 to 64 years,Persons,5000531.0
-2022,Men,65 years and older,Persons,3369445.0
-2022,Men,90 years and older,Persons,109253.0
+2022,Men,50 years,Persons,236443.0
+2022,Men,51 years,Persons,245088.0
+2022,Men,52 years,Persons,242503.0
+2022,Men,53 years,Persons,238650.0
+2022,Men,54 years,Persons,236065.0
+2022,Men,55 to 59 years,Persons,1303097.0
+2022,Men,55 years,Persons,237300.0
+2022,Men,56 years,Persons,250409.0
+2022,Men,57 years,Persons,266513.0
+2022,Men,58 years,Persons,273375.0
+2022,Men,59 years,Persons,275500.0
+2022,Men,60 to 64 years,Persons,1305176.0
+2022,Men,60 years,Persons,267902.0
+2022,Men,61 years,Persons,268760.0
+2022,Men,62 years,Persons,263016.0
+2022,Men,63 years,Persons,254823.0
+2022,Men,64 years,Persons,250675.0
+2022,Men,65 to 69 years,Persons,1117512.0
+2022,Men,65 years,Persons,242438.0
+2022,Men,66 years,Persons,232824.0
+2022,Men,67 years,Persons,226316.0
+2022,Men,68 years,Persons,213871.0
+2022,Men,69 years,Persons,202063.0
+2022,Men,70 to 74 years,Persons,895290.0
+2022,Men,70 years,Persons,192008.0
+2022,Men,71 years,Persons,185083.0
+2022,Men,72 years,Persons,178201.0
+2022,Men,73 years,Persons,171441.0
+2022,Men,74 years,Persons,168557.0
+2022,Men,75 to 79 years,Persons,645507.0
+2022,Men,75 years,Persons,163335.0
+2022,Men,76 years,Persons,136101.0
+2022,Men,77 years,Persons,123399.0
+2022,Men,78 years,Persons,115643.0
+2022,Men,79 years,Persons,107029.0
+2022,Men,80 to 84 years,Persons,388518.0
+2022,Men,80 years,Persons,94574.0
+2022,Men,81 years,Persons,86293.0
+2022,Men,82 years,Persons,76731.0
+2022,Men,83 years,Persons,69115.0
+2022,Men,84 years,Persons,61805.0
+2022,Men,85 to 89 years,Persons,213204.0
+2022,Men,85 years,Persons,54303.0
+2022,Men,86 years,Persons,49151.0
+2022,Men,87 years,Persons,42177.0
+2022,Men,88 years,Persons,36258.0
+2022,Men,89 years,Persons,31315.0
+2022,Men,90 to 94 years,Persons,88254.0
+2022,Men,90 years,Persons,26917.0
+2022,Men,91 years,Persons,22171.0
+2022,Men,92 years,Persons,16885.0
+2022,Men,93 years,Persons,12652.0
+2022,Men,94 years,Persons,9629.0
+2022,Men,95 to 99 years,Persons,19095.0
+2022,Men,95 years,Persons,7417.0
+2022,Men,96 years,Persons,4960.0
+2022,Men,97 years,Persons,3245.0
+2022,Men,98 years,Persons,2111.0
+2022,Men,99 years,Persons,1362.0
+2022,Men,100 years and older,Persons,1865.0
+2022,Men,0 to 14 years,Persons,3143287.0
+2022,Men,0 to 15 years,Persons,3360988.0
+2022,Men,0 to 16 years,Persons,3576068.0
+2022,Men,0 to 17 years,Persons,3790620.0
+2022,Men,15 to 49 years,Persons,9081894.0
+2022,Men,15 to 64 years,Persons,12888916.0
+2022,Men,16 to 64 years,Persons,12671215.0
+2022,Men,17 to 64 years,Persons,12456135.0
+2022,Men,18 years and older,Persons,15610828.0
+2022,Men,18 to 64 years,Persons,12241583.0
+2022,Men,18 to 24 years,Persons,1732710.0
+2022,Men,25 to 44 years,Persons,5508407.0
+2022,Men,45 to 64 years,Persons,5000466.0
+2022,Men,65 years and older,Persons,3369245.0
+2022,Men,90 years and older,Persons,109214.0
 2022,Men,Median age,Years,39.8
 2022,Men,Average age,Years,40.8
-2022,Total,All ages,Persons,38950132.0
-2022,Total,0 to 4 years,Persons,1887192.0
-2022,Total,0 years,Persons,363802.0
-2022,Total,1 year,Persons,365527.0
-2022,Total,2 years,Persons,376554.0
-2022,Total,3 years,Persons,385951.0
-2022,Total,4 years,Persons,395358.0
-2022,Total,5 to 9 years,Persons,2090692.0
-2022,Total,5 years,Persons,407125.0
-2022,Total,6 years,Persons,416683.0
-2022,Total,7 years,Persons,420672.0
-2022,Total,8 years,Persons,420976.0
-2022,Total,9 years,Persons,425236.0
-2022,Total,10 to 14 years,Persons,2146637.0
-2022,Total,10 years,Persons,425409.0
-2022,Total,11 years,Persons,425065.0
-2022,Total,12 years,Persons,431424.0
-2022,Total,13 years,Persons,432996.0
-2022,Total,14 years,Persons,431743.0
-2022,Total,15 to 19 years,Persons,2140739.0
-2022,Total,15 years,Persons,422742.0
-2022,Total,16 years,Persons,417778.0
-2022,Total,17 years,Persons,416741.0
-2022,Total,18 years,Persons,431103.0
-2022,Total,19 years,Persons,452375.0
-2022,Total,20 to 24 years,Persons,2465156.0
-2022,Total,20 years,Persons,467393.0
-2022,Total,21 years,Persons,478009.0
-2022,Total,22 years,Persons,497401.0
-2022,Total,23 years,Persons,502466.0
-2022,Total,24 years,Persons,519887.0
-2022,Total,25 to 29 years,Persons,2747627.0
-2022,Total,25 years,Persons,533544.0
-2022,Total,26 years,Persons,549607.0
-2022,Total,27 years,Persons,554375.0
-2022,Total,28 years,Persons,552274.0
-2022,Total,29 years,Persons,557827.0
-2022,Total,30 to 34 years,Persons,2805364.0
-2022,Total,30 years,Persons,563192.0
-2022,Total,31 years,Persons,574469.0
-2022,Total,32 years,Persons,573782.0
-2022,Total,33 years,Persons,554627.0
-2022,Total,34 years,Persons,539294.0
-2022,Total,35 to 39 years,Persons,2699898.0
-2022,Total,35 years,Persons,538250.0
-2022,Total,36 years,Persons,544360.0
-2022,Total,37 years,Persons,544376.0
-2022,Total,38 years,Persons,538548.0
-2022,Total,39 years,Persons,534364.0
-2022,Total,40 to 44 years,Persons,2570133.0
-2022,Total,40 years,Persons,528446.0
-2022,Total,41 years,Persons,527179.0
-2022,Total,42 years,Persons,517829.0
-2022,Total,43 years,Persons,503923.0
-2022,Total,44 years,Persons,492756.0
-2022,Total,45 to 49 years,Persons,2403418.0
-2022,Total,45 years,Persons,488559.0
-2022,Total,46 years,Persons,485794.0
-2022,Total,47 years,Persons,485338.0
-2022,Total,48 years,Persons,473019.0
-2022,Total,49 years,Persons,470708.0
-2022,Total,50 to 54 years,Persons,2424801.0
-2022,Total,50 years,Persons,477308.0
-2022,Total,51 years,Persons,495221.0
-2022,Total,52 years,Persons,490499.0
-2022,Total,53 years,Persons,483615.0
-2022,Total,54 years,Persons,478158.0
-2022,Total,55 to 59 years,Persons,2624381.0
-2022,Total,55 years,Persons,480418.0
-2022,Total,56 years,Persons,504101.0
-2022,Total,57 years,Persons,536940.0
-2022,Total,58 years,Persons,549523.0
-2022,Total,59 years,Persons,553399.0
-2022,Total,60 to 64 years,Persons,2645150.0
-2022,Total,60 years,Persons,540015.0
-2022,Total,61 years,Persons,543147.0
-2022,Total,62 years,Persons,533306.0
-2022,Total,63 years,Persons,518230.0
-2022,Total,64 years,Persons,510452.0
-2022,Total,65 to 69 years,Persons,2304280.0
-2022,Total,65 years,Persons,495761.0
-2022,Total,66 years,Persons,477796.0
-2022,Total,67 years,Persons,466934.0
-2022,Total,68 years,Persons,444064.0
-2022,Total,69 years,Persons,419725.0
-2022,Total,70 to 74 years,Persons,1870380.0
-2022,Total,70 years,Persons,398986.0
-2022,Total,71 years,Persons,385481.0
-2022,Total,72 years,Persons,372567.0
-2022,Total,73 years,Persons,359953.0
-2022,Total,74 years,Persons,353393.0
-2022,Total,75 to 79 years,Persons,1372752.0
-2022,Total,75 years,Persons,344442.0
-2022,Total,76 years,Persons,288659.0
-2022,Total,77 years,Persons,262182.0
-2022,Total,78 years,Persons,247495.0
-2022,Total,79 years,Persons,229974.0
-2022,Total,80 to 84 years,Persons,875752.0
-2022,Total,80 years,Persons,206756.0
-2022,Total,81 years,Persons,192153.0
+2022,Total,All ages,Persons,38945628.0
+2022,Total,0 to 4 years,Persons,1887203.0
+2022,Total,0 years,Persons,364096.0
+2022,Total,1 year,Persons,365495.0
+2022,Total,2 years,Persons,376477.0
+2022,Total,3 years,Persons,385856.0
+2022,Total,4 years,Persons,395279.0
+2022,Total,5 to 9 years,Persons,2090411.0
+2022,Total,5 years,Persons,407029.0
+2022,Total,6 years,Persons,416637.0
+2022,Total,7 years,Persons,420618.0
+2022,Total,8 years,Persons,420925.0
+2022,Total,9 years,Persons,425202.0
+2022,Total,10 to 14 years,Persons,2146523.0
+2022,Total,10 years,Persons,425373.0
+2022,Total,11 years,Persons,425056.0
+2022,Total,12 years,Persons,431391.0
+2022,Total,13 years,Persons,432984.0
+2022,Total,14 years,Persons,431719.0
+2022,Total,15 to 19 years,Persons,2138971.0
+2022,Total,15 years,Persons,422671.0
+2022,Total,16 years,Persons,417614.0
+2022,Total,17 years,Persons,416588.0
+2022,Total,18 years,Persons,430695.0
+2022,Total,19 years,Persons,451403.0
+2022,Total,20 to 24 years,Persons,2463188.0
+2022,Total,20 years,Persons,466371.0
+2022,Total,21 years,Persons,477539.0
+2022,Total,22 years,Persons,497167.0
+2022,Total,23 years,Persons,502331.0
+2022,Total,24 years,Persons,519780.0
+2022,Total,25 to 29 years,Persons,2748071.0
+2022,Total,25 years,Persons,533499.0
+2022,Total,26 years,Persons,549683.0
+2022,Total,27 years,Persons,554557.0
+2022,Total,28 years,Persons,552397.0
+2022,Total,29 years,Persons,557935.0
+2022,Total,30 to 34 years,Persons,2805363.0
+2022,Total,30 years,Persons,563229.0
+2022,Total,31 years,Persons,574485.0
+2022,Total,32 years,Persons,573789.0
+2022,Total,33 years,Persons,554589.0
+2022,Total,34 years,Persons,539271.0
+2022,Total,35 to 39 years,Persons,2699737.0
+2022,Total,35 years,Persons,538213.0
+2022,Total,36 years,Persons,544319.0
+2022,Total,37 years,Persons,544356.0
+2022,Total,38 years,Persons,538517.0
+2022,Total,39 years,Persons,534332.0
+2022,Total,40 to 44 years,Persons,2570067.0
+2022,Total,40 years,Persons,528424.0
+2022,Total,41 years,Persons,527174.0
+2022,Total,42 years,Persons,517818.0
+2022,Total,43 years,Persons,503900.0
+2022,Total,44 years,Persons,492751.0
+2022,Total,45 to 49 years,Persons,2403406.0
+2022,Total,45 years,Persons,488554.0
+2022,Total,46 years,Persons,485773.0
+2022,Total,47 years,Persons,485354.0
+2022,Total,48 years,Persons,473020.0
+2022,Total,49 years,Persons,470705.0
+2022,Total,50 to 54 years,Persons,2424792.0
+2022,Total,50 years,Persons,477298.0
+2022,Total,51 years,Persons,495219.0
+2022,Total,52 years,Persons,490502.0
+2022,Total,53 years,Persons,483622.0
+2022,Total,54 years,Persons,478151.0
+2022,Total,55 to 59 years,Persons,2624337.0
+2022,Total,55 years,Persons,480416.0
+2022,Total,56 years,Persons,504098.0
+2022,Total,57 years,Persons,536932.0
+2022,Total,58 years,Persons,549513.0
+2022,Total,59 years,Persons,553378.0
+2022,Total,60 to 64 years,Persons,2645069.0
+2022,Total,60 years,Persons,539993.0
+2022,Total,61 years,Persons,543119.0
+2022,Total,62 years,Persons,533302.0
+2022,Total,63 years,Persons,518221.0
+2022,Total,64 years,Persons,510434.0
+2022,Total,65 to 69 years,Persons,2304177.0
+2022,Total,65 years,Persons,495735.0
+2022,Total,66 years,Persons,477777.0
+2022,Total,67 years,Persons,466920.0
+2022,Total,68 years,Persons,444042.0
+2022,Total,69 years,Persons,419703.0
+2022,Total,70 to 74 years,Persons,1870337.0
+2022,Total,70 years,Persons,398974.0
+2022,Total,71 years,Persons,385473.0
+2022,Total,72 years,Persons,372569.0
+2022,Total,73 years,Persons,359938.0
+2022,Total,74 years,Persons,353383.0
+2022,Total,75 to 79 years,Persons,1372687.0
+2022,Total,75 years,Persons,344412.0
+2022,Total,76 years,Persons,288653.0
+2022,Total,77 years,Persons,262175.0
+2022,Total,78 years,Persons,247485.0
+2022,Total,79 years,Persons,229962.0
+2022,Total,80 to 84 years,Persons,875704.0
+2022,Total,80 years,Persons,206744.0
+2022,Total,81 years,Persons,192139.0
 2022,Total,82 years,Persons,173680.0
-2022,Total,83 years,Persons,158762.0
+2022,Total,83 years,Persons,158740.0
 2022,Total,84 years,Persons,144401.0
-2022,Total,85 to 89 years,Persons,527824.0
-2022,Total,85 years,Persons,128919.0
-2022,Total,86 years,Persons,118525.0
-2022,Total,87 years,Persons,104832.0
-2022,Total,88 years,Persons,92336.0
-2022,Total,89 years,Persons,83212.0
-2022,Total,90 to 94 years,Persons,262016.0
-2022,Total,90 years,Persons,73327.0
-2022,Total,91 years,Persons,63141.0
-2022,Total,92 years,Persons,51441.0
-2022,Total,93 years,Persons,41007.0
-2022,Total,94 years,Persons,33100.0
-2022,Total,95 to 99 years,Persons,74788.0
-2022,Total,95 years,Persons,26097.0
-2022,Total,96 years,Persons,18726.0
-2022,Total,97 years,Persons,13599.0
-2022,Total,98 years,Persons,9701.0
-2022,Total,99 years,Persons,6665.0
-2022,Total,100 years and older,Persons,11152.0
-2022,Total,0 to 14 years,Persons,6124521.0
-2022,Total,0 to 15 years,Persons,6547263.0
-2022,Total,0 to 16 years,Persons,6965041.0
-2022,Total,0 to 17 years,Persons,7381782.0
-2022,Total,15 to 49 years,Persons,17832335.0
-2022,Total,15 to 64 years,Persons,25526667.0
-2022,Total,16 to 64 years,Persons,25103925.0
-2022,Total,17 to 64 years,Persons,24686147.0
-2022,Total,18 years and older,Persons,31568350.0
-2022,Total,18 to 64 years,Persons,24269406.0
-2022,Total,18 to 24 years,Persons,3348634.0
-2022,Total,25 to 44 years,Persons,10823022.0
-2022,Total,45 to 64 years,Persons,10097750.0
-2022,Total,65 years and older,Persons,7298944.0
-2022,Total,90 years and older,Persons,347956.0
+2022,Total,85 to 89 years,Persons,527758.0
+2022,Total,85 years,Persons,128896.0
+2022,Total,86 years,Persons,118515.0
+2022,Total,87 years,Persons,104830.0
+2022,Total,88 years,Persons,92309.0
+2022,Total,89 years,Persons,83208.0
+2022,Total,90 to 94 years,Persons,261951.0
+2022,Total,90 years,Persons,73323.0
+2022,Total,91 years,Persons,63128.0
+2022,Total,92 years,Persons,51427.0
+2022,Total,93 years,Persons,40990.0
+2022,Total,94 years,Persons,33083.0
+2022,Total,95 to 99 years,Persons,74740.0
+2022,Total,95 years,Persons,26084.0
+2022,Total,96 years,Persons,18717.0
+2022,Total,97 years,Persons,13588.0
+2022,Total,98 years,Persons,9689.0
+2022,Total,99 years,Persons,6662.0
+2022,Total,100 years and older,Persons,11136.0
+2022,Total,0 to 14 years,Persons,6124137.0
+2022,Total,0 to 15 years,Persons,6546808.0
+2022,Total,0 to 16 years,Persons,6964422.0
+2022,Total,0 to 17 years,Persons,7381010.0
+2022,Total,15 to 49 years,Persons,17828803.0
+2022,Total,15 to 64 years,Persons,25523001.0
+2022,Total,16 to 64 years,Persons,25100330.0
+2022,Total,17 to 64 years,Persons,24682716.0
+2022,Total,18 years and older,Persons,31564618.0
+2022,Total,18 to 64 years,Persons,24266128.0
+2022,Total,18 to 24 years,Persons,3345286.0
+2022,Total,25 to 44 years,Persons,10823238.0
+2022,Total,45 to 64 years,Persons,10097604.0
+2022,Total,65 years and older,Persons,7298490.0
+2022,Total,90 years and older,Persons,347827.0
 2022,Total,Median age,Years,40.9
 2022,Total,Average age,Years,41.7
-2022,Women,All ages,Persons,19546445.0
-2022,Women,0 to 4 years,Persons,921129.0
-2022,Women,0 years,Persons,177236.0
-2022,Women,1 year,Persons,177769.0
-2022,Women,2 years,Persons,184231.0
-2022,Women,3 years,Persons,188970.0
-2022,Women,4 years,Persons,192923.0
-2022,Women,5 to 9 years,Persons,1017869.0
-2022,Women,5 years,Persons,198190.0
-2022,Women,6 years,Persons,203135.0
-2022,Women,7 years,Persons,204819.0
-2022,Women,8 years,Persons,205331.0
-2022,Women,9 years,Persons,206394.0
-2022,Women,10 to 14 years,Persons,1042336.0
-2022,Women,10 years,Persons,206826.0
-2022,Women,11 years,Persons,206701.0
-2022,Women,12 years,Persons,209593.0
-2022,Women,13 years,Persons,209753.0
-2022,Women,14 years,Persons,209463.0
-2022,Women,15 to 19 years,Persons,1038363.0
-2022,Women,15 years,Persons,205009.0
-2022,Women,16 years,Persons,202624.0
-2022,Women,17 years,Persons,202117.0
-2022,Women,18 years,Persons,209228.0
-2022,Women,19 years,Persons,219385.0
-2022,Women,20 to 24 years,Persons,1185396.0
-2022,Women,20 years,Persons,225736.0
-2022,Women,21 years,Persons,230809.0
-2022,Women,22 years,Persons,239231.0
-2022,Women,23 years,Persons,240863.0
-2022,Women,24 years,Persons,248757.0
-2022,Women,25 to 29 years,Persons,1319172.0
-2022,Women,25 years,Persons,254334.0
-2022,Women,26 years,Persons,262859.0
-2022,Women,27 years,Persons,265073.0
-2022,Women,28 years,Persons,266614.0
-2022,Women,29 years,Persons,270292.0
-2022,Women,30 to 34 years,Persons,1375357.0
-2022,Women,30 years,Persons,275028.0
-2022,Women,31 years,Persons,280185.0
-2022,Women,32 years,Persons,281084.0
+2022,Women,All ages,Persons,19544180.0
+2022,Women,0 to 4 years,Persons,920838.0
+2022,Women,0 years,Persons,177081.0
+2022,Women,1 year,Persons,177758.0
+2022,Women,2 years,Persons,184191.0
+2022,Women,3 years,Persons,188918.0
+2022,Women,4 years,Persons,192890.0
+2022,Women,5 to 9 years,Persons,1017741.0
+2022,Women,5 years,Persons,198148.0
+2022,Women,6 years,Persons,203122.0
+2022,Women,7 years,Persons,204792.0
+2022,Women,8 years,Persons,205310.0
+2022,Women,9 years,Persons,206369.0
+2022,Women,10 to 14 years,Persons,1042271.0
+2022,Women,10 years,Persons,206802.0
+2022,Women,11 years,Persons,206683.0
+2022,Women,12 years,Persons,209590.0
+2022,Women,13 years,Persons,209749.0
+2022,Women,14 years,Persons,209447.0
+2022,Women,15 to 19 years,Persons,1037504.0
+2022,Women,15 years,Persons,204970.0
+2022,Women,16 years,Persons,202534.0
+2022,Women,17 years,Persons,202036.0
+2022,Women,18 years,Persons,209030.0
+2022,Women,19 years,Persons,218934.0
+2022,Women,20 to 24 years,Persons,1184612.0
+2022,Women,20 years,Persons,225309.0
+2022,Women,21 years,Persons,230608.0
+2022,Women,22 years,Persons,239138.0
+2022,Women,23 years,Persons,240830.0
+2022,Women,24 years,Persons,248727.0
+2022,Women,25 to 29 years,Persons,1319377.0
+2022,Women,25 years,Persons,254305.0
+2022,Women,26 years,Persons,262901.0
+2022,Women,27 years,Persons,265164.0
+2022,Women,28 years,Persons,266673.0
+2022,Women,29 years,Persons,270334.0
+2022,Women,30 to 34 years,Persons,1375405.0
+2022,Women,30 years,Persons,275042.0
+2022,Women,31 years,Persons,280208.0
+2022,Women,32 years,Persons,281104.0
 2022,Women,33 years,Persons,272653.0
-2022,Women,34 years,Persons,266407.0
-2022,Women,35 to 39 years,Persons,1337955.0
-2022,Women,35 years,Persons,266424.0
-2022,Women,36 years,Persons,268900.0
-2022,Women,37 years,Persons,269701.0
-2022,Women,38 years,Persons,267225.0
-2022,Women,39 years,Persons,265705.0
-2022,Women,40 to 44 years,Persons,1282150.0
-2022,Women,40 years,Persons,263311.0
-2022,Women,41 years,Persons,262155.0
-2022,Women,42 years,Persons,257960.0
-2022,Women,43 years,Persons,252109.0
-2022,Women,44 years,Persons,246615.0
-2022,Women,45 to 49 years,Persons,1209972.0
+2022,Women,34 years,Persons,266398.0
+2022,Women,35 to 39 years,Persons,1337903.0
+2022,Women,35 years,Persons,266423.0
+2022,Women,36 years,Persons,268876.0
+2022,Women,37 years,Persons,269696.0
+2022,Women,38 years,Persons,267218.0
+2022,Women,39 years,Persons,265690.0
+2022,Women,40 to 44 years,Persons,1282146.0
+2022,Women,40 years,Persons,263313.0
+2022,Women,41 years,Persons,262159.0
+2022,Women,42 years,Persons,257961.0
+2022,Women,43 years,Persons,252104.0
+2022,Women,44 years,Persons,246609.0
+2022,Women,45 to 49 years,Persons,1209962.0
 2022,Women,45 years,Persons,245342.0
-2022,Women,46 years,Persons,244192.0
-2022,Women,47 years,Persons,243878.0
-2022,Women,48 years,Persons,238930.0
-2022,Women,49 years,Persons,237630.0
-2022,Women,50 to 54 years,Persons,1226052.0
-2022,Women,50 years,Persons,240851.0
-2022,Women,51 years,Persons,250135.0
-2022,Women,52 years,Persons,248007.0
-2022,Women,53 years,Persons,244968.0
-2022,Women,54 years,Persons,242091.0
-2022,Women,55 to 59 years,Persons,1321256.0
-2022,Women,55 years,Persons,243115.0
+2022,Women,46 years,Persons,244185.0
+2022,Women,47 years,Persons,243880.0
+2022,Women,48 years,Persons,238932.0
+2022,Women,49 years,Persons,237623.0
+2022,Women,50 to 54 years,Persons,1226043.0
+2022,Women,50 years,Persons,240855.0
+2022,Women,51 years,Persons,250131.0
+2022,Women,52 years,Persons,247999.0
+2022,Women,53 years,Persons,244972.0
+2022,Women,54 years,Persons,242086.0
+2022,Women,55 to 59 years,Persons,1321240.0
+2022,Women,55 years,Persons,243116.0
 2022,Women,56 years,Persons,253689.0
-2022,Women,57 years,Persons,270420.0
-2022,Women,58 years,Persons,276145.0
-2022,Women,59 years,Persons,277887.0
-2022,Women,60 to 64 years,Persons,1339939.0
-2022,Women,60 years,Persons,272103.0
-2022,Women,61 years,Persons,274371.0
-2022,Women,62 years,Persons,270288.0
-2022,Women,63 years,Persons,263410.0
-2022,Women,64 years,Persons,259767.0
-2022,Women,65 to 69 years,Persons,1186709.0
-2022,Women,65 years,Persons,253306.0
-2022,Women,66 years,Persons,244963.0
-2022,Women,67 years,Persons,240610.0
-2022,Women,68 years,Persons,230177.0
-2022,Women,69 years,Persons,217653.0
-2022,Women,70 to 74 years,Persons,975078.0
-2022,Women,70 years,Persons,206974.0
-2022,Women,71 years,Persons,200387.0
-2022,Women,72 years,Persons,194370.0
-2022,Women,73 years,Persons,188505.0
-2022,Women,74 years,Persons,184842.0
-2022,Women,75 to 79 years,Persons,727208.0
-2022,Women,75 years,Persons,181089.0
-2022,Women,76 years,Persons,152551.0
-2022,Women,77 years,Persons,138778.0
-2022,Women,78 years,Persons,131849.0
-2022,Women,79 years,Persons,122941.0
-2022,Women,80 to 84 years,Persons,487205.0
-2022,Women,80 years,Persons,112169.0
+2022,Women,57 years,Persons,270419.0
+2022,Women,58 years,Persons,276138.0
+2022,Women,59 years,Persons,277878.0
+2022,Women,60 to 64 years,Persons,1339893.0
+2022,Women,60 years,Persons,272091.0
+2022,Women,61 years,Persons,274359.0
+2022,Women,62 years,Persons,270286.0
+2022,Women,63 years,Persons,263398.0
+2022,Women,64 years,Persons,259759.0
+2022,Women,65 to 69 years,Persons,1186665.0
+2022,Women,65 years,Persons,253297.0
+2022,Women,66 years,Persons,244953.0
+2022,Women,67 years,Persons,240604.0
+2022,Women,68 years,Persons,230171.0
+2022,Women,69 years,Persons,217640.0
+2022,Women,70 to 74 years,Persons,975047.0
+2022,Women,70 years,Persons,206966.0
+2022,Women,71 years,Persons,200390.0
+2022,Women,72 years,Persons,194368.0
+2022,Women,73 years,Persons,188497.0
+2022,Women,74 years,Persons,184826.0
+2022,Women,75 to 79 years,Persons,727180.0
+2022,Women,75 years,Persons,181077.0
+2022,Women,76 years,Persons,152552.0
+2022,Women,77 years,Persons,138776.0
+2022,Women,78 years,Persons,131842.0
+2022,Women,79 years,Persons,122933.0
+2022,Women,80 to 84 years,Persons,487186.0
+2022,Women,80 years,Persons,112170.0
 2022,Women,81 years,Persons,105846.0
-2022,Women,82 years,Persons,96954.0
-2022,Women,83 years,Persons,89637.0
-2022,Women,84 years,Persons,82599.0
-2022,Women,85 to 89 years,Persons,314596.0
-2022,Women,85 years,Persons,74603.0
-2022,Women,86 years,Persons,69376.0
-2022,Women,87 years,Persons,62652.0
-2022,Women,88 years,Persons,56067.0
-2022,Women,89 years,Persons,51898.0
-2022,Women,90 to 94 years,Persons,173741.0
-2022,Women,90 years,Persons,46407.0
-2022,Women,91 years,Persons,40965.0
-2022,Women,92 years,Persons,34553.0
-2022,Women,93 years,Persons,28347.0
-2022,Women,94 years,Persons,23469.0
-2022,Women,95 to 99 years,Persons,55677.0
-2022,Women,95 years,Persons,18673.0
-2022,Women,96 years,Persons,13762.0
-2022,Women,97 years,Persons,10352.0
-2022,Women,98 years,Persons,7588.0
-2022,Women,99 years,Persons,5302.0
-2022,Women,100 years and older,Persons,9285.0
-2022,Women,0 to 14 years,Persons,2981334.0
-2022,Women,0 to 15 years,Persons,3186343.0
-2022,Women,0 to 16 years,Persons,3388967.0
-2022,Women,0 to 17 years,Persons,3591084.0
-2022,Women,15 to 49 years,Persons,8748365.0
-2022,Women,15 to 64 years,Persons,12635612.0
-2022,Women,16 to 64 years,Persons,12430603.0
-2022,Women,17 to 64 years,Persons,12227979.0
-2022,Women,18 years and older,Persons,15955361.0
-2022,Women,18 to 64 years,Persons,12025862.0
-2022,Women,18 to 24 years,Persons,1614009.0
-2022,Women,25 to 44 years,Persons,5314634.0
-2022,Women,45 to 64 years,Persons,5097219.0
-2022,Women,65 years and older,Persons,3929499.0
-2022,Women,90 years and older,Persons,238703.0
+2022,Women,82 years,Persons,96949.0
+2022,Women,83 years,Persons,89625.0
+2022,Women,84 years,Persons,82596.0
+2022,Women,85 to 89 years,Persons,314554.0
+2022,Women,85 years,Persons,74593.0
+2022,Women,86 years,Persons,69364.0
+2022,Women,87 years,Persons,62653.0
+2022,Women,88 years,Persons,56051.0
+2022,Women,89 years,Persons,51893.0
+2022,Women,90 to 94 years,Persons,173697.0
+2022,Women,90 years,Persons,46406.0
+2022,Women,91 years,Persons,40957.0
+2022,Women,92 years,Persons,34542.0
+2022,Women,93 years,Persons,28338.0
+2022,Women,94 years,Persons,23454.0
+2022,Women,95 to 99 years,Persons,55645.0
+2022,Women,95 years,Persons,18667.0
+2022,Women,96 years,Persons,13757.0
+2022,Women,97 years,Persons,10343.0
+2022,Women,98 years,Persons,7578.0
+2022,Women,99 years,Persons,5300.0
+2022,Women,100 years and older,Persons,9271.0
+2022,Women,0 to 14 years,Persons,2980850.0
+2022,Women,0 to 15 years,Persons,3185820.0
+2022,Women,0 to 16 years,Persons,3388354.0
+2022,Women,0 to 17 years,Persons,3590390.0
+2022,Women,15 to 49 years,Persons,8746909.0
+2022,Women,15 to 64 years,Persons,12634085.0
+2022,Women,16 to 64 years,Persons,12429115.0
+2022,Women,17 to 64 years,Persons,12226581.0
+2022,Women,18 years and older,Persons,15953790.0
+2022,Women,18 to 64 years,Persons,12024545.0
+2022,Women,18 to 24 years,Persons,1612576.0
+2022,Women,25 to 44 years,Persons,5314831.0
+2022,Women,45 to 64 years,Persons,5097138.0
+2022,Women,65 years and older,Persons,3929245.0
+2022,Women,90 years and older,Persons,238613.0
 2022,Women,Median age,Years,42.0
 2022,Women,Average age,Years,42.6
-2023,Men,All ages,Persons,19988209.0
-2023,Men,0 to 4 years,Persons,959942.0
-2023,Men,0 years,Persons,180627.0
-2023,Men,1 year,Persons,189383.0
-2023,Men,2 years,Persons,191240.0
-2023,Men,3 years,Persons,196578.0
-2023,Men,4 years,Persons,202114.0
-2023,Men,5 to 9 years,Persons,1087376.0
-2023,Men,5 years,Persons,208647.0
-2023,Men,6 years,Persons,215343.0
-2023,Men,7 years,Persons,219942.0
-2023,Men,8 years,Persons,222013.0
-2023,Men,9 years,Persons,221431.0
-2023,Men,10 to 14 years,Persons,1124972.0
-2023,Men,10 years,Persons,224124.0
-2023,Men,11 years,Persons,223417.0
-2023,Men,12 years,Persons,223434.0
-2023,Men,13 years,Persons,226298.0
-2023,Men,14 years,Persons,227699.0
-2023,Men,15 to 19 years,Persons,1150062.0
-2023,Men,15 years,Persons,227304.0
-2023,Men,16 years,Persons,223652.0
-2023,Men,17 years,Persons,221041.0
-2023,Men,18 years,Persons,227864.0
-2023,Men,19 years,Persons,250201.0
-2023,Men,20 to 24 years,Persons,1350877.0
-2023,Men,20 years,Persons,259356.0
-2023,Men,21 years,Persons,262178.0
-2023,Men,22 years,Persons,267036.0
-2023,Men,23 years,Persons,279582.0
-2023,Men,24 years,Persons,282725.0
-2023,Men,25 to 29 years,Persons,1510860.0
-2023,Men,25 years,Persons,292385.0
-2023,Men,26 years,Persons,299450.0
-2023,Men,27 years,Persons,306241.0
-2023,Men,28 years,Persons,308570.0
-2023,Men,29 years,Persons,304214.0
-2023,Men,30 to 34 years,Persons,1529861.0
-2023,Men,30 years,Persons,305911.0
-2023,Men,31 years,Persons,306118.0
-2023,Men,32 years,Persons,311801.0
-2023,Men,33 years,Persons,309207.0
-2023,Men,34 years,Persons,296824.0
-2023,Men,35 to 39 years,Persons,1423751.0
-2023,Men,35 years,Persons,286706.0
-2023,Men,36 years,Persons,284567.0
-2023,Men,37 years,Persons,286692.0
-2023,Men,38 years,Persons,285163.0
-2023,Men,39 years,Persons,280623.0
-2023,Men,40 to 44 years,Persons,1345029.0
-2023,Men,40 years,Persons,277464.0
-2023,Men,41 years,Persons,272938.0
-2023,Men,42 years,Persons,271590.0
-2023,Men,43 years,Persons,265785.0
-2023,Men,44 years,Persons,257252.0
-2023,Men,45 to 49 years,Persons,1223335.0
-2023,Men,45 years,Persons,250732.0
-2023,Men,46 years,Persons,247153.0
-2023,Men,47 years,Persons,244765.0
-2023,Men,48 years,Persons,244182.0
-2023,Men,49 years,Persons,236503.0
-2023,Men,50 to 54 years,Persons,1201555.0
-2023,Men,50 years,Persons,235061.0
-2023,Men,51 years,Persons,237951.0
-2023,Men,52 years,Persons,246120.0
-2023,Men,53 years,Persons,243276.0
-2023,Men,54 years,Persons,239147.0
-2023,Men,55 to 59 years,Persons,1261259.0
-2023,Men,55 years,Persons,236143.0
-2023,Men,56 years,Persons,237005.0
-2023,Men,57 years,Persons,249932.0
-2023,Men,58 years,Persons,265843.0
-2023,Men,59 years,Persons,272336.0
-2023,Men,60 to 64 years,Persons,1323215.0
-2023,Men,60 years,Persons,274592.0
-2023,Men,61 years,Persons,266706.0
-2023,Men,62 years,Persons,267343.0
-2023,Men,63 years,Persons,261505.0
-2023,Men,64 years,Persons,253069.0
-2023,Men,65 to 69 years,Persons,1154587.0
-2023,Men,65 years,Persons,248739.0
-2023,Men,66 years,Persons,240345.0
-2023,Men,67 years,Persons,230477.0
-2023,Men,68 years,Persons,223904.0
-2023,Men,69 years,Persons,211122.0
-2023,Men,70 to 74 years,Persons,912716.0
-2023,Men,70 years,Persons,199375.0
-2023,Men,71 years,Persons,188935.0
-2023,Men,72 years,Persons,181899.0
-2023,Men,73 years,Persons,174835.0
-2023,Men,74 years,Persons,167672.0
-2023,Men,75 to 79 years,Persons,685472.0
-2023,Men,75 years,Persons,164384.0
-2023,Men,76 years,Persons,158756.0
-2023,Men,77 years,Persons,132073.0
-2023,Men,78 years,Persons,119305.0
-2023,Men,79 years,Persons,110954.0
-2023,Men,80 to 84 years,Persons,410277.0
-2023,Men,80 years,Persons,102275.0
-2023,Men,81 years,Persons,89973.0
-2023,Men,82 years,Persons,81662.0
-2023,Men,83 years,Persons,72075.0
-2023,Men,84 years,Persons,64292.0
-2023,Men,85 to 89 years,Persons,219944.0
-2023,Men,85 years,Persons,57051.0
-2023,Men,86 years,Persons,49460.0
-2023,Men,87 years,Persons,44291.0
-2023,Men,88 years,Persons,37406.0
-2023,Men,89 years,Persons,31736.0
-2023,Men,90 to 94 years,Persons,91120.0
-2023,Men,90 years,Persons,26869.0
-2023,Men,91 years,Persons,22690.0
-2023,Men,92 years,Persons,18252.0
-2023,Men,93 years,Persons,13473.0
-2023,Men,94 years,Persons,9836.0
-2023,Men,95 to 99 years,Persons,20034.0
-2023,Men,95 years,Persons,7292.0
-2023,Men,96 years,Persons,5628.0
-2023,Men,97 years,Persons,3513.0
-2023,Men,98 years,Persons,2188.0
-2023,Men,99 years,Persons,1413.0
-2023,Men,100 years and older,Persons,1965.0
-2023,Men,0 to 14 years,Persons,3172290.0
-2023,Men,0 to 15 years,Persons,3399594.0
-2023,Men,0 to 16 years,Persons,3623246.0
-2023,Men,0 to 17 years,Persons,3844287.0
-2023,Men,15 to 49 years,Persons,9533775.0
-2023,Men,15 to 64 years,Persons,13319804.0
-2023,Men,16 to 64 years,Persons,13092500.0
-2023,Men,17 to 64 years,Persons,12868848.0
-2023,Men,18 years and older,Persons,16143922.0
-2023,Men,18 to 64 years,Persons,12647807.0
-2023,Men,18 to 24 years,Persons,1828942.0
-2023,Men,25 to 44 years,Persons,5809501.0
-2023,Men,45 to 64 years,Persons,5009364.0
-2023,Men,65 years and older,Persons,3496115.0
-2023,Men,90 years and older,Persons,113119.0
+2023,Men,All ages,Persons,19973948.0
+2023,Men,0 to 4 years,Persons,960174.0
+2023,Men,0 years,Persons,180793.0
+2023,Men,1 year,Persons,189801.0
+2023,Men,2 years,Persons,191160.0
+2023,Men,3 years,Persons,196457.0
+2023,Men,4 years,Persons,201963.0
+2023,Men,5 to 9 years,Persons,1086609.0
+2023,Men,5 years,Persons,208468.0
+2023,Men,6 years,Persons,215174.0
+2023,Men,7 years,Persons,219783.0
+2023,Men,8 years,Persons,221879.0
+2023,Men,9 years,Persons,221305.0
+2023,Men,10 to 14 years,Persons,1124557.0
+2023,Men,10 years,Persons,224025.0
+2023,Men,11 years,Persons,223344.0
+2023,Men,12 years,Persons,223352.0
+2023,Men,13 years,Persons,226201.0
+2023,Men,14 years,Persons,227635.0
+2023,Men,15 to 19 years,Persons,1148236.0
+2023,Men,15 years,Persons,227217.0
+2023,Men,16 years,Persons,223507.0
+2023,Men,17 years,Persons,220856.0
+2023,Men,18 years,Persons,227464.0
+2023,Men,19 years,Persons,249192.0
+2023,Men,20 to 24 years,Persons,1346114.0
+2023,Men,20 years,Persons,258063.0
+2023,Men,21 years,Persons,260930.0
+2023,Men,22 years,Persons,266178.0
+2023,Men,23 years,Persons,278839.0
+2023,Men,24 years,Persons,282104.0
+2023,Men,25 to 29 years,Persons,1508785.0
+2023,Men,25 years,Persons,291760.0
+2023,Men,26 years,Persons,298939.0
+2023,Men,27 years,Persons,305855.0
+2023,Men,28 years,Persons,308292.0
+2023,Men,29 years,Persons,303939.0
+2023,Men,30 to 34 years,Persons,1528455.0
+2023,Men,30 years,Persons,305681.0
+2023,Men,31 years,Persons,305830.0
+2023,Men,32 years,Persons,311492.0
+2023,Men,33 years,Persons,308906.0
+2023,Men,34 years,Persons,296546.0
+2023,Men,35 to 39 years,Persons,1422560.0
+2023,Men,35 years,Persons,286421.0
+2023,Men,36 years,Persons,284290.0
+2023,Men,37 years,Persons,286461.0
+2023,Men,38 years,Persons,284965.0
+2023,Men,39 years,Persons,280423.0
+2023,Men,40 to 44 years,Persons,1344275.0
+2023,Men,40 years,Persons,277287.0
+2023,Men,41 years,Persons,272761.0
+2023,Men,42 years,Persons,271446.0
+2023,Men,43 years,Persons,265660.0
+2023,Men,44 years,Persons,257121.0
+2023,Men,45 to 49 years,Persons,1222960.0
+2023,Men,45 years,Persons,250628.0
+2023,Men,46 years,Persons,247054.0
+2023,Men,47 years,Persons,244688.0
+2023,Men,48 years,Persons,244147.0
+2023,Men,49 years,Persons,236443.0
+2023,Men,50 to 54 years,Persons,1201367.0
+2023,Men,50 years,Persons,235008.0
+2023,Men,51 years,Persons,237909.0
+2023,Men,52 years,Persons,246087.0
+2023,Men,53 years,Persons,243254.0
+2023,Men,54 years,Persons,239109.0
+2023,Men,55 to 59 years,Persons,1261139.0
+2023,Men,55 years,Persons,236110.0
+2023,Men,56 years,Persons,236983.0
+2023,Men,57 years,Persons,249915.0
+2023,Men,58 years,Persons,265812.0
+2023,Men,59 years,Persons,272319.0
+2023,Men,60 to 64 years,Persons,1323090.0
+2023,Men,60 years,Persons,274556.0
+2023,Men,61 years,Persons,266675.0
+2023,Men,62 years,Persons,267309.0
+2023,Men,63 years,Persons,261490.0
+2023,Men,64 years,Persons,253060.0
+2023,Men,65 to 69 years,Persons,1154467.0
+2023,Men,65 years,Persons,248717.0
+2023,Men,66 years,Persons,240318.0
+2023,Men,67 years,Persons,230456.0
+2023,Men,68 years,Persons,223876.0
+2023,Men,69 years,Persons,211100.0
+2023,Men,70 to 74 years,Persons,912641.0
+2023,Men,70 years,Persons,199356.0
+2023,Men,71 years,Persons,188924.0
+2023,Men,72 years,Persons,181878.0
+2023,Men,73 years,Persons,174819.0
+2023,Men,74 years,Persons,167664.0
+2023,Men,75 to 79 years,Persons,685390.0
+2023,Men,75 years,Persons,164376.0
+2023,Men,76 years,Persons,158723.0
+2023,Men,77 years,Persons,132057.0
+2023,Men,78 years,Persons,119287.0
+2023,Men,79 years,Persons,110947.0
+2023,Men,80 to 84 years,Persons,410198.0
+2023,Men,80 years,Persons,102257.0
+2023,Men,81 years,Persons,89959.0
+2023,Men,82 years,Persons,81640.0
+2023,Men,83 years,Persons,72069.0
+2023,Men,84 years,Persons,64273.0
+2023,Men,85 to 89 years,Persons,219901.0
+2023,Men,85 years,Persons,57050.0
+2023,Men,86 years,Persons,49439.0
+2023,Men,87 years,Persons,44290.0
+2023,Men,88 years,Persons,37402.0
+2023,Men,89 years,Persons,31720.0
+2023,Men,90 to 94 years,Persons,91065.0
+2023,Men,90 years,Persons,26858.0
+2023,Men,91 years,Persons,22681.0
+2023,Men,92 years,Persons,18236.0
+2023,Men,93 years,Persons,13464.0
+2023,Men,94 years,Persons,9826.0
+2023,Men,95 to 99 years,Persons,20004.0
+2023,Men,95 years,Persons,7284.0
+2023,Men,96 years,Persons,5621.0
+2023,Men,97 years,Persons,3503.0
+2023,Men,98 years,Persons,2186.0
+2023,Men,99 years,Persons,1410.0
+2023,Men,100 years and older,Persons,1961.0
+2023,Men,0 to 14 years,Persons,3171340.0
+2023,Men,0 to 15 years,Persons,3398557.0
+2023,Men,0 to 16 years,Persons,3622064.0
+2023,Men,0 to 17 years,Persons,3842920.0
+2023,Men,15 to 49 years,Persons,9521385.0
+2023,Men,15 to 64 years,Persons,13306981.0
+2023,Men,16 to 64 years,Persons,13079764.0
+2023,Men,17 to 64 years,Persons,12856257.0
+2023,Men,18 years and older,Persons,16131028.0
+2023,Men,18 to 64 years,Persons,12635401.0
+2023,Men,18 to 24 years,Persons,1822770.0
+2023,Men,25 to 44 years,Persons,5804075.0
+2023,Men,45 to 64 years,Persons,5008556.0
+2023,Men,65 years and older,Persons,3495627.0
+2023,Men,90 years and older,Persons,113030.0
 2023,Men,Median age,Years,39.5
 2023,Men,Average age,Years,40.7
-2023,Total,All ages,Persons,40049088.0
-2023,Total,0 to 4 years,Persons,1874658.0
-2023,Total,0 years,Persons,352154.0
-2023,Total,1 year,Persons,369177.0
-2023,Total,2 years,Persons,372538.0
-2023,Total,3 years,Persons,385061.0
-2023,Total,4 years,Persons,395728.0
-2023,Total,5 to 9 years,Persons,2120248.0
-2023,Total,5 years,Persons,407356.0
-2023,Total,6 years,Persons,419381.0
-2023,Total,7 years,Persons,428927.0
-2023,Total,8 years,Persons,432525.0
-2023,Total,9 years,Persons,432059.0
-2023,Total,10 to 14 years,Persons,2187386.0
-2023,Total,10 years,Persons,435609.0
-2023,Total,11 years,Persons,435222.0
-2023,Total,12 years,Persons,434613.0
-2023,Total,13 years,Persons,439934.0
-2023,Total,14 years,Persons,442008.0
-2023,Total,15 to 19 years,Persons,2230085.0
-2023,Total,15 years,Persons,441891.0
-2023,Total,16 years,Persons,434688.0
-2023,Total,17 years,Persons,428955.0
-2023,Total,18 years,Persons,441197.0
-2023,Total,19 years,Persons,483354.0
-2023,Total,20 to 24 years,Persons,2589895.0
-2023,Total,20 years,Persons,500440.0
-2023,Total,21 years,Persons,503598.0
-2023,Total,22 years,Persons,511747.0
-2023,Total,23 years,Persons,533930.0
-2023,Total,24 years,Persons,540180.0
-2023,Total,25 to 29 years,Persons,2897646.0
-2023,Total,25 years,Persons,559332.0
-2023,Total,26 years,Persons,571921.0
-2023,Total,27 years,Persons,586721.0
-2023,Total,28 years,Persons,591544.0
-2023,Total,29 years,Persons,588128.0
-2023,Total,30 to 34 years,Persons,2984138.0
-2023,Total,30 years,Persons,593172.0
-2023,Total,31 years,Persons,597407.0
-2023,Total,32 years,Persons,607086.0
-2023,Total,33 years,Persons,604616.0
-2023,Total,34 years,Persons,581857.0
-2023,Total,35 to 39 years,Persons,2809310.0
-2023,Total,35 years,Persons,564236.0
-2023,Total,36 years,Persons,561474.0
-2023,Total,37 years,Persons,564902.0
-2023,Total,38 years,Persons,563222.0
-2023,Total,39 years,Persons,555476.0
-2023,Total,40 to 44 years,Persons,2675092.0
-2023,Total,40 years,Persons,550403.0
-2023,Total,41 years,Persons,542442.0
-2023,Total,42 years,Persons,539403.0
-2023,Total,43 years,Persons,528874.0
-2023,Total,44 years,Persons,513970.0
-2023,Total,45 to 49 years,Persons,2457114.0
-2023,Total,45 years,Persons,501129.0
-2023,Total,46 years,Persons,496060.0
-2023,Total,47 years,Persons,491787.0
-2023,Total,48 years,Persons,490513.0
-2023,Total,49 years,Persons,477625.0
-2023,Total,50 to 54 years,Persons,2430337.0
-2023,Total,50 years,Persons,474567.0
-2023,Total,51 years,Persons,480465.0
-2023,Total,52 years,Persons,497730.0
-2023,Total,53 years,Persons,492431.0
-2023,Total,54 years,Persons,485144.0
-2023,Total,55 to 59 years,Persons,2549619.0
-2023,Total,55 years,Persons,479010.0
-2023,Total,56 years,Persons,480720.0
-2023,Total,57 years,Persons,504303.0
-2023,Total,58 years,Persons,536620.0
-2023,Total,59 years,Persons,548966.0
-2023,Total,60 to 64 years,Persons,2681436.0
-2023,Total,60 years,Persons,552804.0
-2023,Total,61 years,Persons,539016.0
-2023,Total,62 years,Persons,541718.0
-2023,Total,63 years,Persons,531754.0
-2023,Total,64 years,Persons,516144.0
-2023,Total,65 to 69 years,Persons,2379499.0
-2023,Total,65 years,Persons,508140.0
-2023,Total,66 years,Persons,493053.0
-2023,Total,67 years,Persons,474643.0
-2023,Total,68 years,Persons,463586.0
-2023,Total,69 years,Persons,440077.0
-2023,Total,70 to 74 years,Persons,1910982.0
-2023,Total,70 years,Persons,415622.0
-2023,Total,71 years,Persons,394245.0
-2023,Total,72 years,Persons,380334.0
-2023,Total,73 years,Persons,367084.0
-2023,Total,74 years,Persons,353697.0
-2023,Total,75 to 79 years,Persons,1458583.0
-2023,Total,75 years,Persons,346442.0
-2023,Total,76 years,Persons,336644.0
-2023,Total,77 years,Persons,281458.0
-2023,Total,78 years,Persons,254835.0
-2023,Total,79 years,Persons,239204.0
-2023,Total,80 to 84 years,Persons,917461.0
-2023,Total,80 years,Persons,221383.0
-2023,Total,81 years,Persons,198383.0
-2023,Total,82 years,Persons,183438.0
-2023,Total,83 years,Persons,164742.0
-2023,Total,84 years,Persons,149515.0
-2023,Total,85 to 89 years,Persons,540339.0
-2023,Total,85 years,Persons,135045.0
-2023,Total,86 years,Persons,119371.0
-2023,Total,87 years,Persons,108621.0
-2023,Total,88 years,Persons,94795.0
-2023,Total,89 years,Persons,82507.0
-2023,Total,90 to 94 years,Persons,266566.0
-2023,Total,90 years,Persons,73211.0
-2023,Total,91 years,Persons,63435.0
-2023,Total,92 years,Persons,53689.0
-2023,Total,93 years,Persons,42761.0
-2023,Total,94 years,Persons,33470.0
-2023,Total,95 to 99 years,Persons,77288.0
-2023,Total,95 years,Persons,26408.0
-2023,Total,96 years,Persons,20395.0
-2023,Total,97 years,Persons,13945.0
-2023,Total,98 years,Persons,9726.0
-2023,Total,99 years,Persons,6814.0
-2023,Total,100 years and older,Persons,11406.0
-2023,Total,0 to 14 years,Persons,6182292.0
-2023,Total,0 to 15 years,Persons,6624183.0
-2023,Total,0 to 16 years,Persons,7058871.0
-2023,Total,0 to 17 years,Persons,7487826.0
-2023,Total,15 to 49 years,Persons,18643280.0
-2023,Total,15 to 64 years,Persons,26304672.0
-2023,Total,16 to 64 years,Persons,25862781.0
-2023,Total,17 to 64 years,Persons,25428093.0
-2023,Total,18 years and older,Persons,32561262.0
-2023,Total,18 to 64 years,Persons,24999138.0
-2023,Total,18 to 24 years,Persons,3514446.0
-2023,Total,25 to 44 years,Persons,11366186.0
-2023,Total,45 to 64 years,Persons,10118506.0
-2023,Total,65 years and older,Persons,7562124.0
-2023,Total,90 years and older,Persons,355260.0
+2023,Total,All ages,Persons,40022704.0
+2023,Total,0 to 4 years,Persons,1874208.0
+2023,Total,0 years,Persons,352164.0
+2023,Total,1 year,Persons,369421.0
+2023,Total,2 years,Persons,372381.0
+2023,Total,3 years,Persons,384799.0
+2023,Total,4 years,Persons,395443.0
+2023,Total,5 to 9 years,Persons,2118822.0
+2023,Total,5 years,Persons,407014.0
+2023,Total,6 years,Persons,419073.0
+2023,Total,7 years,Persons,428646.0
+2023,Total,8 years,Persons,432262.0
+2023,Total,9 years,Persons,431827.0
+2023,Total,10 to 14 years,Persons,2186517.0
+2023,Total,10 years,Persons,435400.0
+2023,Total,11 years,Persons,435042.0
+2023,Total,12 years,Persons,434439.0
+2023,Total,13 years,Persons,439777.0
+2023,Total,14 years,Persons,441859.0
+2023,Total,15 to 19 years,Persons,2226608.0
+2023,Total,15 years,Persons,441693.0
+2023,Total,16 years,Persons,434384.0
+2023,Total,17 years,Persons,428591.0
+2023,Total,18 years,Persons,440441.0
+2023,Total,19 years,Persons,481499.0
+2023,Total,20 to 24 years,Persons,2581786.0
+2023,Total,20 years,Persons,498050.0
+2023,Total,21 years,Persons,501466.0
+2023,Total,22 years,Persons,510345.0
+2023,Total,23 years,Persons,532774.0
+2023,Total,24 years,Persons,539151.0
+2023,Total,25 to 29 years,Persons,2894066.0
+2023,Total,25 years,Persons,558273.0
+2023,Total,26 years,Persons,571033.0
+2023,Total,27 years,Persons,586064.0
+2023,Total,28 years,Persons,591047.0
+2023,Total,29 years,Persons,587649.0
+2023,Total,30 to 34 years,Persons,2981715.0
+2023,Total,30 years,Persons,592731.0
+2023,Total,31 years,Persons,596895.0
+2023,Total,32 years,Persons,606589.0
+2023,Total,33 years,Persons,604120.0
+2023,Total,34 years,Persons,581380.0
+2023,Total,35 to 39 years,Persons,2807242.0
+2023,Total,35 years,Persons,563759.0
+2023,Total,36 years,Persons,561006.0
+2023,Total,37 years,Persons,564497.0
+2023,Total,38 years,Persons,562862.0
+2023,Total,39 years,Persons,555118.0
+2023,Total,40 to 44 years,Persons,2673770.0
+2023,Total,40 years,Persons,550072.0
+2023,Total,41 years,Persons,542157.0
+2023,Total,42 years,Persons,539158.0
+2023,Total,43 years,Persons,528646.0
+2023,Total,44 years,Persons,513737.0
+2023,Total,45 to 49 years,Persons,2456430.0
+2023,Total,45 years,Persons,500958.0
+2023,Total,46 years,Persons,495882.0
+2023,Total,47 years,Persons,491644.0
+2023,Total,48 years,Persons,490429.0
+2023,Total,49 years,Persons,477517.0
+2023,Total,50 to 54 years,Persons,2429967.0
+2023,Total,50 years,Persons,474467.0
+2023,Total,51 years,Persons,480394.0
+2023,Total,52 years,Persons,497653.0
+2023,Total,53 years,Persons,492373.0
+2023,Total,54 years,Persons,485080.0
+2023,Total,55 to 59 years,Persons,2549380.0
+2023,Total,55 years,Persons,478949.0
+2023,Total,56 years,Persons,480681.0
+2023,Total,57 years,Persons,504263.0
+2023,Total,58 years,Persons,536562.0
+2023,Total,59 years,Persons,548925.0
+2023,Total,60 to 64 years,Persons,2681161.0
+2023,Total,60 years,Persons,552731.0
+2023,Total,61 years,Persons,538953.0
+2023,Total,62 years,Persons,541658.0
+2023,Total,63 years,Persons,531715.0
+2023,Total,64 years,Persons,516104.0
+2023,Total,65 to 69 years,Persons,2379282.0
+2023,Total,65 years,Persons,508092.0
+2023,Total,66 years,Persons,493008.0
+2023,Total,67 years,Persons,474603.0
+2023,Total,68 years,Persons,463543.0
+2023,Total,69 years,Persons,440036.0
+2023,Total,70 to 74 years,Persons,1910815.0
+2023,Total,70 years,Persons,415581.0
+2023,Total,71 years,Persons,394208.0
+2023,Total,72 years,Persons,380304.0
+2023,Total,73 years,Persons,367057.0
+2023,Total,74 years,Persons,353665.0
+2023,Total,75 to 79 years,Persons,1458427.0
+2023,Total,75 years,Persons,346410.0
+2023,Total,76 years,Persons,336591.0
+2023,Total,77 years,Persons,281441.0
+2023,Total,78 years,Persons,254806.0
+2023,Total,79 years,Persons,239179.0
+2023,Total,80 to 84 years,Persons,917317.0
+2023,Total,80 years,Persons,221344.0
+2023,Total,81 years,Persons,198368.0
+2023,Total,82 years,Persons,183409.0
+2023,Total,83 years,Persons,164727.0
+2023,Total,84 years,Persons,149469.0
+2023,Total,85 to 89 years,Persons,540196.0
+2023,Total,85 years,Persons,135029.0
+2023,Total,86 years,Persons,119331.0
+2023,Total,87 years,Persons,108588.0
+2023,Total,88 years,Persons,94782.0
+2023,Total,89 years,Persons,82466.0
+2023,Total,90 to 94 years,Persons,266445.0
+2023,Total,90 years,Persons,73186.0
+2023,Total,91 years,Persons,63420.0
+2023,Total,92 years,Persons,53653.0
+2023,Total,93 years,Persons,42738.0
+2023,Total,94 years,Persons,33448.0
+2023,Total,95 to 99 years,Persons,77182.0
+2023,Total,95 years,Persons,26383.0
+2023,Total,96 years,Persons,20374.0
+2023,Total,97 years,Persons,13924.0
+2023,Total,98 years,Persons,9707.0
+2023,Total,99 years,Persons,6794.0
+2023,Total,100 years and older,Persons,11368.0
+2023,Total,0 to 14 years,Persons,6179547.0
+2023,Total,0 to 15 years,Persons,6621240.0
+2023,Total,0 to 16 years,Persons,7055624.0
+2023,Total,0 to 17 years,Persons,7484215.0
+2023,Total,15 to 49 years,Persons,18621617.0
+2023,Total,15 to 64 years,Persons,26282125.0
+2023,Total,16 to 64 years,Persons,25840432.0
+2023,Total,17 to 64 years,Persons,25406048.0
+2023,Total,18 years and older,Persons,32538489.0
+2023,Total,18 to 64 years,Persons,24977457.0
+2023,Total,18 to 24 years,Persons,3503726.0
+2023,Total,25 to 44 years,Persons,11356793.0
+2023,Total,45 to 64 years,Persons,10116938.0
+2023,Total,65 years and older,Persons,7561032.0
+2023,Total,90 years and older,Persons,354995.0
 2023,Total,Median age,Years,40.6
 2023,Total,Average age,Years,41.6
-2023,Women,All ages,Persons,20060879.0
-2023,Women,0 to 4 years,Persons,914716.0
-2023,Women,0 years,Persons,171527.0
-2023,Women,1 year,Persons,179794.0
-2023,Women,2 years,Persons,181298.0
-2023,Women,3 years,Persons,188483.0
-2023,Women,4 years,Persons,193614.0
-2023,Women,5 to 9 years,Persons,1032872.0
-2023,Women,5 years,Persons,198709.0
-2023,Women,6 years,Persons,204038.0
-2023,Women,7 years,Persons,208985.0
-2023,Women,8 years,Persons,210512.0
-2023,Women,9 years,Persons,210628.0
-2023,Women,10 to 14 years,Persons,1062414.0
-2023,Women,10 years,Persons,211485.0
-2023,Women,11 years,Persons,211805.0
-2023,Women,12 years,Persons,211179.0
-2023,Women,13 years,Persons,213636.0
-2023,Women,14 years,Persons,214309.0
-2023,Women,15 to 19 years,Persons,1080023.0
-2023,Women,15 years,Persons,214587.0
-2023,Women,16 years,Persons,211036.0
-2023,Women,17 years,Persons,207914.0
-2023,Women,18 years,Persons,213333.0
-2023,Women,19 years,Persons,233153.0
-2023,Women,20 to 24 years,Persons,1239018.0
-2023,Women,20 years,Persons,241084.0
-2023,Women,21 years,Persons,241420.0
-2023,Women,22 years,Persons,244711.0
-2023,Women,23 years,Persons,254348.0
-2023,Women,24 years,Persons,257455.0
-2023,Women,25 to 29 years,Persons,1386786.0
-2023,Women,25 years,Persons,266947.0
-2023,Women,26 years,Persons,272471.0
-2023,Women,27 years,Persons,280480.0
-2023,Women,28 years,Persons,282974.0
-2023,Women,29 years,Persons,283914.0
-2023,Women,30 to 34 years,Persons,1454277.0
-2023,Women,30 years,Persons,287261.0
-2023,Women,31 years,Persons,291289.0
-2023,Women,32 years,Persons,295285.0
-2023,Women,33 years,Persons,295409.0
-2023,Women,34 years,Persons,285033.0
-2023,Women,35 to 39 years,Persons,1385559.0
-2023,Women,35 years,Persons,277530.0
-2023,Women,36 years,Persons,276907.0
-2023,Women,37 years,Persons,278210.0
-2023,Women,38 years,Persons,278059.0
-2023,Women,39 years,Persons,274853.0
-2023,Women,40 to 44 years,Persons,1330063.0
-2023,Women,40 years,Persons,272939.0
-2023,Women,41 years,Persons,269504.0
-2023,Women,42 years,Persons,267813.0
-2023,Women,43 years,Persons,263089.0
-2023,Women,44 years,Persons,256718.0
-2023,Women,45 to 49 years,Persons,1233779.0
-2023,Women,45 years,Persons,250397.0
-2023,Women,46 years,Persons,248907.0
-2023,Women,47 years,Persons,247022.0
-2023,Women,48 years,Persons,246331.0
-2023,Women,49 years,Persons,241122.0
-2023,Women,50 to 54 years,Persons,1228782.0
-2023,Women,50 years,Persons,239506.0
-2023,Women,51 years,Persons,242514.0
-2023,Women,52 years,Persons,251610.0
-2023,Women,53 years,Persons,249155.0
-2023,Women,54 years,Persons,245997.0
-2023,Women,55 to 59 years,Persons,1288360.0
-2023,Women,55 years,Persons,242867.0
-2023,Women,56 years,Persons,243715.0
-2023,Women,57 years,Persons,254371.0
-2023,Women,58 years,Persons,270777.0
-2023,Women,59 years,Persons,276630.0
-2023,Women,60 to 64 years,Persons,1358221.0
-2023,Women,60 years,Persons,278212.0
-2023,Women,61 years,Persons,272310.0
-2023,Women,62 years,Persons,274375.0
-2023,Women,63 years,Persons,270249.0
-2023,Women,64 years,Persons,263075.0
-2023,Women,65 to 69 years,Persons,1224912.0
-2023,Women,65 years,Persons,259401.0
-2023,Women,66 years,Persons,252708.0
-2023,Women,67 years,Persons,244166.0
-2023,Women,68 years,Persons,239682.0
-2023,Women,69 years,Persons,228955.0
-2023,Women,70 to 74 years,Persons,998266.0
-2023,Women,70 years,Persons,216247.0
-2023,Women,71 years,Persons,205310.0
-2023,Women,72 years,Persons,198435.0
-2023,Women,73 years,Persons,192249.0
-2023,Women,74 years,Persons,186025.0
-2023,Women,75 to 79 years,Persons,773111.0
-2023,Women,75 years,Persons,182058.0
-2023,Women,76 years,Persons,177888.0
-2023,Women,77 years,Persons,149385.0
-2023,Women,78 years,Persons,135530.0
-2023,Women,79 years,Persons,128250.0
-2023,Women,80 to 84 years,Persons,507184.0
-2023,Women,80 years,Persons,119108.0
-2023,Women,81 years,Persons,108410.0
-2023,Women,82 years,Persons,101776.0
-2023,Women,83 years,Persons,92667.0
-2023,Women,84 years,Persons,85223.0
-2023,Women,85 to 89 years,Persons,320395.0
-2023,Women,85 years,Persons,77994.0
-2023,Women,86 years,Persons,69911.0
-2023,Women,87 years,Persons,64330.0
-2023,Women,88 years,Persons,57389.0
-2023,Women,89 years,Persons,50771.0
-2023,Women,90 to 94 years,Persons,175446.0
-2023,Women,90 years,Persons,46342.0
-2023,Women,91 years,Persons,40745.0
-2023,Women,92 years,Persons,35437.0
-2023,Women,93 years,Persons,29288.0
-2023,Women,94 years,Persons,23634.0
-2023,Women,95 to 99 years,Persons,57254.0
-2023,Women,95 years,Persons,19116.0
-2023,Women,96 years,Persons,14767.0
-2023,Women,97 years,Persons,10432.0
-2023,Women,98 years,Persons,7538.0
-2023,Women,99 years,Persons,5401.0
-2023,Women,100 years and older,Persons,9441.0
-2023,Women,0 to 14 years,Persons,3010002.0
-2023,Women,0 to 15 years,Persons,3224589.0
-2023,Women,0 to 16 years,Persons,3435625.0
-2023,Women,0 to 17 years,Persons,3643539.0
-2023,Women,15 to 49 years,Persons,9109505.0
-2023,Women,15 to 64 years,Persons,12984868.0
-2023,Women,16 to 64 years,Persons,12770281.0
-2023,Women,17 to 64 years,Persons,12559245.0
-2023,Women,18 years and older,Persons,16417340.0
-2023,Women,18 to 64 years,Persons,12351331.0
-2023,Women,18 to 24 years,Persons,1685504.0
-2023,Women,25 to 44 years,Persons,5556685.0
-2023,Women,45 to 64 years,Persons,5109142.0
-2023,Women,65 years and older,Persons,4066009.0
-2023,Women,90 years and older,Persons,242141.0
-2023,Women,Median age,Years,41.7
+2023,Women,All ages,Persons,20048756.0
+2023,Women,0 to 4 years,Persons,914034.0
+2023,Women,0 years,Persons,171371.0
+2023,Women,1 year,Persons,179620.0
+2023,Women,2 years,Persons,181221.0
+2023,Women,3 years,Persons,188342.0
+2023,Women,4 years,Persons,193480.0
+2023,Women,5 to 9 years,Persons,1032213.0
+2023,Women,5 years,Persons,198546.0
+2023,Women,6 years,Persons,203899.0
+2023,Women,7 years,Persons,208863.0
+2023,Women,8 years,Persons,210383.0
+2023,Women,9 years,Persons,210522.0
+2023,Women,10 to 14 years,Persons,1061960.0
+2023,Women,10 years,Persons,211375.0
+2023,Women,11 years,Persons,211698.0
+2023,Women,12 years,Persons,211087.0
+2023,Women,13 years,Persons,213576.0
+2023,Women,14 years,Persons,214224.0
+2023,Women,15 to 19 years,Persons,1078372.0
+2023,Women,15 years,Persons,214476.0
+2023,Women,16 years,Persons,210877.0
+2023,Women,17 years,Persons,207735.0
+2023,Women,18 years,Persons,212977.0
+2023,Women,19 years,Persons,232307.0
+2023,Women,20 to 24 years,Persons,1235672.0
+2023,Women,20 years,Persons,239987.0
+2023,Women,21 years,Persons,240536.0
+2023,Women,22 years,Persons,244167.0
+2023,Women,23 years,Persons,253935.0
+2023,Women,24 years,Persons,257047.0
+2023,Women,25 to 29 years,Persons,1385281.0
+2023,Women,25 years,Persons,266513.0
+2023,Women,26 years,Persons,272094.0
+2023,Women,27 years,Persons,280209.0
+2023,Women,28 years,Persons,282755.0
+2023,Women,29 years,Persons,283710.0
+2023,Women,30 to 34 years,Persons,1453260.0
+2023,Women,30 years,Persons,287050.0
+2023,Women,31 years,Persons,291065.0
+2023,Women,32 years,Persons,295097.0
+2023,Women,33 years,Persons,295214.0
+2023,Women,34 years,Persons,284834.0
+2023,Women,35 to 39 years,Persons,1384682.0
+2023,Women,35 years,Persons,277338.0
+2023,Women,36 years,Persons,276716.0
+2023,Women,37 years,Persons,278036.0
+2023,Women,38 years,Persons,277897.0
+2023,Women,39 years,Persons,274695.0
+2023,Women,40 to 44 years,Persons,1329495.0
+2023,Women,40 years,Persons,272785.0
+2023,Women,41 years,Persons,269396.0
+2023,Women,42 years,Persons,267712.0
+2023,Women,43 years,Persons,262986.0
+2023,Women,44 years,Persons,256616.0
+2023,Women,45 to 49 years,Persons,1233470.0
+2023,Women,45 years,Persons,250330.0
+2023,Women,46 years,Persons,248828.0
+2023,Women,47 years,Persons,246956.0
+2023,Women,48 years,Persons,246282.0
+2023,Women,49 years,Persons,241074.0
+2023,Women,50 to 54 years,Persons,1228600.0
+2023,Women,50 years,Persons,239459.0
+2023,Women,51 years,Persons,242485.0
+2023,Women,52 years,Persons,251566.0
+2023,Women,53 years,Persons,249119.0
+2023,Women,54 years,Persons,245971.0
+2023,Women,55 to 59 years,Persons,1288241.0
+2023,Women,55 years,Persons,242839.0
+2023,Women,56 years,Persons,243698.0
+2023,Women,57 years,Persons,254348.0
+2023,Women,58 years,Persons,270750.0
+2023,Women,59 years,Persons,276606.0
+2023,Women,60 to 64 years,Persons,1358071.0
+2023,Women,60 years,Persons,278175.0
+2023,Women,61 years,Persons,272278.0
+2023,Women,62 years,Persons,274349.0
+2023,Women,63 years,Persons,270225.0
+2023,Women,64 years,Persons,263044.0
+2023,Women,65 to 69 years,Persons,1224815.0
+2023,Women,65 years,Persons,259375.0
+2023,Women,66 years,Persons,252690.0
+2023,Women,67 years,Persons,244147.0
+2023,Women,68 years,Persons,239667.0
+2023,Women,69 years,Persons,228936.0
+2023,Women,70 to 74 years,Persons,998174.0
+2023,Women,70 years,Persons,216225.0
+2023,Women,71 years,Persons,205284.0
+2023,Women,72 years,Persons,198426.0
+2023,Women,73 years,Persons,192238.0
+2023,Women,74 years,Persons,186001.0
+2023,Women,75 to 79 years,Persons,773037.0
+2023,Women,75 years,Persons,182034.0
+2023,Women,76 years,Persons,177868.0
+2023,Women,77 years,Persons,149384.0
+2023,Women,78 years,Persons,135519.0
+2023,Women,79 years,Persons,128232.0
+2023,Women,80 to 84 years,Persons,507119.0
+2023,Women,80 years,Persons,119087.0
+2023,Women,81 years,Persons,108409.0
+2023,Women,82 years,Persons,101769.0
+2023,Women,83 years,Persons,92658.0
+2023,Women,84 years,Persons,85196.0
+2023,Women,85 to 89 years,Persons,320295.0
+2023,Women,85 years,Persons,77979.0
+2023,Women,86 years,Persons,69892.0
+2023,Women,87 years,Persons,64298.0
+2023,Women,88 years,Persons,57380.0
+2023,Women,89 years,Persons,50746.0
+2023,Women,90 to 94 years,Persons,175380.0
+2023,Women,90 years,Persons,46328.0
+2023,Women,91 years,Persons,40739.0
+2023,Women,92 years,Persons,35417.0
+2023,Women,93 years,Persons,29274.0
+2023,Women,94 years,Persons,23622.0
+2023,Women,95 to 99 years,Persons,57178.0
+2023,Women,95 years,Persons,19099.0
+2023,Women,96 years,Persons,14753.0
+2023,Women,97 years,Persons,10421.0
+2023,Women,98 years,Persons,7521.0
+2023,Women,99 years,Persons,5384.0
+2023,Women,100 years and older,Persons,9407.0
+2023,Women,0 to 14 years,Persons,3008207.0
+2023,Women,0 to 15 years,Persons,3222683.0
+2023,Women,0 to 16 years,Persons,3433560.0
+2023,Women,0 to 17 years,Persons,3641295.0
+2023,Women,15 to 49 years,Persons,9100232.0
+2023,Women,15 to 64 years,Persons,12975144.0
+2023,Women,16 to 64 years,Persons,12760668.0
+2023,Women,17 to 64 years,Persons,12549791.0
+2023,Women,18 years and older,Persons,16407461.0
+2023,Women,18 to 64 years,Persons,12342056.0
+2023,Women,18 to 24 years,Persons,1680956.0
+2023,Women,25 to 44 years,Persons,5552718.0
+2023,Women,45 to 64 years,Persons,5108382.0
+2023,Women,65 years and older,Persons,4065405.0
+2023,Women,90 years and older,Persons,241965.0
+2023,Women,Median age,Years,41.8
 2023,Women,Average age,Years,42.5
-2024,Men,All ages,Persons,20624749.0
-2024,Men,0 to 4 years,Persons,960076.0
-2024,Men,0 years,Persons,184881.0
-2024,Men,1 year,Persons,183101.0
-2024,Men,2 years,Persons,193467.0
-2024,Men,3 years,Persons,196071.0
-2024,Men,4 years,Persons,202556.0
-2024,Men,5 to 9 years,Persons,1103423.0
-2024,Men,5 years,Persons,209161.0
-2024,Men,6 years,Persons,216101.0
-2024,Men,7 years,Persons,222782.0
-2024,Men,8 years,Persons,226653.0
-2024,Men,9 years,Persons,228726.0
-2024,Men,10 to 14 years,Persons,1146872.0
-2024,Men,10 years,Persons,227343.0
-2024,Men,11 years,Persons,229606.0
-2024,Men,12 years,Persons,229557.0
-2024,Men,13 years,Persons,228844.0
-2024,Men,14 years,Persons,231522.0
-2024,Men,15 to 19 years,Persons,1195596.0
-2024,Men,15 years,Persons,233760.0
-2024,Men,16 years,Persons,234493.0
-2024,Men,17 years,Persons,230724.0
-2024,Men,18 years,Persons,235852.0
-2024,Men,19 years,Persons,260767.0
-2024,Men,20 to 24 years,Persons,1440611.0
-2024,Men,20 years,Persons,282749.0
-2024,Men,21 years,Persons,282600.0
-2024,Men,22 years,Persons,284403.0
-2024,Men,23 years,Persons,289515.0
-2024,Men,24 years,Persons,301344.0
-2024,Men,25 to 29 years,Persons,1580904.0
-2024,Men,25 years,Persons,301780.0
-2024,Men,26 years,Persons,312078.0
-2024,Men,27 years,Persons,317260.0
-2024,Men,28 years,Persons,324039.0
-2024,Men,29 years,Persons,325747.0
-2024,Men,30 to 34 years,Persons,1617082.0
-2024,Men,30 years,Persons,321345.0
-2024,Men,31 years,Persons,322936.0
-2024,Men,32 years,Persons,321876.0
-2024,Men,33 years,Persons,326634.0
-2024,Men,34 years,Persons,324291.0
-2024,Men,35 to 39 years,Persons,1500593.0
-2024,Men,35 years,Persons,310656.0
-2024,Men,36 years,Persons,300005.0
-2024,Men,37 years,Persons,296200.0
-2024,Men,38 years,Persons,298202.0
-2024,Men,39 years,Persons,295530.0
-2024,Men,40 to 44 years,Persons,1410949.0
-2024,Men,40 years,Persons,290624.0
-2024,Men,41 years,Persons,287113.0
-2024,Men,42 years,Persons,281280.0
-2024,Men,43 years,Persons,279174.0
-2024,Men,44 years,Persons,272758.0
-2024,Men,45 to 49 years,Persons,1267111.0
-2024,Men,45 years,Persons,263483.0
-2024,Men,46 years,Persons,256058.0
-2024,Men,47 years,Persons,251459.0
-2024,Men,48 years,Persons,248586.0
-2024,Men,49 years,Persons,247525.0
-2024,Men,50 to 54 years,Persons,1208696.0
-2024,Men,50 years,Persons,239325.0
-2024,Men,51 years,Persons,237504.0
-2024,Men,52 years,Persons,239881.0
-2024,Men,53 years,Persons,247525.0
-2024,Men,54 years,Persons,244461.0
-2024,Men,55 to 59 years,Persons,1228493.0
-2024,Men,55 years,Persons,239835.0
-2024,Men,56 years,Persons,236545.0
-2024,Men,57 years,Persons,237124.0
-2024,Men,58 years,Persons,249678.0
-2024,Men,59 years,Persons,265311.0
-2024,Men,60 to 64 years,Persons,1338026.0
-2024,Men,60 years,Persons,271853.0
-2024,Men,61 years,Persons,274101.0
-2024,Men,62 years,Persons,265746.0
-2024,Men,63 years,Persons,266137.0
-2024,Men,64 years,Persons,260189.0
-2024,Men,65 to 69 years,Persons,1186230.0
-2024,Men,65 years,Persons,251433.0
-2024,Men,66 years,Persons,246897.0
-2024,Men,67 years,Persons,238291.0
-2024,Men,68 years,Persons,228280.0
-2024,Men,69 years,Persons,221329.0
-2024,Men,70 to 74 years,Persons,940750.0
-2024,Men,70 years,Persons,208565.0
-2024,Men,71 years,Persons,196417.0
-2024,Men,72 years,Persons,185984.0
-2024,Men,73 years,Persons,178526.0
-2024,Men,74 years,Persons,171258.0
-2024,Men,75 to 79 years,Persons,720433.0
-2024,Men,75 years,Persons,163791.0
-2024,Men,76 years,Persons,159970.0
-2024,Men,77 years,Persons,154124.0
-2024,Men,78 years,Persons,127681.0
-2024,Men,79 years,Persons,114867.0
-2024,Men,80 to 84 years,Persons,433163.0
-2024,Men,80 years,Persons,106300.0
-2024,Men,81 years,Persons,97430.0
-2024,Men,82 years,Persons,85298.0
-2024,Men,83 years,Persons,76835.0
-2024,Men,84 years,Persons,67300.0
-2024,Men,85 to 89 years,Persons,228494.0
-2024,Men,85 years,Persons,59448.0
-2024,Men,86 years,Persons,52094.0
-2024,Men,87 years,Persons,44714.0
-2024,Men,88 years,Persons,39432.0
-2024,Men,89 years,Persons,32806.0
-2024,Men,90 to 94 years,Persons,94061.0
-2024,Men,90 years,Persons,27288.0
-2024,Men,91 years,Persons,22789.0
-2024,Men,92 years,Persons,18738.0
-2024,Men,93 years,Persons,14702.0
-2024,Men,94 years,Persons,10544.0
-2024,Men,95 to 99 years,Persons,21112.0
-2024,Men,95 years,Persons,7589.0
-2024,Men,96 years,Persons,5544.0
-2024,Men,97 years,Persons,4067.0
-2024,Men,98 years,Persons,2445.0
-2024,Men,99 years,Persons,1467.0
-2024,Men,100 years and older,Persons,2074.0
-2024,Men,0 to 14 years,Persons,3210371.0
-2024,Men,0 to 15 years,Persons,3444131.0
-2024,Men,0 to 16 years,Persons,3678624.0
-2024,Men,0 to 17 years,Persons,3909348.0
-2024,Men,15 to 49 years,Persons,10012846.0
-2024,Men,15 to 64 years,Persons,13788061.0
-2024,Men,16 to 64 years,Persons,13554301.0
-2024,Men,17 to 64 years,Persons,13319808.0
-2024,Men,18 years and older,Persons,16715401.0
-2024,Men,18 to 64 years,Persons,13089084.0
-2024,Men,18 to 24 years,Persons,1937230.0
-2024,Men,25 to 44 years,Persons,6109528.0
-2024,Men,45 to 64 years,Persons,5042326.0
-2024,Men,65 years and older,Persons,3626317.0
-2024,Men,90 years and older,Persons,117247.0
-2024,Men,Median age,Years,39.2
+2024,Men,All ages,Persons,20571058.0
+2024,Men,0 to 4 years,Persons,959937.0
+2024,Men,0 years,Persons,184926.0
+2024,Men,1 year,Persons,183264.0
+2024,Men,2 years,Persons,193795.0
+2024,Men,3 years,Persons,195795.0
+2024,Men,4 years,Persons,202157.0
+2024,Men,5 to 9 years,Persons,1100765.0
+2024,Men,5 years,Persons,208633.0
+2024,Men,6 years,Persons,215548.0
+2024,Men,7 years,Persons,222210.0
+2024,Men,8 years,Persons,226143.0
+2024,Men,9 years,Persons,228231.0
+2024,Men,10 to 14 years,Persons,1144970.0
+2024,Men,10 years,Persons,226894.0
+2024,Men,11 years,Persons,229234.0
+2024,Men,12 years,Persons,229174.0
+2024,Men,13 years,Persons,228460.0
+2024,Men,14 years,Persons,231208.0
+2024,Men,15 to 19 years,Persons,1191061.0
+2024,Men,15 years,Persons,233397.0
+2024,Men,16 years,Persons,234035.0
+2024,Men,17 years,Persons,230190.0
+2024,Men,18 years,Persons,234880.0
+2024,Men,19 years,Persons,258559.0
+2024,Men,20 to 24 years,Persons,1425281.0
+2024,Men,20 years,Persons,279516.0
+2024,Men,21 years,Persons,279266.0
+2024,Men,22 years,Persons,281182.0
+2024,Men,23 years,Persons,286658.0
+2024,Men,24 years,Persons,298659.0
+2024,Men,25 to 29 years,Persons,1571246.0
+2024,Men,25 years,Persons,299451.0
+2024,Men,26 years,Persons,309771.0
+2024,Men,27 years,Persons,315349.0
+2024,Men,28 years,Persons,322337.0
+2024,Men,29 years,Persons,324338.0
+2024,Men,30 to 34 years,Persons,1610622.0
+2024,Men,30 years,Persons,319991.0
+2024,Men,31 years,Persons,321624.0
+2024,Men,32 years,Persons,320581.0
+2024,Men,33 years,Persons,325378.0
+2024,Men,34 years,Persons,323048.0
+2024,Men,35 to 39 years,Persons,1495536.0
+2024,Men,35 years,Persons,309521.0
+2024,Men,36 years,Persons,298876.0
+2024,Men,37 years,Persons,295211.0
+2024,Men,38 years,Persons,297242.0
+2024,Men,39 years,Persons,294686.0
+2024,Men,40 to 44 years,Persons,1407268.0
+2024,Men,40 years,Persons,289762.0
+2024,Men,41 years,Persons,286328.0
+2024,Men,42 years,Persons,280536.0
+2024,Men,43 years,Persons,278501.0
+2024,Men,44 years,Persons,272141.0
+2024,Men,45 to 49 years,Persons,1264987.0
+2024,Men,45 years,Persons,262867.0
+2024,Men,46 years,Persons,255589.0
+2024,Men,47 years,Persons,251085.0
+2024,Men,48 years,Persons,248217.0
+2024,Men,49 years,Persons,247229.0
+2024,Men,50 to 54 years,Persons,1207691.0
+2024,Men,50 years,Persons,239065.0
+2024,Men,51 years,Persons,237275.0
+2024,Men,52 years,Persons,239736.0
+2024,Men,53 years,Persons,247350.0
+2024,Men,54 years,Persons,244265.0
+2024,Men,55 to 59 years,Persons,1228082.0
+2024,Men,55 years,Persons,239696.0
+2024,Men,56 years,Persons,236489.0
+2024,Men,57 years,Persons,237054.0
+2024,Men,58 years,Persons,249579.0
+2024,Men,59 years,Persons,265264.0
+2024,Men,60 to 64 years,Persons,1337528.0
+2024,Men,60 years,Persons,271750.0
+2024,Men,61 years,Persons,273992.0
+2024,Men,62 years,Persons,265682.0
+2024,Men,63 years,Persons,266092.0
+2024,Men,64 years,Persons,260012.0
+2024,Men,65 to 69 years,Persons,1185951.0
+2024,Men,65 years,Persons,251413.0
+2024,Men,66 years,Persons,246782.0
+2024,Men,67 years,Persons,238113.0
+2024,Men,68 years,Persons,228308.0
+2024,Men,69 years,Persons,221335.0
+2024,Men,70 to 74 years,Persons,940528.0
+2024,Men,70 years,Persons,208420.0
+2024,Men,71 years,Persons,196433.0
+2024,Men,72 years,Persons,185918.0
+2024,Men,73 years,Persons,178525.0
+2024,Men,74 years,Persons,171232.0
+2024,Men,75 to 79 years,Persons,720521.0
+2024,Men,75 years,Persons,163797.0
+2024,Men,76 years,Persons,160145.0
+2024,Men,77 years,Persons,154001.0
+2024,Men,78 years,Persons,127584.0
+2024,Men,79 years,Persons,114994.0
+2024,Men,80 to 84 years,Persons,433007.0
+2024,Men,80 years,Persons,106249.0
+2024,Men,81 years,Persons,97376.0
+2024,Men,82 years,Persons,85266.0
+2024,Men,83 years,Persons,76773.0
+2024,Men,84 years,Persons,67343.0
+2024,Men,85 to 89 years,Persons,228929.0
+2024,Men,85 years,Persons,59589.0
+2024,Men,86 years,Persons,52196.0
+2024,Men,87 years,Persons,44743.0
+2024,Men,88 years,Persons,39538.0
+2024,Men,89 years,Persons,32863.0
+2024,Men,90 to 94 years,Persons,94005.0
+2024,Men,90 years,Persons,27376.0
+2024,Men,91 years,Persons,22651.0
+2024,Men,92 years,Persons,18804.0
+2024,Men,93 years,Persons,14692.0
+2024,Men,94 years,Persons,10482.0
+2024,Men,95 to 99 years,Persons,21127.0
+2024,Men,95 years,Persons,7635.0
+2024,Men,96 years,Persons,5373.0
+2024,Men,97 years,Persons,4178.0
+2024,Men,98 years,Persons,2503.0
+2024,Men,99 years,Persons,1438.0
+2024,Men,100 years and older,Persons,2016.0
+2024,Men,0 to 14 years,Persons,3205672.0
+2024,Men,0 to 15 years,Persons,3439069.0
+2024,Men,0 to 16 years,Persons,3673104.0
+2024,Men,0 to 17 years,Persons,3903294.0
+2024,Men,15 to 49 years,Persons,9966001.0
+2024,Men,15 to 64 years,Persons,13739302.0
+2024,Men,16 to 64 years,Persons,13505905.0
+2024,Men,17 to 64 years,Persons,13271870.0
+2024,Men,18 years and older,Persons,16667764.0
+2024,Men,18 to 64 years,Persons,13041680.0
+2024,Men,18 to 24 years,Persons,1918720.0
+2024,Men,25 to 44 years,Persons,6084672.0
+2024,Men,45 to 64 years,Persons,5038288.0
+2024,Men,65 years and older,Persons,3626084.0
+2024,Men,90 years and older,Persons,117148.0
+2024,Men,Median age,Years,39.3
 2024,Men,Average age,Years,40.7
-2024,Total,All ages,Persons,41262329.0
-2024,Total,0 to 4 years,Persons,1874025.0
-2024,Total,0 years,Persons,360967.0
-2024,Total,1 year,Persons,357012.0
-2024,Total,2 years,Persons,377368.0
-2024,Total,3 years,Persons,382379.0
-2024,Total,4 years,Persons,396299.0
-2024,Total,5 to 9 years,Persons,2151780.0
-2024,Total,5 years,Persons,409613.0
-2024,Total,6 years,Persons,421380.0
-2024,Total,7 years,Persons,433399.0
-2024,Total,8 years,Persons,442065.0
-2024,Total,9 years,Persons,445323.0
-2024,Total,10 to 14 years,Persons,2232438.0
-2024,Total,10 years,Persons,443935.0
-2024,Total,11 years,Persons,446749.0
-2024,Total,12 years,Persons,446713.0
-2024,Total,13 years,Persons,444592.0
-2024,Total,14 years,Persons,450449.0
-2024,Total,15 to 19 years,Persons,2313964.0
-2024,Total,15 years,Persons,454367.0
-2024,Total,16 years,Persons,455948.0
-2024,Total,17 years,Persons,447942.0
-2024,Total,18 years,Persons,455945.0
-2024,Total,19 years,Persons,499762.0
-2024,Total,20 to 24 years,Persons,2741716.0
-2024,Total,20 years,Persons,539119.0
-2024,Total,21 years,Persons,539165.0
-2024,Total,22 years,Persons,540644.0
-2024,Total,23 years,Persons,549927.0
-2024,Total,24 years,Persons,572861.0
-2024,Total,25 to 29 years,Persons,3031487.0
-2024,Total,25 years,Persons,576467.0
-2024,Total,26 years,Persons,597494.0
-2024,Total,27 years,Persons,608171.0
-2024,Total,28 years,Persons,622900.0
-2024,Total,29 years,Persons,626455.0
-2024,Total,30 to 34 years,Persons,3145235.0
-2024,Total,30 years,Persons,622577.0
-2024,Total,31 years,Persons,626182.0
-2024,Total,32 years,Persons,627695.0
-2024,Total,33 years,Persons,635856.0
-2024,Total,34 years,Persons,632925.0
-2024,Total,35 to 39 years,Persons,2950432.0
-2024,Total,35 years,Persons,607848.0
-2024,Total,36 years,Persons,589315.0
-2024,Total,37 years,Persons,583801.0
-2024,Total,38 years,Persons,586342.0
-2024,Total,39 years,Persons,583126.0
-2024,Total,40 to 44 years,Persons,2796675.0
-2024,Total,40 years,Persons,574259.0
-2024,Total,41 years,Persons,567952.0
-2024,Total,42 years,Persons,558484.0
-2024,Total,43 years,Persons,553676.0
-2024,Total,44 years,Persons,542304.0
-2024,Total,45 to 49 years,Persons,2538433.0
-2024,Total,45 years,Persons,525566.0
-2024,Total,46 years,Persons,511514.0
-2024,Total,47 years,Persons,504575.0
-2024,Total,48 years,Persons,499639.0
-2024,Total,49 years,Persons,497139.0
-2024,Total,50 to 54 years,Persons,2444797.0
-2024,Total,50 years,Persons,483445.0
-2024,Total,51 years,Persons,479612.0
-2024,Total,52 years,Persons,484943.0
-2024,Total,53 years,Persons,501122.0
-2024,Total,54 years,Persons,495675.0
-2024,Total,55 to 59 years,Persons,2492843.0
-2024,Total,55 years,Persons,487397.0
-2024,Total,56 years,Persons,480917.0
-2024,Total,57 years,Persons,482133.0
-2024,Total,58 years,Persons,505213.0
-2024,Total,59 years,Persons,537183.0
-2024,Total,60 to 64 years,Persons,2712778.0
-2024,Total,60 years,Persons,549458.0
-2024,Total,61 years,Persons,553125.0
-2024,Total,62 years,Persons,538619.0
-2024,Total,63 years,Persons,540931.0
-2024,Total,64 years,Persons,530645.0
-2024,Total,65 to 69 years,Persons,2442866.0
-2024,Total,65 years,Persons,514399.0
-2024,Total,66 years,Persons,506110.0
-2024,Total,67 years,Persons,490491.0
-2024,Total,68 years,Persons,471770.0
-2024,Total,69 years,Persons,460096.0
-2024,Total,70 to 74 years,Persons,1973110.0
-2024,Total,70 years,Persons,436260.0
-2024,Total,71 years,Persons,411102.0
-2024,Total,72 years,Persons,389580.0
-2024,Total,73 years,Persons,374951.0
-2024,Total,74 years,Persons,361217.0
-2024,Total,75 to 79 years,Persons,1535283.0
-2024,Total,75 years,Persons,347180.0
-2024,Total,76 years,Persons,338970.0
-2024,Total,77 years,Persons,328547.0
-2024,Total,78 years,Persons,273712.0
-2024,Total,79 years,Persons,246874.0
-2024,Total,80 to 84 years,Persons,963055.0
-2024,Total,80 years,Persons,230830.0
-2024,Total,81 years,Persons,212524.0
-2024,Total,82 years,Persons,189735.0
-2024,Total,83 years,Persons,174371.0
-2024,Total,84 years,Persons,155595.0
-2024,Total,85 to 89 years,Persons,558478.0
-2024,Total,85 years,Persons,140051.0
-2024,Total,86 years,Persons,125367.0
-2024,Total,87 years,Persons,109667.0
-2024,Total,88 years,Persons,98506.0
-2024,Total,89 years,Persons,84887.0
-2024,Total,90 to 94 years,Persons,270684.0
-2024,Total,90 years,Persons,72818.0
-2024,Total,91 years,Persons,63740.0
-2024,Total,92 years,Persons,54224.0
-2024,Total,93 years,Persons,44925.0
-2024,Total,94 years,Persons,34977.0
-2024,Total,95 to 99 years,Persons,80331.0
-2024,Total,95 years,Persons,27113.0
-2024,Total,96 years,Persons,20707.0
-2024,Total,97 years,Persons,15441.0
-2024,Total,98 years,Persons,10151.0
-2024,Total,99 years,Persons,6919.0
-2024,Total,100 years and older,Persons,11919.0
-2024,Total,0 to 14 years,Persons,6258243.0
-2024,Total,0 to 15 years,Persons,6712610.0
-2024,Total,0 to 16 years,Persons,7168558.0
-2024,Total,0 to 17 years,Persons,7616500.0
-2024,Total,15 to 49 years,Persons,19517942.0
-2024,Total,15 to 64 years,Persons,27168360.0
-2024,Total,16 to 64 years,Persons,26713993.0
-2024,Total,17 to 64 years,Persons,26258045.0
-2024,Total,18 years and older,Persons,33645829.0
-2024,Total,18 to 64 years,Persons,25810103.0
-2024,Total,18 to 24 years,Persons,3697423.0
-2024,Total,25 to 44 years,Persons,11923829.0
-2024,Total,45 to 64 years,Persons,10188851.0
-2024,Total,65 years and older,Persons,7835726.0
-2024,Total,90 years and older,Persons,362934.0
-2024,Total,Median age,Years,40.3
+2024,Total,All ages,Persons,41162593.0
+2024,Total,0 to 4 years,Persons,1872974.0
+2024,Total,0 years,Persons,361251.0
+2024,Total,1 year,Persons,357011.0
+2024,Total,2 years,Persons,377392.0
+2024,Total,3 years,Persons,381780.0
+2024,Total,4 years,Persons,395540.0
+2024,Total,5 to 9 years,Persons,2146965.0
+2024,Total,5 years,Persons,408650.0
+2024,Total,6 years,Persons,420379.0
+2024,Total,7 years,Persons,432390.0
+2024,Total,8 years,Persons,441136.0
+2024,Total,9 years,Persons,444410.0
+2024,Total,10 to 14 years,Persons,2228694.0
+2024,Total,10 years,Persons,443100.0
+2024,Total,11 years,Persons,445955.0
+2024,Total,12 years,Persons,445949.0
+2024,Total,13 years,Persons,443875.0
+2024,Total,14 years,Persons,449815.0
+2024,Total,15 to 19 years,Persons,2305416.0
+2024,Total,15 years,Persons,453612.0
+2024,Total,16 years,Persons,455014.0
+2024,Total,17 years,Persons,446917.0
+2024,Total,18 years,Persons,454124.0
+2024,Total,19 years,Persons,495749.0
+2024,Total,20 to 24 years,Persons,2715019.0
+2024,Total,20 years,Persons,533363.0
+2024,Total,21 years,Persons,533249.0
+2024,Total,22 years,Persons,535078.0
+2024,Total,23 years,Persons,545031.0
+2024,Total,24 years,Persons,568298.0
+2024,Total,25 to 29 years,Persons,3014098.0
+2024,Total,25 years,Persons,572349.0
+2024,Total,26 years,Persons,593398.0
+2024,Total,27 years,Persons,604682.0
+2024,Total,28 years,Persons,619844.0
+2024,Total,29 years,Persons,623825.0
+2024,Total,30 to 34 years,Persons,3133586.0
+2024,Total,30 years,Persons,620107.0
+2024,Total,31 years,Persons,623797.0
+2024,Total,32 years,Persons,625378.0
+2024,Total,33 years,Persons,633611.0
+2024,Total,34 years,Persons,630693.0
+2024,Total,35 to 39 years,Persons,2941081.0
+2024,Total,35 years,Persons,605796.0
+2024,Total,36 years,Persons,587299.0
+2024,Total,37 years,Persons,581934.0
+2024,Total,38 years,Persons,584568.0
+2024,Total,39 years,Persons,581484.0
+2024,Total,40 to 44 years,Persons,2790130.0
+2024,Total,40 years,Persons,572696.0
+2024,Total,41 years,Persons,566547.0
+2024,Total,42 years,Persons,557174.0
+2024,Total,43 years,Persons,552519.0
+2024,Total,44 years,Persons,541194.0
+2024,Total,45 to 49 years,Persons,2534513.0
+2024,Total,45 years,Persons,524533.0
+2024,Total,46 years,Persons,510700.0
+2024,Total,47 years,Persons,503845.0
+2024,Total,48 years,Persons,498879.0
+2024,Total,49 years,Persons,496556.0
+2024,Total,50 to 54 years,Persons,2442765.0
+2024,Total,50 years,Persons,482952.0
+2024,Total,51 years,Persons,479167.0
+2024,Total,52 years,Persons,484606.0
+2024,Total,53 years,Persons,500764.0
+2024,Total,54 years,Persons,495276.0
+2024,Total,55 to 59 years,Persons,2491906.0
+2024,Total,55 years,Persons,487190.0
+2024,Total,56 years,Persons,480747.0
+2024,Total,57 years,Persons,481940.0
+2024,Total,58 years,Persons,505008.0
+2024,Total,59 years,Persons,537021.0
+2024,Total,60 to 64 years,Persons,2711700.0
+2024,Total,60 years,Persons,549321.0
+2024,Total,61 years,Persons,552896.0
+2024,Total,62 years,Persons,538463.0
+2024,Total,63 years,Persons,540721.0
+2024,Total,64 years,Persons,530299.0
+2024,Total,65 to 69 years,Persons,2441908.0
+2024,Total,65 years,Persons,514225.0
+2024,Total,66 years,Persons,505855.0
+2024,Total,67 years,Persons,490128.0
+2024,Total,68 years,Persons,471690.0
+2024,Total,69 years,Persons,460010.0
+2024,Total,70 to 74 years,Persons,1972667.0
+2024,Total,70 years,Persons,436052.0
+2024,Total,71 years,Persons,411125.0
+2024,Total,72 years,Persons,389510.0
+2024,Total,73 years,Persons,374895.0
+2024,Total,74 years,Persons,361085.0
+2024,Total,75 to 79 years,Persons,1535270.0
+2024,Total,75 years,Persons,347215.0
+2024,Total,76 years,Persons,339143.0
+2024,Total,77 years,Persons,328248.0
+2024,Total,78 years,Persons,273582.0
+2024,Total,79 years,Persons,247082.0
+2024,Total,80 to 84 years,Persons,962666.0
+2024,Total,80 years,Persons,230590.0
+2024,Total,81 years,Persons,212309.0
+2024,Total,82 years,Persons,189690.0
+2024,Total,83 years,Persons,174409.0
+2024,Total,84 years,Persons,155668.0
+2024,Total,85 to 89 years,Persons,558873.0
+2024,Total,85 years,Persons,140226.0
+2024,Total,86 years,Persons,125295.0
+2024,Total,87 years,Persons,109722.0
+2024,Total,88 years,Persons,98696.0
+2024,Total,89 years,Persons,84934.0
+2024,Total,90 to 94 years,Persons,270417.0
+2024,Total,90 years,Persons,72878.0
+2024,Total,91 years,Persons,63643.0
+2024,Total,92 years,Persons,54161.0
+2024,Total,93 years,Persons,44861.0
+2024,Total,94 years,Persons,34874.0
+2024,Total,95 to 99 years,Persons,80334.0
+2024,Total,95 years,Persons,27043.0
+2024,Total,96 years,Persons,20516.0
+2024,Total,97 years,Persons,15682.0
+2024,Total,98 years,Persons,10198.0
+2024,Total,99 years,Persons,6895.0
+2024,Total,100 years and older,Persons,11611.0
+2024,Total,0 to 14 years,Persons,6248633.0
+2024,Total,0 to 15 years,Persons,6702245.0
+2024,Total,0 to 16 years,Persons,7157259.0
+2024,Total,0 to 17 years,Persons,7604176.0
+2024,Total,15 to 49 years,Persons,19433843.0
+2024,Total,15 to 64 years,Persons,27080214.0
+2024,Total,16 to 64 years,Persons,26626602.0
+2024,Total,17 to 64 years,Persons,26171588.0
+2024,Total,18 years and older,Persons,33558417.0
+2024,Total,18 to 64 years,Persons,25724671.0
+2024,Total,18 to 24 years,Persons,3664892.0
+2024,Total,25 to 44 years,Persons,11878895.0
+2024,Total,45 to 64 years,Persons,10180884.0
+2024,Total,65 years and older,Persons,7833746.0
+2024,Total,90 years and older,Persons,362362.0
+2024,Total,Median age,Years,40.4
 2024,Total,Average age,Years,41.6
-2024,Women,All ages,Persons,20637580.0
-2024,Women,0 to 4 years,Persons,913949.0
-2024,Women,0 years,Persons,176086.0
-2024,Women,1 year,Persons,173911.0
-2024,Women,2 years,Persons,183901.0
-2024,Women,3 years,Persons,186308.0
-2024,Women,4 years,Persons,193743.0
-2024,Women,5 to 9 years,Persons,1048357.0
-2024,Women,5 years,Persons,200452.0
-2024,Women,6 years,Persons,205279.0
-2024,Women,7 years,Persons,210617.0
-2024,Women,8 years,Persons,215412.0
-2024,Women,9 years,Persons,216597.0
-2024,Women,10 to 14 years,Persons,1085566.0
-2024,Women,10 years,Persons,216592.0
-2024,Women,11 years,Persons,217143.0
-2024,Women,12 years,Persons,217156.0
-2024,Women,13 years,Persons,215748.0
-2024,Women,14 years,Persons,218927.0
-2024,Women,15 to 19 years,Persons,1118368.0
-2024,Women,15 years,Persons,220607.0
-2024,Women,16 years,Persons,221455.0
-2024,Women,17 years,Persons,217218.0
-2024,Women,18 years,Persons,220093.0
-2024,Women,19 years,Persons,238995.0
-2024,Women,20 to 24 years,Persons,1301105.0
-2024,Women,20 years,Persons,256370.0
-2024,Women,21 years,Persons,256565.0
-2024,Women,22 years,Persons,256241.0
-2024,Women,23 years,Persons,260412.0
-2024,Women,24 years,Persons,271517.0
-2024,Women,25 to 29 years,Persons,1450583.0
-2024,Women,25 years,Persons,274687.0
-2024,Women,26 years,Persons,285416.0
-2024,Women,27 years,Persons,290911.0
-2024,Women,28 years,Persons,298861.0
-2024,Women,29 years,Persons,300708.0
-2024,Women,30 to 34 years,Persons,1528153.0
-2024,Women,30 years,Persons,301232.0
-2024,Women,31 years,Persons,303246.0
-2024,Women,32 years,Persons,305819.0
-2024,Women,33 years,Persons,309222.0
-2024,Women,34 years,Persons,308634.0
-2024,Women,35 to 39 years,Persons,1449839.0
-2024,Women,35 years,Persons,297192.0
-2024,Women,36 years,Persons,289310.0
-2024,Women,37 years,Persons,287601.0
-2024,Women,38 years,Persons,288140.0
-2024,Women,39 years,Persons,287596.0
-2024,Women,40 to 44 years,Persons,1385726.0
-2024,Women,40 years,Persons,283635.0
-2024,Women,41 years,Persons,280839.0
-2024,Women,42 years,Persons,277204.0
-2024,Women,43 years,Persons,274502.0
-2024,Women,44 years,Persons,269546.0
-2024,Women,45 to 49 years,Persons,1271322.0
-2024,Women,45 years,Persons,262083.0
-2024,Women,46 years,Persons,255456.0
-2024,Women,47 years,Persons,253116.0
-2024,Women,48 years,Persons,251053.0
-2024,Women,49 years,Persons,249614.0
-2024,Women,50 to 54 years,Persons,1236101.0
-2024,Women,50 years,Persons,244120.0
-2024,Women,51 years,Persons,242108.0
-2024,Women,52 years,Persons,245062.0
-2024,Women,53 years,Persons,253597.0
-2024,Women,54 years,Persons,251214.0
-2024,Women,55 to 59 years,Persons,1264350.0
-2024,Women,55 years,Persons,247562.0
-2024,Women,56 years,Persons,244372.0
-2024,Women,57 years,Persons,245009.0
-2024,Women,58 years,Persons,255535.0
-2024,Women,59 years,Persons,271872.0
-2024,Women,60 to 64 years,Persons,1374752.0
-2024,Women,60 years,Persons,277605.0
-2024,Women,61 years,Persons,279024.0
-2024,Women,62 years,Persons,272873.0
-2024,Women,63 years,Persons,274794.0
-2024,Women,64 years,Persons,270456.0
-2024,Women,65 to 69 years,Persons,1256636.0
-2024,Women,65 years,Persons,262966.0
-2024,Women,66 years,Persons,259213.0
-2024,Women,67 years,Persons,252200.0
-2024,Women,68 years,Persons,243490.0
-2024,Women,69 years,Persons,238767.0
-2024,Women,70 to 74 years,Persons,1032360.0
-2024,Women,70 years,Persons,227695.0
-2024,Women,71 years,Persons,214685.0
-2024,Women,72 years,Persons,203596.0
-2024,Women,73 years,Persons,196425.0
-2024,Women,74 years,Persons,189959.0
-2024,Women,75 to 79 years,Persons,814850.0
-2024,Women,75 years,Persons,183389.0
-2024,Women,76 years,Persons,179000.0
-2024,Women,77 years,Persons,174423.0
-2024,Women,78 years,Persons,146031.0
-2024,Women,79 years,Persons,132007.0
-2024,Women,80 to 84 years,Persons,529892.0
-2024,Women,80 years,Persons,124530.0
-2024,Women,81 years,Persons,115094.0
-2024,Women,82 years,Persons,104437.0
-2024,Women,83 years,Persons,97536.0
-2024,Women,84 years,Persons,88295.0
-2024,Women,85 to 89 years,Persons,329984.0
-2024,Women,85 years,Persons,80603.0
-2024,Women,86 years,Persons,73273.0
-2024,Women,87 years,Persons,64953.0
-2024,Women,88 years,Persons,59074.0
-2024,Women,89 years,Persons,52081.0
-2024,Women,90 to 94 years,Persons,176623.0
-2024,Women,90 years,Persons,45530.0
-2024,Women,91 years,Persons,40951.0
-2024,Women,92 years,Persons,35486.0
-2024,Women,93 years,Persons,30223.0
-2024,Women,94 years,Persons,24433.0
-2024,Women,95 to 99 years,Persons,59219.0
-2024,Women,95 years,Persons,19524.0
-2024,Women,96 years,Persons,15163.0
-2024,Women,97 years,Persons,11374.0
-2024,Women,98 years,Persons,7706.0
-2024,Women,99 years,Persons,5452.0
-2024,Women,100 years and older,Persons,9845.0
-2024,Women,0 to 14 years,Persons,3047872.0
-2024,Women,0 to 15 years,Persons,3268479.0
-2024,Women,0 to 16 years,Persons,3489934.0
-2024,Women,0 to 17 years,Persons,3707152.0
-2024,Women,15 to 49 years,Persons,9505096.0
-2024,Women,15 to 64 years,Persons,13380299.0
-2024,Women,16 to 64 years,Persons,13159692.0
-2024,Women,17 to 64 years,Persons,12938237.0
-2024,Women,18 years and older,Persons,16930428.0
-2024,Women,18 to 64 years,Persons,12721019.0
-2024,Women,18 to 24 years,Persons,1760193.0
-2024,Women,25 to 44 years,Persons,5814301.0
-2024,Women,45 to 64 years,Persons,5146525.0
-2024,Women,65 years and older,Persons,4209409.0
-2024,Women,90 years and older,Persons,245687.0
-2024,Women,Median age,Years,41.5
+2024,Women,All ages,Persons,20591535.0
+2024,Women,0 to 4 years,Persons,913037.0
+2024,Women,0 years,Persons,176325.0
+2024,Women,1 year,Persons,173747.0
+2024,Women,2 years,Persons,183597.0
+2024,Women,3 years,Persons,185985.0
+2024,Women,4 years,Persons,193383.0
+2024,Women,5 to 9 years,Persons,1046200.0
+2024,Women,5 years,Persons,200017.0
+2024,Women,6 years,Persons,204831.0
+2024,Women,7 years,Persons,210180.0
+2024,Women,8 years,Persons,214993.0
+2024,Women,9 years,Persons,216179.0
+2024,Women,10 to 14 years,Persons,1083724.0
+2024,Women,10 years,Persons,216206.0
+2024,Women,11 years,Persons,216721.0
+2024,Women,12 years,Persons,216775.0
+2024,Women,13 years,Persons,215415.0
+2024,Women,14 years,Persons,218607.0
+2024,Women,15 to 19 years,Persons,1114355.0
+2024,Women,15 years,Persons,220215.0
+2024,Women,16 years,Persons,220979.0
+2024,Women,17 years,Persons,216727.0
+2024,Women,18 years,Persons,219244.0
+2024,Women,19 years,Persons,237190.0
+2024,Women,20 to 24 years,Persons,1289738.0
+2024,Women,20 years,Persons,253847.0
+2024,Women,21 years,Persons,253983.0
+2024,Women,22 years,Persons,253896.0
+2024,Women,23 years,Persons,258373.0
+2024,Women,24 years,Persons,269639.0
+2024,Women,25 to 29 years,Persons,1442852.0
+2024,Women,25 years,Persons,272898.0
+2024,Women,26 years,Persons,283627.0
+2024,Women,27 years,Persons,289333.0
+2024,Women,28 years,Persons,297507.0
+2024,Women,29 years,Persons,299487.0
+2024,Women,30 to 34 years,Persons,1522964.0
+2024,Women,30 years,Persons,300116.0
+2024,Women,31 years,Persons,302173.0
+2024,Women,32 years,Persons,304797.0
+2024,Women,33 years,Persons,308233.0
+2024,Women,34 years,Persons,307645.0
+2024,Women,35 to 39 years,Persons,1445545.0
+2024,Women,35 years,Persons,296275.0
+2024,Women,36 years,Persons,288423.0
+2024,Women,37 years,Persons,286723.0
+2024,Women,38 years,Persons,287326.0
+2024,Women,39 years,Persons,286798.0
+2024,Women,40 to 44 years,Persons,1382862.0
+2024,Women,40 years,Persons,282934.0
+2024,Women,41 years,Persons,280219.0
+2024,Women,42 years,Persons,276638.0
+2024,Women,43 years,Persons,274018.0
+2024,Women,44 years,Persons,269053.0
+2024,Women,45 to 49 years,Persons,1269526.0
+2024,Women,45 years,Persons,261666.0
+2024,Women,46 years,Persons,255111.0
+2024,Women,47 years,Persons,252760.0
+2024,Women,48 years,Persons,250662.0
+2024,Women,49 years,Persons,249327.0
+2024,Women,50 to 54 years,Persons,1235074.0
+2024,Women,50 years,Persons,243887.0
+2024,Women,51 years,Persons,241892.0
+2024,Women,52 years,Persons,244870.0
+2024,Women,53 years,Persons,253414.0
+2024,Women,54 years,Persons,251011.0
+2024,Women,55 to 59 years,Persons,1263824.0
+2024,Women,55 years,Persons,247494.0
+2024,Women,56 years,Persons,244258.0
+2024,Women,57 years,Persons,244886.0
+2024,Women,58 years,Persons,255429.0
+2024,Women,59 years,Persons,271757.0
+2024,Women,60 to 64 years,Persons,1374172.0
+2024,Women,60 years,Persons,277571.0
+2024,Women,61 years,Persons,278904.0
+2024,Women,62 years,Persons,272781.0
+2024,Women,63 years,Persons,274629.0
+2024,Women,64 years,Persons,270287.0
+2024,Women,65 to 69 years,Persons,1255957.0
+2024,Women,65 years,Persons,262812.0
+2024,Women,66 years,Persons,259073.0
+2024,Women,67 years,Persons,252015.0
+2024,Women,68 years,Persons,243382.0
+2024,Women,69 years,Persons,238675.0
+2024,Women,70 to 74 years,Persons,1032139.0
+2024,Women,70 years,Persons,227632.0
+2024,Women,71 years,Persons,214692.0
+2024,Women,72 years,Persons,203592.0
+2024,Women,73 years,Persons,196370.0
+2024,Women,74 years,Persons,189853.0
+2024,Women,75 to 79 years,Persons,814749.0
+2024,Women,75 years,Persons,183418.0
+2024,Women,76 years,Persons,178998.0
+2024,Women,77 years,Persons,174247.0
+2024,Women,78 years,Persons,145998.0
+2024,Women,79 years,Persons,132088.0
+2024,Women,80 to 84 years,Persons,529659.0
+2024,Women,80 years,Persons,124341.0
+2024,Women,81 years,Persons,114933.0
+2024,Women,82 years,Persons,104424.0
+2024,Women,83 years,Persons,97636.0
+2024,Women,84 years,Persons,88325.0
+2024,Women,85 to 89 years,Persons,329944.0
+2024,Women,85 years,Persons,80637.0
+2024,Women,86 years,Persons,73099.0
+2024,Women,87 years,Persons,64979.0
+2024,Women,88 years,Persons,59158.0
+2024,Women,89 years,Persons,52071.0
+2024,Women,90 to 94 years,Persons,176412.0
+2024,Women,90 years,Persons,45502.0
+2024,Women,91 years,Persons,40992.0
+2024,Women,92 years,Persons,35357.0
+2024,Women,93 years,Persons,30169.0
+2024,Women,94 years,Persons,24392.0
+2024,Women,95 to 99 years,Persons,59207.0
+2024,Women,95 years,Persons,19408.0
+2024,Women,96 years,Persons,15143.0
+2024,Women,97 years,Persons,11504.0
+2024,Women,98 years,Persons,7695.0
+2024,Women,99 years,Persons,5457.0
+2024,Women,100 years and older,Persons,9595.0
+2024,Women,0 to 14 years,Persons,3042961.0
+2024,Women,0 to 15 years,Persons,3263176.0
+2024,Women,0 to 16 years,Persons,3484155.0
+2024,Women,0 to 17 years,Persons,3700882.0
+2024,Women,15 to 49 years,Persons,9467842.0
+2024,Women,15 to 64 years,Persons,13340912.0
+2024,Women,16 to 64 years,Persons,13120697.0
+2024,Women,17 to 64 years,Persons,12899718.0
+2024,Women,18 years and older,Persons,16890653.0
+2024,Women,18 to 64 years,Persons,12682991.0
+2024,Women,18 to 24 years,Persons,1746172.0
+2024,Women,25 to 44 years,Persons,5794223.0
+2024,Women,45 to 64 years,Persons,5142596.0
+2024,Women,65 years and older,Persons,4207662.0
+2024,Women,90 years and older,Persons,245214.0
+2024,Women,Median age,Years,41.6
 2024,Women,Average age,Years,42.5
-2025,Men,All ages,Persons,20810309.0
-2025,Men,0 to 4 years,Persons,959179.0
-2025,Men,0 years,Persons,188650.0
-2025,Men,1 year,Persons,186780.0
-2025,Men,2 years,Persons,186297.0
-2025,Men,3 years,Persons,197461.0
-2025,Men,4 years,Persons,199991.0
-2025,Men,5 to 9 years,Persons,1095748.0
-2025,Men,5 years,Persons,206939.0
-2025,Men,6 years,Persons,213273.0
-2025,Men,7 years,Persons,220047.0
-2025,Men,8 years,Persons,225795.0
-2025,Men,9 years,Persons,229694.0
-2025,Men,10 to 14 years,Persons,1156401.0
-2025,Men,10 years,Persons,231065.0
-2025,Men,11 years,Persons,229670.0
-2025,Men,12 years,Persons,232772.0
-2025,Men,13 years,Persons,231910.0
-2025,Men,14 years,Persons,230984.0
-2025,Men,15 to 19 years,Persons,1195736.0
-2025,Men,15 years,Persons,234372.0
-2025,Men,16 years,Persons,237859.0
-2025,Men,17 years,Persons,238075.0
-2025,Men,18 years,Persons,236563.0
-2025,Men,19 years,Persons,248867.0
-2025,Men,20 to 24 years,Persons,1419266.0
-2025,Men,20 years,Persons,270979.0
-2025,Men,21 years,Persons,286412.0
-2025,Men,22 years,Persons,284903.0
-2025,Men,23 years,Persons,286414.0
-2025,Men,24 years,Persons,290558.0
-2025,Men,25 to 29 years,Persons,1556583.0
-2025,Men,25 years,Persons,300793.0
-2025,Men,26 years,Persons,301596.0
-2025,Men,27 years,Persons,311431.0
-2025,Men,28 years,Persons,317933.0
-2025,Men,29 years,Persons,324830.0
-2025,Men,30 to 34 years,Persons,1634132.0
-2025,Men,30 years,Persons,327865.0
-2025,Men,31 years,Persons,324147.0
-2025,Men,32 years,Persons,326211.0
-2025,Men,33 years,Persons,325317.0
-2025,Men,34 years,Persons,330592.0
-2025,Men,35 to 39 years,Persons,1545244.0
-2025,Men,35 years,Persons,328136.0
-2025,Men,36 years,Persons,314258.0
-2025,Men,37 years,Persons,302682.0
-2025,Men,38 years,Persons,299378.0
-2025,Men,39 years,Persons,300790.0
-2025,Men,40 to 44 years,Persons,1444713.0
-2025,Men,40 years,Persons,298349.0
-2025,Men,41 years,Persons,293398.0
-2025,Men,42 years,Persons,288914.0
-2025,Men,43 years,Persons,283205.0
-2025,Men,44 years,Persons,280847.0
-2025,Men,45 to 49 years,Persons,1297200.0
-2025,Men,45 years,Persons,274304.0
-2025,Men,46 years,Persons,264816.0
-2025,Men,47 years,Persons,256753.0
-2025,Men,48 years,Persons,252176.0
-2025,Men,49 years,Persons,249151.0
-2025,Men,50 to 54 years,Persons,1211765.0
-2025,Men,50 years,Persons,247754.0
-2025,Men,51 years,Persons,239619.0
-2025,Men,52 years,Persons,237476.0
-2025,Men,53 years,Persons,239689.0
-2025,Men,54 years,Persons,247227.0
-2025,Men,55 to 59 years,Persons,1203214.0
-2025,Men,55 years,Persons,243799.0
-2025,Men,56 years,Persons,239088.0
-2025,Men,57 years,Persons,235671.0
-2025,Men,58 years,Persons,236178.0
-2025,Men,59 years,Persons,248478.0
-2025,Men,60 to 64 years,Persons,1334699.0
-2025,Men,60 years,Persons,264035.0
-2025,Men,61 years,Persons,270438.0
-2025,Men,62 years,Persons,272396.0
-2025,Men,63 years,Persons,263746.0
-2025,Men,64 years,Persons,264084.0
-2025,Men,65 to 69 years,Persons,1211801.0
-2025,Men,65 years,Persons,257861.0
-2025,Men,66 years,Persons,248940.0
-2025,Men,67 years,Persons,244247.0
-2025,Men,68 years,Persons,235567.0
-2025,Men,69 years,Persons,225186.0
-2025,Men,70 to 74 years,Persons,973885.0
-2025,Men,70 years,Persons,218387.0
-2025,Men,71 years,Persons,205224.0
-2025,Men,72 years,Persons,193126.0
-2025,Men,73 years,Persons,182450.0
-2025,Men,74 years,Persons,174698.0
-2025,Men,75 to 79 years,Persons,753952.0
-2025,Men,75 years,Persons,167213.0
-2025,Men,76 years,Persons,159337.0
-2025,Men,77 years,Persons,155353.0
-2025,Men,78 years,Persons,149113.0
-2025,Men,79 years,Persons,122936.0
-2025,Men,80 to 84 years,Persons,455953.0
-2025,Men,80 years,Persons,110116.0
-2025,Men,81 years,Persons,101339.0
-2025,Men,82 years,Persons,92391.0
-2025,Men,83 years,Persons,80311.0
-2025,Men,84 years,Persons,71796.0
-2025,Men,85 to 89 years,Persons,238879.0
-2025,Men,85 years,Persons,62467.0
-2025,Men,86 years,Persons,54448.0
-2025,Men,87 years,Persons,47166.0
-2025,Men,88 years,Persons,40011.0
-2025,Men,89 years,Persons,34787.0
-2025,Men,90 to 94 years,Persons,97205.0
-2025,Men,90 years,Persons,28337.0
-2025,Men,91 years,Persons,23154.0
-2025,Men,92 years,Persons,18900.0
-2025,Men,93 years,Persons,15223.0
-2025,Men,94 years,Persons,11591.0
-2025,Men,95 to 99 years,Persons,22549.0
-2025,Men,95 years,Persons,8145.0
-2025,Men,96 years,Persons,5789.0
-2025,Men,97 years,Persons,4054.0
-2025,Men,98 years,Persons,2895.0
-2025,Men,99 years,Persons,1666.0
-2025,Men,100 years and older,Persons,2205.0
-2025,Men,0 to 14 years,Persons,3211328.0
-2025,Men,0 to 15 years,Persons,3445700.0
-2025,Men,0 to 16 years,Persons,3683559.0
-2025,Men,0 to 17 years,Persons,3921634.0
-2025,Men,15 to 49 years,Persons,10092874.0
-2025,Men,15 to 64 years,Persons,13842552.0
-2025,Men,16 to 64 years,Persons,13608180.0
-2025,Men,17 to 64 years,Persons,13370321.0
-2025,Men,18 years and older,Persons,16888675.0
-2025,Men,18 to 64 years,Persons,13132246.0
-2025,Men,18 to 24 years,Persons,1904696.0
-2025,Men,25 to 44 years,Persons,6180672.0
-2025,Men,45 to 64 years,Persons,5046878.0
-2025,Men,65 years and older,Persons,3756429.0
-2025,Men,90 years and older,Persons,121959.0
+2025,Men,All ages,Persons,20789405.0
+2025,Men,0 to 4 years,Persons,959342.0
+2025,Men,0 years,Persons,188762.0
+2025,Men,1 year,Persons,186853.0
+2025,Men,2 years,Persons,186407.0
+2025,Men,3 years,Persons,197694.0
+2025,Men,4 years,Persons,199626.0
+2025,Men,5 to 9 years,Persons,1094025.0
+2025,Men,5 years,Persons,206487.0
+2025,Men,6 years,Persons,212851.0
+2025,Men,7 years,Persons,219646.0
+2025,Men,8 years,Persons,225562.0
+2025,Men,9 years,Persons,229479.0
+2025,Men,10 to 14 years,Persons,1155984.0
+2025,Men,10 years,Persons,230966.0
+2025,Men,11 years,Persons,229568.0
+2025,Men,12 years,Persons,232685.0
+2025,Men,13 years,Persons,231816.0
+2025,Men,14 years,Persons,230949.0
+2025,Men,15 to 19 years,Persons,1192903.0
+2025,Men,15 years,Persons,234347.0
+2025,Men,16 years,Persons,237743.0
+2025,Men,17 years,Persons,237760.0
+2025,Men,18 years,Persons,235964.0
+2025,Men,19 years,Persons,247089.0
+2025,Men,20 to 24 years,Persons,1409443.0
+2025,Men,20 years,Persons,268385.0
+2025,Men,21 years,Persons,284351.0
+2025,Men,22 years,Persons,282711.0
+2025,Men,23 years,Persons,284479.0
+2025,Men,24 years,Persons,289517.0
+2025,Men,25 to 29 years,Persons,1557106.0
+2025,Men,25 years,Persons,300372.0
+2025,Men,26 years,Persons,301473.0
+2025,Men,27 years,Persons,311608.0
+2025,Men,28 years,Persons,318435.0
+2025,Men,29 years,Persons,325218.0
+2025,Men,30 to 34 years,Persons,1633756.0
+2025,Men,30 years,Persons,328177.0
+2025,Men,31 years,Persons,324252.0
+2025,Men,32 years,Persons,326149.0
+2025,Men,33 years,Persons,324997.0
+2025,Men,34 years,Persons,330181.0
+2025,Men,35 to 39 years,Persons,1542852.0
+2025,Men,35 years,Persons,327502.0
+2025,Men,36 years,Persons,313793.0
+2025,Men,37 years,Persons,302221.0
+2025,Men,38 years,Persons,298966.0
+2025,Men,39 years,Persons,300370.0
+2025,Men,40 to 44 years,Persons,1442557.0
+2025,Men,40 years,Persons,297923.0
+2025,Men,41 years,Persons,292925.0
+2025,Men,42 years,Persons,288468.0
+2025,Men,43 years,Persons,282809.0
+2025,Men,44 years,Persons,280432.0
+2025,Men,45 to 49 years,Persons,1295718.0
+2025,Men,45 years,Persons,273908.0
+2025,Men,46 years,Persons,264408.0
+2025,Men,47 years,Persons,256505.0
+2025,Men,48 years,Persons,251968.0
+2025,Men,49 years,Persons,248929.0
+2025,Men,50 to 54 years,Persons,1211040.0
+2025,Men,50 years,Persons,247597.0
+2025,Men,51 years,Persons,239462.0
+2025,Men,52 years,Persons,237320.0
+2025,Men,53 years,Persons,239599.0
+2025,Men,54 years,Persons,247062.0
+2025,Men,55 to 59 years,Persons,1202908.0
+2025,Men,55 years,Persons,243649.0
+2025,Men,56 years,Persons,239031.0
+2025,Men,57 years,Persons,235678.0
+2025,Men,58 years,Persons,236127.0
+2025,Men,59 years,Persons,248423.0
+2025,Men,60 to 64 years,Persons,1334367.0
+2025,Men,60 years,Persons,263999.0
+2025,Men,61 years,Persons,270344.0
+2025,Men,62 years,Persons,272307.0
+2025,Men,63 years,Persons,263727.0
+2025,Men,64 years,Persons,263990.0
+2025,Men,65 to 69 years,Persons,1211424.0
+2025,Men,65 years,Persons,257715.0
+2025,Men,66 years,Persons,248904.0
+2025,Men,67 years,Persons,244094.0
+2025,Men,68 years,Persons,235437.0
+2025,Men,69 years,Persons,225274.0
+2025,Men,70 to 74 years,Persons,973819.0
+2025,Men,70 years,Persons,218375.0
+2025,Men,71 years,Persons,205143.0
+2025,Men,72 years,Persons,193145.0
+2025,Men,73 years,Persons,182428.0
+2025,Men,74 years,Persons,174728.0
+2025,Men,75 to 79 years,Persons,754195.0
+2025,Men,75 years,Persons,167235.0
+2025,Men,76 years,Persons,159468.0
+2025,Men,77 years,Persons,155520.0
+2025,Men,78 years,Persons,149007.0
+2025,Men,79 years,Persons,122965.0
+2025,Men,80 to 84 years,Persons,456058.0
+2025,Men,80 years,Persons,110257.0
+2025,Men,81 years,Persons,101319.0
+2025,Men,82 years,Persons,92374.0
+2025,Men,83 years,Persons,80305.0
+2025,Men,84 years,Persons,71803.0
+2025,Men,85 to 89 years,Persons,239728.0
+2025,Men,85 years,Persons,62637.0
+2025,Men,86 years,Persons,54671.0
+2025,Men,87 years,Persons,47335.0
+2025,Men,88 years,Persons,40126.0
+2025,Men,89 years,Persons,34959.0
+2025,Men,90 to 94 years,Persons,97427.0
+2025,Men,90 years,Persons,28474.0
+2025,Men,91 years,Persons,23206.0
+2025,Men,92 years,Persons,18849.0
+2025,Men,93 years,Persons,15309.0
+2025,Men,94 years,Persons,11589.0
+2025,Men,95 to 99 years,Persons,22616.0
+2025,Men,95 years,Persons,8140.0
+2025,Men,96 years,Persons,5779.0
+2025,Men,97 years,Persons,3984.0
+2025,Men,98 years,Persons,3012.0
+2025,Men,99 years,Persons,1701.0
+2025,Men,100 years and older,Persons,2137.0
+2025,Men,0 to 14 years,Persons,3209351.0
+2025,Men,0 to 15 years,Persons,3443698.0
+2025,Men,0 to 16 years,Persons,3681441.0
+2025,Men,0 to 17 years,Persons,3919201.0
+2025,Men,15 to 49 years,Persons,10074335.0
+2025,Men,15 to 64 years,Persons,13822650.0
+2025,Men,16 to 64 years,Persons,13588303.0
+2025,Men,17 to 64 years,Persons,13350560.0
+2025,Men,18 years and older,Persons,16870204.0
+2025,Men,18 to 64 years,Persons,13112800.0
+2025,Men,18 to 24 years,Persons,1892496.0
+2025,Men,25 to 44 years,Persons,6176271.0
+2025,Men,45 to 64 years,Persons,5044033.0
+2025,Men,65 years and older,Persons,3757404.0
+2025,Men,90 years and older,Persons,122180.0
 2025,Men,Median age,Years,39.5
 2025,Men,Average age,Years,40.9
-2025,Total,All ages,Persons,41651653.0
-2025,Total,0 to 4 years,Persons,1871184.0
-2025,Total,0 years,Persons,368007.0
-2025,Total,1 year,Persons,364592.0
-2025,Total,2 years,Persons,363549.0
-2025,Total,3 years,Persons,385355.0
-2025,Total,4 years,Persons,389681.0
-2025,Total,5 to 9 years,Persons,2138350.0
-2025,Total,5 years,Persons,404808.0
-2025,Total,6 years,Persons,417313.0
-2025,Total,7 years,Persons,428757.0
-2025,Total,8 years,Persons,439706.0
-2025,Total,9 years,Persons,447766.0
-2025,Total,10 to 14 years,Persons,2251628.0
-2025,Total,10 years,Persons,450324.0
-2025,Total,11 years,Persons,448662.0
-2025,Total,12 years,Persons,452388.0
-2025,Total,13 years,Persons,451011.0
-2025,Total,14 years,Persons,449243.0
-2025,Total,15 to 19 years,Persons,2319393.0
-2025,Total,15 years,Persons,456358.0
-2025,Total,16 years,Persons,462135.0
-2025,Total,17 years,Persons,462528.0
-2025,Total,18 years,Persons,458804.0
-2025,Total,19 years,Persons,479568.0
-2025,Total,20 to 24 years,Persons,2703780.0
-2025,Total,20 years,Persons,517515.0
-2025,Total,21 years,Persons,544893.0
-2025,Total,22 years,Persons,543347.0
-2025,Total,23 years,Persons,544993.0
-2025,Total,24 years,Persons,553032.0
-2025,Total,25 to 29 years,Persons,2995647.0
-2025,Total,25 years,Persons,575096.0
-2025,Total,26 years,Persons,579540.0
-2025,Total,27 years,Persons,600365.0
-2025,Total,28 years,Persons,612797.0
-2025,Total,29 years,Persons,627849.0
-2025,Total,30 to 34 years,Persons,3175724.0
-2025,Total,30 years,Persons,633005.0
-2025,Total,31 years,Persons,629537.0
-2025,Total,32 years,Persons,633622.0
-2025,Total,33 years,Persons,635511.0
-2025,Total,34 years,Persons,644049.0
-2025,Total,35 to 39 years,Persons,3032523.0
-2025,Total,35 years,Persons,640621.0
-2025,Total,36 years,Persons,615285.0
-2025,Total,37 years,Persons,595065.0
-2025,Total,38 years,Persons,589776.0
-2025,Total,39 years,Persons,591776.0
-2025,Total,40 to 44 years,Persons,2859631.0
-2025,Total,40 years,Persons,588543.0
-2025,Total,41 years,Persons,579159.0
-2025,Total,42 years,Persons,572018.0
-2025,Total,43 years,Persons,562582.0
-2025,Total,44 years,Persons,557329.0
-2025,Total,45 to 49 years,Persons,2593361.0
-2025,Total,45 years,Persons,545259.0
-2025,Total,46 years,Persons,528254.0
-2025,Total,47 years,Persons,513041.0
-2025,Total,48 years,Persons,506230.0
-2025,Total,49 years,Persons,500577.0
-2025,Total,50 to 54 years,Persons,2447311.0
-2025,Total,50 years,Persons,497734.0
-2025,Total,51 years,Persons,483978.0
-2025,Total,52 years,Persons,479979.0
-2025,Total,53 years,Persons,484691.0
-2025,Total,54 years,Persons,500929.0
-2025,Total,55 to 59 years,Persons,2446446.0
-2025,Total,55 years,Persons,494907.0
-2025,Total,56 years,Persons,486646.0
-2025,Total,57 years,Persons,479944.0
-2025,Total,58 years,Persons,480992.0
-2025,Total,59 years,Persons,503957.0
-2025,Total,60 to 64 years,Persons,2708208.0
-2025,Total,60 years,Persons,535619.0
-2025,Total,61 years,Persons,547595.0
-2025,Total,62 years,Persons,550876.0
-2025,Total,63 years,Persons,535968.0
-2025,Total,64 years,Persons,538150.0
-2025,Total,65 to 69 years,Persons,2494286.0
-2025,Total,65 years,Persons,527392.0
-2025,Total,66 years,Persons,510978.0
-2025,Total,67 years,Persons,502192.0
-2025,Total,68 years,Persons,486520.0
-2025,Total,69 years,Persons,467204.0
-2025,Total,70 to 74 years,Persons,2044533.0
-2025,Total,70 years,Persons,455480.0
-2025,Total,71 years,Persons,430902.0
-2025,Total,72 years,Persons,405768.0
-2025,Total,73 years,Persons,383798.0
-2025,Total,74 years,Persons,368585.0
-2025,Total,75 to 79 years,Persons,1609542.0
-2025,Total,75 years,Persons,354423.0
-2025,Total,76 years,Persons,339619.0
-2025,Total,77 years,Persons,330747.0
-2025,Total,78 years,Persons,319619.0
-2025,Total,79 years,Persons,265134.0
-2025,Total,80 to 84 years,Persons,1008273.0
-2025,Total,80 years,Persons,238248.0
-2025,Total,81 years,Persons,221748.0
-2025,Total,82 years,Persons,203205.0
-2025,Total,83 years,Persons,180315.0
-2025,Total,84 years,Persons,164757.0
-2025,Total,85 to 89 years,Persons,579797.0
-2025,Total,85 years,Persons,146032.0
-2025,Total,86 years,Persons,130175.0
-2025,Total,87 years,Persons,115357.0
-2025,Total,88 years,Persons,99750.0
-2025,Total,89 years,Persons,88483.0
-2025,Total,90 to 94 years,Persons,275677.0
-2025,Total,90 years,Persons,75135.0
-2025,Total,91 years,Persons,63358.0
-2025,Total,92 years,Persons,54668.0
-2025,Total,93 years,Persons,45532.0
-2025,Total,94 years,Persons,36984.0
-2025,Total,95 to 99 years,Persons,84078.0
-2025,Total,95 years,Persons,28254.0
-2025,Total,96 years,Persons,21477.0
-2025,Total,97 years,Persons,15729.0
-2025,Total,98 years,Persons,11409.0
-2025,Total,99 years,Persons,7209.0
-2025,Total,100 years and older,Persons,12281.0
-2025,Total,0 to 14 years,Persons,6261162.0
-2025,Total,0 to 15 years,Persons,6717520.0
-2025,Total,0 to 16 years,Persons,7179655.0
-2025,Total,0 to 17 years,Persons,7642183.0
-2025,Total,15 to 49 years,Persons,19680059.0
-2025,Total,15 to 64 years,Persons,27282024.0
-2025,Total,16 to 64 years,Persons,26825666.0
-2025,Total,17 to 64 years,Persons,26363531.0
-2025,Total,18 years and older,Persons,34009470.0
-2025,Total,18 to 64 years,Persons,25901003.0
-2025,Total,18 to 24 years,Persons,3642152.0
-2025,Total,25 to 44 years,Persons,12063525.0
-2025,Total,45 to 64 years,Persons,10195326.0
-2025,Total,65 years and older,Persons,8108467.0
-2025,Total,90 years and older,Persons,372036.0
+2025,Total,All ages,Persons,41608982.0
+2025,Total,0 to 4 years,Persons,1870545.0
+2025,Total,0 years,Persons,368133.0
+2025,Total,1 year,Persons,364897.0
+2025,Total,2 years,Persons,363391.0
+2025,Total,3 years,Persons,385137.0
+2025,Total,4 years,Persons,388987.0
+2025,Total,5 to 9 years,Persons,2135455.0
+2025,Total,5 years,Persons,403971.0
+2025,Total,6 years,Persons,416573.0
+2025,Total,7 years,Persons,428128.0
+2025,Total,8 years,Persons,439326.0
+2025,Total,9 years,Persons,447457.0
+2025,Total,10 to 14 years,Persons,2250755.0
+2025,Total,10 years,Persons,450136.0
+2025,Total,11 years,Persons,448475.0
+2025,Total,12 years,Persons,452171.0
+2025,Total,13 years,Persons,450854.0
+2025,Total,14 years,Persons,449119.0
+2025,Total,15 to 19 years,Persons,2313851.0
+2025,Total,15 years,Persons,456275.0
+2025,Total,16 years,Persons,461800.0
+2025,Total,17 years,Persons,461897.0
+2025,Total,18 years,Persons,457652.0
+2025,Total,19 years,Persons,476227.0
+2025,Total,20 to 24 years,Persons,2686727.0
+2025,Total,20 years,Persons,512883.0
+2025,Total,21 years,Persons,541411.0
+2025,Total,22 years,Persons,539518.0
+2025,Total,23 years,Persons,541619.0
+2025,Total,24 years,Persons,551296.0
+2025,Total,25 to 29 years,Persons,2995822.0
+2025,Total,25 years,Persons,574329.0
+2025,Total,26 years,Persons,579109.0
+2025,Total,27 years,Persons,600570.0
+2025,Total,28 years,Persons,613401.0
+2025,Total,29 years,Persons,628413.0
+2025,Total,30 to 34 years,Persons,3174596.0
+2025,Total,30 years,Persons,633423.0
+2025,Total,31 years,Persons,629562.0
+2025,Total,32 years,Persons,633404.0
+2025,Total,33 years,Persons,634919.0
+2025,Total,34 years,Persons,643288.0
+2025,Total,35 to 39 years,Persons,3027864.0
+2025,Total,35 years,Persons,639572.0
+2025,Total,36 years,Persons,614383.0
+2025,Total,37 years,Persons,594168.0
+2025,Total,38 years,Persons,588894.0
+2025,Total,39 years,Persons,590847.0
+2025,Total,40 to 44 years,Persons,2855799.0
+2025,Total,40 years,Persons,587677.0
+2025,Total,41 years,Persons,578369.0
+2025,Total,42 years,Persons,571238.0
+2025,Total,43 years,Persons,561879.0
+2025,Total,44 years,Persons,556636.0
+2025,Total,45 to 49 years,Persons,2590660.0
+2025,Total,45 years,Persons,544622.0
+2025,Total,46 years,Persons,527630.0
+2025,Total,47 years,Persons,512602.0
+2025,Total,48 years,Persons,505733.0
+2025,Total,49 years,Persons,500073.0
+2025,Total,50 to 54 years,Persons,2445681.0
+2025,Total,50 years,Persons,497372.0
+2025,Total,51 years,Persons,483688.0
+2025,Total,52 years,Persons,479637.0
+2025,Total,53 years,Persons,484426.0
+2025,Total,54 years,Persons,500558.0
+2025,Total,55 to 59 years,Persons,2445555.0
+2025,Total,55 years,Persons,494594.0
+2025,Total,56 years,Persons,486525.0
+2025,Total,57 years,Persons,479833.0
+2025,Total,58 years,Persons,480816.0
+2025,Total,59 years,Persons,503787.0
+2025,Total,60 to 64 years,Persons,2707228.0
+2025,Total,60 years,Persons,535497.0
+2025,Total,61 years,Persons,547451.0
+2025,Total,62 years,Persons,550652.0
+2025,Total,63 years,Persons,535795.0
+2025,Total,64 years,Persons,537833.0
+2025,Total,65 to 69 years,Persons,2493007.0
+2025,Total,65 years,Persons,527033.0
+2025,Total,66 years,Persons,510754.0
+2025,Total,67 years,Persons,501852.0
+2025,Total,68 years,Persons,486193.0
+2025,Total,69 years,Persons,467175.0
+2025,Total,70 to 74 years,Persons,2044352.0
+2025,Total,70 years,Persons,455388.0
+2025,Total,71 years,Persons,430797.0
+2025,Total,72 years,Persons,405846.0
+2025,Total,73 years,Persons,383774.0
+2025,Total,74 years,Persons,368547.0
+2025,Total,75 to 79 years,Persons,1609683.0
+2025,Total,75 years,Persons,354399.0
+2025,Total,76 years,Persons,339830.0
+2025,Total,77 years,Persons,330884.0
+2025,Total,78 years,Persons,319360.0
+2025,Total,79 years,Persons,265210.0
+2025,Total,80 to 84 years,Persons,1008315.0
+2025,Total,80 years,Persons,238421.0
+2025,Total,81 years,Persons,221509.0
+2025,Total,82 years,Persons,203069.0
+2025,Total,83 years,Persons,180398.0
+2025,Total,84 years,Persons,164918.0
+2025,Total,85 to 89 years,Persons,580926.0
+2025,Total,85 years,Persons,146309.0
+2025,Total,86 years,Persons,130406.0
+2025,Total,87 years,Persons,115435.0
+2025,Total,88 years,Persons,99993.0
+2025,Total,89 years,Persons,88783.0
+2025,Total,90 to 94 years,Persons,275922.0
+2025,Total,90 years,Persons,75317.0
+2025,Total,91 years,Persons,63464.0
+2025,Total,92 years,Persons,54642.0
+2025,Total,93 years,Persons,45528.0
+2025,Total,94 years,Persons,36971.0
+2025,Total,95 to 99 years,Persons,84245.0
+2025,Total,95 years,Persons,28207.0
+2025,Total,96 years,Persons,21407.0
+2025,Total,97 years,Persons,15724.0
+2025,Total,98 years,Persons,11648.0
+2025,Total,99 years,Persons,7259.0
+2025,Total,100 years and older,Persons,11994.0
+2025,Total,0 to 14 years,Persons,6256755.0
+2025,Total,0 to 15 years,Persons,6713030.0
+2025,Total,0 to 16 years,Persons,7174830.0
+2025,Total,0 to 17 years,Persons,7636727.0
+2025,Total,15 to 49 years,Persons,19645319.0
+2025,Total,15 to 64 years,Persons,27243783.0
+2025,Total,16 to 64 years,Persons,26787508.0
+2025,Total,17 to 64 years,Persons,26325708.0
+2025,Total,18 years and older,Persons,33972255.0
+2025,Total,18 to 64 years,Persons,25863811.0
+2025,Total,18 to 24 years,Persons,3620606.0
+2025,Total,25 to 44 years,Persons,12054081.0
+2025,Total,45 to 64 years,Persons,10189124.0
+2025,Total,65 years and older,Persons,8108444.0
+2025,Total,90 years and older,Persons,372161.0
 2025,Total,Median age,Years,40.6
 2025,Total,Average age,Years,41.8
-2025,Women,All ages,Persons,20841344.0
-2025,Women,0 to 4 years,Persons,912005.0
-2025,Women,0 years,Persons,179357.0
-2025,Women,1 year,Persons,177812.0
-2025,Women,2 years,Persons,177252.0
-2025,Women,3 years,Persons,187894.0
-2025,Women,4 years,Persons,189690.0
-2025,Women,5 to 9 years,Persons,1042602.0
-2025,Women,5 years,Persons,197869.0
-2025,Women,6 years,Persons,204040.0
-2025,Women,7 years,Persons,208710.0
-2025,Women,8 years,Persons,213911.0
-2025,Women,9 years,Persons,218072.0
-2025,Women,10 to 14 years,Persons,1095227.0
-2025,Women,10 years,Persons,219259.0
-2025,Women,11 years,Persons,218992.0
-2025,Women,12 years,Persons,219616.0
-2025,Women,13 years,Persons,219101.0
-2025,Women,14 years,Persons,218259.0
-2025,Women,15 to 19 years,Persons,1123657.0
-2025,Women,15 years,Persons,221986.0
-2025,Women,16 years,Persons,224276.0
-2025,Women,17 years,Persons,224453.0
-2025,Women,18 years,Persons,222241.0
-2025,Women,19 years,Persons,230701.0
-2025,Women,20 to 24 years,Persons,1284514.0
-2025,Women,20 years,Persons,246536.0
-2025,Women,21 years,Persons,258481.0
-2025,Women,22 years,Persons,258444.0
-2025,Women,23 years,Persons,258579.0
-2025,Women,24 years,Persons,262474.0
-2025,Women,25 to 29 years,Persons,1439064.0
-2025,Women,25 years,Persons,274303.0
-2025,Women,26 years,Persons,277944.0
-2025,Women,27 years,Persons,288934.0
-2025,Women,28 years,Persons,294864.0
-2025,Women,29 years,Persons,303019.0
-2025,Women,30 to 34 years,Persons,1541592.0
-2025,Women,30 years,Persons,305140.0
-2025,Women,31 years,Persons,305390.0
-2025,Women,32 years,Persons,307411.0
-2025,Women,33 years,Persons,310194.0
-2025,Women,34 years,Persons,313457.0
-2025,Women,35 to 39 years,Persons,1487279.0
-2025,Women,35 years,Persons,312485.0
-2025,Women,36 years,Persons,301027.0
-2025,Women,37 years,Persons,292383.0
-2025,Women,38 years,Persons,290398.0
-2025,Women,39 years,Persons,290986.0
-2025,Women,40 to 44 years,Persons,1414918.0
-2025,Women,40 years,Persons,290194.0
-2025,Women,41 years,Persons,285761.0
-2025,Women,42 years,Persons,283104.0
-2025,Women,43 years,Persons,279377.0
-2025,Women,44 years,Persons,276482.0
-2025,Women,45 to 49 years,Persons,1296161.0
-2025,Women,45 years,Persons,270955.0
-2025,Women,46 years,Persons,263438.0
-2025,Women,47 years,Persons,256288.0
-2025,Women,48 years,Persons,254054.0
-2025,Women,49 years,Persons,251426.0
-2025,Women,50 to 54 years,Persons,1235546.0
-2025,Women,50 years,Persons,249980.0
-2025,Women,51 years,Persons,244359.0
-2025,Women,52 years,Persons,242503.0
-2025,Women,53 years,Persons,245002.0
-2025,Women,54 years,Persons,253702.0
-2025,Women,55 to 59 years,Persons,1243232.0
-2025,Women,55 years,Persons,251108.0
-2025,Women,56 years,Persons,247558.0
-2025,Women,57 years,Persons,244273.0
-2025,Women,58 years,Persons,244814.0
-2025,Women,59 years,Persons,255479.0
-2025,Women,60 to 64 years,Persons,1373509.0
-2025,Women,60 years,Persons,271584.0
-2025,Women,61 years,Persons,277157.0
-2025,Women,62 years,Persons,278480.0
-2025,Women,63 years,Persons,272222.0
-2025,Women,64 years,Persons,274066.0
-2025,Women,65 to 69 years,Persons,1282485.0
-2025,Women,65 years,Persons,269531.0
-2025,Women,66 years,Persons,262038.0
-2025,Women,67 years,Persons,257945.0
-2025,Women,68 years,Persons,250953.0
-2025,Women,69 years,Persons,242018.0
-2025,Women,70 to 74 years,Persons,1070648.0
-2025,Women,70 years,Persons,237093.0
-2025,Women,71 years,Persons,225678.0
-2025,Women,72 years,Persons,212642.0
-2025,Women,73 years,Persons,201348.0
-2025,Women,74 years,Persons,193887.0
-2025,Women,75 to 79 years,Persons,855590.0
-2025,Women,75 years,Persons,187210.0
-2025,Women,76 years,Persons,180282.0
-2025,Women,77 years,Persons,175394.0
-2025,Women,78 years,Persons,170506.0
-2025,Women,79 years,Persons,142198.0
-2025,Women,80 to 84 years,Persons,552320.0
-2025,Women,80 years,Persons,128132.0
-2025,Women,81 years,Persons,120409.0
-2025,Women,82 years,Persons,110814.0
-2025,Women,83 years,Persons,100004.0
-2025,Women,84 years,Persons,92961.0
-2025,Women,85 to 89 years,Persons,340918.0
-2025,Women,85 years,Persons,83565.0
-2025,Women,86 years,Persons,75727.0
-2025,Women,87 years,Persons,68191.0
-2025,Women,88 years,Persons,59739.0
-2025,Women,89 years,Persons,53696.0
-2025,Women,90 to 94 years,Persons,178472.0
-2025,Women,90 years,Persons,46798.0
-2025,Women,91 years,Persons,40204.0
-2025,Women,92 years,Persons,35768.0
-2025,Women,93 years,Persons,30309.0
-2025,Women,94 years,Persons,25393.0
-2025,Women,95 to 99 years,Persons,61529.0
-2025,Women,95 years,Persons,20109.0
-2025,Women,96 years,Persons,15688.0
-2025,Women,97 years,Persons,11675.0
-2025,Women,98 years,Persons,8514.0
-2025,Women,99 years,Persons,5543.0
-2025,Women,100 years and older,Persons,10076.0
-2025,Women,0 to 14 years,Persons,3049834.0
-2025,Women,0 to 15 years,Persons,3271820.0
-2025,Women,0 to 16 years,Persons,3496096.0
-2025,Women,0 to 17 years,Persons,3720549.0
-2025,Women,15 to 49 years,Persons,9587185.0
-2025,Women,15 to 64 years,Persons,13439472.0
-2025,Women,16 to 64 years,Persons,13217486.0
-2025,Women,17 to 64 years,Persons,12993210.0
-2025,Women,18 years and older,Persons,17120795.0
-2025,Women,18 to 64 years,Persons,12768757.0
-2025,Women,18 to 24 years,Persons,1737456.0
-2025,Women,25 to 44 years,Persons,5882853.0
-2025,Women,45 to 64 years,Persons,5148448.0
-2025,Women,65 years and older,Persons,4352038.0
-2025,Women,90 years and older,Persons,250077.0
+2025,Women,All ages,Persons,20819577.0
+2025,Women,0 to 4 years,Persons,911203.0
+2025,Women,0 years,Persons,179371.0
+2025,Women,1 year,Persons,178044.0
+2025,Women,2 years,Persons,176984.0
+2025,Women,3 years,Persons,187443.0
+2025,Women,4 years,Persons,189361.0
+2025,Women,5 to 9 years,Persons,1041430.0
+2025,Women,5 years,Persons,197484.0
+2025,Women,6 years,Persons,203722.0
+2025,Women,7 years,Persons,208482.0
+2025,Women,8 years,Persons,213764.0
+2025,Women,9 years,Persons,217978.0
+2025,Women,10 to 14 years,Persons,1094771.0
+2025,Women,10 years,Persons,219170.0
+2025,Women,11 years,Persons,218907.0
+2025,Women,12 years,Persons,219486.0
+2025,Women,13 years,Persons,219038.0
+2025,Women,14 years,Persons,218170.0
+2025,Women,15 to 19 years,Persons,1120948.0
+2025,Women,15 years,Persons,221928.0
+2025,Women,16 years,Persons,224057.0
+2025,Women,17 years,Persons,224137.0
+2025,Women,18 years,Persons,221688.0
+2025,Women,19 years,Persons,229138.0
+2025,Women,20 to 24 years,Persons,1277284.0
+2025,Women,20 years,Persons,244498.0
+2025,Women,21 years,Persons,257060.0
+2025,Women,22 years,Persons,256807.0
+2025,Women,23 years,Persons,257140.0
+2025,Women,24 years,Persons,261779.0
+2025,Women,25 to 29 years,Persons,1438716.0
+2025,Women,25 years,Persons,273957.0
+2025,Women,26 years,Persons,277636.0
+2025,Women,27 years,Persons,288962.0
+2025,Women,28 years,Persons,294966.0
+2025,Women,29 years,Persons,303195.0
+2025,Women,30 to 34 years,Persons,1540840.0
+2025,Women,30 years,Persons,305246.0
+2025,Women,31 years,Persons,305310.0
+2025,Women,32 years,Persons,307255.0
+2025,Women,33 years,Persons,309922.0
+2025,Women,34 years,Persons,313107.0
+2025,Women,35 to 39 years,Persons,1485012.0
+2025,Women,35 years,Persons,312070.0
+2025,Women,36 years,Persons,300590.0
+2025,Women,37 years,Persons,291947.0
+2025,Women,38 years,Persons,289928.0
+2025,Women,39 years,Persons,290477.0
+2025,Women,40 to 44 years,Persons,1413242.0
+2025,Women,40 years,Persons,289754.0
+2025,Women,41 years,Persons,285444.0
+2025,Women,42 years,Persons,282770.0
+2025,Women,43 years,Persons,279070.0
+2025,Women,44 years,Persons,276204.0
+2025,Women,45 to 49 years,Persons,1294942.0
+2025,Women,45 years,Persons,270714.0
+2025,Women,46 years,Persons,263222.0
+2025,Women,47 years,Persons,256097.0
+2025,Women,48 years,Persons,253765.0
+2025,Women,49 years,Persons,251144.0
+2025,Women,50 to 54 years,Persons,1234641.0
+2025,Women,50 years,Persons,249775.0
+2025,Women,51 years,Persons,244226.0
+2025,Women,52 years,Persons,242317.0
+2025,Women,53 years,Persons,244827.0
+2025,Women,54 years,Persons,253496.0
+2025,Women,55 to 59 years,Persons,1242647.0
+2025,Women,55 years,Persons,250945.0
+2025,Women,56 years,Persons,247494.0
+2025,Women,57 years,Persons,244155.0
+2025,Women,58 years,Persons,244689.0
+2025,Women,59 years,Persons,255364.0
+2025,Women,60 to 64 years,Persons,1372861.0
+2025,Women,60 years,Persons,271498.0
+2025,Women,61 years,Persons,277107.0
+2025,Women,62 years,Persons,278345.0
+2025,Women,63 years,Persons,272068.0
+2025,Women,64 years,Persons,273843.0
+2025,Women,65 to 69 years,Persons,1281583.0
+2025,Women,65 years,Persons,269318.0
+2025,Women,66 years,Persons,261850.0
+2025,Women,67 years,Persons,257758.0
+2025,Women,68 years,Persons,250756.0
+2025,Women,69 years,Persons,241901.0
+2025,Women,70 to 74 years,Persons,1070533.0
+2025,Women,70 years,Persons,237013.0
+2025,Women,71 years,Persons,225654.0
+2025,Women,72 years,Persons,212701.0
+2025,Women,73 years,Persons,201346.0
+2025,Women,74 years,Persons,193819.0
+2025,Women,75 to 79 years,Persons,855488.0
+2025,Women,75 years,Persons,187164.0
+2025,Women,76 years,Persons,180362.0
+2025,Women,77 years,Persons,175364.0
+2025,Women,78 years,Persons,170353.0
+2025,Women,79 years,Persons,142245.0
+2025,Women,80 to 84 years,Persons,552257.0
+2025,Women,80 years,Persons,128164.0
+2025,Women,81 years,Persons,120190.0
+2025,Women,82 years,Persons,110695.0
+2025,Women,83 years,Persons,100093.0
+2025,Women,84 years,Persons,93115.0
+2025,Women,85 to 89 years,Persons,341198.0
+2025,Women,85 years,Persons,83672.0
+2025,Women,86 years,Persons,75735.0
+2025,Women,87 years,Persons,68100.0
+2025,Women,88 years,Persons,59867.0
+2025,Women,89 years,Persons,53824.0
+2025,Women,90 to 94 years,Persons,178495.0
+2025,Women,90 years,Persons,46843.0
+2025,Women,91 years,Persons,40258.0
+2025,Women,92 years,Persons,35793.0
+2025,Women,93 years,Persons,30219.0
+2025,Women,94 years,Persons,25382.0
+2025,Women,95 to 99 years,Persons,61629.0
+2025,Women,95 years,Persons,20067.0
+2025,Women,96 years,Persons,15628.0
+2025,Women,97 years,Persons,11740.0
+2025,Women,98 years,Persons,8636.0
+2025,Women,99 years,Persons,5558.0
+2025,Women,100 years and older,Persons,9857.0
+2025,Women,0 to 14 years,Persons,3047404.0
+2025,Women,0 to 15 years,Persons,3269332.0
+2025,Women,0 to 16 years,Persons,3493389.0
+2025,Women,0 to 17 years,Persons,3717526.0
+2025,Women,15 to 49 years,Persons,9570984.0
+2025,Women,15 to 64 years,Persons,13421133.0
+2025,Women,16 to 64 years,Persons,13199205.0
+2025,Women,17 to 64 years,Persons,12975148.0
+2025,Women,18 years and older,Persons,17102051.0
+2025,Women,18 to 64 years,Persons,12751011.0
+2025,Women,18 to 24 years,Persons,1728110.0
+2025,Women,25 to 44 years,Persons,5877810.0
+2025,Women,45 to 64 years,Persons,5145091.0
+2025,Women,65 years and older,Persons,4351040.0
+2025,Women,90 years and older,Persons,249981.0
 2025,Women,Median age,Years,41.7
 2025,Women,Average age,Years,42.7
+2026,Men,All ages,Persons,20860521.0
+2026,Men,0 to 4 years,Persons,961319.0
+2026,Men,0 years,Persons,191653.0
+2026,Men,1 year,Persons,190191.0
+2026,Men,2 years,Persons,189064.0
+2026,Men,3 years,Persons,189329.0
+2026,Men,4 years,Persons,201082.0
+2026,Men,5 to 9 years,Persons,1080636.0
+2026,Men,5 years,Persons,203423.0
+2026,Men,6 years,Persons,210241.0
+2026,Men,7 years,Persons,216469.0
+2026,Men,8 years,Persons,222204.0
+2026,Men,9 years,Persons,228299.0
+2026,Men,10 to 14 years,Persons,1165490.0
+2026,Men,10 years,Persons,231392.0
+2026,Men,11 years,Persons,232881.0
+2026,Men,12 years,Persons,232365.0
+2026,Men,13 years,Persons,234925.0
+2026,Men,14 years,Persons,233927.0
+2026,Men,15 to 19 years,Persons,1196367.0
+2026,Men,15 years,Persons,233426.0
+2026,Men,16 years,Persons,237980.0
+2026,Men,17 years,Persons,240992.0
+2026,Men,18 years,Persons,241434.0
+2026,Men,19 years,Persons,242535.0
+2026,Men,20 to 24 years,Persons,1369095.0
+2026,Men,20 years,Persons,251264.0
+2026,Men,21 years,Persons,270197.0
+2026,Men,22 years,Persons,284227.0
+2026,Men,23 years,Persons,281851.0
+2026,Men,24 years,Persons,281556.0
+2026,Men,25 to 29 years,Persons,1503988.0
+2026,Men,25 years,Persons,285202.0
+2026,Men,26 years,Persons,297612.0
+2026,Men,27 years,Persons,297163.0
+2026,Men,28 years,Persons,308101.0
+2026,Men,29 years,Persons,315910.0
+2026,Men,30 to 34 years,Persons,1626152.0
+2026,Men,30 years,Persons,323807.0
+2026,Men,31 years,Persons,327320.0
+2026,Men,32 years,Persons,323851.0
+2026,Men,33 years,Persons,325995.0
+2026,Men,34 years,Persons,325179.0
+2026,Men,35 to 39 years,Persons,1572551.0
+2026,Men,35 years,Persons,330212.0
+2026,Men,36 years,Persons,327608.0
+2026,Men,37 years,Persons,313589.0
+2026,Men,38 years,Persons,302250.0
+2026,Men,39 years,Persons,298892.0
+2026,Men,40 to 44 years,Persons,1461036.0
+2026,Men,40 years,Persons,300316.0
+2026,Men,41 years,Persons,297943.0
+2026,Men,42 years,Persons,292364.0
+2026,Men,43 years,Persons,288002.0
+2026,Men,44 years,Persons,282411.0
+2026,Men,45 to 49 years,Persons,1324521.0
+2026,Men,45 years,Persons,280090.0
+2026,Men,46 years,Persons,273487.0
+2026,Men,47 years,Persons,263607.0
+2026,Men,48 years,Persons,255982.0
+2026,Men,49 years,Persons,251355.0
+2026,Men,50 to 54 years,Persons,1209085.0
+2026,Men,50 years,Persons,248209.0
+2026,Men,51 years,Persons,246991.0
+2026,Men,52 years,Persons,238589.0
+2026,Men,53 years,Persons,236515.0
+2026,Men,54 years,Persons,238781.0
+2026,Men,55 to 59 years,Persons,1195142.0
+2026,Men,55 years,Persons,245835.0
+2026,Men,56 years,Persons,242565.0
+2026,Men,57 years,Persons,237745.0
+2026,Men,58 years,Persons,234318.0
+2026,Men,59 years,Persons,234679.0
+2026,Men,60 to 64 years,Persons,1308965.0
+2026,Men,60 years,Persons,246882.0
+2026,Men,61 years,Persons,262309.0
+2026,Men,62 years,Persons,268300.0
+2026,Men,63 years,Persons,270087.0
+2026,Men,64 years,Persons,261387.0
+2026,Men,65 to 69 years,Persons,1235603.0
+2026,Men,65 years,Persons,261324.0
+2026,Men,66 years,Persons,254955.0
+2026,Men,67 years,Persons,245988.0
+2026,Men,68 years,Persons,241209.0
+2026,Men,69 years,Persons,232127.0
+2026,Men,70 to 74 years,Persons,1006442.0
+2026,Men,70 years,Persons,221979.0
+2026,Men,71 years,Persons,214771.0
+2026,Men,72 years,Persons,201668.0
+2026,Men,73 years,Persons,189494.0
+2026,Men,74 years,Persons,178530.0
+2026,Men,75 to 79 years,Persons,782479.0
+2026,Men,75 years,Persons,170644.0
+2026,Men,76 years,Persons,162898.0
+2026,Men,77 years,Persons,154872.0
+2026,Men,78 years,Persons,150512.0
+2026,Men,79 years,Persons,143553.0
+2026,Men,80 to 84 years,Persons,481575.0
+2026,Men,80 years,Persons,117940.0
+2026,Men,81 years,Persons,105225.0
+2026,Men,82 years,Persons,96169.0
+2026,Men,83 years,Persons,87121.0
+2026,Men,84 years,Persons,75120.0
+2026,Men,85 to 89 years,Persons,251822.0
+2026,Men,85 years,Persons,66696.0
+2026,Men,86 years,Persons,57557.0
+2026,Men,87 years,Persons,49635.0
+2026,Men,88 years,Persons,42445.0
+2026,Men,89 years,Persons,35489.0
+2026,Men,90 to 94 years,Persons,101461.0
+2026,Men,90 years,Persons,30386.0
+2026,Men,91 years,Persons,24196.0
+2026,Men,92 years,Persons,19372.0
+2026,Men,93 years,Persons,15323.0
+2026,Men,94 years,Persons,12184.0
+2026,Men,95 to 99 years,Persons,24392.0
+2026,Men,95 years,Persons,8998.0
+2026,Men,96 years,Persons,6168.0
+2026,Men,97 years,Persons,4252.0
+2026,Men,98 years,Persons,2879.0
+2026,Men,99 years,Persons,2095.0
+2026,Men,100 years and older,Persons,2400.0
+2026,Men,0 to 14 years,Persons,3207445.0
+2026,Men,0 to 15 years,Persons,3440871.0
+2026,Men,0 to 16 years,Persons,3678851.0
+2026,Men,0 to 17 years,Persons,3919843.0
+2026,Men,15 to 49 years,Persons,10053710.0
+2026,Men,15 to 64 years,Persons,13766902.0
+2026,Men,16 to 64 years,Persons,13533476.0
+2026,Men,17 to 64 years,Persons,13295496.0
+2026,Men,18 years and older,Persons,16940678.0
+2026,Men,18 to 64 years,Persons,13054504.0
+2026,Men,18 to 24 years,Persons,1853064.0
+2026,Men,25 to 44 years,Persons,6163727.0
+2026,Men,45 to 64 years,Persons,5037713.0
+2026,Men,65 years and older,Persons,3886174.0
+2026,Men,90 years and older,Persons,128253.0
+2026,Men,Median age,Years,39.8
+2026,Men,Average age,Years,41.2
+2026,Total,All ages,Persons,41798407.0
+2026,Total,0 to 4 years,Persons,1874505.0
+2026,Total,0 years,Persons,373483.0
+2026,Total,1 year,Persons,370857.0
+2026,Total,2 years,Persons,369474.0
+2026,Total,3 years,Persons,369307.0
+2026,Total,4 years,Persons,391384.0
+2026,Total,5 to 9 years,Persons,2109029.0
+2026,Total,5 years,Persons,396645.0
+2026,Total,6 years,Persons,410968.0
+2026,Total,7 years,Persons,423418.0
+2026,Total,8 years,Persons,433516.0
+2026,Total,9 years,Persons,444482.0
+2026,Total,10 to 14 years,Persons,2270743.0
+2026,Total,10 years,Persons,451609.0
+2026,Total,11 years,Persons,454214.0
+2026,Total,12 years,Persons,453410.0
+2026,Total,13 years,Persons,456183.0
+2026,Total,14 years,Persons,455327.0
+2026,Total,15 to 19 years,Persons,2324953.0
+2026,Total,15 years,Persons,454439.0
+2026,Total,16 years,Persons,463336.0
+2026,Total,17 years,Persons,467798.0
+2026,Total,18 years,Persons,469018.0
+2026,Total,19 years,Persons,470362.0
+2026,Total,20 to 24 years,Persons,2622889.0
+2026,Total,20 years,Persons,484753.0
+2026,Total,21 years,Persons,517151.0
+2026,Total,22 years,Persons,542696.0
+2026,Total,23 years,Persons,539593.0
+2026,Total,24 years,Persons,538696.0
+2026,Total,25 to 29 years,Persons,2904687.0
+2026,Total,25 years,Persons,547103.0
+2026,Total,26 years,Persons,572390.0
+2026,Total,27 years,Persons,574943.0
+2026,Total,28 years,Persons,597906.0
+2026,Total,29 years,Persons,612345.0
+2026,Total,30 to 34 years,Persons,3164353.0
+2026,Total,30 years,Persons,628832.0
+2026,Total,31 years,Persons,634170.0
+2026,Total,32 years,Persons,630404.0
+2026,Total,33 years,Persons,634814.0
+2026,Total,34 years,Persons,636133.0
+2026,Total,35 to 39 years,Persons,3083926.0
+2026,Total,35 years,Persons,644057.0
+2026,Total,36 years,Persons,641017.0
+2026,Total,37 years,Persons,614765.0
+2026,Total,38 years,Persons,594582.0
+2026,Total,39 years,Persons,589505.0
+2026,Total,40 to 44 years,Persons,2890701.0
+2026,Total,40 years,Persons,591303.0
+2026,Total,41 years,Persons,587933.0
+2026,Total,42 years,Persons,578275.0
+2026,Total,43 years,Persons,571253.0
+2026,Total,44 years,Persons,561937.0
+2026,Total,45 to 49 years,Persons,2644023.0
+2026,Total,45 years,Persons,556339.0
+2026,Total,46 years,Persons,544474.0
+2026,Total,47 years,Persons,526651.0
+2026,Total,48 years,Persons,511946.0
+2026,Total,49 years,Persons,504613.0
+2026,Total,50 to 54 years,Persons,2438924.0
+2026,Total,50 years,Persons,498954.0
+2026,Total,51 years,Persons,496292.0
+2026,Total,52 years,Persons,482466.0
+2026,Total,53 years,Persons,478116.0
+2026,Total,54 years,Persons,483096.0
+2026,Total,55 to 59 years,Persons,2432699.0
+2026,Total,55 years,Persons,498666.0
+2026,Total,56 years,Persons,492845.0
+2026,Total,57 years,Persons,484579.0
+2026,Total,58 years,Persons,477872.0
+2026,Total,59 years,Persons,478737.0
+2026,Total,60 to 64 years,Persons,2658594.0
+2026,Total,60 years,Persons,501491.0
+2026,Total,61 years,Persons,532978.0
+2026,Total,62 years,Persons,544438.0
+2026,Total,63 years,Persons,547462.0
+2026,Total,64 years,Persons,532225.0
+2026,Total,65 to 69 years,Persons,2541131.0
+2026,Total,65 years,Persons,533742.0
+2026,Total,66 years,Persons,522839.0
+2026,Total,67 years,Persons,506188.0
+2026,Total,68 years,Persons,497288.0
+2026,Total,69 years,Persons,481074.0
+2026,Total,70 to 74 years,Persons,2113414.0
+2026,Total,70 years,Persons,462003.0
+2026,Total,71 years,Persons,449576.0
+2026,Total,72 years,Persons,425014.0
+2026,Total,73 years,Persons,399717.0
+2026,Total,74 years,Persons,377104.0
+2026,Total,75 to 79 years,Persons,1671734.0
+2026,Total,75 years,Persons,361626.0
+2026,Total,76 years,Persons,346870.0
+2026,Total,77 years,Persons,331654.0
+2026,Total,78 years,Persons,321983.0
+2026,Total,79 years,Persons,309601.0
+2026,Total,80 to 84 years,Persons,1060930.0
+2026,Total,80 years,Persons,256056.0
+2026,Total,81 years,Persons,229100.0
+2026,Total,82 years,Persons,211998.0
+2026,Total,83 years,Persons,193211.0
+2026,Total,84 years,Persons,170565.0
+2026,Total,85 to 89 years,Persons,606910.0
+2026,Total,85 years,Persons,154960.0
+2026,Total,86 years,Persons,136264.0
+2026,Total,87 years,Persons,120228.0
+2026,Total,88 years,Persons,105317.0
+2026,Total,89 years,Persons,90141.0
+2026,Total,90 to 94 years,Persons,282739.0
+2026,Total,90 years,Persons,78790.0
+2026,Total,91 years,Persons,65734.0
+2026,Total,92 years,Persons,54617.0
+2026,Total,93 years,Persons,46052.0
+2026,Total,94 years,Persons,37546.0
+2026,Total,95 to 99 years,Persons,89018.0
+2026,Total,95 years,Persons,30029.0
+2026,Total,96 years,Persons,22286.0
+2026,Total,97 years,Persons,16566.0
+2026,Total,98 years,Persons,11678.0
+2026,Total,99 years,Persons,8459.0
+2026,Total,100 years and older,Persons,12505.0
+2026,Total,0 to 14 years,Persons,6254277.0
+2026,Total,0 to 15 years,Persons,6708716.0
+2026,Total,0 to 16 years,Persons,7172052.0
+2026,Total,0 to 17 years,Persons,7639850.0
+2026,Total,15 to 49 years,Persons,19635532.0
+2026,Total,15 to 64 years,Persons,27165749.0
+2026,Total,16 to 64 years,Persons,26711310.0
+2026,Total,17 to 64 years,Persons,26247974.0
+2026,Total,18 years and older,Persons,34158557.0
+2026,Total,18 to 64 years,Persons,25780176.0
+2026,Total,18 to 24 years,Persons,3562269.0
+2026,Total,25 to 44 years,Persons,12043667.0
+2026,Total,45 to 64 years,Persons,10174240.0
+2026,Total,65 years and older,Persons,8378381.0
+2026,Total,90 years and older,Persons,384262.0
+2026,Total,Median age,Years,40.9
+2026,Total,Average age,Years,42.1
+2026,Women,All ages,Persons,20937886.0
+2026,Women,0 to 4 years,Persons,913186.0
+2026,Women,0 years,Persons,181830.0
+2026,Women,1 year,Persons,180666.0
+2026,Women,2 years,Persons,180410.0
+2026,Women,3 years,Persons,179978.0
+2026,Women,4 years,Persons,190302.0
+2026,Women,5 to 9 years,Persons,1028393.0
+2026,Women,5 years,Persons,193222.0
+2026,Women,6 years,Persons,200727.0
+2026,Women,7 years,Persons,206949.0
+2026,Women,8 years,Persons,211312.0
+2026,Women,9 years,Persons,216183.0
+2026,Women,10 to 14 years,Persons,1105253.0
+2026,Women,10 years,Persons,220217.0
+2026,Women,11 years,Persons,221333.0
+2026,Women,12 years,Persons,221045.0
+2026,Women,13 years,Persons,221258.0
+2026,Women,14 years,Persons,221400.0
+2026,Women,15 to 19 years,Persons,1128586.0
+2026,Women,15 years,Persons,221013.0
+2026,Women,16 years,Persons,225356.0
+2026,Women,17 years,Persons,226806.0
+2026,Women,18 years,Persons,227584.0
+2026,Women,19 years,Persons,227827.0
+2026,Women,20 to 24 years,Persons,1253794.0
+2026,Women,20 years,Persons,233489.0
+2026,Women,21 years,Persons,246954.0
+2026,Women,22 years,Persons,258469.0
+2026,Women,23 years,Persons,257742.0
+2026,Women,24 years,Persons,257140.0
+2026,Women,25 to 29 years,Persons,1400699.0
+2026,Women,25 years,Persons,261901.0
+2026,Women,26 years,Persons,274778.0
+2026,Women,27 years,Persons,277780.0
+2026,Women,28 years,Persons,289805.0
+2026,Women,29 years,Persons,296435.0
+2026,Women,30 to 34 years,Persons,1538201.0
+2026,Women,30 years,Persons,305025.0
+2026,Women,31 years,Persons,306850.0
+2026,Women,32 years,Persons,306553.0
+2026,Women,33 years,Persons,308819.0
+2026,Women,34 years,Persons,310954.0
+2026,Women,35 to 39 years,Persons,1511375.0
+2026,Women,35 years,Persons,313845.0
+2026,Women,36 years,Persons,313409.0
+2026,Women,37 years,Persons,301176.0
+2026,Women,38 years,Persons,292332.0
+2026,Women,39 years,Persons,290613.0
+2026,Women,40 to 44 years,Persons,1429665.0
+2026,Women,40 years,Persons,290987.0
+2026,Women,41 years,Persons,289990.0
+2026,Women,42 years,Persons,285911.0
+2026,Women,43 years,Persons,283251.0
+2026,Women,44 years,Persons,279526.0
+2026,Women,45 to 49 years,Persons,1319502.0
+2026,Women,45 years,Persons,276249.0
+2026,Women,46 years,Persons,270987.0
+2026,Women,47 years,Persons,263044.0
+2026,Women,48 years,Persons,255964.0
+2026,Women,49 years,Persons,253258.0
+2026,Women,50 to 54 years,Persons,1229839.0
+2026,Women,50 years,Persons,250745.0
+2026,Women,51 years,Persons,249301.0
+2026,Women,52 years,Persons,243877.0
+2026,Women,53 years,Persons,241601.0
+2026,Women,54 years,Persons,244315.0
+2026,Women,55 to 59 years,Persons,1237557.0
+2026,Women,55 years,Persons,252831.0
+2026,Women,56 years,Persons,250280.0
+2026,Women,57 years,Persons,246834.0
+2026,Women,58 years,Persons,243554.0
+2026,Women,59 years,Persons,244058.0
+2026,Women,60 to 64 years,Persons,1349629.0
+2026,Women,60 years,Persons,254609.0
+2026,Women,61 years,Persons,270669.0
+2026,Women,62 years,Persons,276138.0
+2026,Women,63 years,Persons,277375.0
+2026,Women,64 years,Persons,270838.0
+2026,Women,65 to 69 years,Persons,1305528.0
+2026,Women,65 years,Persons,272418.0
+2026,Women,66 years,Persons,267884.0
+2026,Women,67 years,Persons,260200.0
+2026,Women,68 years,Persons,256079.0
+2026,Women,69 years,Persons,248947.0
+2026,Women,70 to 74 years,Persons,1106972.0
+2026,Women,70 years,Persons,240024.0
+2026,Women,71 years,Persons,234805.0
+2026,Women,72 years,Persons,223346.0
+2026,Women,73 years,Persons,210223.0
+2026,Women,74 years,Persons,198574.0
+2026,Women,75 to 79 years,Persons,889255.0
+2026,Women,75 years,Persons,190982.0
+2026,Women,76 years,Persons,183972.0
+2026,Women,77 years,Persons,176782.0
+2026,Women,78 years,Persons,171471.0
+2026,Women,79 years,Persons,166048.0
+2026,Women,80 to 84 years,Persons,579355.0
+2026,Women,80 years,Persons,138116.0
+2026,Women,81 years,Persons,123875.0
+2026,Women,82 years,Persons,115829.0
+2026,Women,83 years,Persons,106090.0
+2026,Women,84 years,Persons,95445.0
+2026,Women,85 to 89 years,Persons,355088.0
+2026,Women,85 years,Persons,88264.0
+2026,Women,86 years,Persons,78707.0
+2026,Women,87 years,Persons,70593.0
+2026,Women,88 years,Persons,62872.0
+2026,Women,89 years,Persons,54652.0
+2026,Women,90 to 94 years,Persons,181278.0
+2026,Women,90 years,Persons,48404.0
+2026,Women,91 years,Persons,41538.0
+2026,Women,92 years,Persons,35245.0
+2026,Women,93 years,Persons,30729.0
+2026,Women,94 years,Persons,25362.0
+2026,Women,95 to 99 years,Persons,64626.0
+2026,Women,95 years,Persons,21031.0
+2026,Women,96 years,Persons,16118.0
+2026,Women,97 years,Persons,12314.0
+2026,Women,98 years,Persons,8799.0
+2026,Women,99 years,Persons,6364.0
+2026,Women,100 years and older,Persons,10105.0
+2026,Women,0 to 14 years,Persons,3046832.0
+2026,Women,0 to 15 years,Persons,3267845.0
+2026,Women,0 to 16 years,Persons,3493201.0
+2026,Women,0 to 17 years,Persons,3720007.0
+2026,Women,15 to 49 years,Persons,9581822.0
+2026,Women,15 to 64 years,Persons,13398847.0
+2026,Women,16 to 64 years,Persons,13177834.0
+2026,Women,17 to 64 years,Persons,12952478.0
+2026,Women,18 years and older,Persons,17217879.0
+2026,Women,18 to 64 years,Persons,12725672.0
+2026,Women,18 to 24 years,Persons,1709205.0
+2026,Women,25 to 44 years,Persons,5879940.0
+2026,Women,45 to 64 years,Persons,5136527.0
+2026,Women,65 years and older,Persons,4492207.0
+2026,Women,90 years and older,Persons,256009.0
+2026,Women,Median age,Years,42.0
+2026,Women,Average age,Years,43.0

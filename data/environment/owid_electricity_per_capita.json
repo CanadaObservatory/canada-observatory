@@ -4,7 +4,7 @@
   "source_table": "owid-energy-data (per_capita_electricity)",
   "frequency": "annual",
   "unit": "kWh per person",
-  "retrieved_at": "2026-09-22T18:04:49.944132+00:00",
+  "retrieved_at": "2026-09-23T18:28:51.305161+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

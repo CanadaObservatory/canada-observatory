@@ -62,7 +62,8 @@ year,geography,net_migration
 2022,Alberta,5646
 2023,Alberta,39408
 2024,Alberta,48394
-2025,Alberta,28138
+2025,Alberta,26376
+2026,Alberta,21662
 1962,British Columbia,2345
 1963,British Columbia,8791
 1964,British Columbia,15654
@@ -126,7 +127,8 @@ year,geography,net_migration
 2022,British Columbia,26069
 2023,British Columbia,3388
 2024,British Columbia,-4127
-2025,British Columbia,-2392
+2025,British Columbia,2579
+2026,British Columbia,6928
 1962,Manitoba,-599
 1963,Manitoba,-1020
 1964,Manitoba,-3541
@@ -190,7 +192,8 @@ year,geography,net_migration
 2022,Manitoba,-7451
 2023,Manitoba,-9928
 2024,Manitoba,-8399
-2025,Manitoba,-4047
+2025,Manitoba,-3175
+2026,Manitoba,-5291
 1962,New Brunswick,-3635
 1963,New Brunswick,-6056
 1964,New Brunswick,-6216
@@ -254,7 +257,8 @@ year,geography,net_migration
 2022,New Brunswick,7897
 2023,New Brunswick,5051
 2024,New Brunswick,5419
-2025,New Brunswick,-186
+2025,New Brunswick,5121
+2026,New Brunswick,-17
 1962,Newfoundland and Labrador,-544
 1963,Newfoundland and Labrador,-1664
 1964,Newfoundland and Labrador,-3428
@@ -318,7 +322,8 @@ year,geography,net_migration
 2022,Newfoundland and Labrador,1802
 2023,Newfoundland and Labrador,1060
 2024,Newfoundland and Labrador,1091
-2025,Newfoundland and Labrador,65
+2025,Newfoundland and Labrador,1881
+2026,Newfoundland and Labrador,932
 1992,Northwest Territories,-26
 1993,Northwest Territories,-330
 1994,Northwest Territories,-19
@@ -352,7 +357,8 @@ year,geography,net_migration
 2022,Northwest Territories,-439
 2023,Northwest Territories,-584
 2024,Northwest Territories,-221
-2025,Northwest Territories,-10
+2025,Northwest Territories,-76
+2026,Northwest Territories,-801
 1972,Northwest Territories including Nunavut,1075
 1973,Northwest Territories including Nunavut,720
 1974,Northwest Territories including Nunavut,-786
@@ -436,7 +442,8 @@ year,geography,net_migration
 2022,Nova Scotia,11701
 2023,Nova Scotia,6989
 2024,Nova Scotia,8841
-2025,Nova Scotia,3226
+2025,Nova Scotia,7315
+2026,Nova Scotia,3863
 1992,Nunavut,-34
 1993,Nunavut,-92
 1994,Nunavut,-17
@@ -470,7 +477,8 @@ year,geography,net_migration
 2022,Nunavut,-180
 2023,Nunavut,-386
 2024,Nunavut,-163
-2025,Nunavut,-236
+2025,Nunavut,-45
+2026,Nunavut,298
 1962,Ontario,4088
 1963,Ontario,15900
 1964,Ontario,17872
@@ -534,7 +542,8 @@ year,geography,net_migration
 2022,Ontario,-31018
 2023,Ontario,-29730
 2024,Ontario,-42689
-2025,Ontario,-17779
+2025,Ontario,-29713
+2026,Ontario,-18015
 1962,Prince Edward Island,1004
 1963,Prince Edward Island,-680
 1964,Prince Edward Island,-685
@@ -598,7 +607,8 @@ year,geography,net_migration
 2022,Prince Edward Island,1708
 2023,Prince Edward Island,1471
 2024,Prince Edward Island,985
-2025,Prince Edward Island,1043
+2025,Prince Edward Island,242
+2026,Prince Edward Island,-141
 1962,Quebec,2578
 1963,Quebec,-2475
 1964,Quebec,-5826
@@ -662,7 +672,8 @@ year,geography,net_migration
 2022,Quebec,-6529
 2023,Quebec,-10333
 2024,Quebec,-6750
-2025,Quebec,-5095
+2025,Quebec,-8058
+2026,Quebec,-7084
 1962,Saskatchewan,-10083
 1963,Saskatchewan,-11558
 1964,Saskatchewan,-5334
@@ -726,7 +737,8 @@ year,geography,net_migration
 2022,Saskatchewan,-9493
 2023,Saskatchewan,-6656
 2024,Saskatchewan,-3053
-2025,Saskatchewan,-2506
+2025,Saskatchewan,-2844
+2026,Saskatchewan,-2837
 1972,Yukon,686
 1973,Yukon,458
 1974,Yukon,-504
@@ -780,4 +792,5 @@ year,geography,net_migration
 2022,Yukon,287
 2023,Yukon,250
 2024,Yukon,672
-2025,Yukon,-221
+2025,Yukon,397
+2026,Yukon,503
