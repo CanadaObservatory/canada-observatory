@@ -4,12 +4,12 @@
   "source_table": "OECD Productivity Database (DF_PDB)",
   "frequency": "annual",
   "unit": "Hours per person",
-  "retrieved_at": "2026-09-23T18:21:25.997382+00:00",
+  "retrieved_at": "2026-09-24T18:21:04.494706+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
     "filtered to Labour utilization (hours worked per capita) for OECD peer group"
   ],
   "notes": null,
-  "row_count": 430
+  "row_count": 425
 }

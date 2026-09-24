@@ -4,7 +4,7 @@
   "source_table": "12-10-0173-01 (Canadian international merchandise trade by province and country, customs-based, annual), via WDS coordinates",
   "frequency": "annual",
   "unit": "$ millions (current; customs basis; domestic exports by province of origin)",
-  "retrieved_at": "2026-09-23T18:22:52.101919+00:00",
+  "retrieved_at": "2026-09-24T18:22:45.882581+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
