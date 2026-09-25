@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 10-10-0048-01 (fiscal years 1867\u20132008); Finance Canada, Fiscal Reference Tables 2025 (Tables 15 and 2); GDP: Statistics Canada 36-10-0104-01 (1961\u2013) and Historical Statistics of Canada 11-516-X series F13 (1926\u20131960)",
   "frequency": "annual (fiscal years ending March 31; June 30 before 1907)",
   "unit": "$ millions / % of GDP",
-  "retrieved_at": "2026-09-24T18:23:08.697665+00:00",
+  "retrieved_at": "2026-09-25T18:24:30.193676+00:00",
   "latest_observation_date": "2025-03-31",
   "next_release_date": null,
   "transformations": [

@@ -4,8 +4,8 @@
   "source_table": "Statistics Canada 10-10-0015-01 (government finance statistics, quarterly); 36-10-0104-01 (GDP)",
   "frequency": "quarterly",
   "unit": "$ millions / % of GDP",
-  "retrieved_at": "2026-09-24T18:23:06.171533+00:00",
-  "latest_observation_date": "2026-03-31",
+  "retrieved_at": "2026-09-25T18:24:27.020509+00:00",
+  "latest_observation_date": "2026-06-30",
   "next_release_date": null,
   "transformations": [
     "net_debt = \u2212net financial worth (liabilities \u2212 financial assets)",
@@ -14,5 +14,5 @@
     "the table's 'Consolidated government' row is dropped: for stocks it equals the sum of the four sectors kept"
   ],
   "notes": "Stocks as at the end of each quarter; `date` is the quarter's first day (REF_DATE). Government finance statistics basis (GFSM 2014 / national accounts), which differs from a government's own public accounts.",
-  "row_count": 580
+  "row_count": 584
 }
