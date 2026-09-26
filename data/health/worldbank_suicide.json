@@ -4,7 +4,7 @@
   "source_table": "World Bank / WHO Global Health Observatory",
   "frequency": "annual",
   "unit": "per 100,000",
-  "retrieved_at": "2026-09-25T18:27:00.607243+00:00",
+  "retrieved_at": "2026-09-26T17:46:31.677207+00:00",
   "latest_observation_date": "2021",
   "next_release_date": null,
   "transformations": [
