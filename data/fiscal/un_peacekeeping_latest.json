@@ -4,12 +4,12 @@
   "source_table": "HDX: peacekeeping-uniformed-contributions-by-rank-of-tcc-pcc",
   "frequency": "monthly",
   "unit": "uniformed personnel; rank among contributors",
-  "retrieved_at": "2026-09-30T19:11:49.934191+00:00",
-  "latest_observation_date": "2026-06-30",
+  "retrieved_at": "2026-10-01T19:24:55.309076+00:00",
+  "latest_observation_date": "2026-07-31",
   "next_release_date": null,
   "transformations": [
     "as published (all contributors)"
   ],
-  "notes": "UN file last modified 2026-09-14. Licence CC BY-IGO.",
-  "row_count": 118
+  "notes": "UN file last modified 2026-10-01. Licence CC BY-IGO.",
+  "row_count": 114
 }
