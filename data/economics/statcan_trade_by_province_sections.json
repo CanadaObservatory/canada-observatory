@@ -4,7 +4,7 @@
   "source_table": "12-10-0173-01 (province x country x NAPCS section, customs-based, annual), via WDS coordinates",
   "frequency": "annual",
   "unit": "$ millions (current; customs basis; domestic exports by province of origin)",
-  "retrieved_at": "2026-10-01T19:22:38.174375+00:00",
+  "retrieved_at": "2026-10-02T19:07:17.051131+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

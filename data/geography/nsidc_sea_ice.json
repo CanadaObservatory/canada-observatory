@@ -4,12 +4,12 @@
   "source_table": "G02135 monthly Northern Hemisphere sea-ice extent",
   "frequency": "monthly",
   "unit": "million km\u00b2 (sea-ice extent)",
-  "retrieved_at": "2026-10-01T19:30:04.851418+00:00",
+  "retrieved_at": "2026-10-02T19:13:11.286662+00:00",
   "latest_observation_date": "2026",
   "next_release_date": null,
   "transformations": [
     "12 monthly NH extent files concatenated; dropped -9999 (missing)"
   ],
   "notes": null,
-  "row_count": 572
+  "row_count": 573
 }
