@@ -4,8 +4,8 @@
   "source_table": "12-10-0182-01 (total exports by NAPCS commodity and country of destination, customs-based, monthly), via WDS coordinates",
   "frequency": "monthly",
   "unit": "$ millions (current; customs basis; not seasonally adjusted)",
-  "retrieved_at": "2026-10-05T21:27:05.379295+00:00",
-  "latest_observation_date": "2026-07-01",
+  "retrieved_at": "2026-10-06T19:23:41.427774+00:00",
+  "latest_observation_date": "2026-08-01",
   "next_release_date": null,
   "transformations": [
     "gold = StatCan's 'Unwrought gold, silver, and platinum group metals, and their alloys'",
@@ -13,5 +13,5 @@
     "all countries of origin; total exports (domestic + re-exports)"
   ],
   "notes": null,
-  "row_count": 355
+  "row_count": 356
 }
