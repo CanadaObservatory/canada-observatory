@@ -4,7 +4,7 @@
   "source_table": "OECD Labour Force Statistics (DSD_LFS@DF_IALFS_INDIC)",
   "frequency": "annual",
   "unit": "% (harmonised, by age bracket)",
-  "retrieved_at": "2026-10-07T19:51:03.871436+00:00",
+  "retrieved_at": "2026-10-08T19:45:50.857206+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
