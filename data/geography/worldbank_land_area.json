@@ -4,8 +4,8 @@
   "source_table": "AG.LND.TOTL.K2",
   "frequency": "annual",
   "unit": "sq km (land area)",
-  "retrieved_at": "2026-10-08T19:44:41.054706+00:00",
-  "latest_observation_date": "2023",
+  "retrieved_at": "2026-10-09T19:21:46.042951+00:00",
+  "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
     "all countries (WB aggregates removed), most recent year each"

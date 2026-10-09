@@ -4,7 +4,7 @@
   "source_table": "TBS Federal public service statistics (open.canada.ca)",
   "frequency": "annual",
   "unit": "employees (March 31 headcount)",
-  "retrieved_at": "2026-10-08T19:46:51.205107+00:00",
+  "retrieved_at": "2026-10-09T19:24:08.772137+00:00",
   "latest_observation_date": "2026",
   "next_release_date": null,
   "transformations": [

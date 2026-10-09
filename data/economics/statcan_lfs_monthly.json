@@ -4,13 +4,13 @@
   "source_table": "14-10-0287-01 (Labour Force Survey), via WDS vectors",
   "frequency": "monthly",
   "unit": "rates in % (unemployment: of the labour force; participation and employment: of the population 15+); employment in thousands; seasonally adjusted",
-  "retrieved_at": "2026-10-08T19:45:52.225168+00:00",
-  "latest_observation_date": "2026-08-01",
-  "next_release_date": "2026-10-09",
+  "retrieved_at": "2026-10-09T19:23:19.246701+00:00",
+  "latest_observation_date": "2026-09-01",
+  "next_release_date": "2026-11-06",
   "transformations": [
     "four pinned vectors (titles re-verified each run)",
     "employment_change = month-over-month difference in employment (thousands)"
   ],
   "notes": null,
-  "row_count": 608
+  "row_count": 609
 }

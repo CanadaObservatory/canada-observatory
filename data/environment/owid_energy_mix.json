@@ -4,7 +4,7 @@
   "source_table": "owid-energy-data",
   "frequency": "annual",
   "unit": "% of primary energy",
-  "retrieved_at": "2026-10-08T19:49:23.108397+00:00",
+  "retrieved_at": "2026-10-09T19:26:27.674304+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
