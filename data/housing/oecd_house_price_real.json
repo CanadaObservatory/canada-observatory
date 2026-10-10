@@ -4,7 +4,7 @@
   "source_table": "OECD Analytical House Prices",
   "frequency": "annual",
   "unit": "index (2015=100)",
-  "retrieved_at": "2026-10-09T19:24:16.894631+00:00",
+  "retrieved_at": "2026-10-10T18:23:55.298597+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
