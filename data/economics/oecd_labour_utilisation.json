@@ -4,7 +4,7 @@
   "source_table": "OECD Productivity Database (DF_PDB)",
   "frequency": "annual",
   "unit": "Hours per person",
-  "retrieved_at": "2026-10-13T14:22:45.056834+00:00",
+  "retrieved_at": "2026-10-14T14:17:19.512463+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

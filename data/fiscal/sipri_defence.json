@@ -4,7 +4,7 @@
   "source_table": "SIPRI-Milex-data-1949-2025_v1.2.xlsx, sheet 'Share of GDP'",
   "frequency": "annual (released each late April; history is revised with each edition)",
   "unit": "% of GDP",
-  "retrieved_at": "2026-10-13T14:30:23.138950+00:00",
+  "retrieved_at": "2026-10-14T14:19:10.443128+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
