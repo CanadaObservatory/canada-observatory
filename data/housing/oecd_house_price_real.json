@@ -4,12 +4,12 @@
   "source_table": "OECD Analytical House Prices",
   "frequency": "annual",
   "unit": "index (2015=100)",
-  "retrieved_at": "2026-10-14T14:19:59.783741+00:00",
+  "retrieved_at": "2026-10-15T14:33:45.284855+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
     "filtered to Real house price index for OECD peer group"
   ],
   "notes": null,
-  "row_count": 922
+  "row_count": 923
 }
