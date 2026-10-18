@@ -4,7 +4,7 @@
   "source_table": "IRCC ODP-TR-Work-IMP-CITZ + ODP-TR-Work-TFWP-CITZ",
   "frequency": "annual",
   "unit": "persons (rounded to nearest 5)",
-  "retrieved_at": "2026-10-17T14:13:48.397940+00:00",
+  "retrieved_at": "2026-10-18T14:14:16.574172+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
