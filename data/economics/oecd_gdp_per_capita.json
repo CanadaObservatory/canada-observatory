@@ -4,7 +4,7 @@
   "source_table": "OECD National Accounts (SNA_TABLE1)",
   "frequency": "annual",
   "unit": "USD (PPP, current prices)",
-  "retrieved_at": "2026-10-19T14:17:15.518255+00:00",
+  "retrieved_at": "2026-10-20T14:17:05.178111+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

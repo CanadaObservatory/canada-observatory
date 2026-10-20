@@ -4,7 +4,7 @@
   "source_table": "IRCC ODP-TR-Study-IS_CITZ",
   "frequency": "annual",
   "unit": "persons (rounded to nearest 5)",
-  "retrieved_at": "2026-10-19T14:17:03.220792+00:00",
+  "retrieved_at": "2026-10-20T14:16:52.088165+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
