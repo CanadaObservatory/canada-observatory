@@ -4,7 +4,7 @@
   "source_table": "ECCC CESI (greenhouse gas emissions by economic sector)",
   "frequency": "annual",
   "unit": "megatonnes CO2 equivalent (NIR basis)",
-  "retrieved_at": "2026-10-21T14:28:12.560646+00:00",
+  "retrieved_at": "2026-10-22T14:24:43.161436+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
