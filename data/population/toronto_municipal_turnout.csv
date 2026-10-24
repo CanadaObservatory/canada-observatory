@@ -1,0 +1,8 @@
+year,event,eligible_electors,ballots_cast,turnout_pct,source_url
+2003,General election,1825139,699483,38.3,https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7dc606ab-f042-4d90-99e2-9247cb5953d2/resource/030a7234-7ee0-46a0-94de-3a31fa58352a/download/2003-voter-statistics.xls
+2006,General election,1521121,597754,39.3,https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7dc606ab-f042-4d90-99e2-9247cb5953d2/resource/0b5691a6-7235-46d0-94a6-47f309605829/download/2006-voter-statistics.xls
+2010,General election,1637311,827723,50.6,https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7dc606ab-f042-4d90-99e2-9247cb5953d2/resource/4615e48b-11f1-4965-94f1-170401b674c4/download/2010-voter-statistics.xls
+2014,General election,1813915,991754,54.7,https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7dc606ab-f042-4d90-99e2-9247cb5953d2/resource/a20ad5ef-c77c-4ea3-8144-e270c1f6f9d1/download/2014-voter-statistics.xls
+2018,General election,1880371,769044,40.9,https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7dc606ab-f042-4d90-99e2-9247cb5953d2/resource/cb352fd3-7228-48f3-bac3-00c6f7c5dfa6/download/2018-voter-statistics.zip
+2022,General election,1898750,563124,29.7,https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7dc606ab-f042-4d90-99e2-9247cb5953d2/resource/631b7042-bd71-46b1-9c27-2d4119462ec7/download/2022_voter_turnout_statistics_final.xlsx
+2023,Mayoral by-election,1947242,724638,37.2,https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/c1c7ea74-0088-484f-9508-2165d3dfd629/resource/46ccd64f-4a40-41b3-b045-d13ab34e54eb/download/2023-mayoral-by-election-voter-statistics-1.xlsx

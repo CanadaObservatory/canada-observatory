@@ -1,0 +1,15 @@
+{
+  "dataset_id": "toronto_municipal_turnout",
+  "source": "City of Toronto, City Clerk's Office (Toronto Open Data: Elections - Voter Statistics)",
+  "source_table": "open.toronto.ca elections-voter-statistics + elections-by-election-voter-statistics",
+  "frequency": "per election",
+  "unit": "% of eligible electors",
+  "retrieved_at": "2026-10-24T03:05:40.587536+00:00",
+  "latest_observation_date": "2023",
+  "next_release_date": null,
+  "transformations": [
+    "Grand Total row of each election's voter-statistics workbook; turnout = ballots cast / total eligible electors (electors on the list plus election-day additions minus deletions)"
+  ],
+  "notes": null,
+  "row_count": 7
+}

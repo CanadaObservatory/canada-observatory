@@ -1,0 +1,447 @@
+year,cmauid,name,incidents,rate
+2014,932,Abbotsford–Mission,4.0,2.2
+2014,568,Barrie,1.0,0.5
+2014,543,Brantford,3.0,2.2
+2014,825,Calgary,76.0,5.4
+2014,835,Edmonton,36.0,2.7
+2014,580,Greater Sudbury,0.0,0.0
+2014,550,Guelph,3.0,2.3
+2014,205,Halifax,7.0,1.7
+2014,537,Hamilton,82.0,15.1
+2014,915,Kelowna,2.0,1.0
+2014,521,Kingston,8.0,4.9
+2014,541,Kitchener–Cambridge–Waterloo,28.0,5.2
+2014,555,London,18.0,3.6
+2014,305,Moncton,5.0,3.2
+2014,462,Montréal,130.0,3.3
+2014,505,Ottawa–Gatineau (Ontario part),83.0,8.5
+2014,505,Ottawa–Gatineau (Quebec part),3.0,0.9
+2014,529,Peterborough,11.0,9.0
+2014,421,Québec,50.0,6.4
+2014,705,Regina,2.0,0.8
+2014,408,Saguenay,3.0,1.8
+2014,310,Saint John,0.0,0.0
+2014,725,Saskatoon,1.0,0.3
+2014,433,Sherbrooke,8.0,4.1
+2014,539,St. Catharines–Niagara,10.0,2.2
+2014,001,St. John's,0.0,0.0
+2014,595,Thunder Bay,16.0,13.1
+2014,535,Toronto,318.0,5.9
+2014,442,Trois-Rivières,0.0,0.0
+2014,933,Vancouver,116.0,4.6
+2014,935,Victoria,17.0,4.6
+2014,559,Windsor,12.0,3.9
+2014,602,Winnipeg,18.0,2.3
+2015,932,Abbotsford–Mission,7.0,3.8
+2015,568,Barrie,0.0,0.0
+2015,543,Brantford,5.0,3.7
+2015,825,Calgary,68.0,4.8
+2015,835,Edmonton,81.0,6.0
+2015,580,Greater Sudbury,1.0,0.6
+2015,550,Guelph,0.0,0.0
+2015,205,Halifax,8.0,2.0
+2015,537,Hamilton,55.0,10.0
+2015,915,Kelowna,3.0,1.5
+2015,521,Kingston,8.0,4.9
+2015,541,Kitchener–Cambridge–Waterloo,51.0,9.4
+2015,555,London,20.0,4.0
+2015,305,Moncton,2.0,1.3
+2015,462,Montréal,169.0,4.2
+2015,505,Ottawa–Gatineau (Ontario part),73.0,7.4
+2015,505,Ottawa–Gatineau (Quebec part),8.0,2.5
+2015,529,Peterborough,9.0,7.4
+2015,421,Québec,28.0,3.5
+2015,705,Regina,1.0,0.4
+2015,408,Saguenay,5.0,3.0
+2015,310,Saint John,3.0,2.3
+2015,725,Saskatoon,7.0,2.3
+2015,433,Sherbrooke,8.0,4.1
+2015,539,St. Catharines–Niagara,9.0,2.0
+2015,001,St. John's,1.0,0.5
+2015,595,Thunder Bay,27.0,22.1
+2015,535,Toronto,295.0,5.4
+2015,442,Trois-Rivières,2.0,1.3
+2015,933,Vancouver,116.0,4.6
+2015,935,Victoria,7.0,1.9
+2015,559,Windsor,4.0,1.3
+2015,602,Winnipeg,25.0,3.1
+2016,932,Abbotsford–Mission,7.0,3.7
+2016,568,Barrie,1.0,0.5
+2016,522,Belleville-Quinte West,0.0,0.0
+2016,543,Brantford,5.0,3.6
+2016,825,Calgary,53.0,3.6
+2016,835,Edmonton,50.0,3.6
+2016,580,Greater Sudbury,2.0,1.2
+2016,550,Guelph,10.0,7.3
+2016,205,Halifax,3.0,0.7
+2016,537,Hamilton,70.0,12.6
+2016,915,Kelowna,1.0,0.5
+2016,521,Kingston,7.0,4.3
+2016,541,Kitchener–Cambridge–Waterloo,19.0,3.4
+2016,810,Lethbridge,2.0,1.7
+2016,555,London,17.0,3.3
+2016,305,Moncton,8.0,5.1
+2016,462,Montréal,195.0,4.7
+2016,505,Ottawa–Gatineau (Ontario part),96.0,9.4
+2016,505,Ottawa–Gatineau (Quebec part),3.0,0.9
+2016,529,Peterborough,5.0,4.0
+2016,421,Québec,57.0,7.1
+2016,705,Regina,11.0,4.4
+2016,408,Saguenay,3.0,1.8
+2016,310,Saint John,2.0,1.6
+2016,725,Saskatoon,5.0,1.6
+2016,433,Sherbrooke,4.0,2.0
+2016,539,St. Catharines–Niagara,11.0,2.4
+2016,001,St. John's,1.0,0.5
+2016,595,Thunder Bay,10.0,8.2
+2016,535,Toronto,290.0,5.3
+2016,442,Trois-Rivières,2.0,1.3
+2016,933,Vancouver,146.0,5.6
+2016,935,Victoria,17.0,4.4
+2016,559,Windsor,10.0,3.2
+2016,602,Winnipeg,21.0,2.7
+2017,932,Abbotsford–Mission,10.0,5.2
+2017,568,Barrie,10.0,4.5
+2017,522,Belleville-Quinte West,2.0,2.0
+2017,543,Brantford,1.0,0.7
+2017,825,Calgary,77.0,5.2
+2017,835,Edmonton,66.0,4.7
+2017,580,Greater Sudbury,2.0,1.2
+2017,550,Guelph,16.0,11.5
+2017,205,Halifax,11.0,2.6
+2017,537,Hamilton,91.0,16.2
+2017,915,Kelowna,2.0,1.0
+2017,521,Kingston,14.0,8.3
+2017,541,Kitchener–Cambridge–Waterloo,53.0,9.4
+2017,810,Lethbridge,2.0,1.7
+2017,555,London,26.0,5.0
+2017,305,Moncton,7.0,4.4
+2017,462,Montréal,311.0,7.5
+2017,505,Ottawa–Gatineau (Ontario part),96.0,9.2
+2017,505,Ottawa–Gatineau (Quebec part),14.0,4.2
+2017,529,Peterborough,12.0,9.5
+2017,421,Québec,79.0,9.8
+2017,705,Regina,5.0,2.0
+2017,408,Saguenay,4.0,2.4
+2017,310,Saint John,1.0,0.8
+2017,725,Saskatoon,5.0,1.6
+2017,433,Sherbrooke,10.0,5.0
+2017,539,St. Catharines–Niagara,21.0,4.5
+2017,001,St. John's,1.0,0.5
+2017,595,Thunder Bay,21.0,17.0
+2017,535,Toronto,519.0,9.3
+2017,442,Trois-Rivières,4.0,2.6
+2017,933,Vancouver,183.0,7.0
+2017,935,Victoria,10.0,2.6
+2017,559,Windsor,19.0,5.5
+2017,602,Winnipeg,19.0,2.4
+2018,932,Abbotsford–Mission,6.0,3.1
+2018,568,Barrie,4.0,1.8
+2018,522,Belleville-Quinte West,0.0,0.0
+2018,543,Brantford,2.0,1.4
+2018,825,Calgary,117.0,7.9
+2018,835,Edmonton,70.0,4.9
+2018,580,Greater Sudbury,3.0,1.8
+2018,550,Guelph,12.0,8.5
+2018,205,Halifax,17.0,4.0
+2018,537,Hamilton,96.0,16.9
+2018,915,Kelowna,3.0,1.4
+2018,521,Kingston,5.0,2.9
+2018,541,Kitchener–Cambridge–Waterloo,39.0,6.7
+2018,810,Lethbridge,3.0,2.4
+2018,555,London,34.0,6.3
+2018,305,Moncton,8.0,5.0
+2018,462,Montréal,258.0,6.1
+2018,505,Ottawa–Gatineau (Ontario part),105.0,9.8
+2018,505,Ottawa–Gatineau (Quebec part),18.0,5.4
+2018,529,Peterborough,1.0,0.8
+2018,421,Québec,46.0,5.7
+2018,705,Regina,5.0,2.0
+2018,408,Saguenay,2.0,1.2
+2018,310,Saint John,1.0,0.8
+2018,725,Saskatoon,10.0,3.1
+2018,433,Sherbrooke,8.0,3.9
+2018,539,St. Catharines–Niagara,8.0,1.7
+2018,001,St. John's,1.0,0.5
+2018,595,Thunder Bay,6.0,4.8
+2018,535,Toronto,408.0,7.2
+2018,442,Trois-Rivières,0.0,0.0
+2018,933,Vancouver,196.0,7.4
+2018,935,Victoria,25.0,6.3
+2018,559,Windsor,5.0,1.6
+2018,602,Winnipeg,29.0,3.6
+2019,932,Abbotsford–Mission,14.0,7.0
+2019,568,Barrie,8.0,3.1
+2019,522,Belleville-Quinte West,2.0,1.8
+2019,543,Brantford,7.0,4.8
+2019,825,Calgary,80.0,5.3
+2019,835,Edmonton,73.0,5.0
+2019,580,Greater Sudbury,3.0,1.8
+2019,550,Guelph,12.0,8.3
+2019,205,Halifax,8.0,1.8
+2019,537,Hamilton,90.0,15.5
+2019,915,Kelowna,3.0,1.4
+2019,521,Kingston,9.0,5.2
+2019,541,Kitchener–Cambridge–Waterloo,15.0,2.5
+2019,810,Lethbridge,2.0,1.6
+2019,555,London,34.0,6.2
+2019,305,Moncton,8.0,4.9
+2019,462,Montréal,236.0,5.5
+2019,505,Ottawa–Gatineau (Ontario part),118.0,10.8
+2019,505,Ottawa–Gatineau (Quebec part),31.0,9.1
+2019,529,Peterborough,11.0,8.4
+2019,421,Québec,65.0,7.9
+2019,705,Regina,2.0,0.8
+2019,408,Saguenay,0.0,0.0
+2019,310,Saint John,4.0,3.1
+2019,725,Saskatoon,10.0,3.0
+2019,433,Sherbrooke,5.0,2.4
+2019,539,St. Catharines–Niagara,9.0,1.9
+2019,001,St. John's,2.0,0.9
+2019,595,Thunder Bay,4.0,3.1
+2019,535,Toronto,415.0,7.2
+2019,442,Trois-Rivières,8.0,5.1
+2019,933,Vancouver,233.0,8.6
+2019,935,Victoria,17.0,4.2
+2019,559,Windsor,14.0,4.3
+2019,602,Winnipeg,41.0,5.0
+2020,932,Abbotsford–Mission,8.0,4.0
+2020,568,Barrie,12.0,4.6
+2020,522,Belleville-Quinte West,1.0,0.9
+2020,543,Brantford,7.0,4.8
+2020,825,Calgary,144.0,9.4
+2020,835,Edmonton,79.0,5.4
+2020,580,Greater Sudbury,4.0,2.3
+2020,550,Guelph,22.0,14.8
+2020,205,Halifax,17.0,3.8
+2020,537,Hamilton,58.0,9.9
+2020,915,Kelowna,6.0,2.7
+2020,521,Kingston,23.0,13.0
+2020,541,Kitchener–Cambridge–Waterloo,54.0,8.9
+2020,810,Lethbridge,8.0,6.3
+2020,555,London,45.0,8.0
+2020,305,Moncton,7.0,4.2
+2020,462,Montréal,299.0,6.9
+2020,505,Ottawa–Gatineau (Ontario part),185.0,16.6
+2020,505,Ottawa–Gatineau (Quebec part),19.0,5.5
+2020,529,Peterborough,25.0,19.0
+2020,421,Québec,67.0,8.1
+2020,705,Regina,4.0,1.5
+2020,408,Saguenay,0.0,0.0
+2020,310,Saint John,3.0,2.3
+2020,725,Saskatoon,18.0,5.4
+2020,433,Sherbrooke,5.0,2.4
+2020,539,St. Catharines–Niagara,10.0,2.0
+2020,001,St. John's,1.0,0.5
+2020,595,Thunder Bay,14.0,11.0
+2020,535,Toronto,549.0,9.5
+2020,442,Trois-Rivières,7.0,4.4
+2020,933,Vancouver,372.0,13.5
+2020,935,Victoria,35.0,8.5
+2020,559,Windsor,10.0,3.0
+2020,602,Winnipeg,31.0,3.7
+2021,932,Abbotsford–Mission,16.0,7.8
+2021,568,Barrie,17.0,6.4
+2021,522,Belleville-Quinte West,1.0,0.8
+2021,543,Brantford,7.0,4.7
+2021,825,Calgary,139.0,9.0
+2021,930,Chilliwack,22.0,18.4
+2021,447,Drummondville,6.0,5.5
+2021,835,Edmonton,116.0,7.8
+2021,320,Fredericton,6.0,5.0
+2021,580,Greater Sudbury,10.0,5.5
+2021,550,Guelph,7.0,4.7
+2021,205,Halifax,19.0,3.9
+2021,537,Hamilton,90.0,15.1
+2021,925,Kamloops,3.0,2.6
+2021,915,Kelowna,25.0,10.8
+2021,521,Kingston,32.0,18.0
+2021,541,Kitchener–Cambridge–Waterloo,77.0,12.5
+2021,810,Lethbridge,10.0,7.8
+2021,555,London,82.0,14.4
+2021,305,Moncton,6.0,3.5
+2021,462,Montréal,263.0,6.0
+2021,938,Nanaimo,9.0,7.5
+2021,505,Ottawa–Gatineau (Ontario part),261.0,22.2
+2021,505,Ottawa–Gatineau (Quebec part),23.0,6.6
+2021,529,Peterborough,21.0,15.9
+2021,421,Québec,74.0,8.9
+2021,830,Red Deer,14.0,13.4
+2021,705,Regina,10.0,3.9
+2021,408,Saguenay,6.0,3.6
+2021,310,Saint John,5.0,3.8
+2021,725,Saskatoon,22.0,6.6
+2021,433,Sherbrooke,7.0,3.3
+2021,539,St. Catharines–Niagara,23.0,4.6
+2021,001,St. John's,4.0,1.9
+2021,595,Thunder Bay,10.0,7.9
+2021,535,Toronto,780.0,13.5
+2021,442,Trois-Rivières,18.0,11.2
+2021,933,Vancouver,439.0,15.8
+2021,935,Victoria,43.0,10.4
+2021,559,Windsor,33.0,8.1
+2021,602,Winnipeg,39.0,4.7
+2022,932,Abbotsford–Mission,24.0,11.6
+2022,568,Barrie,12.0,4.4
+2022,522,Belleville-Quinte West,1.0,0.8
+2022,543,Brantford,27.0,17.4
+2022,825,Calgary,139.0,8.7
+2022,930,Chilliwack,13.0,10.6
+2022,447,Drummondville,4.0,3.6
+2022,835,Edmonton,87.0,5.8
+2022,320,Fredericton,15.0,12.5
+2022,580,Greater Sudbury,32.0,17.3
+2022,550,Guelph,10.0,6.5
+2022,205,Halifax,72.0,14.4
+2022,537,Hamilton,124.0,20.6
+2022,925,Kamloops,4.0,3.3
+2022,915,Kelowna,11.0,4.6
+2022,521,Kingston,41.0,22.5
+2022,541,Kitchener–Cambridge–Waterloo,146.0,22.8
+2022,810,Lethbridge,11.0,8.4
+2022,555,London,80.0,13.6
+2022,305,Moncton,7.0,3.9
+2022,462,Montréal,243.0,5.5
+2022,938,Nanaimo,16.0,13.0
+2022,505,Ottawa–Gatineau (Ontario part),324.0,27.0
+2022,505,Ottawa–Gatineau (Quebec part),27.0,7.7
+2022,529,Peterborough,19.0,14.0
+2022,421,Québec,59.0,7.0
+2022,830,Red Deer,13.0,12.4
+2022,705,Regina,18.0,6.9
+2022,408,Saguenay,14.0,8.2
+2022,310,Saint John,5.0,3.7
+2022,725,Saskatoon,46.0,13.5
+2022,433,Sherbrooke,5.0,2.3
+2022,539,St. Catharines–Niagara,33.0,6.5
+2022,001,St. John's,3.0,1.4
+2022,595,Thunder Bay,14.0,11.0
+2022,535,Toronto,872.0,14.8
+2022,442,Trois-Rivières,11.0,6.7
+2022,933,Vancouver,370.0,13.0
+2022,935,Victoria,39.0,9.3
+2022,559,Windsor,22.0,4.9
+2022,602,Winnipeg,32.0,3.7
+2023,932,Abbotsford–Mission,26.0,12.2
+2023,568,Barrie,16.0,5.6
+2023,522,Belleville-Quinte West,2.0,1.6
+2023,543,Brantford,25.0,15.6
+2023,825,Calgary,149.0,8.9
+2023,930,Chilliwack,17.0,13.6
+2023,447,Drummondville,7.0,6.2
+2023,835,Edmonton,131.0,8.4
+2023,320,Fredericton,13.0,10.5
+2023,580,Greater Sudbury,34.0,18.0
+2023,550,Guelph,16.0,10.2
+2023,205,Halifax,122.0,23.7
+2023,537,Hamilton,145.0,23.5
+2023,925,Kamloops,4.0,3.3
+2023,915,Kelowna,14.0,5.7
+2023,521,Kingston,44.0,23.7
+2023,541,Kitchener–Cambridge–Waterloo,230.0,34.1
+2023,810,Lethbridge,11.0,8.2
+2023,555,London,114.0,18.7
+2023,305,Moncton,23.0,12.3
+2023,462,Montréal,486.0,10.8
+2023,938,Nanaimo,11.0,8.8
+2023,505,Ottawa–Gatineau (Ontario part),384.0,30.9
+2023,505,Ottawa–Gatineau (Quebec part),29.0,8.2
+2023,529,Peterborough,47.0,33.7
+2023,421,Québec,104.0,12.1
+2023,830,Red Deer,3.0,2.8
+2023,705,Regina,24.0,8.8
+2023,408,Saguenay,1.0,0.6
+2023,310,Saint John,4.0,6.3
+2023,725,Saskatoon,68.0,19.1
+2023,433,Sherbrooke,9.0,4.1
+2023,539,St. Catharines–Niagara,34.0,6.5
+2023,001,St. John's,4.0,1.8
+2023,595,Thunder Bay,14.0,10.8
+2023,535,Toronto,1120.0,18.4
+2023,442,Trois-Rivières,16.0,9.6
+2023,933,Vancouver,490.0,16.5
+2023,935,Victoria,54.0,12.5
+2023,559,Windsor,37.0,7.9
+2023,602,Winnipeg,49.0,5.5
+2024,932,Abbotsford–Mission,35.0,16.0
+2024,568,Barrie,22.0,7.5
+2024,522,Belleville-Quinte West,4.0,3.2
+2024,543,Brantford,6.0,3.6
+2024,825,Calgary,183.0,10.2
+2024,930,Chilliwack,22.0,17.0
+2024,447,Drummondville,2.0,1.7
+2024,835,Edmonton,97.0,5.9
+2024,320,Fredericton,21.0,15.9
+2024,580,Greater Sudbury,39.0,19.9
+2024,550,Guelph,27.0,16.9
+2024,205,Halifax,113.0,21.0
+2024,537,Hamilton,134.0,21.2
+2024,925,Kamloops,8.0,6.5
+2024,915,Kelowna,10.0,4.0
+2024,521,Kingston,24.0,12.6
+2024,541,Kitchener–Cambridge–Waterloo,160.0,22.5
+2024,810,Lethbridge,11.0,7.9
+2024,555,London,117.0,18.6
+2024,305,Moncton,17.0,8.6
+2024,462,Montréal,504.0,10.9
+2024,938,Nanaimo,7.0,5.5
+2024,505,Ottawa–Gatineau (Ontario part),352.0,27.4
+2024,505,Ottawa–Gatineau (Quebec part),35.0,9.7
+2024,529,Peterborough,31.0,21.3
+2024,421,Québec,87.0,9.9
+2024,830,Red Deer,4.0,3.5
+2024,705,Regina,13.0,4.6
+2024,408,Saguenay,1.0,0.6
+2024,310,Saint John,0.0,0.0
+2024,725,Saskatoon,70.0,18.8
+2024,433,Sherbrooke,9.0,4.0
+2024,539,St. Catharines–Niagara,33.0,6.1
+2024,001,St. John's,4.0,1.7
+2024,595,Thunder Bay,21.0,16.0
+2024,535,Toronto,1277.0,20.1
+2024,442,Trois-Rivières,3.0,1.8
+2024,933,Vancouver,463.0,15.0
+2024,935,Victoria,83.0,18.8
+2024,559,Windsor,45.0,9.3
+2024,602,Winnipeg,49.0,5.3
+2025,932,Abbotsford–Mission,26.0,11.7
+2025,568,Barrie,15.0,5.0
+2025,522,Belleville-Quinte West,1.0,0.8
+2025,543,Brantford,18.0,10.6
+2025,825,Calgary,182.0,9.9
+2025,930,Chilliwack,20.0,15.2
+2025,447,Drummondville,5.0,4.3
+2025,835,Edmonton,112.0,6.6
+2025,320,Fredericton,9.0,6.6
+2025,580,Greater Sudbury,28.0,14.2
+2025,550,Guelph,24.0,14.9
+2025,205,Halifax,122.0,22.4
+2025,537,Hamilton,93.0,14.5
+2025,925,Kamloops,16.0,12.9
+2025,915,Kelowna,29.0,11.5
+2025,521,Kingston,23.0,12.0
+2025,541,Kitchener–Cambridge–Waterloo,169.0,23.8
+2025,810,Lethbridge,13.0,9.2
+2025,555,London,82.0,12.9
+2025,305,Moncton,36.0,17.7
+2025,462,Montréal,429.0,9.3
+2025,938,Nanaimo,11.0,8.5
+2025,505,Ottawa–Gatineau (Ontario part),281.0,21.3
+2025,505,Ottawa–Gatineau (Quebec part),37.0,10.1
+2025,529,Peterborough,38.0,25.9
+2025,421,Québec,118.0,13.3
+2025,830,Red Deer,20.0,17.3
+2025,705,Regina,24.0,8.3
+2025,408,Saguenay,6.0,3.4
+2025,310,Saint John,1.0,1.6
+2025,725,Saskatoon,57.0,15.0
+2025,433,Sherbrooke,14.0,6.2
+2025,539,St. Catharines–Niagara,33.0,6.0
+2025,001,St. John's,16.0,6.8
+2025,595,Thunder Bay,19.0,14.4
+2025,535,Toronto,1026.0,16.2
+2025,442,Trois-Rivières,9.0,5.2
+2025,933,Vancouver,539.0,17.5
+2025,935,Victoria,106.0,23.8
+2025,559,Windsor,44.0,9.0
+2025,602,Winnipeg,117.0,12.6

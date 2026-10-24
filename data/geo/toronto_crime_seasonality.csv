@@ -1,73 +1,73 @@
 crime,month,count
-Assault,1,21297
-Assault,2,19196
-Assault,3,21023
-Assault,4,19383
-Assault,5,22002
-Assault,6,22329
-Assault,7,22741
-Assault,8,22083
-Assault,9,21619
-Assault,10,21350
-Assault,11,20266
-Assault,12,19682
-Auto theft,1,6731
-Auto theft,2,5916
-Auto theft,3,6888
-Auto theft,4,6046
-Auto theft,5,6411
-Auto theft,6,6439
-Auto theft,7,6396
-Auto theft,8,6612
-Auto theft,9,6742
-Auto theft,10,7043
-Auto theft,11,7104
-Auto theft,12,6323
-Bike theft,1,1098
-Bike theft,2,989
-Bike theft,3,1546
-Bike theft,4,2515
-Bike theft,5,4168
-Bike theft,6,5298
-Bike theft,7,6046
-Bike theft,8,5713
-Bike theft,9,5024
-Bike theft,10,3971
-Bike theft,11,2277
-Bike theft,12,1265
-Break & enter,1,7555
-Break & enter,2,6711
-Break & enter,3,7339
-Break & enter,4,6597
-Break & enter,5,6808
-Break & enter,6,6646
-Break & enter,7,6945
-Break & enter,8,7288
-Break & enter,9,6785
-Break & enter,10,7288
-Break & enter,11,7364
-Break & enter,12,7265
-Robbery,1,3643
-Robbery,2,3307
-Robbery,3,3431
-Robbery,4,3092
-Robbery,5,3284
-Robbery,6,3174
-Robbery,7,3329
-Robbery,8,3424
-Robbery,9,3327
+Assault,1,21491
+Assault,2,19265
+Assault,3,21189
+Assault,4,21401
+Assault,5,24168
+Assault,6,24686
+Assault,7,24977
+Assault,8,24118
+Assault,9,23540
+Assault,10,21400
+Assault,11,20336
+Assault,12,19768
+Auto theft,1,6772
+Auto theft,2,5944
+Auto theft,3,6971
+Auto theft,4,6714
+Auto theft,5,7081
+Auto theft,6,7068
+Auto theft,7,7078
+Auto theft,8,7223
+Auto theft,9,7300
+Auto theft,10,7057
+Auto theft,11,7118
+Auto theft,12,6357
+Bike theft,1,1104
+Bike theft,2,993
+Bike theft,3,1560
+Bike theft,4,2646
+Bike theft,5,4363
+Bike theft,6,5590
+Bike theft,7,6328
+Bike theft,8,5998
+Bike theft,9,5243
+Bike theft,10,3974
+Bike theft,11,2284
+Bike theft,12,1269
+Break & enter,1,7562
+Break & enter,2,6710
+Break & enter,3,7374
+Break & enter,4,7082
+Break & enter,5,7320
+Break & enter,6,7085
+Break & enter,7,7444
+Break & enter,8,7771
+Break & enter,9,7246
+Break & enter,10,7294
+Break & enter,11,7372
+Break & enter,12,7278
+Robbery,1,3667
+Robbery,2,3316
+Robbery,3,3436
+Robbery,4,3269
+Robbery,5,3468
+Robbery,6,3433
+Robbery,7,3547
+Robbery,8,3666
+Robbery,9,3499
 Robbery,10,3619
-Robbery,11,3498
-Robbery,12,3073
-Theft from vehicle,1,9077
-Theft from vehicle,2,7968
-Theft from vehicle,3,9092
-Theft from vehicle,4,8616
-Theft from vehicle,5,8918
-Theft from vehicle,6,8452
-Theft from vehicle,7,9023
-Theft from vehicle,8,9205
-Theft from vehicle,9,9199
-Theft from vehicle,10,9686
-Theft from vehicle,11,8976
-Theft from vehicle,12,8114
+Robbery,11,3500
+Robbery,12,3075
+Theft from vehicle,1,9085
+Theft from vehicle,2,7971
+Theft from vehicle,3,9138
+Theft from vehicle,4,9172
+Theft from vehicle,5,9508
+Theft from vehicle,6,9084
+Theft from vehicle,7,9823
+Theft from vehicle,8,9984
+Theft from vehicle,9,9976
+Theft from vehicle,10,9693
+Theft from vehicle,11,8980
+Theft from vehicle,12,8125

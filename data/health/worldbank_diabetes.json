@@ -4,7 +4,7 @@
   "source_table": "World Bank / IDF Diabetes Atlas",
   "frequency": "annual",
   "unit": "% of adults 20\u201379",
-  "retrieved_at": "2026-10-23T14:21:30.423214+00:00",
+  "retrieved_at": "2026-10-24T14:19:50.894735+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [

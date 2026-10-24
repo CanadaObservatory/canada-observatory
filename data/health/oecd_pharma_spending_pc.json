@@ -4,7 +4,7 @@
   "source_table": "OECD Health Expenditure (SHA)",
   "frequency": "annual",
   "unit": "USD PPP per capita",
-  "retrieved_at": "2026-10-23T14:21:39.829668+00:00",
+  "retrieved_at": "2026-10-24T14:20:09.112051+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

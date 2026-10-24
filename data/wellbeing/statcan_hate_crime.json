@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 35-10-0191-01",
   "frequency": "annual",
   "unit": "incidents; rate per 100,000 population",
-  "retrieved_at": "2026-09-05T19:46:02.984303+00:00",
+  "retrieved_at": "2026-10-24T04:09:42.665608+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

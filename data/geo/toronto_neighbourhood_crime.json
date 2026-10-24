@@ -4,8 +4,9 @@
   "source_table": "Toronto Police Service Neighbourhood Crime Rates (Open Data)",
   "frequency": "annual",
   "unit": "rate per 100,000 population",
-  "retrieved_at": "2026-06-10T03:24:25.199587+00:00",
+  "retrieved_at": "2026-10-24T04:22:58.701394+00:00",
   "latest_observation_date": "2025",
+  "next_release_date": null,
   "transformations": [
     "per-neighbourhood rate per 100k for 9 crime types, latest year; boundary simplified to ~30 m and inlined (id = HOOD_158)."
   ],

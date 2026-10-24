@@ -1,0 +1,15 @@
+{
+  "dataset_id": "statcan_hate_crime_by_cma",
+  "source": "Statistics Canada",
+  "source_table": "Statistics Canada 35-10-0191-01",
+  "frequency": "annual",
+  "unit": "incidents; rate per 100,000 population",
+  "retrieved_at": "2026-10-24T04:09:42.680256+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "census metropolitan areas: incidents + rate per 100,000 by year (Ottawa-Gatineau's two parts kept separate)"
+  ],
+  "notes": null,
+  "row_count": 446
+}
