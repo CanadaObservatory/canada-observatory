@@ -1,0 +1,15 @@
+{
+  "dataset_id": "toronto_persons_in_crisis",
+  "source": "Toronto Police Service",
+  "source_table": "Toronto Police Service, Persons in Crisis Calls for Service Attended (Open Data)",
+  "frequency": "annual",
+  "unit": "calls attended",
+  "retrieved_at": "2026-10-24T14:39:26.017187+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "server-side counts by year and event type (Person in Crisis / Suicide-related / Overdose); the current year is partial"
+  ],
+  "notes": "Source: Toronto Police Service Public Safety Data Portal. Contains information licensed under the Open Government Licence \u2013 Ontario.",
+  "row_count": 39
+}

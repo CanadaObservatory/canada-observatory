@@ -1,0 +1,15 @@
+{
+  "dataset_id": "ontario_municipal_turnout",
+  "source": "Government of Ontario, Ministry of Municipal Affairs and Housing (Municipal election results, Ontario Data Catalogue)",
+  "source_table": "data.ontario.ca municipal-election-results (municipal data, 2014/2018/2022)",
+  "frequency": "per election (four-yearly)",
+  "unit": "% of electors",
+  "retrieved_at": "2026-10-24T22:03:34.977558+00:00",
+  "latest_observation_date": "2022",
+  "next_release_date": null,
+  "transformations": [
+    "turnout = electors who voted / number of electors, as each municipality reported to the province after the election (Toronto's own final figures differ for 2018)"
+  ],
+  "notes": null,
+  "row_count": 1219
+}

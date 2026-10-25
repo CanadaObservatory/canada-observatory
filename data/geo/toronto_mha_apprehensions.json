@@ -1,0 +1,15 @@
+{
+  "dataset_id": "toronto_mha_apprehensions",
+  "source": "Toronto Police Service",
+  "source_table": "Toronto Police Service, Mental Health Act Apprehensions (Open Data)",
+  "frequency": "annual",
+  "unit": "apprehensions",
+  "retrieved_at": "2026-10-24T14:39:26.360300+00:00",
+  "latest_observation_date": "2025",
+  "next_release_date": null,
+  "transformations": [
+    "server-side counts by occurrence year and premises type; the current year is partial"
+  ],
+  "notes": "Source: Toronto Police Service Public Safety Data Portal. Contains information licensed under the Open Government Licence \u2013 Ontario.",
+  "row_count": 91
+}

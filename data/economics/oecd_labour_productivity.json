@@ -4,7 +4,7 @@
   "source_table": "OECD Productivity Database (DF_PDB)",
   "frequency": "annual",
   "unit": "USD PPP per hour",
-  "retrieved_at": "2026-10-24T14:14:34.739473+00:00",
+  "retrieved_at": "2026-10-25T14:16:38.523493+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [

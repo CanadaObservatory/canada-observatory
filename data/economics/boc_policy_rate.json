@@ -4,7 +4,7 @@
   "source_table": "Bank of Canada (Bank Rate: V122530 monthly to 2009, V39078 business-daily since)",
   "frequency": "daily",
   "unit": "%",
-  "retrieved_at": "2026-10-24T14:16:04.988292+00:00",
+  "retrieved_at": "2026-10-25T14:21:53.580526+00:00",
   "latest_observation_date": "2026-10-22",
   "next_release_date": null,
   "transformations": [

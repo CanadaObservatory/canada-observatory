@@ -1,0 +1,40 @@
+count,year,event_type,partial
+1654,2014,Overdose,False
+13967,2014,Person in Crisis,False
+6608,2014,Suicide-related,False
+1673,2015,Overdose,False
+14397,2015,Person in Crisis,False
+7108,2015,Suicide-related,False
+1963,2016,Overdose,False
+15926,2016,Person in Crisis,False
+7578,2016,Suicide-related,False
+2497,2017,Overdose,False
+16361,2017,Person in Crisis,False
+8488,2017,Suicide-related,False
+2693,2018,Overdose,False
+17432,2018,Person in Crisis,False
+9573,2018,Suicide-related,False
+3274,2019,Overdose,False
+17267,2019,Person in Crisis,False
+10351,2019,Suicide-related,False
+3855,2020,Overdose,False
+19519,2020,Person in Crisis,False
+9769,2020,Suicide-related,False
+5628,2021,Overdose,False
+19209,2021,Person in Crisis,False
+10556,2021,Suicide-related,False
+3952,2022,Overdose,False
+18288,2022,Person in Crisis,False
+10831,2022,Suicide-related,False
+4555,2023,Overdose,False
+16377,2023,Person in Crisis,False
+10639,2023,Suicide-related,False
+4551,2024,Overdose,False
+17148,2024,Person in Crisis,False
+10945,2024,Suicide-related,False
+3626,2025,Overdose,False
+13484,2025,Person in Crisis,False
+9751,2025,Suicide-related,False
+3685,2026,Overdose,True
+9281,2026,Person in Crisis,True
+7264,2026,Suicide-related,True
