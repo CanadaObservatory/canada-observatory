@@ -4,7 +4,7 @@
   "source_table": "OECD Key Economic Indicators (KEI), monthly harmonised unemployment rate",
   "frequency": "monthly",
   "unit": "% of labour force, seasonally adjusted",
-  "retrieved_at": "2026-10-26T15:05:27.648734+00:00",
+  "retrieved_at": "2026-10-27T14:19:54.941916+00:00",
   "latest_observation_date": "2026-09-01",
   "next_release_date": null,
   "transformations": [

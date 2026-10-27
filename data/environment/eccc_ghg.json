@@ -4,7 +4,7 @@
   "source_table": "ECCC National Inventory Report / CESI (greenhouse gas emissions)",
   "frequency": "annual",
   "unit": "megatonnes CO2 equivalent (NIR basis)",
-  "retrieved_at": "2026-10-26T15:08:58.088440+00:00",
+  "retrieved_at": "2026-10-27T14:22:47.554489+00:00",
   "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
