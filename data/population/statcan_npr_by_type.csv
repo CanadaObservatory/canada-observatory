@@ -1,101 +1,106 @@
 date,type,count
-2021-07-01,Asylum claimants,168206
-2021-10-01,Asylum claimants,162493
-2022-01-01,Asylum claimants,161105
-2022-04-01,Asylum claimants,166780
-2022-07-01,Asylum claimants,178573
-2022-10-01,Asylum claimants,194063
-2023-01-01,Asylum claimants,218865
-2023-04-01,Asylum claimants,238951
-2023-07-01,Asylum claimants,257383
-2023-10-01,Asylum claimants,288454
-2024-01-01,Asylum claimants,328489
-2024-04-01,Asylum claimants,363505
-2024-07-01,Asylum claimants,398913
-2024-10-01,Asylum claimants,429639
-2025-01-01,Asylum claimants,459920
-2025-04-01,Asylum claimants,479542
-2025-07-01,Asylum claimants,497443
-2025-10-01,Asylum claimants,504767
-2026-01-01,Asylum claimants,518489
-2026-04-01,Asylum claimants,525479
-2021-07-01,Other,51505
-2021-10-01,Other,55490
-2022-01-01,Other,53585
-2022-04-01,Other,59362
-2022-07-01,Other,66091
-2022-10-01,Other,74847
-2023-01-01,Other,80765
-2023-04-01,Other,87031
-2023-07-01,Other,96656
-2023-10-01,Other,110176
-2024-01-01,Other,126932
-2024-04-01,Other,145805
-2024-07-01,Other,151067
-2024-10-01,Other,155986
-2025-01-01,Other,152812
-2025-04-01,Other,149837
-2025-07-01,Other,143951
-2025-10-01,Other,136677
-2026-01-01,Other,127584
-2026-04-01,Other,119246
-2021-07-01,Study permits,368708
-2021-10-01,Study permits,426963
-2022-01-01,Study permits,446782
-2022-04-01,Study permits,450192
-2022-07-01,Study permits,475124
-2022-10-01,Study permits,523728
-2023-01-01,Study permits,566201
-2023-04-01,Study permits,556154
-2023-07-01,Study permits,586812
-2023-10-01,Study permits,661084
-2024-01-01,Study permits,685835
-2024-04-01,Study permits,667848
-2024-07-01,Study permits,669137
-2024-10-01,Study permits,658942
-2025-01-01,Study permits,628810
-2025-04-01,Study permits,583125
-2025-07-01,Study permits,551100
-2025-10-01,Study permits,477418
-2026-01-01,Study permits,431537
-2026-04-01,Study permits,394220
-2021-07-01,Work + study permits,164855
-2021-10-01,Work + study permits,162650
-2022-01-01,Work + study permits,161101
-2022-04-01,Work + study permits,169053
-2022-07-01,Work + study permits,185693
-2022-10-01,Work + study permits,204895
-2023-01-01,Work + study permits,219616
-2023-04-01,Work + study permits,236765
-2023-07-01,Work + study permits,271434
-2023-10-01,Work + study permits,296263
-2024-01-01,Work + study permits,320838
-2024-04-01,Work + study permits,346938
-2024-07-01,Work + study permits,373792
-2024-10-01,Work + study permits,341162
-2025-01-01,Work + study permits,330060
-2025-04-01,Work + study permits,331112
-2025-07-01,Work + study permits,312040
-2025-10-01,Work + study permits,244424
-2026-01-01,Work + study permits,223265
-2026-04-01,Work + study permits,223571
-2021-07-01,Work permits,608581
-2021-10-01,Work permits,635008
-2022-01-01,Work permits,591133
-2022-04-01,Work permits,602403
-2022-07-01,Work permits,681089
-2022-10-01,Work permits,803300
-2023-01-01,Work permits,866970
-2023-04-01,Work permits,934003
-2023-07-01,Work permits,1045810
-2023-10-01,Work permits,1216177
-2024-01-01,Work permits,1279429
-2024-04-01,Work permits,1379319
-2024-07-01,Work permits,1446261
-2024-10-01,Work permits,1563402
-2025-01-01,Work permits,1566527
-2025-04-01,Work permits,1539319
-2025-07-01,Work permits,1519682
-2025-10-01,Work permits,1484451
-2026-01-01,Work permits,1375566
-2026-04-01,Work permits,1296046
+2021-07-01,Asylum claimants,168239
+2021-10-01,Asylum claimants,162530
+2022-01-01,Asylum claimants,161144
+2022-04-01,Asylum claimants,166816
+2022-07-01,Asylum claimants,178610
+2022-10-01,Asylum claimants,194104
+2023-01-01,Asylum claimants,218905
+2023-04-01,Asylum claimants,238990
+2023-07-01,Asylum claimants,257424
+2023-10-01,Asylum claimants,288490
+2024-01-01,Asylum claimants,328511
+2024-04-01,Asylum claimants,363527
+2024-07-01,Asylum claimants,398918
+2024-10-01,Asylum claimants,429641
+2025-01-01,Asylum claimants,459896
+2025-04-01,Asylum claimants,479515
+2025-07-01,Asylum claimants,497266
+2025-10-01,Asylum claimants,516833
+2026-01-01,Asylum claimants,530155
+2026-04-01,Asylum claimants,537105
+2026-07-01,Asylum claimants,530090
+2021-07-01,Other,49301
+2021-10-01,Other,53249
+2022-01-01,Other,50791
+2022-04-01,Other,55862
+2022-07-01,Other,63284
+2022-10-01,Other,72209
+2023-01-01,Other,77096
+2023-04-01,Other,82149
+2023-07-01,Other,92771
+2023-10-01,Other,106007
+2024-01-01,Other,121421
+2024-04-01,Other,138612
+2024-07-01,Other,142819
+2024-10-01,Other,146613
+2025-01-01,Other,142525
+2025-04-01,Other,142420
+2025-07-01,Other,138550
+2025-10-01,Other,140253
+2026-01-01,Other,135694
+2026-04-01,Other,129991
+2026-07-01,Other,133533
+2021-07-01,Study permits,359363
+2021-10-01,Study permits,420005
+2022-01-01,Study permits,436077
+2022-04-01,Study permits,437599
+2022-07-01,Study permits,463849
+2022-10-01,Study permits,516034
+2023-01-01,Study permits,554011
+2023-04-01,Study permits,541413
+2023-07-01,Study permits,573241
+2023-10-01,Study permits,651040
+2024-01-01,Study permits,670422
+2024-04-01,Study permits,650184
+2024-07-01,Study permits,648667
+2024-10-01,Study permits,638083
+2025-01-01,Study permits,601145
+2025-04-01,Study permits,564267
+2025-07-01,Study permits,539960
+2025-10-01,Study permits,489606
+2026-01-01,Study permits,449789
+2026-04-01,Study permits,421830
+2026-07-01,Study permits,399133
+2021-07-01,Work + study permits,162717
+2021-10-01,Work + study permits,161045
+2022-01-01,Work + study permits,159258
+2022-04-01,Work + study permits,166854
+2022-07-01,Work + study permits,183370
+2022-10-01,Work + study permits,202926
+2023-01-01,Work + study permits,217164
+2023-04-01,Work + study permits,233733
+2023-07-01,Work + study permits,268082
+2023-10-01,Work + study permits,293377
+2024-01-01,Work + study permits,317145
+2024-04-01,Work + study permits,342340
+2024-07-01,Work + study permits,368112
+2024-10-01,Work + study permits,335835
+2025-01-01,Work + study permits,323101
+2025-04-01,Work + study permits,322465
+2025-07-01,Work + study permits,301933
+2025-10-01,Work + study permits,243070
+2026-01-01,Work + study permits,220524
+2026-04-01,Work + study permits,222837
+2026-07-01,Work + study permits,220770
+2021-07-01,Work permits,586380
+2021-10-01,Work permits,612044
+2022-01-01,Work permits,564755
+2022-04-01,Work permits,569888
+2022-07-01,Work permits,657525
+2022-10-01,Work permits,774597
+2023-01-01,Work permits,826041
+2023-04-01,Work permits,878704
+2023-07-01,Work permits,1005359
+2023-10-01,Work permits,1166175
+2024-01-01,Work permits,1212407
+2024-04-01,Work permits,1290846
+2024-07-01,Work permits,1341567
+2024-10-01,Work permits,1434113
+2025-01-01,Work permits,1425929
+2025-04-01,Work permits,1417055
+2025-07-01,Work permits,1456679
+2025-10-01,Work permits,1553187
+2026-01-01,Work permits,1526989
+2026-04-01,Work permits,1486886
+2026-07-01,Work permits,1496248
