@@ -4,7 +4,7 @@
   "source_table": "Bank of Canada (prime rate; conventional 5-year mortgage rate)",
   "frequency": "weekly",
   "unit": "%",
-  "retrieved_at": "2026-10-29T14:15:51.911208+00:00",
+  "retrieved_at": "2026-10-30T14:14:50.863037+00:00",
   "latest_observation_date": "2026-10-28",
   "next_release_date": null,
   "transformations": [
