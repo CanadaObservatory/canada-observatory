@@ -4,7 +4,7 @@
   "source_table": "OECD Household Dashboard",
   "frequency": "annual",
   "unit": "index (real, per capita)",
-  "retrieved_at": "2026-11-02T14:15:58.152816+00:00",
+  "retrieved_at": "2026-11-03T14:13:59.886474+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
