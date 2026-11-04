@@ -329,9 +329,9 @@ FIN,2019,9.223,Finland
 FIN,2020,9.7,Finland
 FIN,2021,9.91,Finland
 FIN,2022,9.742,Finland
-FIN,2023,10.502,Finland
-FIN,2024,10.693,Finland
-FIN,2025,10.59,Finland
+FIN,2023,10.494,Finland
+FIN,2024,10.638,Finland
+FIN,2025,10.522,Finland
 FRA,1970,5.242,France
 FRA,1975,6.217,France
 FRA,1980,6.825,France
@@ -367,11 +367,11 @@ FRA,2017,11.245,France
 FRA,2018,11.11,France
 FRA,2019,10.984,France
 FRA,2020,11.916,France
-FRA,2021,12.08,France
+FRA,2021,12.079,France
 FRA,2022,11.698,France
-FRA,2023,11.327,France
+FRA,2023,11.326,France
 FRA,2024,11.326,France
-FRA,2025,11.375,France
+FRA,2025,11.482,France
 GBR,1970,3.971,United Kingdom
 GBR,1971,4.017,United Kingdom
 GBR,1972,4.088,United Kingdom
@@ -475,10 +475,10 @@ ISR,2018,7.252,Israel
 ISR,2019,7.233,Israel
 ISR,2020,7.745,Israel
 ISR,2021,7.842,Israel
-ISR,2022,7.12,Israel
-ISR,2023,7.081,Israel
-ISR,2024,7.089,Israel
-ISR,2025,7.023,Israel
+ISR,2022,7.335,Israel
+ISR,2023,7.022,Israel
+ISR,2024,6.761,Israel
+ISR,2025,6.718,Israel
 ITA,1988,6.633,Italy
 ITA,1989,6.619,Italy
 ITA,1990,6.976,Italy
@@ -571,8 +571,8 @@ JPN,2020,11.157,Japan
 JPN,2021,11.708,Japan
 JPN,2022,11.691,Japan
 JPN,2023,10.754,Japan
-JPN,2024,10.3,Japan
-JPN,2025,10.095,Japan
+JPN,2024,10.447,Japan
+JPN,2025,10.256,Japan
 KOR,1970,2.605,South Korea
 KOR,1971,2.261,South Korea
 KOR,1972,2.056,South Korea
@@ -627,8 +627,8 @@ KOR,2020,8.025,South Korea
 KOR,2021,8.327,South Korea
 KOR,2022,8.843,South Korea
 KOR,2023,8.445,South Korea
-KOR,2024,8.462,South Korea
-KOR,2025,8.448,South Korea
+KOR,2024,8.473,South Korea
+KOR,2025,8.459,South Korea
 NLD,1972,5.577,Netherlands
 NLD,1973,5.617,Netherlands
 NLD,1974,5.812,Netherlands
@@ -794,7 +794,7 @@ NZL,2021,9.56,New Zealand
 NZL,2022,10.559,New Zealand
 NZL,2023,10.083,New Zealand
 NZL,2024,10.013,New Zealand
-NZL,2025,9.786,New Zealand
+NZL,2025,9.778,New Zealand
 SWE,1970,5.436,Sweden
 SWE,1971,5.869,Sweden
 SWE,1972,5.97,Sweden
