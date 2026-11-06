@@ -4,9 +4,9 @@
   "source_table": "Statistics Canada 14-10-0459-01 (Labour Force Survey)",
   "frequency": "monthly",
   "unit": "unemployment rate (%), 3-month moving average, SA",
-  "retrieved_at": "2026-11-05T14:13:13.058949+00:00",
+  "retrieved_at": "2026-11-06T14:14:31.571118+00:00",
   "latest_observation_date": null,
-  "next_release_date": "2026-11-06",
+  "next_release_date": "2026-12-04",
   "transformations": [
     "LFS unemployment rate by CMA, latest 3-month moving average; CMA code parsed from DGUID 2021S0503<cmauid>"
   ],
