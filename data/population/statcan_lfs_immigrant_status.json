@@ -4,7 +4,7 @@
   "source_table": "14-10-0471-01 (Labour Force Survey), via WDS coordinates",
   "frequency": "monthly",
   "unit": "thousands of persons aged 15 and over (*_share: % of that population); three-month moving average, unadjusted",
-  "retrieved_at": "2026-11-06T14:11:23.753742+00:00",
+  "retrieved_at": "2026-11-07T14:09:10.829437+00:00",
   "latest_observation_date": "2026-10-01",
   "next_release_date": "2026-12-04",
   "transformations": [

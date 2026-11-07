@@ -1,133 +1,133 @@
 dept_code,department,value
-FIN,Department of Finance Canada,143259846685.69
-HRSD,Employment and Social Development Canada,101696313526.39
-ND,National Defence,34249255031.46
-INDSC,Department of Indigenous Services,26533137650.58
-CCRA,Canada Revenue Agency,22665023154.9
-INAC,Crown-Indigenous Relations and Northern Affairs Canada,14258519125.25
-TBC,Treasury Board of Canada Secretariat,12010326160.949999
-GSC,Public Services and Procurement Canada,9728151281.94
-EA,Global Affairs Canada,9103813818.59
-H,Health Canada,9000846741.79
-RCMP,Royal Canadian Mounted Police,8071355501.7
-OICC,"Housing, Infrastructure and Communities Canada",7968878252.84
-VAC,Veterans Affairs Canada,7630043185.280001
-CI,"Immigration, Refugees and Citizenship Canada",7129243939.87
-CMHC,Canada Mortgage and Housing Corporation,5443589624.490001
-FO,Fisheries and Oceans Canada,5261641042.46
-ISC,"Innovation, Science and Economic Development Canada",5200262852.92
-NR,Natural Resources Canada,4441409799.03
-AGR,Agriculture and Agri-Food Canada,4081940318.35
-CSC,Correctional Service Canada,3740032172.65
-TC,Transport Canada,3723860926.24
-SHARE,Shared Services Canada,3454815878.94
-CBSA,Canada Border Services Agency,3046633158.4
-EC,Environment and Climate Change Canada,3043816392.38
-CH,Canadian Heritage,2151397461.76
-JUS,Department of Justice Canada,1833611651.46
-NRC,National Research Council Canada,1708014070.14
-PHAC,Public Health Agency of Canada,1535911948.75
-NSERC,Natural Sciences and Engineering Research Council of Canada,1468578249.07
-AECL,Atomic Energy of Canada Limited,1433600000.0
-CBC,Canadian Broadcasting Corporation,1425237411.0
-CIHR,Canadian Institutes of Health Research,1424372235.29
-PCA,Parks Canada,1368745848.49
-PSEP,Public Safety Canada,1343570615.2099998
-SSHRC,Social Sciences and Humanities Research Council of Canada,1297267957.63
-CSEC,Communications Security Establishment Canada,1108805509.63
-CATSA,Canadian Air Transport Security Authority,1079165190.0
-CFIA,Canadian Food Inspection Agency,1039748969.7099999
-WDBA,Windsor-Detroit Bridge Authority,944189291.0
-VIA,VIA Rail Canada Inc.,878574403.27
-SC,Statistics Canada,862680129.72
-CSIS,Canadian Security Intelligence Service,813017414.3799999
-FJA,Office of the Commissioner for Federal Judicial Affairs Canada,804198460.29
-HC,House of Commons,680797301.44
-CSA,Canadian Space Agency,634726540.65
-EDC,Export Development Canada,583163743.08
-ACOA,Atlantic Canada Opportunities Agency,400468299.02
-SWC,Women and Gender Equality Canada,368962159.46
-WDO,Prairies Economic Development Canada,364550124.23
-CC,Canada Council for the Arts,364283160.0
-IRB,Immigration and Refugee Board of Canada,352875030.64
-FORDQ,Canada Economic Development for Quebec Regions,337630440.09000003
-CEO,Office of the Chief Electoral Officer,313279692.06
-OSFI,Office of the Superintendent of Financial Institutions Canada,312927228.64
-ODPP,Public Prosecution Service of Canada,269304511.55
-PCO,Privy Council Office,260052619.88
-FEDSO,Federal Economic Development Agency for Southern Ontario,258595785.37
-LAC,Library and Archives Canada,213533453.23
-AECB,Canadian Nuclear Safety Commission,202442087.6
-CNMI,Marine Atlantic Inc.,194973753.0
-JCCB,The Jacques-Cartier and Champlain Bridges Inc.,189641989.81
-IDRC,International Development Research Centre,160270169.0
-CFDC,Telefilm Canada,158302331.0
-NCC,National Capital Commission,150820480.0
-PCAN,Pacific Economic Development Agency of Canada,136548632.39000002
-CAS,Courts Administration Service,135721306.78
-OAG,Office of the Auditor General of Canada,133070059.94999999
-NEB,Canada Energy Regulator,130962833.38000001
-SEN,Senate,129939835.64
-ATSSC,Administrative Tribunals Support Service of Canada,117712809.14
-TOUR,Destination Canada,115967712.0
-CRTC,Canadian Radio-television and Telecommunications Commission,109760883.97999999
-PPS,Parliamentary Protective Service,109413767.86
-PSC,Public Service Commission of Canada,108561296.74
-CEAA,Impact Assessment Agency of Canada,104875758.98
-FTRAC,Financial Transactions and Reports Analysis Centre of Canada,101439027.47
-CCMD,Canada School of Public Service,98781329.85000001
-NFB,National Film Board,86249818.61
-CMC,Canadian Museum of History,83226822.0
-CNEDA,Canadian Northern Economic Development Agency,80976370.91
-NPB,Parole Board of Canada,77047844.74000001
-CGC,Canadian Grain Commission,76483727.62
-HFR,VIA HFR - VIA TGF Inc.,69825000.0
-FEDNO,Federal Economic Development Agency for Northern Ontario,64063130.49
-LP,Library of Parliament,62940731.04
-NAC,National Arts Centre Corporation,59524537.0
-CTA,Canadian Transportation Agency,58705512.61000001
-FCAC,Financial Consumer Agency of Canada,55267544.35
-IPC,Offices of the Information and Privacy Commissioners of Canada,55207186.66
-SCC,Registrar of the Supreme Court of Canada,51321993.43
-NGC,National Gallery of Canada,50020493.0
-CHRC,Canadian Human Rights Commission,43549113.699999996
-WATER,Canada Water Agency,43218773.019999996
-CTAIB,Transportation Safety Board of Canada,42977084.61
-NMST,National Museum of Science and Technology,38440940.0
-CPCC,Polar Knowledge Canada,36467311.29
-CMN,Canadian Museum of Nature,36378308.0
-INVIC,Invest in Canada Hub,32743553.91
-GG,Office of the Secretary to the Governor General,29630608.610000003
-CMHR,Canadian Museum for Human Rights,28589790.0
-OCOL,Office of the Commissioner of Official Languages,26148094.68
-SCA,Standards Council of Canada,25591119.0
-CPC,Canada Post,22210000.0
-CASDO,Accessibility Standards Canada,21379094.46
-VRAB,Veterans Review and Appeal Board,21260606.21
-NBC,The National Battlefields Commission,18928379.740000002
-SIRC,National Security and Intelligence Review Agency Secretariat,18839499.25
-FBCL,Federal Bridge Corporation,17863915.09
-PCC,Civilian Review and Complaints Commission for the RCMP,16206049.4
-CCOHS,Canadian Centre for Occupational Health and Safety,14879172.29
-CCC,Canadian Commercial Corporation,13792138.0
-PMPRB,Patented Medicine Prices Review Board Canada,13687100.21
-CRRF,Canadian Race Relations Foundation,12092410.0
-CMI,Canadian Museum of Immigration at Pier 21,10024370.0
-IJC,International Joint Commission (Canadian Section),8874903.69
-OEC,Office of the Conflict of Interest and Ethics Commissioner,8532828.83
-CFGB,Military Grievances External Review Committee,8403193.22
-CICS,Canadian Intergovernmental Conference Secretariat,8124909.149999999
-OCI,The Correctional Investigator Canada,6919488.789999999
-OPSIC,Office of the Public Sector Integrity Commissioner of Canada,6764762.94
-ERC,RCMP External Review Committee,6688498.78
-PBO,Office of the Parliamentary Budget Officer,6650298.11
-ORL,Office of the Commissioner of Lobbying of Canada,6090123.949999999
-MPCC,Military Police Complaints Commission of Canada,5776667.82
-CDC,Canadian Dairy Commission,5148853.0
-CB,Copyright Board Canada,5073306.11
-LCC,Law Commission of Canada,4040229.36
-NSICP,Secretariat of the National Security and Intelligence Committee of Parliamentarians,3093353.72
-OCSEC,Office of the Intelligence Commissioner,2059410.7500000002
-OSEO,Senate Ethics Officer,1104690.1199999999
-LDC,Leaders’ Debates Commission,669229.32
-NPA,Northern Pipeline Agency Canada,400246.13999999996
+FIN,Department of Finance Canada,147709401796.07
+HRSD,Employment and Social Development Canada,107019507182.3
+ND,National Defence,48234337582.420006
+INDSC,Department of Indigenous Services,25470380690.039997
+H,Health Canada,11724545830.900002
+GSC,Public Services and Procurement Canada,10379299123.880001
+CCRA,Canada Revenue Agency,10352719226.240004
+EA,Global Affairs Canada,9440056768.029999
+INAC,Crown-Indigenous Relations and Northern Affairs Canada,9218597317.56
+RCMP,Royal Canadian Mounted Police,8929459675.14
+OICC,"Housing, Infrastructure and Communities Canada",8780655233.57
+VAC,Veterans Affairs Canada,7908045146.54
+CI,"Immigration, Refugees and Citizenship Canada",5912370539.34
+TBC,Treasury Board of Canada Secretariat,5830525721.910001
+CMHC,Canada Mortgage and Housing Corporation,5409752255.14
+ISC,"Innovation, Science and Economic Development Canada",4729203436.64
+NR,Natural Resources Canada,4675543994.610001
+FO,Fisheries and Oceans Canada,3975152695.15
+AGR,Agriculture and Agri-Food Canada,3943410017.1200004
+CSC,Correctional Service Canada,3767342638.89
+SHARE,Shared Services Canada,3605865906.85
+EC,Environment and Climate Change Canada,3107224348.5899997
+CBSA,Canada Border Services Agency,2939115807.5099998
+TC,Transport Canada,2484882934.36
+CH,Canadian Heritage,2229253967.58
+NRC,National Research Council Canada,1985394448.62
+CSEC,Communications Security Establishment Canada,1746441395.4299998
+JUS,Department of Justice Canada,1743940663.54
+CBC,Canadian Broadcasting Corporation,1575252311.0
+PHAC,Public Health Agency of Canada,1562339325.9599998
+AECL,Atomic Energy of Canada Limited,1526906941.0
+NSERC,Natural Sciences and Engineering Research Council of Canada,1505256557.64
+CPC,Canada Post,1391210000.0
+CIHR,Canadian Institutes of Health Research,1373263328.0
+PSEP,Public Safety Canada,1368978905.2399998
+SSHRC,Social Sciences and Humanities Research Council of Canada,1327899605.8500001
+PCA,Parks Canada,1296978727.28
+CSA,Canadian Space Agency,1159769814.78
+CATSA,Canadian Air Transport Security Authority,1159493128.0
+CFIA,Canadian Food Inspection Agency,1000878416.99
+CSIS,Canadian Security Intelligence Service,965193692.01
+SC,Statistics Canada,922859165.55
+FJA,Office of the Commissioner for Federal Judicial Affairs Canada,840719325.83
+CEO,Office of the Chief Electoral Officer,775580064.6800001
+VIA,VIA Rail Canada Inc.,727620341.94
+HC,House of Commons,700701348.01
+EDC,Export Development Canada,464777027.82000005
+WDO,Prairies Economic Development Canada,420388488.52
+FORDQ,Canada Economic Development for Quebec Regions,419706691.8
+ACOA,Atlantic Canada Opportunities Agency,418595963.82
+FEDSO,Federal Economic Development Agency for Southern Ontario,400728652.85999995
+SWC,Women and Gender Equality Canada,397828149.71999997
+CC,Canada Council for the Arts,360320906.0
+OSFI,Office of the Superintendent of Financial Institutions Canada,340797971.12
+IRB,Immigration and Refugee Board of Canada,332332205.40000004
+JCCB,The Jacques-Cartier and Champlain Bridges Inc.,290240853.6
+PCO,Privy Council Office,253927709.53
+ODPP,Public Prosecution Service of Canada,246332513.12
+CNMI,Marine Atlantic Inc.,216640423.0
+PCAN,Pacific Economic Development Agency of Canada,206484505.26
+NCC,National Capital Commission,200826096.0
+AECB,Canadian Nuclear Safety Commission,196798708.41
+LAC,Library and Archives Canada,196089016.89000002
+HFR,VIA HFR - VIA TGF Inc.,176148000.0
+IDRC,International Development Research Centre,167368400.0
+WDBA,Windsor-Detroit Bridge Authority,165260327.0
+CFDC,Telefilm Canada,165063291.0
+CAS,Courts Administration Service,142699275.78
+SEN,Senate,132572618.9
+OAG,Office of the Auditor General of Canada,130681956.17
+TOUR,Destination Canada,125035568.0
+NEB,Canada Energy Regulator,117770748.71
+ATSSC,Administrative Tribunals Support Service of Canada,114069338.93
+FTRAC,Financial Transactions and Reports Analysis Centre of Canada,112977516.68
+CRTC,Canadian Radio-television and Telecommunications Commission,112141244.3
+CEAA,Impact Assessment Agency of Canada,110111110.24
+PSC,Public Service Commission of Canada,109478537.6
+CCMD,Canada School of Public Service,107717877.55
+PPS,Parliamentary Protective Service,105888201.65
+CNEDA,Canadian Northern Economic Development Agency,105792272.67999999
+FEDNO,Federal Economic Development Agency for Northern Ontario,99717000.04
+CMC,Canadian Museum of History,82325445.0
+CGC,Canadian Grain Commission,81712685.56
+WATER,Canada Water Agency,81508241.75
+NFB,National Film Board,80916180.72
+NPB,Parole Board of Canada,71216369.7
+LP,Library of Parliament,65543560.470000006
+FCAC,Financial Consumer Agency of Canada,60659201.589999996
+NAC,National Arts Centre Corporation,57781299.0
+CTA,Canadian Transportation Agency,57522782.059999995
+IPC,Offices of the Information and Privacy Commissioners of Canada,54647135.47
+SCC,Registrar of the Supreme Court of Canada,50835842.309999995
+NGC,National Gallery of Canada,50615797.0
+CHRC,Canadian Human Rights Commission,43187395.43
+CTAIB,Transportation Safety Board of Canada,41911459.09
+NMST,National Museum of Science and Technology,41249594.0
+CPCC,Polar Knowledge Canada,36255403.12
+CMN,Canadian Museum of Nature,35249496.0
+INVIC,Invest in Canada Hub,31663324.310000002
+CMHR,Canadian Museum for Human Rights,28762406.0
+OCOL,Office of the Commissioner of Official Languages,27109622.78
+SCA,Standards Council of Canada,26667552.0
+GG,Office of the Secretary to the Governor General,26201168.07
+NBC,The National Battlefields Commission,22485051.16
+VRAB,Veterans Review and Appeal Board,22390217.98
+CASDO,Accessibility Standards Canada,21310500.44
+SIRC,National Security and Intelligence Review Agency Secretariat,18205793.93
+PCC,Civilian Review and Complaints Commission for the RCMP,15613191.079999998
+CCOHS,Canadian Centre for Occupational Health and Safety,15388066.29
+CCC,Canadian Commercial Corporation,13796022.0
+PMPRB,Patented Medicine Prices Review Board Canada,13334110.65
+CRRF,Canadian Race Relations Foundation,11990800.0
+CMI,Canadian Museum of Immigration at Pier 21,9923571.0
+OEC,Office of the Conflict of Interest and Ethics Commissioner,8944491.040000001
+IJC,International Joint Commission (Canadian Section),8809291.7
+CFGB,Military Grievances External Review Committee,8542656.49
+CICS,Canadian Intergovernmental Conference Secretariat,7483690.6899999995
+OPSIC,Office of the Public Sector Integrity Commissioner of Canada,7379727.89
+OCI,The Correctional Investigator Canada,7376171.3100000005
+PBO,Office of the Parliamentary Budget Officer,7232373.43
+MPCC,Military Police Complaints Commission of Canada,6225857.170000001
+ORL,Office of the Commissioner of Lobbying of Canada,6138988.41
+ERC,RCMP External Review Committee,5420967.34
+CDC,Canadian Dairy Commission,5205726.0
+CB,Copyright Board Canada,4486190.27
+LCC,Law Commission of Canada,3628253.19
+NSICP,Secretariat of the National Security and Intelligence Committee of Parliamentarians,3329845.55
+OCSEC,Office of the Intelligence Commissioner,2285634.25
+LDC,Leaders’ Debates Commission,2113250.69
+OSEO,Senate Ethics Officer,1171506.04
+FBCL,Federal Bridge Corporation,942537.21
+NPA,Northern Pipeline Agency Canada,378379.89
