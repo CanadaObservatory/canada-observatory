@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 14-10-0459-01 (Labour Force Survey)",
   "frequency": "monthly",
   "unit": "unemployment rate (%), 3-month moving average, SA",
-  "retrieved_at": "2026-11-07T14:10:21.669452+00:00",
+  "retrieved_at": "2026-11-08T14:10:55.746591+00:00",
   "latest_observation_date": null,
   "next_release_date": "2026-12-04",
   "transformations": [
