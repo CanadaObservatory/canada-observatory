@@ -4,7 +4,7 @@
   "source_table": "SP.POP.TOTL",
   "frequency": "annual",
   "unit": "people",
-  "retrieved_at": "2026-11-08T14:09:30.718660+00:00",
+  "retrieved_at": "2026-11-09T14:12:35.308223+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
