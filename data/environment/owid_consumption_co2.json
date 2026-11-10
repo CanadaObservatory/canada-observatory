@@ -4,12 +4,12 @@
   "source_table": "owid-co2-data",
   "frequency": "annual",
   "unit": "tonnes CO2 per capita (consumption-based)",
-  "retrieved_at": "2026-11-09T14:16:59.531767+00:00",
-  "latest_observation_date": "2023",
+  "retrieved_at": "2026-11-10T14:15:16.755290+00:00",
+  "latest_observation_date": "2024",
   "next_release_date": null,
   "transformations": [
     "filtered to 17 OECD economies, consumption_co2_per_capita"
   ],
   "notes": null,
-  "row_count": 565
+  "row_count": 582
 }
