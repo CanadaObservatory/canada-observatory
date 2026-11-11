@@ -4,7 +4,7 @@
   "source_table": "10-10-0009-01 (Foreign exchange rates in Canadian dollars, Bank of Canada, monthly; archived, ends April 2017)",
   "frequency": "monthly",
   "unit": "Canadian dollars per unit of foreign currency (monthly average of the noon spot rate)",
-  "retrieved_at": "2026-11-10T14:12:22.359062+00:00",
+  "retrieved_at": "2026-11-11T14:13:08.995724+00:00",
   "latest_observation_date": "2017-04-01",
   "next_release_date": null,
   "transformations": [

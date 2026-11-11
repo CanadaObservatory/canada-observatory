@@ -4,7 +4,7 @@
   "source_table": "Statistics Canada 12-10-0011-01",
   "frequency": "monthly",
   "unit": "$ millions (Balance of payments basis, seasonally adjusted)",
-  "retrieved_at": "2026-11-10T14:11:38.961874+00:00",
+  "retrieved_at": "2026-11-11T14:12:16.651891+00:00",
   "latest_observation_date": "2026-09-01",
   "next_release_date": null,
   "transformations": [
