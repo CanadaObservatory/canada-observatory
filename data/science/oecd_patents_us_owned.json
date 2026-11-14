@@ -4,7 +4,7 @@
   "source_table": "OECD, Foreign ownership of domestic inventions (DSD_PATENTS)",
   "frequency": "annual",
   "unit": "% of domestically-invented patents",
-  "retrieved_at": "2026-11-13T14:22:56.582230+00:00",
+  "retrieved_at": "2026-11-14T14:22:41.051615+00:00",
   "latest_observation_date": "2022",
   "next_release_date": null,
   "transformations": [
