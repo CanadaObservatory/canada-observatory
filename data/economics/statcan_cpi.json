@@ -4,13 +4,13 @@
   "source_table": "18-10-0004-01",
   "frequency": "monthly",
   "unit": "index (2002=100)",
-  "retrieved_at": "2026-11-16T14:27:42.654202+00:00",
-  "latest_observation_date": "2026-09-01",
+  "retrieved_at": "2026-11-17T14:12:19.455041+00:00",
+  "latest_observation_date": "2026-10-01",
   "next_release_date": "2026-12-14",
   "transformations": [
     "filtered to All-items CPI, Canada only",
     "computed year-over-year inflation rate (12-month pct_change)"
   ],
   "notes": null,
-  "row_count": 1353
+  "row_count": 1354
 }
