@@ -4,7 +4,7 @@
   "source_table": "World Bank / WHO Global Health Observatory",
   "frequency": "annual",
   "unit": "litres per capita",
-  "retrieved_at": "2026-11-16T14:35:55.569019+00:00",
+  "retrieved_at": "2026-11-18T14:17:24.317495+00:00",
   "latest_observation_date": "2020",
   "next_release_date": null,
   "transformations": [
