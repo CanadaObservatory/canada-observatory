@@ -4,7 +4,7 @@
   "source_table": "14-10-0287-01 (Labour Force Survey), via WDS vectors",
   "frequency": "monthly",
   "unit": "rates in % (unemployment: of the labour force; participation and employment: of the population 15+); employment in thousands; seasonally adjusted",
-  "retrieved_at": "2026-11-19T14:17:34.659565+00:00",
+  "retrieved_at": "2026-11-20T14:12:43.345414+00:00",
   "latest_observation_date": "2026-10-01",
   "next_release_date": "2026-12-04",
   "transformations": [

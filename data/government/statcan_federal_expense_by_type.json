@@ -4,12 +4,12 @@
   "source_table": "Statistics Canada 10-10-0016-01",
   "frequency": "annual",
   "unit": "$ millions",
-  "retrieved_at": "2026-11-19T14:20:30.860361+00:00",
-  "latest_observation_date": "2024",
+  "retrieved_at": "2026-11-20T14:14:09.187018+00:00",
+  "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
     "Federal government, transactions/flows, expense by economic type"
   ],
   "notes": null,
-  "row_count": 170
+  "row_count": 180
 }
