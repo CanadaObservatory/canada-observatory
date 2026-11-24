@@ -4,7 +4,7 @@
   "source_table": "OECD Health Expenditure (SHA)",
   "frequency": "annual",
   "unit": "% of GDP",
-  "retrieved_at": "2026-11-23T14:18:41.584345+00:00",
+  "retrieved_at": "2026-11-24T14:15:03.146632+00:00",
   "latest_observation_date": "2025",
   "next_release_date": null,
   "transformations": [
