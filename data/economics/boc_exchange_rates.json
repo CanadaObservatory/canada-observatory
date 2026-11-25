@@ -4,12 +4,12 @@
   "source_table": "Bank of Canada (daily average exchange rates)",
   "frequency": "daily",
   "unit": "CAD per unit",
-  "retrieved_at": "2026-11-24T14:12:59.191929+00:00",
-  "latest_observation_date": "2026-11-23",
+  "retrieved_at": "2026-11-25T14:14:27.383448+00:00",
+  "latest_observation_date": "2026-11-24",
   "next_release_date": null,
   "transformations": [
     "BoC Valet series FXUSDCAD, FXEURCAD, FXJPYCAD -> wide CSV"
   ],
   "notes": null,
-  "row_count": 2467
+  "row_count": 2468
 }
